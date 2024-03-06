@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2017">
+  <heading>2017 Resolutions</heading>
+  <subheading>Adopted Resolutions</subheading>
+  <xi:include href="./KL-CY-2017-035.xml"/>
+  <xi:include href="./KL-CY-2017-034.xml"/>
+  <xi:include href="./KL-CY-2017-033.xml"/>
+  <xi:include href="./KL-CY-2017-032.xml"/>
+  <xi:include href="./KL-CY-2017-031.xml"/>
+  <xi:include href="./KL-CY-2017-030.xml"/>
+  <xi:include href="./KL-CY-2017-029.xml"/>
+  <xi:include href="./KL-CY-2017-028.xml"/>
+  <xi:include href="./KL-CY-2017-027.xml"/>
+  <xi:include href="./KL-CY-2017-026.xml"/>
+  <xi:include href="./KL-CY-2017-025.xml"/>
+  <xi:include href="./KL-CY-2017-024.xml"/>
+  <xi:include href="./KL-CY-2017-023.xml"/>
+  <xi:include href="./KL-CY-2017-022.xml"/>
+  <xi:include href="./KL-CY-2017-021.xml"/>
+  <xi:include href="./KL-CY-2017-020.xml"/>
+  <xi:include href="./KL-CY-2017-019.xml"/>
+  <xi:include href="./KL-CY-2017-018.xml"/>
+  <xi:include href="./KL-CY-2017-017.xml"/>
+  <xi:include href="./KL-CY-2017-016.xml"/>
+  <xi:include href="./KL-CY-2017-015.xml"/>
+  <xi:include href="./KL-CY-2017-014.xml"/>
+  <xi:include href="./KL-CY-2017-011.xml"/>
+  <xi:include href="./KL-CY-2017-010.xml"/>
+  <xi:include href="./KL-CY-2017-009.xml"/>
+  <xi:include href="./KL-CY-2017-008.xml"/>
+  <xi:include href="./KL-CY-2017-007.xml"/>
+  <xi:include href="./KL-CY-2017-005.xml"/>
+  <xi:include href="./KL-CY-2017-004.xml"/>
+  <xi:include href="./KL-CY-2017-003.xml"/>
+  <xi:include href="./KL-CY-2017-002.xml"/>
+  <xi:include href="./KL-CY-2017-001.xml"/>
+</collection>
