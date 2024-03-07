@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2020">
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2020">
   <heading>2020 Resolutions</heading>
-  <subheading>Adopted Resolutions</subheading>
   <xi:include href="./KL-CY-2020-011.xml"/>
+  <xi:include href="./KL-CY-2020-010.xml"/>
+  <xi:include href="./KL-CY-2020-009.xml"/>
+  <xi:include href="./KL-CY-2020-008.xml"/>
   <xi:include href="./KL-CY-2020-007.xml"/>
   <xi:include href="./KL-CY-2020-006.xml"/>
   <xi:include href="./KL-CY-2020-004.xml"/>
@@ -10,8 +12,4 @@
   <xi:include href="./KL-CY-2020-003(A).xml"/>
   <xi:include href="./KL-CY-2020-002.xml"/>
   <xi:include href="./KL-CY-2020-001.xml"/>
-  <subheading>Vetoed Resolutions</subheading>
-  <xi:include href="./KL-CY-2020-010.xml"/>
-  <xi:include href="./KL-CY-2020-009.xml"/>
-  <xi:include href="./KL-CY-2020-008.xml"/>
 </collection>

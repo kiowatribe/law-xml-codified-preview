@@ -18,12 +18,15 @@
         <repository name="kiowatribe/law-xml" commit="d88f71fdd166daec4648ec131e8e304a770a5bab"/>
       </repositories>
       <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-03-06</build-date>
-      <codified-date>2021-11-13</codified-date>
+      <build-date>2024-03-07</build-date>
+      <codified-date>2024-03-01</codified-date>
     </build>
   </meta>
   <collection name="us/nsn/kiowa/council/resolutions">
     <heading>Legislative Resolutions/Bills</heading>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2024/index.xml"/>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2023/index.xml"/>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2019/index.xml"/>
