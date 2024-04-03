@@ -15,11 +15,11 @@
     <history-start>2023-12-12</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="kiowatribe/law-xml" commit="d88f71fdd166daec4648ec131e8e304a770a5bab"/>
+        <repository name="kiowatribe/law-xml" commit="121993003bd2084a26305d63a82232f047a50139"/>
       </repositories>
-      <platform version="2.14.0" reproducible="false"/>
-      <build-date>2024-03-07</build-date>
-      <codified-date>2024-03-01</codified-date>
+      <platform version="2.13.5" reproducible="false"/>
+      <build-date>2024-04-03</build-date>
+      <codified-date>2024-03-27</codified-date>
     </build>
   </meta>
   <collection name="us/nsn/kiowa/council/resolutions">
