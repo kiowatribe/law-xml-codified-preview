@@ -1,17 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-014">
-  <num>KL-CY-2023-014</num>
-  <heading>Kiowa Tribe Sponsorship Act of 2023</heading>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-013">
+  <num>KL-CY-2024-013</num>
+  <heading>1st Amendment to The Kiowa Tribe Sponsorship Act of 2024.</heading>
   <meta>
-    <effective>2023-09-19</effective>
+    <effective>2024-08-20</effective>
     <history>
-      <adopted>2023-09-09</adopted>
+      <adopted>2024-08-10</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/KL-CY-2023-014.pdf">Kiowa Tribe Res. No. KL-CY-2023-014</citation>
+      <citation type="res" url="./adopted/KL-CY-2024-013.pdf">Kiowa Tribe Res. No. KL-CY-2024-013</citation>
     </citations>
   </meta>
-  <text>At a duly called session of the Legislature of the Kiowa Tribe held this 09th day of September, 2023, the following resolution and law were adopted:</text>
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -43,25 +42,25 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
-      <text>: The Legislature hereby enacts the attached "Kiowa Tribe Sponsorship Act of 2023".</text>
+      <text>: The Legislature hereby enacts the attached "Kiowa Tribe Sponsorship Act of 2024".</text>
     </recital>
   </recitals>
   <procedural-data>
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing resolution KL-CY-2023-014 was duly voted upon by the Legislature on September 09, 2023, at a Legislative LXXVII (77) with a vote of (6) in favor and (1) opposed, (0) abstain, and (0) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing resolution KL-CY-2024-013 was duly voted upon in a Legislative Regular Session LXXXVIII-(88), by the Legislature on August 10, 2024, at a with a vote of (6) in favor and (0) opposed, (0) abstain, and (1) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
     <text>
-      <strong>Anita Johnson</strong>
+      <strong>Michael Primus</strong>
     </text>
     <text>
-      <strong>Secretary of the Legislature</strong>
+      <strong>Speaker of the Legislature</strong>
     </text>
     <text>
-      <strong>LEGISLATURE-RESOLUTION NO. KL-CY-2023-014:</strong>
+      <strong>LEGISLATURE - RESOLUTION NO. KL-CY-2024-013:</strong>
     </text>
-    <text><strong>SPONSOR:</strong> Warren Queton, District 7 Legislator</text>
-    <text><strong>CO-SPONSOR(S):</strong> Alana Quetone, District 4 Legislator</text>
+    <text><strong>SPONSOR: </strong>Warren Queton, District 7 Legislator</text>
+    <text><strong>CO-SPONSOR(S): </strong>Alana Quetone, District 4 Legislator</text>
     <text>
       <table>
         <thead>
@@ -91,9 +90,9 @@
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
             <td data-text-align="center"/>
           </tr>
           <tr>
@@ -101,9 +100,9 @@
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
             <td data-text-align="center"/>
           </tr>
           <tr>
@@ -111,9 +110,9 @@
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
             <td data-text-align="center"/>
           </tr>
           <tr>
@@ -121,40 +120,40 @@
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
             <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center">X</td>
           </tr>
           <tr>
             <td data-text-align="justify">
-              <p>Anita Johnson</p>
+              <p>Tiya Rosario</p>
               <p>District #5</p>
             </td>
+            <td data-text-align="center">X</td>
             <td data-text-align="center"/>
-            <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
             <td data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
             <td data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <th>X</th>
-            <td data-text-align="justify"/>
+            <td data-text-align="center">X</td>
             <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
         </tbody>
       </table>
@@ -162,26 +161,24 @@
     <text>
       <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. <strong>KL-CY-2023-014</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>18</strong><sup><strong>th</strong></sup> day of <strong>September, 2023</strong>, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Resolution No. <strong>KL-CY-2024-013 </strong>was presented to the Chairman of the Kiowa Tribe on the <strong>14th</strong> day of <strong>August, 2024</strong>, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>______________________________								<strong>Michael Primus</strong></text>
     <text>
-      <strong>Anita Onco-Johnson</strong>
-    </text>
-    <text>
-      <strong>Secretary of the Legislature</strong>
+      <strong>Speaker of the Legislature</strong>
     </text>
     <text>
       <strong>CHAIRMAN'S ACTION:</strong>
     </text>
-    <text>[ X ] 	APPROVED</text>
-    <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
-    <text>On this <u>25</u><sup><u>th</u></sup> day of <u>September</u>, 2023.</text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this <strong>____</strong> day of <strong>_________</strong>, 2024.</text>
     <text>
-      <strong>Lawrence Spottedbird,</strong>
+      <strong>Lawrence Spottedbird</strong>
     </text>
     <text>
       <strong>Chairman of the Kiowa Tribe</strong>
     </text>
-    <text>Presented by the Vice-Chairman to the Legislature on the __________ day of _______________, 2023.</text>
+    <text>Presented by the Vice-Chairman to the Legislature on the_____ day of <strong>_______</strong>, 2024.</text>
     <text>
       <b>LEGISLATURE'S ACTION:</b>
     </text>
@@ -189,13 +186,17 @@
       <strong>Override of Chairman's veto:</strong>
     </text>
     <text>[    ] 	YES</text>
-    <text>[    ] 	NO</text>
+    <text>[    ]	NO</text>
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing resolution KL-CY-2023-XXX was duly voted upon by the Legislature on _________________, 2023, at a Legislative Order Session with a vote of ______ in favor and ______ opposed, and ______ abstaining, and ______ absent. Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>Anita Johnson</text>
-    <text>Secretary of the Legislature</text>
+    <text>The foregoing resolution KLO-CY-2024-XXX was duly voted upon by the Legislature on __________________, 2024, at a Legislative Order Session with a vote of ______ in favor and ______opposed, and _____ abstaining, and _____absent.  Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>
+      <strong>Michael Primus</strong>
+    </text>
+    <text>
+      <strong>Speaker of the Legislature</strong>
+    </text>
     <text>
       <table>
         <thead>
@@ -225,48 +226,48 @@
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td data-text-align="center"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td data-text-align="center"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td data-text-align="center"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td data-text-align="center"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">
-              <p>Anita Johnson</p>
+              <p>Tiya Rosario</p>
               <p>District #5</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
           </tr>
@@ -275,7 +276,7 @@
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
             <td data-text-align="justify"/>
@@ -285,9 +286,9 @@
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td data-text-align="center"/>
             <td data-text-align="justify"/>
-            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
             <td data-text-align="justify"/>
           </tr>
         </tbody>
@@ -298,7 +299,7 @@
     <section>
       <num>1.1</num>
       <heading>Short Title</heading>
-      <text>This enactment shall be known as the "Kiowa Tribe Sponsorship Act of 2023".</text>
+      <text>This enactment shall be known as the "1<sup>st</sup> Amendment of the Kiowa Tribe Sponsorship Act".</text>
     </section>
     <section>
       <num>1.2</num>
@@ -330,7 +331,7 @@
         </para>
         <para>
           <num>4.</num>
-          <text>Kiowa Tia-Piah Society</text>
+          <text>Kiowa Tia-Piah Society of Carnegie</text>
         </para>
         <para>
           <num>5.</num>
@@ -338,12 +339,20 @@
         </para>
         <para>
           <num>6.</num>
+          <text>Rabbit Societies</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Kiowa Tribal Princess Sorority</text>
+        </para>
+        <para>
+          <num>8.</num>
           <text>Crow/Kiowa Handgame Visitations for Oklahoma and Montana</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>Kiowa Tribe sponsorships shall be approved by the Kiowa Chairman, up to $5,000 for Kiowa Churches. The funding for annual Christmas activities shall be limited to $750.00. Additional Churches requesting sponsorship from the Kiowa Tribe shall have been founded in the Kiowa Reservation Jurisdiction and must have documentation that the founding members of the church were enrolled Kiowa citizens.</text>
+        <text>Kiowa Tribe sponsorships for Kiowa Churches shall be approved by the Kiowa Chairman, up to $5,000. The funding for annual Christmas activities shall be limited to $750.00. Additional Churches requesting sponsorship from the Kiowa Tribe shall have been founded in the Kiowa Reservation Jurisdiction and must have documentation that the founding members of the church were enrolled Kiowa citizens.</text>
         <para>
           <num>1.</num>
           <text>Botone Memorial United Methodist Church</text>
@@ -370,72 +379,116 @@
         </para>
         <para>
           <num>7.</num>
-          <text>Hobart Indian Mission, 828 S. Monroe, Hobart Oklahoma</text>
-        </para>
-        <para>
-          <num>8.</num>
           <text>Hunting Horse United Methodist Church, Lawton, OK</text>
         </para>
         <para>
-          <num>9.</num>
+          <num>8.</num>
           <text>Indian Capital Baptist Church, Anadarko, OK</text>
         </para>
         <para>
-          <num>10.</num>
+          <num>9.</num>
           <text>JJ Methvin United Methodist Church, Anadarko, OK</text>
         </para>
         <para>
-          <num>11.</num>
+          <num>10.</num>
           <text>Lil Red Church, Carnegie, OK</text>
         </para>
         <para>
-          <num>12.</num>
+          <num>11.</num>
           <text>Mt. Scott United Methodist Church, Meers/Mt. Scott, OK</text>
         </para>
         <para>
-          <num>13.</num>
+          <num>12.</num>
           <text>Kiowa Chapter of Native American Church</text>
         </para>
         <para>
-          <num>14.</num>
+          <num>13.</num>
           <text>Rainy Mountain Kiowa Indian Baptist Church, Mountain View, OK</text>
         </para>
         <para>
-          <num>15.</num>
+          <num>14.</num>
           <text>Redstone Baptist Church, Anadarko, OK</text>
         </para>
         <para>
-          <num>16.</num>
-          <text>Saddle Mountain Kiowa Indian Baptist Church</text>
-        </para>
-        <para>
-          <num>17.</num>
+          <num>15.</num>
           <text>Victory Assembly of God, Anadarko, OK</text>
         </para>
         <para>
-          <num>18.</num>
+          <num>16.</num>
           <text>Ware's Chapel United Methodist Church, Hog Creek, OK</text>
         </para>
         <para>
+          <num>17.</num>
+          <text>Fellowship of American Indian Church, Chickasha, OK</text>
+        </para>
+        <para>
+          <num>18.</num>
+          <text>Prayer House Association, Fort Cobb, OK</text>
+        </para>
+        <para>
           <num>19.</num>
-          <text>Washita Full Gospel Church, Anadarko, OK</text>
+          <text>The Impact Center, Lawton, OK</text>
         </para>
       </para>
       <para>
         <num>(d)</num>
-        <text>The Legislature determines that the following list may apply for sponsorship, if funds are available in an approved annual budget or budget modification.</text>
+        <text>The Legislature determines that the following list may apply for sponsorship under cultural organizations, if funds are available in an approved annual budget or budget modification. Each cultural organization may request up to $2,500.</text>
         <para>
           <num>1.</num>
-          <text>Kiowa Tribal Cultural Organizations	$1,000</text>
+          <text>Kiowa War Mothers Chapter 18</text>
         </para>
         <para>
           <num>2.</num>
-          <text>Other Kiowa Tribal events &amp; etc. 	$1,000</text>
+          <text>Carnegie Victory Club</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Chief Satanta Descendants</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Kiowa MMIP Chapter</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Old Chief Lonewolf Descendants</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Carnegie High School Indian Club</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Anadarko High School Indian Club</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Mountain View JOM</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>American Indian Exposition</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>Hobart Powwow</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>Kiowa Women Warriors</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>Other Kiowa Tribal events &amp; partnerships.</text>
         </para>
       </para>
       <para>
         <num>(e)</num>
-        <text>The Chairman shall setup an application process and submit to the Legislature, a quarterly report of all approved sponsorships. Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
+        <text>The Chairman shall setup an application process.  The Chairman shall submit to the Legislature, a quarterly report of all approved sponsorships.  Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Kiowa Casino sponsorships shall have an approved budget and be processed through the Executive Branch and approved by the Chairman.  The Chairman shall submit to the Legislature, a quarterly report of all approved Kiowa Casino Sponsorships.  Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
       </para>
     </section>
   </attachment>

@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-009">
+  <num>KL-CY-2024-009</num>
+  <heading>Audit Authorization, Acceptance, And Responsibility Act</heading>
+  <meta>
+    <effective>2024-07-01</effective>
+    <history>
+      <adopted>2024-06-21</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/KL-CY-2024-009.pdf">Kiowa Tribe Res. No. KL-CY-2024-009</citation>
+    </citations>
+  </meta>
+  <text>At a duly called Legislative Special Session III-(3) of the Legislature of the Kiowa Tribe held this 21st day of June, 2024, the following resolution, was adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe of Oklahoma is a federally recognized Indian Tribe with a Constitution approved by the Secretary of the Interior; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature, is vested with the authority to pass laws and resolutions pursuant to Article VI, Section 6 (a) of the Constitution of the Kiowa Tribe; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature, is authorized under the Kiowa Constitution and is empowered to promulgate and enforce codes and laws, to protect Kiowa Tribal Citizens; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> this Code shall be known as the "Audit Authorization, Acceptance, and Responsibility Act"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> this Code is enacted to conduct an annual financial audit by an independent auditor as in accordance with the Kiowa Tribe Constitution; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE BE IT RESOLVED,</conjunction>
+      <text> the Kiowa Tribe Legislature, having been delegated certain authorities under the Kiowa Constitution, the governing body of the Kiowa Tribe, does hereby enact "Audit Authorization, Acceptance, and Responsibility Act".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2024-009 was duly voted upon by the Legislature on June 21, 2024, at a Legislative Special Session III-(3), with a vote of (5) in favor and (0) opposed, (0) abstaining, and (2) absent, according to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>Anita Johnson</text>
+    <text>Secretary of the Legislature</text>
+    <text>
+      <strong>LEGISLATIVE RESOLUTION – KL-CY-2024-009</strong>
+    </text>
+    <text><strong>Sponsors:</strong> Warren Queton, District 7.</text>
+    <text>
+      <strong>Co-Sponsors:</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th data-text-align="justify">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th data-text-align="justify">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th data-text-align="justify">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th data-text-align="justify">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-text-align="justify">
+              <p>Kyle Ataddlety</p>
+              <p>District #1</p>
+            </td>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Timothy Satepauhoodle</p>
+              <p>District #3</p>
+            </td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center">
+              <p>X</p>
+              <p>Out of district</p>
+            </td>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Alana Quetone</p>
+              <p>District #4</p>
+            </td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center">X</td>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Warren Queton</p>
+              <p>District #7</p>
+            </td>
+            <td data-text-align="center">X</td>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2024-009 was presented to the Chairman of the Kiowa Tribe on the 25<sup>th</sup> day of June, 2024, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Anita Johnson</text>
+    <text>Secretary of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] APPROVED</text>
+    <text>[    ] VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ____ day of _________, 2024.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2024.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] YES</text>
+    <text>[    ] NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2024-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th data-text-align="justify">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th data-text-align="justify">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th data-text-align="justify">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th data-text-align="justify">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td data-text-align="justify">
+              <p>Kyle Ataddlety</p>
+              <p>District #1</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Timothy Satepauhoodle</p>
+              <p>District #3</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Alana Quetone</p>
+              <p>District #4</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+          <tr>
+            <td data-text-align="justify">
+              <p>Warren Queton</p>
+              <p>District #7</p>
+            </td>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2024-00X was duly voted upon by the Legislature on __________________, 2024, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>Anita Johnson</text>
+    <text>Secretary of the Legislature</text>
+  </procedural-data>
+  <attachment id="law">
+    <section>
+      <num>1.0</num>
+      <heading>Short Title.</heading>
+      <text>This enactment shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
+    </section>
+    <section>
+      <num>1.1</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of this Act is to:</text>
+      <para>
+        <num>(a)</num>
+        <text>Authorize and direct the Chairman to complete an external financial audit of the Tribe in accordance with the requirements of the Constitution; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authorize the Chairman to procure an independent licensed auditor; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Require the Chairman to provide a copy of the annual audit report to the Legislature and to direct the auditor to make an in-person presentation to the Legislature, and to assign to the Chairman the responsibility to accept or reject the annual audit prepared by the auditors; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Require the Chairman to develop and implement a plan to adequately address all audit findings identified in the annual audit.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Findings.</heading>
+      <text>The Legislature hereby finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text>the Constitution requires the Tribe to conduct an annual financial audit by an independent auditor; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the annual audit is an important indicator of the Tribe's accounting practices and financial health, and is a valuable tool to safeguard the financial assets of the Tribe; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the Chairman of the Tribe oversees and directs the Finance Department personnel, engages the independent auditor, and is vested with the executive authority and responsibility to ensure</text>
+        <text>that the annual audit is conducted and accepted by the Tribe and that a plan to address all audit findings is developed and implemented.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>At any time, the Chairman may conduct an Executive Inquiry into any tribal department, program or commission. Should be inquiry findings warrant a deeper investigation through an audit, the Chairman may initiate an internal, external, or forensic audit. The Chairman would need to work with the Kiowa Legislature to allocate funding support within the tribal budget.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>the Legislature may initiate a Legislative Inquiry through a legislative order that initiates a document request from any tribal department, program or commission. All requested information would be sent to the Kiowa Legislative Administrator and Legislative Clerk.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>following the Legislative Inquiry and document request, the Legislature may direct the Chairman to conduct an internal, external, or forensic audit if warranted by the outcome of the Legislative Inquiry findings, subject to budgetary requirements</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>If requested information is not provided in response to an information request in a legislative inquiry, or if audit findings merit, in the opinion of a majority of the legislature, the need for more information, the legislature may authorize the Speaker of the Legislature to petition the Trial Court for the issuance of a subpoena, seeking specific information or the attendance of a person to provide testimony at a Legislative Hearing.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>At any time, the Legislature through legislative order may initiate a public Legislative Hearing where tribal employees shall have the right to protest and defend the allegations against him or her, including the right to cross-examine any witnesses who testify against him or her, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Kiowa Tribe's courts; all findings and recommendations of the legislative hearing will be released as public records, with redacted information which may be protected as private under any federal or tribal law.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Contract Authorization for Independent Auditors.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chairman is hereby authorized to negotiate and execute a contract with external and independent qualified auditors to conduct and complete an annual financial audit for the Tribe in accordance with the requirements of the Constitution.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chairman shall provide a copy of the annual audit report to the Legislature prior to the Chairman's acceptance of the audit and shall direct the auditor to make an in-person presentation to the Legislature regarding the annual audit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Chairman is authorized to accept an audit on behalf of the Tribe.</text>
+      </para>
+    </section>
+  </attachment>
+</document>

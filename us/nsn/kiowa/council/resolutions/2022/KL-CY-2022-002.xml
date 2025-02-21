@@ -27,9 +27,10 @@
     </recital>
   </recitals>
   <procedural-data>
-    <heading>CERTIFICATION</heading>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
     <text>The foregoing resolution KL-CY-2022-002 was duly voted upon by the Legislature on January 08, 2022, at a Legislative Regular Session LVII (57) with a vote of (6) in favor and (0) opposed, (1) abstaining, and (0) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>_______________________________</text>
     <text>Anita Onco-Johnson</text>
     <text>Secretary of the Legislature</text>
     <text>LEGISLATURE – RESOLUTION NO. KL-CY-2022-002:</text>
@@ -40,19 +41,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -60,81 +61,82 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Marilyn Bread</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Jesse Svitak</p>
               <p>District #4</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Jacob Tsotigh</p>
               <p>District #7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
             <th>X</th>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
     </text>
-    <heading>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</heading>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
     <text>Resolution No. KL-CY-2022-xxx was presented to the Chairman of the Kiowa Tribe on the ________ day of January, 2022, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
-    <text>_________________________</text>
     <text>Anita Onco-Johnson</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -143,19 +145,21 @@
     <text>[ X ] 	APPROVED</text>
     <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
     <text>On this <u>11</u><sup><u>th</u></sup> day of <u>March</u>, 2022.</text>
-    <text>_____________________________</text>
     <text>Matthew M. Komalty,</text>
     <text>Chairman of the Kiowa Tribe</text>
     <text>Presented by the Chairman to the Legislature on the ________ day of _____________, 2022.</text>
-    <heading>LEGISLATURE'S ACTION:</heading>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
     <text>
       <strong>Override of Chairman's veto:</strong>
     </text>
     <text>[    ] 	YES</text>
     <text>[    ] 	NO</text>
-    <heading>CERTIFICATION</heading>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
     <text>The foregoing resolution KL-CY-2022-xxx was overridden with Order KLO-CY-2022-XXX and duly voted upon by the Legislature on _______________, 2022, at a Legislative Order Session with a vote of _____ in favor and ________ opposed, and _________ abstaining, ________ Absent. Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>______________________________</text>
     <text>Anita Onco-Johnson</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -163,19 +167,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -183,74 +187,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Marilyn Bread</p>
               <p>District #3</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Jesse Svitak</p>
               <p>District #4</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Jacob Tsotigh</p>
               <p>District #7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
           </tr>
         </tbody>
       </table>

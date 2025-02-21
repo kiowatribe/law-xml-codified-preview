@@ -38,9 +38,10 @@
     </recital>
   </recitals>
   <procedural-data>
-    <heading>CERTIFICATION</heading>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
     <text>The foregoing Resolution No. KL-CY-2020-0007 was duly voted upon by the Legislature on August 8th, 2020, at a Regular Monthly Session XL with a vote of 6 in favor and 0 opposed, 0 abstain, and 1 absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>____________________________</text>
     <text>Anita Onco Johnson, District V</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -54,7 +55,7 @@
       <table>
         <tbody>
           <tr>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
             <th>LEGISLATORS</th>
             <th>YES</th>
             <th>NO</th>
@@ -62,67 +63,68 @@
             <th>ABSENT</th>
           </tr>
           <tr>
-            <td>District 1</td>
-            <td>Angela McCarthy</td>
+            <td data-text-align="justify">District 1</td>
+            <td data-text-align="justify">Angela McCarthy</td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 2</td>
-            <td>Michael Primus</td>
+            <td data-text-align="justify">District 2</td>
+            <td data-text-align="justify">Michael Primus</td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 3</td>
-            <td>Marilyn Bread</td>
+            <td data-text-align="justify">District 3</td>
+            <td data-text-align="justify">Marilyn Bread</td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 4</td>
-            <td>Jessie Svitak</td>
+            <td data-text-align="justify">District 4</td>
+            <td data-text-align="justify">Jessie Svitak</td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 5</td>
-            <td>Anita Onco Johnson</td>
+            <td data-text-align="justify">District 5</td>
+            <td data-text-align="justify">Anita Onco Johnson</td>
             <th>x</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 6</td>
-            <td>Ben Wolf</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 6</td>
+            <td data-text-align="justify">Ben Wolf</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
             <th>x</th>
           </tr>
           <tr>
-            <td>District 7</td>
-            <td>Jacob Tsotigh</td>
+            <td data-text-align="justify">District 7</td>
+            <td data-text-align="justify">Jacob Tsotigh</td>
             <th>x</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
     </text>
-    <heading>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</heading>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
     <text>Resolution No. KL-CY- 2020-0007, was presented to the Chairman of the Kiowa Tribe on the ________ Day of _________, 2020 pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
-    <text>______________________________</text>
     <text>Anita Onco Johnson, District V</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -131,7 +133,6 @@
     <text>[    ] 	APPROVED</text>
     <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
     <text>On this __________ day of _______________, 2020.</text>
-    <text>_____________________________</text>
     <text>
       <strong>Matthew M. Komalty,</strong>
     </text>
@@ -139,7 +140,9 @@
       <strong>Chairman of the Kiowa Tribe</strong>
     </text>
     <text>Presented by the Chairman to the Legislature on the __________ day of _______________, 2020.</text>
-    <heading>LEGISLATURE'S ACTION:</heading>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
     <text>
       <strong>Override of Chairman's veto:</strong>
     </text>
@@ -149,7 +152,7 @@
       <table>
         <tbody>
           <tr>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
             <th>LEGISLATORS</th>
             <th>YES</th>
             <th>NO</th>
@@ -157,68 +160,69 @@
             <th>ABSENT</th>
           </tr>
           <tr>
-            <td>District 1</td>
-            <td>Angela McCarthy</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 1</td>
+            <td data-text-align="justify">Angela McCarthy</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 2</td>
-            <td>Michael Primus</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 2</td>
+            <td data-text-align="justify">Michael Primus</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 3</td>
-            <td>Marilyn Bread</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 3</td>
+            <td data-text-align="justify">Marilyn Bread</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 4</td>
-            <td>Jessie Svitak</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 4</td>
+            <td data-text-align="justify">Jessie Svitak</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 5</td>
-            <td>Anita Onco Johnson</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 5</td>
+            <td data-text-align="justify">Anita Onco Johnson</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 6</td>
-            <td>Ben Wolf</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 6</td>
+            <td data-text-align="justify">Ben Wolf</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td>District 7</td>
-            <td>Jacob Tsotigh</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify">District 7</td>
+            <td data-text-align="justify">Jacob Tsotigh</td>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
     </text>
     <text>LEGISLATURE'S ACTION AFTER TEN (10) DAYS:</text>
-    <heading>CERTIFICATION</heading>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
     <text>The foregoing Resolution No. KL-CY-2020-0007 was duly voted upon by the Legislature on August ________, 2020, at a ________________ with a vote of (_) in favor and (_) opposed, (_) abstain, and (_) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>___________________________</text>
     <text>Anita Onco Johnson, District V</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>

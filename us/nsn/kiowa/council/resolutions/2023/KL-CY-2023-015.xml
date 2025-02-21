@@ -24,10 +24,34 @@
     <recital>
       <conjunction>WHEREAS;</conjunction>
       <text> the Importance of the "Kiowa Tribe Annual Budget Transparency Act of 2023":</text>
+      <para>
+        <num>(1)</num>
+        <text>
+          <strong>
+            <em>Ensuring Accountability</em>
+          </strong>
+          <em> - The act is crucial in holding Tribal Officials accountable for the effective and efficient use of tribal funds.</em>
+        </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>
+          <strong>
+            <em>Upholding Integrity</em>
+          </strong>
+          <em> - The Kiowa Tribe is committed to maintaining a high standard of integrity when it comes to the allocation of Tribal funds.</em>
+        </text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>
+          <strong>
+            <em>Building Trust</em>
+          </strong>
+          <em> - Through a transparent annual budget appropriation process, the act promotes trust among Kiowa Citizens, ensuring that their views and interests are respected and that tribal funds are utilized responsibly.</em>
+        </text>
+      </para>
     </recital>
-    <text>1) 	<strong><em>Ensuring Accountability</em></strong><em> - The act is crucial in holding Tribal Officials accountable for the effective and efficient use of tribal funds.</em></text>
-    <text>2) 	<strong><em>Upholding Integrity</em></strong><em> - The Kiowa Tribe is committed to maintaining a high standard of integrity when it comes to the allocation of Tribal funds.</em></text>
-    <text>3) 	<strong><em>Building Trust</em></strong><em> - Through a transparent annual budget appropriation process, the act promotes trust among Kiowa Citizens, ensuring that their views and interests are respected and that tribal funds are utilized responsibly.</em></text>
     <recital>
       <conjunction>WHEREAS;</conjunction>
       <text> the Kiowa Tribe approves a yearly budget, starting each year on July 1st and concluding on June 30th. This tribal budget is voted on and supported by eligible voters of the Kiowa Tribe, in accordance with the Constitution.</text>
@@ -42,9 +66,10 @@
     </recital>
   </recitals>
   <procedural-data>
-    <heading>CERTIFICATION</heading>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
     <text>The foregoing Resolution KL-CY-2023-015 was duly voted upon by the Legislature on October 14, 2023, at a Legislative Resolution Session LXXVIII (78), with a vote of (7) in favor and (0) opposed, (0) abstaining, and (0) absent according to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>_________________________</text>
     <text>
       <strong>Anita Johnson</strong>
     </text>
@@ -61,19 +86,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -81,81 +106,82 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
     </text>
-    <heading>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</heading>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
     <text>Resolution No. <strong>KL-CY-2023-015</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>19</strong><sup><strong>th</strong></sup> day of <strong>October, 2023</strong>, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
-    <text>_________________________</text>
     <text>
       <strong>Anita Onco-Johnson</strong>
     </text>
@@ -168,7 +194,6 @@
     <text>[ X ] 	APPROVED</text>
     <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
     <text>On this <u>19</u><sup><u>th</u></sup> day of <u>October</u>, 2023.</text>
-    <text>_____________________________</text>
     <text>
       <strong>Lawrence Spottedbird,</strong>
     </text>
@@ -176,15 +201,18 @@
       <strong>Chairman of the Kiowa Tribe</strong>
     </text>
     <text>Presented by the Chairman to the Legislature on the __________ day of _______________, 2023.</text>
-    <heading>LEGISLATURE'S ACTION:</heading>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
     <text>
       <strong>Override of Chairman's veto:</strong>
     </text>
     <text>[    ] 	YES</text>
     <text>[    ] 	NO</text>
-    <heading>CERTIFICATION</heading>
+    <text>
+      <b>CERTIFICATION</b>
+    </text>
     <text>The foregoing resolution KL-CY-2023-XXX was duly voted upon by the Legislature on _________________, 2023, at a Legislative Order Session with a vote of ______ in favor and ______ opposed, and ______ abstaining, and ______ absent. Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>_______________________</text>
     <text>Anita Johnson</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -192,19 +220,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -212,74 +240,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
+            <td data-text-align="center"/>
+            <td data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
