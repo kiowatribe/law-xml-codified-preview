@@ -247,11 +247,13 @@
     <prefix>TITLE</prefix>
     <num>X</num>
     <heading>BUSINESS CODE</heading>
-    <container name="preamble">
-      <text class="center">
-        <em>(Enacted Resolution KL-CY-2023-011)</em>
+    <text>
+      <em>(Enacted Resolution KL-CY-2023-011)</em>
+    </text>
+    <container id="preamble">
+      <text>
+        <b>Preamble: Creation of Business &amp; Commerce Department</b>
       </text>
-      <text>Preamble: Creation of Business &amp; Commerce Department</text>
       <recital>
         <conjunction>WHEREAS</conjunction>
         <text> the Kiowa Tribe (the "Tribe") is organized under a constitution, duly adopted and approved by the voters of the Tribe on April 17, 2017 (the "Constitution"); and</text>
@@ -561,11 +563,71 @@
         <num>3.3.</num>
         <heading>Articles of Incorporation.</heading>
         <text>The incorporators of a corporation must file an Application and proposed Articles of Incorporation with the Director of the Commission along with any applicable filing fee, based on the schedule of fees approved by the Commission. The Articles of Incorporation must be signed by a person 18 years of age or older. The Articles shall include, at a minimum, the following:</text>
+        <container id="Article 3 Corporations - Articles of Incorporation">
+          <text class="center">ARTICLES OF INCORPORATION</text>
+          <text>I (We), the undersigned, for the purpose of forming a corporation under and pursuant to the provisions of the Kiowa Tribal Code, do hereby adopt the following Articles of Incorporation.</text>
+          <para>
+            <num>1.</num>
+            <text>The name of the corporation is: __________________.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The purposes of the corporation are as follows:</text>
+            <para>
+              <num>a.</num>
+            </para>
+            <para>
+              <num>b.</num>
+            </para>
+            <para>
+              <num>c.</num>
+            </para>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The period and duration of the corporation shall be ______________ (number of years) or (perpetual).</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>The name of the registered agent, the street address or physical location, and post office address of the registered office of the corporation within Kiowa Territory is:</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The total number of shares of stock which the corporation shall have the authority to issue shall be determined by resolution by the Board of Directors. The shares of stock may be paid for in money, property or services as prescribed by the Board of Directors.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>The amount of capital with which the corporation shall begin a business shall be ____________ ($500.00 or more).</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>The names, post office addresses, and terms of office of the first directors are as follows:</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>The names and post office addresses of the incorporators are as follows:</text>
+          </para>
+          <para>
+            <num>9.</num>
+            <text>The name, address, telephone and fax number of the Registered Agent of the Corporation is:</text>
+            <text>On behalf of the Corporation, by executing this Article of Incorporation, and submitting it to seek approval and issuance of a Certificate of Incorporation from the Kiowa Tribe, I agree that I as signatory, and that the Corporation set out in this Article of Incorporation is now and shall be forevermore subject to the Jurisdiction of the Kiowa Tribe, including the jurisdiction of any of its Courts, civil or criminal, for any and all purposes.</text>
+            <text>IN WITNESS WHEREOF, (I)(we), have hereunto set (my hand) (our hands) this _____ day of _________, 20 _____.</text>
+          </para>
+          <text>Incorporator</text>
+          <text>Incorporator</text>
+        </container>
       </para>
       <para>
         <num>3.4.</num>
         <heading>Certificate of incorporation.</heading>
         <text>Upon filing the Articles of Incorporation and payment of the filing fee, the Director of the Commission, if the Articles are in conformity with this chapter, may issue a Certificate of Incorporation. The Certificate of Incorporation shall be in the following form:</text>
+        <container id="Article 3 Corporations - Certificate of Incorporation">
+          <text class="center">CERTIFICATE OF INCORPORATION</text>
+          <text>WHEREAS, Articles of Incorporation duly signed have been filed in the Kiowa Tribe Business &amp; Commerce Department on the ______ day of ___________, 20______, for incorporation of ___________ (name of corporation); and</text>
+          <text>WHEREAS, the Articles of Incorporation are in conformity with the requirements of the Kiowa Code;</text>
+          <text>NOW, THEREFORE, I, Director of the Kiowa Tribe Business &amp; Commerce Department Commission do hereby certify that the said ________ is a legally organized and validly existing corporation under the laws of the Kiowa Tribe.</text>
+          <text>Director, Kiowa Tribe Business &amp; Commerce Department</text>
+        </container>
         <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of this chapter, but not that the corporation is in compliance with any other provision of law.</text>
       </para>
       <para>
@@ -577,6 +639,137 @@
         <num>3.6.</num>
         <heading>Bylaws.</heading>
         <text>Every entity incorporated in the Kiowa Tribe shall be governed by a set of bylaws. Every entity incorporated in the Kiowa Tribe may adopt bylaws of their own choosing by filing its bylaws with the Commission. If no bylaws are filed with the Commission the bylaws for every company shall be as follows:</text>
+        <container id="Article 3 Corporations - Bylaws">
+          <text>BYLAWS OF __________________</text>
+          <container>
+            <prefix>Article</prefix>
+            <num>I</num>
+            <heading>PRINCIPAL PLACE OF BUSINESS</heading>
+            <text>The principal place of business of the corporation shall be the address of the Registered Agent of the corporation.</text>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>II</num>
+            <heading>SHAREHOLDERS</heading>
+            <section>
+              <num>1</num>
+              <heading>Annual Meetings.</heading>
+              <text>The annual meeting of the shareholders shall be on the 15th day of the month of January each year at 10:00 a.m. at the registered office of the corporation for the purpose of electing directors and for the transaction of any business which may properly come before a meeting of the shareholders. If the annual meeting is not held at the time above designated, an alternative meeting of the shareholders shall be designated by the president of the corporation.</text>
+            </section>
+            <section>
+              <num>2</num>
+              <heading>Voting Rights.</heading>
+              <text>Each owner of a share of stock of the corporation shall be entitled at the meeting of the shareholders to one vote for each share standing in his name. A majority of the outstanding shares of the corporation represented in person shall constitute a quorum at the meeting of the shareholders and a majority of all the votes cast at any meeting of the shareholders shall be decisive of any action.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Notice of the Meeting.</heading>
+              <text>Notice stating the place, day and hour of the meeting and the purpose for which the meeting has been called shall be given to all shareholders. Written notice stating the place, day and hour of meeting shall be delivered not less than five business days prior to the date of meeting by mail to the shareholders. Notice shall be deemed delivered when deposited in the United States mail.</text>
+            </section>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>III</num>
+            <heading>BOARD OF DIRECTORS</heading>
+            <section>
+              <num>1</num>
+              <heading>Powers.</heading>
+              <text>The affairs of the corporation shall be managed by a Board of Directors.</text>
+            </section>
+            <section>
+              <num>2</num>
+              <heading>Number of Directors.</heading>
+              <text>The number of directors of a corporation shall be not less than three. Each director shall hold office until (a) the next annual meeting of the shareholders and until his successor has been duly elected and qualified or (b) until his death or (c) until he shall resign or shall have been removed from office by affirmative vote of the majority of the outstanding shareholders. A director may resign at any time by filing his written resignation with the secretary of the corporation.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Meetings.</heading>
+              <text>The annual meeting of the Board of Directors shall be held without any notice other than these bylaws immediately after and at the same place as the annual meeting of the shareholders or immediately after any adjourned session thereof.</text>
+            </section>
+            <section>
+              <num>4</num>
+              <heading>Special Meetings.</heading>
+              <text>Special meetings of the Board of Directors may be called at the request of the President or any two directors. Notice of the special meeting shall be given to all directors of the corporation personally.</text>
+            </section>
+            <section>
+              <num>5</num>
+              <heading>Quorum.</heading>
+              <text>The majority of the number of directors in section 2 shall constitute a quorum for the transaction of any business at any meeting of the Board of Directors. The act of the majority of the directors present at the meeting at which a quorum is present shall be the act of the Board of Directors.</text>
+            </section>
+            <section>
+              <num>6</num>
+              <heading>Vacancies.</heading>
+              <text>Any vacancies occurring on the Board of Directors shall be filled by affirmative vote of the remaining directors then in office, though less than a quorum of the Board of Directors.</text>
+            </section>
+            <section>
+              <num>7</num>
+              <heading>Compensation.</heading>
+              <text>The Board of Directors may establish reasonable compensation for all directors for services rendered to the corporation as directors.</text>
+            </section>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>IV</num>
+            <heading>OFFICERS</heading>
+            <section>
+              <num>1</num>
+              <heading>Number.</heading>
+              <text>The Board of Directors shall elect a President, Secretary, and a Treasurer, and such officers and agents as they may so desire. Any two offices may be held by the same person.</text>
+            </section>
+            <section>
+              <num>2</num>
+              <heading>Election.</heading>
+              <text>The officers of the corporation shall be elected by the Board of Directors and shall be elected annually by the Board of Directors at the first meeting of the Board of Directors held after the annual meeting of the shareholders or any adjournment thereof.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Removal and Vacancies.</heading>
+              <text>Any officer appointed by the Board of Directors may be removed by the Board of Directors with or without cause. A vacancy in any of the principal offices because of death, resignation, removal or disqualification or otherwise shall be filled by the Board of Directors for the unexpired portion of the term.</text>
+            </section>
+            <section>
+              <num>4</num>
+              <heading>President.</heading>
+              <text>The President shall be the principal executive officer of the corporation and shall supervise and control all of the business affairs of the corporation subject to the direction and control of the Board of Directors.</text>
+            </section>
+            <section>
+              <num>5</num>
+              <heading>Secretary.</heading>
+              <text>The Secretary shall:</text>
+              <para>
+                <num>(a)</num>
+                <text>Keep all minutes of the shareholders' meetings and of meetings of the Board of Directors;</text>
+              </para>
+              <para>
+                <num>(b)</num>
+                <text>See that all notices are duly given in accordance with the provisions set forth in these bylaws;</text>
+              </para>
+              <para>
+                <num>(c)</num>
+                <text>Be custodian of the corporate records; and</text>
+              </para>
+              <para>
+                <num>(d)</num>
+                <text>In general, perform all duties incident to the office of secretary and have such other duties and exercise such authority as from time to time may be delegated or assigned by the President or by the Board of Directors.</text>
+              </para>
+            </section>
+            <section>
+              <num>6</num>
+              <heading>Treasurer.</heading>
+              <text>The Treasurer shall be the chief financial officer of the corporation and shall exercise general supervision over the receipt, custody, and disbursement of corporate funds.</text>
+            </section>
+            <section>
+              <num>7</num>
+              <heading>Salaries.</heading>
+              <text>The salaries of the principal officers shall be fixed from time to time by the Board of Directors. The salaries so fixed must be reasonable in relation to the services rendered.</text>
+            </section>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>V</num>
+            <heading>AMENDMENTS</heading>
+            <text>These bylaws may be altered, amended or repealed and new bylaws may be adopted by the shareholders at any annual or special meeting of the shareholders.</text>
+          </container>
+        </container>
       </para>
       <para>
         <num>3.7.</num>
@@ -615,12 +808,67 @@
         <num>4.3.</num>
         <heading>Articles of incorporation.</heading>
         <text>The incorporators of a non-profit corporation must file an Application and proposed Articles of Incorporation with the Director of the Commission. No fee shall be required for a non-profit corporation. The Articles of Incorporation must be signed by a person 18 years of age or older. The Articles shall include, at a minimum, the following:</text>
+        <container id="Article 4 Non-Profits - Articles of Incorporation">
+          <text class="center">ARTICLES OF INCORPORATION</text>
+          <text>I (We), for the purpose of forming a non-profit corporation under and pursuant to the provisions of the Kiowa Tribal Code, do hereby adopt the following Articles of Incorporation.</text>
+          <para>
+            <num>1.</num>
+            <text>The name of the corporation is.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>The purposes of the corporation are as follows:</text>
+            <para>
+              <num>a.</num>
+            </para>
+            <para>
+              <num>b.</num>
+            </para>
+            <para>
+              <num>c.</num>
+            </para>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>The corporation does not afford pecuniary gain, incidentally or otherwise, to its owners.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>The period and duration of the corporation shall be __________ (number of years) (perpetual).</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>The name of the registered agent, the street address or physical location, and post office address of the registered office of the non-profit corporation on the Kiowa Tribe's lands is:</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>The corporation does not have members.</text>
+          </para>
+          <para>
+            <num>7.</num>
+            <text>The names, post office addresses, and terms of office of the first directors are as follows:</text>
+          </para>
+          <para>
+            <num>8.</num>
+            <text>The names and post office addresses of the incorporators are as follows:</text>
+            <text>IN WITNESS WHEREOF, (I)(we), have hereunto set (my hand) (our hands) this ____________ day of _________ 20 _____.</text>
+            <text>Incorporator</text>
+            <text>Incorporator</text>
+          </para>
+        </container>
         <text>Note: Non-profit corporations seeking certification to receive tax deductible contributions under section 501(c)(3) or other provisions of the Internal Revenue Code must separately seek status as a non-profit as required by the United States Internal Revenue Service.</text>
       </para>
       <para>
         <num>4.4.</num>
         <heading>Certificate of incorporation.</heading>
         <text>Upon filing the Articles of Incorporation of a Non-profit entity with the Director of the Commission, if the Articles are in conformity with this ordinance, shall issue a Certificate of Incorporation. The Certificate of Incorporation shall be in the following form:</text>
+        <container id="Article 4 Non-Profits - Certificate of Incorporation">
+          <text class="center">CERTIFICATE OF INCORPORATION</text>
+          <text>WHEREAS, Articles of Incorporation duly signed have been filed for record in the Kiowa Tribe Business &amp; Commerce Department on the ___________ day of _________ 20 _____, for incorporation of ______________ (name of corporation); and</text>
+          <text>WHEREAS, the Articles of Incorporation are in conformity with the requirements of the Kiowa Tribe Code;</text>
+          <text>NOW, THEREFORE, I, _____________, Director of the Kiowa Tribe Business &amp; Commerce Department do hereby certify that the said _____________ is a legally organized and validly existing non-profit corporation under the laws of the Kiowa Tribe.</text>
+          <text>Director, Kiowa Tribe Business &amp; Commerce Department</text>
+        </container>
         <text>Upon the issuance of the Certificate of Incorporation, the corporate existence of the corporation shall begin. Certification assures that the corporation is in compliance with the organizational requirements of this chapter, but not that the corporation is in compliance with any other provision of law.</text>
       </para>
       <para>
@@ -632,6 +880,137 @@
         <num>4.6.</num>
         <heading>Bylaws.</heading>
         <text>A not-for-profit corporation created pursuant to this chapter may adopt such bylaws at it deems necessary and appropriate, which shall become effective when filed with the Commission. Unless there is submitted to the Kiowa Tribe Business &amp; Commerce Department a different form of bylaws, the bylaws shall be as follows:</text>
+        <container id="Article 4 Non-Profits - Bylaws">
+          <text>BYLAWS OF ________________________</text>
+          <container>
+            <prefix>Article</prefix>
+            <num>I</num>
+            <heading>PRINCIPAL PLACE OF BUSINESS</heading>
+            <text>The principal place of business of the corporation shall be located within the boundaries of the Kiowa Tribe at the registered office of the corporation.</text>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>II</num>
+            <heading>MEMBERS (if any)</heading>
+            <section>
+              <num>1</num>
+              <heading>Annual Meetings.</heading>
+              <text>The annual meeting of the members (if any) shall be on the 15th day of the month of January each year at 10:00 a.m. at the registered office of the corporation for the purpose of electing directors and for the transaction of any business which may properly come before a meeting of the members. If the annual meeting is not held at the time above designated, an alternative meeting of the members shall be designated by the president of the corporation.</text>
+            </section>
+            <section>
+              <num>2</num>
+              <heading>Voting Rights.</heading>
+              <text>Each member (if any) shall be entitled at the meeting of the members to one vote. A majority of the members represented in person or by proxy shall constitute a quorum at the meeting of the members and a majority of all the votes cast at any meeting of the members shall be decisive of any action.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Notice of the Meeting.</heading>
+              <text>Notice stating the place, day and hour of the meeting and the purpose for which the meeting has been called shall be given to all members. Written notice stating the place, day and hour of meeting shall be delivered not less than five business days prior to the date of meeting by mail to the members. Notice shall be deemed delivered when deposited in the United States mail.</text>
+            </section>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>III</num>
+            <heading>BOARD OF DIRECTORS</heading>
+            <section>
+              <num>1</num>
+              <heading>Powers.</heading>
+              <text>The affairs of the corporation shall be managed by a Board of Directors.</text>
+            </section>
+            <section>
+              <num>2</num>
+              <heading>Number of Directors.</heading>
+              <text>The number of directors of a corporation shall be not less than five. Each director shall hold office until (a) until his/her successor has been duly elected and qualified or (b) until his/her death or (c) until he/she shall resign or shall have been removed from office by affirmative vote of the majority of the outstanding members or by a two-thirds vote of the full Board of Directors. A director may resign at any time by filing his/her written resignation with the secretary of the corporation.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Meetings.</heading>
+              <text>The annual meeting of the Board of Directors shall be held without any notice other than these bylaws immediately after and at the same place as the annual meeting of the members or immediately after any adjourned session thereof.</text>
+            </section>
+            <section>
+              <num>4</num>
+              <heading>Special Meetings.</heading>
+              <text>Special meetings of the Board of Directors may be called at the request of the President or any two directors. Notice of the special meeting shall be given to all directors of the corporation personally.</text>
+            </section>
+            <section>
+              <num>5</num>
+              <heading>Quorum.</heading>
+              <text>The majority of the number of directors in section 2 shall constitute a quorum for the transaction of any business at any meeting of the Board of Directors. The act of the majority of the directors present at the meeting at which a quorum is present shall be the act of the Board of Directors.</text>
+            </section>
+            <section>
+              <num>6</num>
+              <heading>Vacancies.</heading>
+              <text>Any vacancies occurring on the Board of Directors shall be filled by affirmative vote of the remaining directors then in office, though less than a quorum of the Board of Directors.</text>
+            </section>
+            <section>
+              <num>7</num>
+              <heading>Compensation.</heading>
+              <text>The Board of Directors may establish reasonable compensation for all directors for services rendered to the corporation as directors.</text>
+            </section>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>IV</num>
+            <heading>OFFICERS</heading>
+            <section>
+              <num>1</num>
+              <heading>Number.</heading>
+              <text>The Board of Directors shall elect a President, Secretary, and a Treasurer, and such officers and agents as they may so desire. Any two offices may be held by the same person.</text>
+            </section>
+            <section>
+              <num>2</num>
+              <heading>Election.</heading>
+              <text>The officers of the corporation shall be elected by the Board of Directors and shall be elected annually by the Board of Directors at the first meeting of the Board of Directors held after the annual meeting of the shareholders or any adjournment thereof.</text>
+            </section>
+            <section>
+              <num>3</num>
+              <heading>Removal and Vacancies.</heading>
+              <text>Any officer appointed by the Board of Directors may be removed by the Board of Directors with or without cause. A vacancy in any of the principal offices because of death, resignation, removal or disqualification or otherwise shall be filled by the Board of Directors for the unexpired portion of the term.</text>
+            </section>
+            <section>
+              <num>4</num>
+              <heading>President.</heading>
+              <text>The President shall be the principal executive officer of the corporation and shall supervise and control all of the business affairs of the corporation subject to the direction and control of the Board of Directors.</text>
+            </section>
+            <section>
+              <num>5</num>
+              <heading>Secretary.</heading>
+              <text>The Secretary shall:</text>
+              <para>
+                <num>(a)</num>
+                <text>Keep all minutes of the membership meetings and of meetings of the Board of Directors;</text>
+              </para>
+              <para>
+                <num>(b)</num>
+                <text>See that all notices are duly given in accordance with the provisions set forth in these bylaws;</text>
+              </para>
+              <para>
+                <num>(c)</num>
+                <text>Be custodian of the corporate records; and</text>
+              </para>
+              <para>
+                <num>(d)</num>
+                <text>In general, perform all duties incident to the office of secretary and have such other duties and exercise such authority as from time to time may be delegated or assigned by the President or by the Board of Directors.</text>
+              </para>
+            </section>
+            <section>
+              <num>6</num>
+              <heading>Treasurer.</heading>
+              <text>The Treasurer shall be the chief financial officer of the corporation and shall exercise general supervision over the receipt, custody, and disbursement of corporate funds.</text>
+            </section>
+            <section>
+              <num>7</num>
+              <heading>Salaries.</heading>
+              <text>The salaries of the principal officers shall be fixed from time to time by the Board of Directors. The salaries so fixed must be reasonable in relation to the services rendered.</text>
+            </section>
+          </container>
+          <container>
+            <prefix>Article</prefix>
+            <num>V</num>
+            <heading>AMENDMENTS</heading>
+            <text>These bylaws may be altered, amended or repealed and new bylaws may be adopted by the members (if any) at any annual or special meeting of the members. If there are no members, the bylaws may be altered, amended, or repealed and new bylaws may be adopted by the Board of Directors at any annual or special meeting of the Board.</text>
+          </container>
+        </container>
       </para>
       <para>
         <num>4.7.</num>
@@ -1606,5 +1985,101 @@
       <heading>Federal Charters.</heading>
       <text>The Chairman of the Kiowa Tribe is hereby authorized now or in the future to organize and charter any entity under any federal law, including but not limited to the Oklahoma Indian Welfare Act, 25 U.S.C. §§ 5201, <em>et. seq.</em>, or the Indian Reorganization Act, 25 U.S. C. § § 5101, <em>et. seq</em>.</text>
     </container>
+  </attachment>
+  <attachment id="Appendix A">
+    <text class="center">
+      <strong>
+        <u>APPENDIX</u>
+      </strong>
+    </text>
+    <text class="center">
+      <strong>
+        <u>A</u>
+      </strong>
+    </text>
+    <text>The following Standards shall apply to all directors and employees (collectively referred to in this Appendix A as an "Insider") of a Corporation or a Corporation's Subsidiary. All capitalized terms used in this Appendix A shall have the same meaning as ascribed to them in the Act.</text>
+    <section>
+      <num>1</num>
+      <heading>Confidential Information and Non-Disclosure</heading>
+      <para>
+        <num>1.1</num>
+        <text><strong><u>"Confidential Information"</u></strong> shall mean all information of any nature whatsoever obtained or generated in connection with the conduct of the Corporation's or Subsidiary's (collective referred to in this Appendix A as the "Corporation") business, including but not limited to results, work product, trade secrets, intellectual property, inventions, improvements, discoveries, records, analysis, methods, plans, findings, conclusions, derivative, improvements, and proceeds of efforts in connection with the conduct of the Corporation's business, existing and potential business and marketing plans and strategies, financial information, business relationships or proposed relationships, business opportunities, know-how, concepts, reports, processes, techniques, operations, devices, and the like, whether or not the foregoing information is patented, tested, reduced to practice, or subject to copyright or any other intellectual property right and regardless of whether the Corporation intends to patent such information. The term Confidential Information includes all analysis, compilations, forecasts, studies, notes, reports, records, findings, conclusions or other documents which contain or reflect any Confidential Information. Notwithstanding the foregoing, the term "Confidential Information" does not include information which (i) is or becomes generally available to the public other than as a result of disclosure by the Insider in breach of this Agreement; or (ii) was available to the Insider on a non-confidential basis prior to the Insider's engagement with the Corporation as a director or an employee.</text>
+      </para>
+      <para>
+        <num>1.2</num>
+        <heading>Covenant of Confidentiality.</heading>
+        <text>An Insider shall keep the Confidential Information secret and confidential and shall not disclose to any third party in any fashion or for any purpose whatsoever any Confidential Information except as authorized in writing by the Corporation or as otherwise expressly provided in this Appendix A. An Insider may disclose any of the Confidential Information to those persons who actually need such information in connection with the conduct of the Corporation's business.</text>
+        <text><strong><u>Ownership of Confidential Information</u></strong>. The Confidential Information shall be works made-for-hire and the Corporation shall be deemed the sole owner of any and all rights, titles and interests of any nature whatsoever therein, whether or not now or hereafter known, existing, contemplated, recognized or developed, with the right to use the same in perpetuity in any manner Corporation determines in its sole discretion without any further payment to an Insider whatsoever. If, for any reason, such Confidential Information shall not legally be a work-for-hire and/or there are any rights which do not accrue to Corporation under the proceeding sentence, then an Insider irrevocably assigns and agrees to assign any and all of an Insider's right, title and interest thereto, including without limitation, any and all copyrights, patents, trade secrets, trademarks and/or other rights of whatsoever nature therein, whether or not now or hereafter known, existing, contemplated, recognized or developed to the Corporation, and Corporation shall have the exclusive right to use the same in perpetuity in any manner the Corporation determines without any further payment to an Insider whatsoever. An Insider waives his/her rights to attribution or integrity with respect to the Confidential Information. An Insider shall, from time to time, as may be requested by the Corporation, do any and all things which the Corporation may deem useful or desirable to establish or document the Corporation's ownership of any and all rights in any such Confidential Information including, without limitation, the execution of appropriate copyright and/or patent applications or assignments.</text>
+      </para>
+      <para>
+        <num>1.3</num>
+        <heading>Use of Information by Insider.</heading>
+        <text>An Insider shall not use any Confidential Information for any reason other than as may be necessary for the conduct of the Corporation's business. An Insider shall not incorporate any Confidential Information into any other work or product except as such work or product relates to the conduct of the Corporation's business.</text>
+      </para>
+      <para>
+        <num>1.4</num>
+        <heading>No License or Right to Other Use.</heading>
+        <text>An Insider does not have, and shall not acquire by implication or otherwise, any right in or title to or license in respect of the Confidential Information.</text>
+      </para>
+    </section>
+    <section>
+      <num>2</num>
+      <heading>Non-Competition and Non-Solicitation</heading>
+      <para>
+        <num>2.1</num>
+        <heading>Application to Certain Insiders.</heading>
+        <text>This Section 2 shall apply to any Insider that is a director or an executive officer (collectively referred to in this Appendix A as a "Designated Insider"). An executive officer is any employee that serves the Corporation in the capacity of president, chief executive officer, chief financial officer or a managerial position having similar duties and responsibilities.</text>
+      </para>
+      <para>
+        <num>2.2</num>
+        <heading>Restrictive Covenant.</heading>
+        <text>In consideration of the engagement of a Designated Insider as a director and/or executive officer and payment of compensation related thereto, the Designated Insider shall not, except with the express prior written consent of Corporation:</text>
+        <para>
+          <num>A.</num>
+          <text>use the Confidential Information in any way for his/her benefit or for the benefit of others or for the detriment of the Corporation or its shareholders, parent, subsidiaries, affiliates, successors or assigns; and</text>
+        </para>
+        <para>
+          <num>B.</num>
+          <text>during the term of engagement as a director and/or executive office of the Corporation and for a period of two (2) years after the termination of the Designated Insider's engagement as director and/or executive officer of the Corporation (the "Restrictive Period"), directly or indirectly compete with the business of the Corporation with respect to the following particulars:</text>
+          <para>
+            <num>1.</num>
+            <text>within a geographic area of 200 miles from any Trust Land of the Tribe, directly or indirectly own, manage, operate, control, or directly or indirectly serve as an employee, officer or director of, or consultant to, any person, business, firm, partnership, corporation, trust or other entity that operates, directly or indirectly, a business similar to that conducted by Corporation (a "Competing Entity");</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>solicit or induce, or attempt to solicit or induce an employee or agent of the Corporation to terminate employment or engagement with the Corporation, or to establish a relationship with a Competing Entity; or</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>solicit or induce, or attempt to solicit or induce, any client or account of the Corporation to terminate its relationship with the Corporation or establish a business relationship with a Competing Entity.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>2.3</num>
+        <heading>Computation of Time.</heading>
+        <text>If a Designated Insider violates the Restrictive Covenant and the Corporation initiates legal action for injunctive or other relief, the Corporation shall not, as a result of the time involved in obtaining such relief, be deprived of the benefit of the full period of the Restrictive Covenant. Accordingly, the Restrictive Covenant shall be deemed to have the duration specified in this Section 2 computed from the date the relief is granted. Notwithstanding anything contained herein to the contrary, the foregoing Restrictive Covenant shall not prohibit a Designated Insider from owning directly or indirectly capital stock or similar securities, which are listed on a securities exchange or quoted on the NASDAQ, which do not represent more than one percent (1%) of the outstanding capital stock of any Competing Entity.</text>
+      </para>
+    </section>
+    <section>
+      <num>3</num>
+      <heading>Remedies.</heading>
+      <text>Insiders acknowledge that money damages may be incalculable and that any such breach may cause the Corporation irreparable harm. Therefore, an Insider agrees that, in the event of any breach or threatened breach of this Appendix A, the Corporation, in addition to any other remedies at law or in equity it may have, shall be entitled to seek equitable relief, including injunctive relief and specific performance without the necessity of posting any bond.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <heading>Survival.</heading>
+      <text>The termination of the engagement or employment of an Insider, however effectuated, shall not release the Corporation from its rights under this Appendix A and, moreover, the provisions of this Appendix A shall survive the termination of the engagement or employment of an Insider.</text>
+    </section>
+    <section>
+      <num>5</num>
+      <heading>Forum.</heading>
+      <text>All conflicts and any action to enforce this Appendix A shall be brought in the Court and an Insider expressly consents to the jurisdiction of such Court, and agrees that such Court shall have personal jurisdiction over the Insider for all matters arising out of or relating to this Appendix A.</text>
+    </section>
+    <section>
+      <num>6</num>
+      <heading>Savings Provision.</heading>
+      <text>The Corporation and the Insider each acknowledge and agree that each of the agreements, representations and covenants of the Insider within this Appendix A are reasonable in geographical and temporal scope, if and as applicable, and in other respects are all reasonably necessary for the protection of the legitimate interest of the Corporation and in consideration of the Corporation's agreements given in connection with the engagement or employment of an Insider. If any court determines that any of the agreements, representations and covenants of this Appendix A, or any part thereof, are invalid or unenforceable, the remainder of this Appendix A shall not thereby be affected and shall be given full effect, without regard to the invalid or unenforceable portions and such invalid or unenforceable portions shall be deemed, without further action on the part of the Corporation and Insider, modified, amended and limited to the extent necessary to render the same valid and enforceable in such jurisdiction. Moreover, if any court determines that any of the agreements, representations or covenants of this Appendix A, or any part thereof, are unenforceable because of the duration or geographic scope of such provisions, such court shall have the power to reduce the duration or scope of such provision, as the case may be, and, in its reduced form, such provision shall then be enforceable.</text>
+    </section>
   </attachment>
 </document>
