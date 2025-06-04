@@ -1,0 +1,1692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>13</num>
+  <heading/>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.01</num>
+    <heading>General Provisions</heading>
+    <section>
+      <num>13.01.010</num>
+      <heading>SHORT TITLE.</heading>
+      <text><cite path="|13">This title</cite> may be known and cited as the "Kiowa Criminal Code".</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.020</num>
+      <heading>PURPOSE.</heading>
+      <text>The public policy of the Kiowa Tribe and the general purposes of the provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> are:</text>
+      <para>
+        <num>(a)</num>
+        <text>To define conduct that unjustifiably and inexcusably causes or threatens substantial harm to individual, public, or tribal interests;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To give fair warning of the nature of the conduct prohibited and of the penalties authorized for imposition upon conviction;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To define the act or omission and the accompanying mental state appropriate to each offense and limit the condemnation of conduct as criminal when it does not fall within the purposes set forth;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To differentiate on reasonable grounds between the level of offenses and prescribe the appropriate proportionate penalties for each;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To enhance public safety by seeking to prevent the commission of offenses through the deterrent influence of the penalties authorized;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>To impose just and deserved punishment on those whose conduct threatens the public peace;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>To provide restitution for victims of offenses, to rehabilitate offenders through the imposition of appropriate consequences and thereby preserve harmony among the Kiowa people; and</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>To promote truth and accountability in sentencing.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.030</num>
+      <heading>EFFECTIVE DATE.</heading>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall become effective upon its adoption into law.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.050</num>
+      <heading>APPLICABILITY OF CODE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall not apply or extend to any offense committed prior to the effective date of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>. The provisions of law in force prior to the enactment of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall remain in full force and effect in regard to an offense committed prior to the effective date of the adoption of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Except as otherwise provided by law, the procedure governing accusation, prosecution, conviction and punishment of offenders and offenses is not regulated by <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> but by the rules of criminal procedure.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> does not affect any power conferred by law upon a court martial or other military authority or officer, or conferred upon the United States Department of Justice, to prosecute or punish conduct and offenders violating military codes or laws, or U.S. federal laws, nor any power conferred by law to impose or inflict punishment for contempt.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> does not bar, suspend or otherwise affect any right or liability for damages, penalty, forfeiture or other remedy authorized by law to be recovered or enforced in a civil action regardless of whether the conduct involved in the proceeding constitutes an offense defined in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Except as otherwise expressly provided, or unless the context otherwise requires, the provisions of <code-code-cite path="attachments|law">this Code</code-code-cite> shall govern the construction and punishment of any offense defined outside <code-code-cite path="attachments|law|III">this title</code-code-cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.060</num>
+      <heading>RULE OF CONSTRUCTION.</heading>
+      <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, but the provisions herein must be construed according to the fair meaning of their terms to promote justice and effect the objects of law, including the purpose stated in <cite path="|13.01.020">Section 13.01.020</cite>.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.6" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.070</num>
+      <heading>JURISDICTION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Kiowa Tribe has jurisdiction over an offense that a person commits by his or her own conduct or by the conduct of another for which he or she is criminally liable if:</text>
+        <para>
+          <num>(1)</num>
+          <text>Conduct constituting any element of an offense or a result of such conduct occurs within the Territory;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Conduct occurring outside the Territory constitutes an attempt or conspiracy to commit an offense within the Territory and an act in furtherance of the attempt or conspiracy occurs within the Territory; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Conduct occurring within the Territory constitutes an attempt or conspiracy to commit an offense in another jurisdiction that is also an offense under the laws of the Kiowa Tribe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Kiowa Tribe reserves the right to prosecute a person for any violation of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, regardless of whether the person has previously been prosecuted for the same conduct, or is concurrently being prosecuted for the same conduct, in a court of the United States, a court of any State, or a court of any other tribal jurisdiction.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.7" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.080</num>
+      <heading>SOVEREIGN IMMUNITY.</heading>
+      <text>Nothing in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall be construed as a waiver, in whole or in part, of the sovereign immunity of the Kiowa Tribe.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.8" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.090</num>
+      <heading>DEFINITION OF TERMS.</heading>
+      <text>In <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Act" means a bodily movement.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Adult" means any individual eighteen years of age or older.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Alcohol," "Alcoholic beverages," "Spirituous liquor" or "Distilled Spirits," includes alcohol, brandy, whiskey, rum, tequila, mescal, gin, wine, port, ale, beer, any malt liquor or malt beverage, absinthe, a compound or mixture of any of them or of any of them with any vegetable or other substance, alcohol bitters, bitters containing alcohol, any liquid mixture or preparation, whether patented or otherwise, which produces intoxication, fruits preserved in ardent spirits, and beverages containing more than one-half of one per cent of alcohol by volume.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Benefit" means anything of value or advantage, present or prospective.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Calendar year" means three hundred and sixty-five days actual.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Conduct" means an act or omission and its accompanying culpable mental state.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Crime" means an offense in violation of the criminal laws of the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Controlled Substance" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V listed in 21 U.S.C. § 812, and also including future amendments to schedules I through V as may be enacted by the U.S. Congress, or is listed in current or future schedules issued pursuant to authority vested in the Attorney General of the United States pursuant to 21 U.S.C. § 811; or a dangerous drug or narcotic drug.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Dangerous instrument" means anything that, under the circumstances in which it is used, attempted to be used or is threatened to be used, is capable of causing death or serious physical injury.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Deadly weapon" means anything designed for lethal use, including a firearm.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Deadly physical force" means force that is used with the purpose of causing death or serious physical injury or in the manner of its use or intended use is capable or appears to a victim capable of creating a substantial risk of causing death or serious physical injury.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Delinquency" means any act that would injure the morals, health or welfare of a child or that promotes the commission of any act by a minor that would be a public offense and a violation of law if committed by an adult.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Detention" means temporary control in or at a physically restrictive facility or location.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Economic loss" means any loss incurred by a person as a result of the commission of an offense. Economic loss includes lost interest, lost earnings and other losses of value that would not have been incurred but for the offense committed. Economic loss does not include damages for pain and suffering, punitive damages or consequential damages.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Enterprise" includes any corporation, association, labor union or other legal entity.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Firearm" means any loaded or unloaded handgun, pistol or revolver, a rifle, shotgun or other weapon that will or is designed to or may readily be converted to expel a projectile by the action of expanding gases, except that it does not include a firearm in permanently inoperable condition which is obvious to the victim.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Government" means the Kiowa Tribe, any political subdivision of the Tribe or any department, agency, board, commission, institution or governmental instrumentality within or political subdivision of the Tribe</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Government function" means any activity that a public servant is legally authorized to undertake on behalf of a government.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Indian" for the purposes of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> is any person who is an enrolled member of any Federally recognized tribe or who has Indian blood and is regarded as an Indian by the society of Indians among whom he lives.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Marijuana" means all parts of any plant of the genus cannabis, from which the resin has not been extracted, whether growing or not, including the seeds of such plant</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Minor" means any individual under the age of eighteen.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Offense" or "public offense" means conduct for which a sentence to a term of imprisonment or of a fine is provided by any law of the state or tribe in which it occurred or by any law, regulation or ordinance of a political subdivision of that state or tribe and, if the act occurred in a state or reservation other than this tribe, it would be so punishable under the laws, regulations or ordinances of this tribe or of a political subdivision of this tribe if the act had occurred within the Territory. 24. "Omission" means the failure to perform an act as to which a duty of performance is imposed by law.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Oral sexual acts" means oral contact with the penis, vulva or anus.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Peace officer" means any person vested by law with a duty to maintain public order and make arrests and includes a police officer.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Person" means, a human being, and as the context requires, an individual, corporation, company, partnership, association, trust, firm, a society, tribal enterprise, government, governmental agency or any other entity capable of holding a legal or beneficial interest in property.</text>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>"Physical force" means force used upon or directed toward the body of another person and includes confinement but does not include deadly physical force.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"Physical injury" means any impairment of the physical condition.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"Possess" means knowingly to have physical possession or exercise dominion or control over property.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>"Possession" means a voluntary act if the defendant knowingly exercised dominion or control over property.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>"Property" means anything of value, tangible or intangible.</text>
+      </para>
+      <para>
+        <num>(ee)</num>
+        <text>"Public servant":</text>
+        <para>
+          <num>(1)</num>
+          <text>means any officer or employee of any branch of government, whether elected, appointed or otherwise employed, including a peace officer, and any person participating as an advisor or consultant or otherwise in performing a governmental function;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>does not include jurors or witnesses;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>includes those who have been elected, appointed, employed or designated to become a public servant although not yet occupying that position.</text>
+        </para>
+        <text>34, 	"Serious physical injury" includes physical injury that creates a reasonable risk of death, or that causes serious and permanent disfigurement, serious impairment of health or loss or protracted impairment of the function of any bodily organ or limb.</text>
+      </para>
+      <para>
+        <num>(ff)</num>
+        <text>"Sexual acts" means penetration, however slight, into the penis, vulva or anus by any part of the body or by any object or a masturbatory contact with the penis or vulva.</text>
+      </para>
+      <para>
+        <num>(gg)</num>
+        <text>"Sexual contact" means any direct or indirect touching, fondling or manipulating of any part of the genitals, anus or female breast by any part of the body or by any object or causing a person to engage in such contact with the intent to abuse, humiliate, harass, degrade, arouse or gratify the sexual desire of any person.</text>
+      </para>
+      <para>
+        <num>(hh)</num>
+        <text>"Support" means necessary food, shelter, clothing, medical attention, and any court-ordered financial compensation.</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>"Territory" means all lands held in trust for, or owned by the Tribe, or held by the United States for the benefit of the Tribe or the people, including any rights of way or easements whether existing now or in the future.</text>
+      </para>
+      <para>
+        <num>(jj)</num>
+        <text>"Unlawful" means contrary to law, or as the context requires, not permitted by law.</text>
+      </para>
+      <para>
+        <num>(kk)</num>
+        <text>"Vehicle" means a device in, upon or by which any person or property is, may be or could have been transported or drawn upon a highway, waterway or airway, excepting devices moved by human power or used exclusively upon stationary rails or tracks.</text>
+      </para>
+      <para>
+        <num>(ll)</num>
+        <text>"Voluntary act" means a bodily movement performed consciously and as a result of effort and determination.</text>
+      </para>
+      <para>
+        <num>(mm)</num>
+        <text>"Voluntary intoxication" means intoxication caused by the knowing use of drugs, toxic vapors or alcoholic beverages by a person, unless the person introduces them pursuant to medical advice or under such duress as would afford a defense to an offense.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.9" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.100</num>
+      <heading>TIME LIMITATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A prosecution for any homicide, any offense that is listed in §§<cite path="|13.10.010">Section 13.10.010</cite>- 3.10.03 of <cite path="|13">this title</cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Except as is otherwise provided in <cite path="|13.01.100">this section</cite>, prosecutions for other offenses must be commenced within the following periods after actual discovery of the crime by the tribe, or from the date upon which discovery should have occurred with the exercise of reasonable diligence on the part of the tribe or the political subdivision having jurisdiction over the alleged offense, whichever first occurs;</text>
+        <para>
+          <num>(1)</num>
+          <text>For misdemeanor offenses, one (1) year from the date of offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For repeated second misdemeanor offenses two (2) years from the date of offense.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For repeated third misdemeanor offenses three (3) years from the date of the offense.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For felony offense, five (5) years from the date of offense.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A prosecution is commenced when an indictment, information or criminal complaint is filed.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The period of limitation does not run during any time in which an accused is absent from the Territory or has no reasonably ascertainable place of abode within the Territory subsequent to being charged with the offense.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.10" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.01.110</num>
+      <heading>SPEEDY TRIAL; COUNSEL; WITNESSES AND CONFRONTATION.</heading>
+      <text>In a criminal action alleging an offense the defendant is entitled to the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>the right to a speedy public trial by an impartial jury of members of the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the right to be represented by legal counsel of his choice, or by court appointed counsel if requested and defendant qualifies.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the right to subpoena and produce witnesses on his behalf and to confront and cross-examine witnesses who are called to give testimony against him in court, except where the testimony by deposition of a witness may be received in evidence at the trial as allowed under the rules of evidence.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.11" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.02</num>
+    <heading>Determining Applicable Mental States</heading>
+    <section>
+      <num>13.02.010</num>
+      <heading>GENERAL RULE.</heading>
+      <text>Provisions herein must be construed according to the fair meaning of their terms in order to promote justice and effect the objects of the law.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|2|3.2.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.02.020</num>
+      <heading>APPLICABLE MENTAL STATES.</heading>
+      <text>In <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, unless the context or subject matter otherwise requires:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Intentionally" or "with the intent to" means that a person's objective is to cause something to occur or to engage in certain conduct.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Knowingly" means that a person is aware of a fact or believes that the fact exists. It does not require any knowledge of the unlawfulness of the act or omission. Knowledge of the existence of a particular fact is established if a person is aware of a high probability of its existence, unless he or she actually believes that it does not exist.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Recklessly" means that a person is aware of and consciously disregards a substantial and unjustifiable risk that a fact exists or that a particular result will occur. The risk must be of such nature and degree that disregard of such risk constitutes a gross deviation from the standard of conduct that a reasonable person would observe in the same situation. A person who creates such a risk but is unaware of it solely because of voluntary intoxication also acts recklessly.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Negligence," "criminal negligence" or "negligently" means that a person fails to perceive a substantial and unjustifiable risk that a fact exists or that a particular result will occur. The risk must be of such nature and degree that the failure to perceive it constitutes a gross deviation from the standard of care that a reasonable person would observe in the same situation.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|2|3.2.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.02.030</num>
+      <heading>INTOXICATION.</heading>
+      <text>No act committed by a person while in a state of voluntary intoxication is less criminal by reason of having been in such condition. Voluntary intoxication shall not be a defense and shall not be allowed as a reason why a person did not have the applicable mental state for an offense.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|2|3.2.3" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.03</num>
+    <heading>Defenses</heading>
+    <section>
+      <num>13.03.010</num>
+      <heading>SELF-DEFENSE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person is justified in threatening or using physical force against another when and to the extent a reasonable person would believe that physical force is immediately necessary:</text>
+        <para>
+          <num>(1)</num>
+          <text>to protect himself against the other's use or attempted use of unlawful physical force;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to protect a third party against the other's use or attempted use of unlawful physical force; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>to protect property or a home against the other's use or attempted use of unlawful physical force, or against an attempt or commission of theft or criminal damage.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who provoked the other's use or attempted use of unlawful physical force in the same encounter is not justified in threatening or using physical force unless he or she withdraws from the encounter or clearly communicates to the other an intent to do so.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Deadly physical force is justified only when a reasonable person would believe it immediately necessary to protect himself or an innocent third person against the other's use or attempted use of unlawful deadly physical force.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The use of physical force against another is not justified in response to verbal provocation alone, or to resist an arrest, whether lawful or unlawful, unless the physical force used by the arresting officer exceeds that allowed by law.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|3|3.3.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.03.020</num>
+      <heading>DURESS.</heading>
+      <text>Conduct which would otherwise constitute an offense is excused if a reasonable person would believe that he was compelled to engage in such conduct by the threat or use of immediate physical force against his person or against the person of another which a reasonable person in the same situation would not have resisted.</text>
+      <text>This defense is unavailable if such person intentionally, knowingly or recklessly places himself in a situation in which duress was foreseeable and for offenses involving homicide or the infliction of serious physical injury.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|3|3.3.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.03.030</num>
+      <heading>IMMATURITY.</heading>
+      <text>A person less than twelve years old at the time of the conduct charged is not criminally responsible for that conduct unless there is clear proof that at the time of committing the conduct charged the person knew it was wrong.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|3|3.3.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.03.040</num>
+      <heading>INSANITY.</heading>
+      <text>A person is not responsible for criminal conduct by reason of insanity if, as a result of a mental disease or defect affecting the person at the time of such conduct, he or she lacks the substantial capacity to know the nature and quality of the act or, to know that what he or she was doing was wrong. The defendant shall prove he or she is not responsible for criminal conduct by reason of insanity by clear and convincing evidence.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|3|3.3.4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.03.050</num>
+      <heading>FORMER JEOPARDY OR ACQUITTAL.</heading>
+      <text>Where a defendant is convicted or acquitted or has once been placed in jeopardy in the Trial Court, the conviction, acquittal or jeopardy is a bar to another indictment or information for the same offense under <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|3|3.3.5" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.04</num>
+    <heading>Penalties</heading>
+    <section>
+      <num>13.04.010</num>
+      <heading>IMPRISONMENT AND FINES.</heading>
+      <text>The Court may impose the following criminal penalties against a person who is convicted for violating <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>:</text>
+      <para>
+        <num>(a)</num>
+        <text>A maximum of three years in custody and/or a fine of up to $15,000.00 upon conviction for a single offense that would be classified as a felony under state law;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A maximum of two years in custody and/or a fine of up to $10,000.00 upon a second conviction for any offense which would be classified as a misdemeanor under state law;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A maximum of one year in custody and/or a fine of up to $5,000.00 upon conviction of any other single criminal offense;</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|4|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.020</num>
+      <heading>REPETITIVE OFFENDERS.</heading>
+      <text>The Court may, at its discretion, sentence a person who has been previously convicted of the same offense, or a comparable offense by any jurisdiction in the United States, to one class higher than the sentence imposed in the previous conviction. Convictions for two or more offenses committed for the same act may be counted as one conviction for the purposes of <cite path="|13.04.020">this section</cite>.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|4|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.030</num>
+      <heading>CONSECUTIVE TERMS OF IMPRISONMENT.</heading>
+      <text>If multiple crimes are committed, and multiple sentences of imprisonment are imposed on a person at the same time, the Court may, at its discretion, direct the sentences to run consecutively.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|4|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.040</num>
+      <heading>OTHER CRIMINAL PENALTIES.</heading>
+      <text>In addition to, or in lieu of, the penalties set forth in <code-code-code-cite path="attachments|law|III|4|1.">Section 3.4.1</code-code-code-cite>, the Court may order restitution, diversion from criminal prosecution, community service, treatment, probation, parole, or suspension of sentence, unless a provision of <code-code-code-cite path="attachments|law">this Code</code-code-code-cite> provides otherwise with respect to a certain type of offense.</text>
+      <text>The Court may substitute community service for a fine, upon a showing that the defendant is indigent or in the interest of justice.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|4|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.050</num>
+      <heading>CIVIL DAMAGES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person subject to the civil jurisdiction of the Kiowa Tribe, but not subject to the criminal jurisdiction of the Kiowa Tribe, who engages in conduct in the Territory that constitutes a violation of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall be liable to the Kiowa Tribe for the following civil damages:</text>
+        <para>
+          <num>(1)</num>
+          <text>Civil damages not to exceed $15,000.00 upon a finding by the Court that the person engaged in a single criminal offense under state law;</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Tribal Prosecutor is authorized to file civil actions on behalf of the Kiowa Tribe against any person who may be liable to the Kiowa Tribe for civil damages pursuant to subsection A of <cite path="|13.04.050">this section</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|4|5." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.060</num>
+      <heading>KIOWA TRADITIONS, CUSTOMS AND PRACTICES.</heading>
+      <text>The Court shall consider Kiowa traditions, customs and practices when imposing the penalties set forth in <cite path="|13.04.060">this section</cite>.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|4|6." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.05</num>
+    <heading>Preparatory Offenses and Accomplice Liability</heading>
+    <section>
+      <num>13.05.010</num>
+      <heading>ATTEMPT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who intends to commit a criminal offense under state law and engages in conduct constituting a substantial step toward commission of the offense, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Factual or legal impossibility shall not be a defense to attempt.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|5|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.05.020</num>
+      <heading>CONSPIRACY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person is guilty of a conspiracy if he or she agrees with one or more persons to engage in conduct that would constitute a criminal offense under state law and one of them commits an act in furtherance of the agreement. A conspiracy may be charged as either a misdemeanor or a felony, depending upon the nature of the intended criminal offense that would result from the agreed conduct.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be a defense to prosecution under <cite path="|13.05.020">this section</cite> that the defendant clearly ceased to agree with the conspiracy, took no further part in the conspiracy, and either communicated his or her desire to abandon the conspiracy to the authorities or took other action to thwart the conspiracy.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|5|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.05.030</num>
+      <heading>ACCOMPLICE LIABILITY.</heading>
+      <text>A person is guilty of an offense committed by another person to the same extent as that other person if, with the intent that the offense be committed, he or she encourages the other person to commit the offense or provides the other person with the means or opportunity to commit the offense.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|5|3." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.06</num>
+    <heading>Offenses Against the Family</heading>
+    <section>
+      <num>13.06.010</num>
+      <heading>ENDANGERMENT OR ABANDONMENT OF A MINOR.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A parent, guardian or other person who has assumed or been entrusted with the care of a minor, who knowingly causes or permits the endangerment of such minor, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A parent, guardian or other person who has assumed or been entrusted with the care of a minor, who intentionally abandons the minor with intent not to return, is guilty of a misdemeanor.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.020</num>
+      <heading>CUSTODIAL INTERFERENCE.</heading>
+      <text>A person who knowingly removes or entices a minor away from lawful custody without consent of the lawful custodian, when he or she has no privilege to do so, is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.030</num>
+      <heading>FAILURE TO PROVIDE SUPPORT.</heading>
+      <text>A person who knowingly fails to support a spouse, child or other dependent, when he or she is legally required to provide such support, and is able to do so, is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.040</num>
+      <heading>CONTRIBUTING TO THE DELINQUENCY OF A MINOR.</heading>
+      <text>An adult who knowingly causes or entices the delinquency of a minor is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.050</num>
+      <heading>FAILURE TO SEND CHILDREN TO SCHOOL.</heading>
+      <text>A person who neglects or refuses, without good cause, to send his children or legal wards to school, is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|5." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.060</num>
+      <heading>BIGAMY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person, knowing that he or she is already legally married, who marries another person, is guilty of bigamy, a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Subsection A of <cite path="|13.06.060">this section</cite> does not extend to a person whose spouse has been absent for seven successive years without being known to such person within that time to be living and has been legally declared to be deceased, nor to any person whose former marriage has been pronounced void, annulled or dissolved by judgment of a court of competent jurisdiction.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person who marries another, knowing that such other person is already legally married, is guilty of bigamy, a misdemeanor.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|6." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.070</num>
+      <heading>DOMESTIC VIOLENCE.</heading>
+      <text>A person who commits assault, aggravated assault, endangerment, threatening, kidnapping, sexual assault, or sexual conduct with a minor is guilty of domestic violence, a felony, if any of the following factors are present:</text>
+      <para>
+        <num>(a)</num>
+        <text>The relationship between the victim and the defendant is one of marriage or former marriage or of persons residing or have resided in the same household.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The victim and the defendant have a child in common.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The victim is pregnant by the other party.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The victim is related to the defendant or the defendant's spouse by blood, marriage or court order as a parent, grandparent, child, grandchild, brother or sister.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The victim is a child who resides or has resided in the same household as defendant and is related by blood to a former spouse as the defendant or to a person who resides in the same household as the defendant.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The relationship between the victim and the defendant is currently or was previously an intimate relationship.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|7." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.080</num>
+      <heading>STALKING.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person commits stalking if the person intentionally or knowingly engages in a course of conduct that is directed toward another person and if that conduct either:</text>
+        <para>
+          <num>(1)</num>
+          <text>Would cause a reasonable person to fear for the person's safety or the safety of that person's immediate family member and that person in fact fears for their safety or the safety of that person's immediate family member.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Would cause a reasonable person to fear the death of that person or that person's immediate family member and that person in fact fears death of that person or that person's immediate family member.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For the purposes of <cite path="|13.06.080">this section</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>"Course of conduct" means maintaining visual or physical proximity to a specific person or directing verbal, written or other threats, whether express or implied, to a specific person on two or more occasions over a period of time.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Immediate family member" means a spouse, parent, child or sibling or any other person who regularly resides in a person's household or resided in a person's household within the past six months.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|6|8." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.07</num>
+    <heading>Offenses Against Persons</heading>
+    <section>
+      <num>13.07.010</num>
+      <heading>ASSAULT.</heading>
+      <text>A person commits assault, a misdemeanor, by:</text>
+      <para>
+        <num>(a)</num>
+        <text>intentionally placing another person in reasonable apprehension of imminent physical injury;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>attempting to cause or recklessly causing physical injury to another person; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>negligently causing physical injury to another person through the use of a deadly weapon.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.020</num>
+      <heading>AGGRAVATED ASSAULT.</heading>
+      <text>A person commits aggravated assault, a felony, by:</text>
+      <para>
+        <num>(a)</num>
+        <text>attempting to cause or recklessly causing serious physical injury to another person;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>attempting to cause or knowingly causing physical injury to another person through the use of a deadly weapon or dangerous instrument;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>attempting to cause or knowingly causing serious physical injury to a child who is fifteen years of age or younger;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>committing an assault on a tribal official, a tribally employed security officer, or a person age sixty-five (65) or older.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.030</num>
+      <heading>ENDANGERMENT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who recklessly endangers another person with a substantial risk of death or serious physical injury is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Endangerment involving a substantial risk of imminent death is a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.040</num>
+      <heading>THREATENING.</heading>
+      <text>A person commits this offense by threatening to commit any violent crime with the intent to:</text>
+      <para>
+        <num>(a)</num>
+        <text>terrify or intimidate another person;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>cause evacuation of a building or any other place of assembly; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>cause serious public inconvenience.</text>
+      </para>
+      <text>A person committing the offense of threatening is guilty of a misdemeanor, unless it is committed in retaliation for reporting criminal activity or being involved in an organization, other than a law enforcement agency, that is established for the purpose of reporting criminal activity, in which case it is a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.050</num>
+      <heading>ABUSE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A parent, guardian, or other person who has assumed or been entrusted with the care of a minor or vulnerable adult, who knowingly causes or permits physical injury to such minor or vulnerable adult, is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For purposes of <cite path="|13.07.050">this section</cite>, "vulnerable adult" means an individual eighteen years of age or older who, because of a mental or physical disability, is unable to protect himself from abuse or neglect.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In addition to the remedy in section A, an injured minor or vulnerable adult is entitled to all other available remedies.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|5." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.060</num>
+      <heading>KIDNAPPING.</heading>
+      <text>A person who knowingly moves or detains another person against such person's will, or in the case of a minor without the consent of such person's lawful custodian, and without proper legal authority, is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|6." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.070</num>
+      <heading>HOMICIDE.</heading>
+      <text>Any person who unlawfully and intentionally, knowingly or recklessly causes the death of another person is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|7." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.080</num>
+      <heading>NEGLIGENT HOMICIDE.</heading>
+      <text>Any person who, with criminal negligence, causes the death of another person is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|8." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.090</num>
+      <heading>ROBBERY.</heading>
+      <text>A person who knowingly uses force or threatens to use force against another person with the intent to take the property of such person, is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|9." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.100</num>
+      <heading>AGGRAVATED ROBBERY.</heading>
+      <text>A person who, in the course of committing robbery, is aided by one or more accomplices actually present, is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|10." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.07.110</num>
+      <heading>HARASSMENT.</heading>
+      <text>A person commits a misdemeanor by persistently placing obscene or harassing telephone calls, or other electronic or Internet messages, with the intent to annoy, abuse, or threaten another person.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|7|11." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.08</num>
+    <heading>Offenses Against Property</heading>
+    <section>
+      <num>13.08.010</num>
+      <heading>BURGLARY.</heading>
+      <text>A person who unlawfully enters or remains in any dwelling, other structure, or vehicle, with the intent to commit theft or any criminal offense under state law, is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.020</num>
+      <heading>AGGRAVATED BURGLARY.</heading>
+      <text>A person who commits burglary while possessing a deadly weapon or dangerous instrument, is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.030</num>
+      <heading>TRESPASSING.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who enters or remains in any building, structure or land, after being notified by the owner or lawful possessor not to enter or remain, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It shall be a defense to trespassing that the person acted with legal authority or consent.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.040</num>
+      <heading>THEFT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who knowingly takes or controls the property or services of another person without consent of the owner or other proper legal authority is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Where the property or services taken are of a value of two thousand dollars or more the offense is a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.050</num>
+      <heading>RECEIVING OR CONCEALING STOLEN PROPERTY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who knowingly sells stolen property is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who receives or conceals property of another person, knowing the same to have been stolen, is guilty of a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|5." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.060</num>
+      <heading>CRIMINAL DAMAGE TO PROPERTY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who intentionally, knowingly or recklessly defaces, damages or tampers with property not his own, whether public or private, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who commits criminal damage of property in an amount of five thousand dollars or more is guilty of a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|6." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.070</num>
+      <heading>CRIMINAL LITTERING OR POLLUTING OF PUBLIC PROPERTY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person commits a misdemeanor by recklessly or negligently discarding any refuse, debris, destructive or other injurious material without lawful authority within the Territory of the Tribe that he does not promptly remove.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who discharges into any public waters sewage, oil products or other harmful substances, in excess of three hundred pounds in weight or one hundred cubic feet in volume, or if done for commercial purposes, in any volume, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person convicted under Subsections A or B will be required to remove or remedy the nuisance upon order of the Court in addition to any fines or other penalty imposed.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|7." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.080</num>
+      <heading>BURNING.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who recklessly causes a fire or explosion that results in damage to an occupied structure, other structure, wildland or property is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who knowingly and unlawfully damages an occupied structure by knowingly causing a fire or explosion, or commits burning to property resulting in damage and/or loss in an amount of five thousand dollars or more is guilty of a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|8|8." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.09</num>
+    <heading>Fraud &amp; Related Offenses</heading>
+    <section>
+      <num>13.09.010</num>
+      <heading>FRAUD.</heading>
+      <text>A person who obtains money, property or services by knowingly misrepresenting a material fact or by knowingly using false weights or measures or identity, is guilty of a misdemeanor. When the value of the money, property or services is $5,000 or more, the person is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|9|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.09.020</num>
+      <heading>BRIBERY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who offers or confers any money, property, service, or other benefit to an official of the Tribe, or public servant with the intent to influence the conduct of the other person's public duties, is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any elected or appointed official of the Tribe or other public servant who knowingly accepts or intentionally solicits a bribe, is guilty of a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|9|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.09.030</num>
+      <heading>EXTORTION.</heading>
+      <text>A person who intentionally obtains or seeks to obtain property, services, or other benefit by means of a threat to cause physical injury to persons or property; or to make allegations, whether true or false, which is likely to damage another's personal reputation or business associations is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|9|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.09.040</num>
+      <heading>FORGERY.</heading>
+      <text>The offense of forgery is a felony if, with intent to defraud, such person:</text>
+      <para>
+        <num>(a)</num>
+        <text>falsely makes, completes, signs, or alters a written instrument;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>knowingly possesses a forged instrument; or,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>offers a forged instrument for execution, whether or not it is accepted.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|9|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.09.050</num>
+      <heading>ISSUANCE OF INSUFFICIENTLY FUNDED CHECKS.</heading>
+      <text>A person who intentionally issues a check, draft, or other financial instrument with the intent to defraud and with the knowledge that the depository will not credit the full amount upon its presentation, is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|9|5." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.10</num>
+    <heading>Sexual Offenses and Related Offenses</heading>
+    <section>
+      <num>13.10.010</num>
+      <heading>ENTICEMENT OF A MINOR.</heading>
+      <text>A person who forces, entices, or persuades a child under the age of sixteen to enter any building, vehicle, or secluded place with intent to engage in sexual acts, sexual contact or oral sexual acts with the minor, is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|10|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.020</num>
+      <heading>SEXUAL ASSAULT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who engages in sexual contact with another person, without his or her consent, is guilty of sexual assault, a felony. "Without consent" includes any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The victim is coerced by the immediate use or the threatened use of force or other means of intimidation toward a person or the victim's property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The victim is incapable of consent by reason of mental disorder, mental defect, drugs, alcohol, sleep or any other similar impairment of cognition and such condition is known or should have reasonably been known to the defendant. For purposes of this subsection, "mental defect" means the victim is unable to comprehend the distinctively sexual nature of the conduct or is incapable of understanding or exercising the right to refuse to engage in the conduct with another.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The victim is intentionally deceived as to the nature of the act.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The victim is intentionally deceived to erroneously believe that the person is the victim's spouse.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who engages in sexual acts or oral sexual acts with another person, without his or her consent, is guilty of aggravated sexual assault, a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|10|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.030</num>
+      <heading>SEXUAL CONDUCT WITH A MINOR.</heading>
+      <text>Any person who engages in sexual acts, sexual contact, including any oral sexual acts with a minor who is not his or her spouse is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|10|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.040</num>
+      <heading>INDECENT EXPOSURE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who intentionally, knowingly or recklessly exposes his or her genitals to observers in a public place or to unwilling observers in a private place, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who commits indecent exposure to a person who is under fifteen years of age is guilty of a misdemeanor.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|10|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.050</num>
+      <heading>PROSTITUTION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who knowingly engages in or offers to engage in sexual conduct in exchange for money, property or other services is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who knowingly exchanges or offers to exchange money, property or other services for sexual conduct is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person who knowingly arranges, offers to provide or solicits the services of a prostitute is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A person who knowingly keeps, maintains, rents, or leases property for the purpose of prostitution is guilty of a misdemeanor.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|10|5." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.060</num>
+      <heading>FAILURE TO REPORT CHILD ABUSE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who reasonably believes that a minor is or has been the victim of physical injury, abuse, endangerment or abandonment of a minor, child abuse, sexual assault or sexual conduct with a minor that appears to have been inflicted on the minor by other than accidental means or that is not explained by the available medical history as being accidental shall immediately report or cause reports to be made of this information to a law enforcement officer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A report is not required under <cite path="|13.10.060">this section</cite> for conduct prescribed by sections 3.10.3 if the conduct involves only minors who are sixteen or seventeen years of age and there is nothing to indicate that the conduct is other than consensual.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person who furnishes a report, information or records required or authorized under <code-code-cite path="attachments|law|III|10|6.">this section</code-code-cite>, or a person who participates in a judicial or administrative proceeding or investigation resulting from a report, information or records required or authorized under <code-code-cite path="attachments|law|III|10|6.">this section</code-code-cite>, is immune from any civil or criminal liability by reason of that action unless the person is proven to have acted with malice or unless the person has been charged with or is suspected of abusing or neglecting the child or children in question.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Reports shall be made immediately by telephone or in person and shall be followed by a written report within seventy-two hours. The reports shall contain:</text>
+        <para>
+          <num>(1)</num>
+          <text>The names and addresses of the minor and the minor's parents or the person or persons having custody of the minor, if known.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The minor's age and the nature and extent of the minor's abuse, child abuse, physical injury or neglect, including any evidence of previous abuse, child abuse, physical injury or neglect.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any other information that the person believes might be helpful in establishing the cause of the abuse, child abuse, physical injury or neglect.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The name of the person making the report.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>For the purposes of <cite path="|13.10.060">this section</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>"Abuse" shall have the same meaning as in <cite path="|13.07.050">Section 13.07.050</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>"Endangerment or abandonment of a minor" shall have the same meaning as in <cite path="|13.06.010">Section 13.06.010</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>"Sexual assault" shall have the same meaning as in <cite path="|13.10.020">Section 13.10.020</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>"Sexual conduct with a minor" shall have the same meaning as in 3.10.3.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Penalty.</text>
+        <para>
+          <num>(1)</num>
+          <text>A person who violates <cite path="|13.10.060">this section</cite> and is a parent, stepparent, guardian, law enforcement officer, teacher, school official, or has responsibility for the care or treatment of the minor, such as a physician, dentist, nurse, psychologist, counselor, social worker, is guilty of a misdemeanor.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person who violates <cite path="|13.10.060">this section</cite> but does not have a relationship to the child described in subsection 1, shall receive a warning for a first violation, is guilty of a misdemeanor for second violation, and is guilty of a felony for subsequent violations.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|10|6." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.11</num>
+    <heading>Offenses Involving Weapons and Explosives</heading>
+    <section>
+      <num>13.11.010</num>
+      <heading>MISCONDUCT INVOLVING FIREARMS.</heading>
+      <text>A person who knowingly discharges a firearm within three hundred (300) feet of any inhabited building or on any road or highway within the Territory, is guilty of a misdemeanor.</text>
+      <para>
+        <num>(a)</num>
+        <text>This offense shall not apply to persons who discharge their firearms for ceremonial or law enforcement purposes, to those who discharge their firearms in protection of their farming or ranching activities, to those who discharge their firearms within a designated area such as an archery or rifle range, or to those who discharge their firearms in accordance with other laws of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to such other penalties prescribed by <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, the firearm may be immediately seized as a civil forfeiture.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|11|1." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.12</num>
+    <heading>Offenses Involving Domesticated Animals</heading>
+    <section>
+      <num>13.12.010</num>
+      <heading>CRUELTY TO DOMESTICATED ANIMALS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who recklessly subjects any animal under his custody or control to mistreatment or neglect, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Mistreatment or neglect includes, but is not limited to torture, mutilation, failure to provide necessary sustenance, and forcibly working animals unfit for labor.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For the purposes of <cite path="|13.12.010">this section</cite>, a domesticated animal is any animal that depends on a human for food, water and shelter, including dogs and cats and other house pets unless otherwise defined by law.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|12|1." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.13</num>
+    <heading>Offenses Against Public Peace, Order, Welfare, and Administration</heading>
+    <section>
+      <num>13.13.010</num>
+      <heading>CURFEW VIOLATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Children under age eighteen shall observe the following curfew schedule:</text>
+        <para>
+          <num>(1)</num>
+          <text>During School Term: Unless accompanied by a lawful custodian, children under age sixteen shall not appear in public places after 9:00 pm; children ages sixteen through seventeen shall not appear in public places after 10:00 pm, regardless of whether they are enrolled in school.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>During Vacation Periods: Unless accompanied by a lawful custodian, children under age sixteen shall not appear in public places after 11:00 pm; children ages sixteen through seventeen shall not appear in public places after 12:00 midnight.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Exceptions: When a school, community, or ceremonial function runs late, curfew is extended for all children until one half-hour after the official close of the function.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A lawful custodian who intentionally fails to enforce the curfew schedule is guilty of a misdemeanor.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|13|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.13.020</num>
+      <heading>DISORDERLY CONDUCT.</heading>
+      <text>A person commits a misdemeanor if, with the intent to disturb the peace and quiet of a community, family or person, he or she:</text>
+      <para>
+        <num>(a)</num>
+        <text>engages in violent or seriously disruptive behavior;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>makes unreasonably excessive noise;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>uses abusive or offensive language or gestures in a manner likely to provoke immediate physical retaliation by another person; or</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>recklessly handles, displays or discharges a deadly weapon or dangerous instrument.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|13|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.13.030</num>
+      <heading>DISRUPTING MEETINGS, PROCESSIONS AND CEREMONIES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who makes any unreasonable disruption, commotion or display with the intent to prevent or obstruct a lawful meeting, procession, ceremony or public gathering is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For purposes of <cite path="|13.13.030">this section</cite>, a person will be considered to have made an "unreasonable disruption" if he or she attends a lawful meeting, procession, ceremony or public gathering while under the influence of alcohol, marijuana or a controlled substance.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|13|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.13.040</num>
+      <heading>DISRUPTING RELIGIOUS CEREMONIES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who recklessly or negligently enters ceremonial area during a religious or ceremonial activity and makes any unreasonable disruption, commotion or display is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For purposes of <cite path="|13.13.040">this section</cite>, a person will be considered to have made an "unreasonable disruption" if he or she enters a ceremonial area during a religious or ceremonial activity while under the influence of alcohol, marijuana or a controlled substance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person who has been previously convicted under <cite path="|13.13.040">this section</cite> and makes an unreasonable disruption is guilty of a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|13|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.13.050</num>
+      <heading>RIOT.</heading>
+      <text>A person who intentionally, knowingly or recklessly induces two or more persons to use force or violence to disturb the public peace, or to create an imminent threat of disturbance while ignoring a lawful demand to vacate the premises, is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|13|5." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.14</num>
+    <heading>Interfering with Administration of Justice</heading>
+    <section>
+      <num>13.14.010</num>
+      <heading>IMPERSONATION OF A PUBLIC OFFICIAL.</heading>
+      <text>A person who intentionally impersonates a law enforcement officer or other public official is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.020</num>
+      <heading>ESCAPE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who unlawfully and knowingly removes himself from official detention or unlawfully and knowingly fails to return to official detention following a temporary leave commits a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For purposes of <cite path="|13.14.020">this section</cite> "official detention" means detention in any facility for custody of persons under charge or conviction of a crime, or any other detention for law enforcement purposes.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.030</num>
+      <heading>HINDERING APPREHENSION OR PROSECUTION.</heading>
+      <text>A person commits a misdemeanor if, with the intent to hinder the apprehension, prosecution, conviction or punishment of another person for a crime, he or she:</text>
+      <para>
+        <num>(a)</num>
+        <text>harbors or conceals the other person;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>provides or aids in providing the other person with a weapon, transportation or a disguise;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>conceals or destroys evidence of the crime, or tampers with a witness, informant, document or other source of information, regardless of its admissibility into evidence;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>warns the other person of impending discovery or apprehension; or</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>volunteers false information to a law enforcement officer.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.040</num>
+      <heading>GIVING FALSE INFORMATION TO AN OFFICER.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who knowingly gives false information to a law enforcement officer is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who intentionally causes the unlawful arrest, detention or imprisonment of another person is guilty of a misdemeanor.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.050</num>
+      <heading>CONTEMPT OF COURT.</heading>
+      <text>A person who intentionally disobeys a lawful order, process or other mandate of the Trial Court is guilty of a misdemeanor.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|5." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.060</num>
+      <heading>RESISTING LAWFUL ARREST.</heading>
+      <text>A person commits a misdemeanor if, with the intent to prevent a law enforcement officer from making a lawful arrest, he or she:</text>
+      <para>
+        <num>(a)</num>
+        <text>uses or threatens to use physical force against the law enforcement officer or another person; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>engages in any other conduct that creates a substantial risk of causing physical injury to a law enforcement officer or another person.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|6." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.070</num>
+      <heading>PERJURY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who makes a sworn statement or affidavit, knowing the same to be untrue, is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who intentionally induces another to make a sworn statement or affidavit, knowing the same to be untrue, is guilty of a felony.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|7." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.080</num>
+      <heading>TAMPERING WITH PUBLIC RECORDS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person commits a misdemeanor if he or she:</text>
+        <para>
+          <num>(1)</num>
+          <text>Knowingly makes a false entry in, or false alteration of, any public record;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Knowingly makes, presents or uses a false record, document or thing with the intent that it be taken as a genuine public record;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Intentionally and unlawfully destroys, conceals, removes or otherwise impairs the accuracy or availability of any public record.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For purposes of <cite path="|13.14.080">this section</cite>, "public record" means any record, document or thing belonging to, or received or kept by a public office for information or recording or where required by law to be kept by others for the information of a public office.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|14|8." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.15</num>
+    <heading>Controlled Substances and Alcohol Related Offenses</heading>
+    <section>
+      <num>13.15.010</num>
+      <heading>USE OR POSSESSION OFFENSES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Possession of Alcoholic Beverages</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who knowingly possesses alcoholic beverages for personal use in violation of tribal law is guilty of a misdemeanor. In addition to any jail sentence or fine the court may require the person to participate in an outpatient counseling program designed and supervised by an alcohol rehabilitation program as a condition of probation or in lieu of a jail sentence.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A person who knowingly possesses alcoholic beverages for personal use in violation of tribal law with one prior conviction for using or possessing alcoholic beverages, is guilty of a misdemeanor. In addition to any jail sentence or fine the court may impose the court may require the person to participate in an outpatient counseling program designed and supervised by an alcohol rehabilitation program.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A person who possesses alcoholic beverages for personal use in violation of tribal law with two or more prior convictions for using or possessing alcoholic beverages, is guilty of a misdemeanor. In addition to any jail sentence or fine the court may impose the court shall require the person to participate in an alcoholic rehabilitation unit for residential treatment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>A person who knowingly possesses alcoholic beverages for sale or distribution in violation of tribal law is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Use or Possession of Marijuana or Controlled Substances</text>
+        <para>
+          <num>(1)</num>
+          <text>A person who knowingly uses or possesses marijuana or controlled substances, for personal use in violation of tribal law is guilty of a misdemeanor. In addition to any jail sentence or fine the court may impose the court may require the person to participate in an out-patient counseling program designed and supervised by a drug rehabilitation program as a condition of probation or in lieu of a jail sentence.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person who knowingly uses or possesses marijuana or controlled substances for personal use in violation of tribal law with one prior conviction for using or possessing marijuana or controlled substances, is guilty of a misdemeanor. In addition to any jail sentence or fine the court may impose the court may require the person to participate in an outpatient counseling program designed and supervised by a drug rehabilitation program.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person who knowingly uses or possesses marijuana or controlled substances for personal use in violation of tribal law with two or more prior convictions for using or possessing marijuana or controlled substances, is guilty of a misdemeanor. In addition to any jail sentence or fine the court may impose the court shall require the person to participate in a drug rehabilitation unit for residential treatment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>A person who knowingly possesses marijuana or controlled substances for sale or distribution in violation of tribal law is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Nothing in <cite path="|13.15.010">this section</cite> shall make it illegal to possess, use or be affected by marijuana or controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(21), or as directed by a physician.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|15|1." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.15.020</num>
+      <heading>BOOTLEGGING.</heading>
+      <text><u>SALE, DISTRIBUTION, TRANSPORTATION OF ALCOHOL, MARIJUANA OR CONTROLLED SUBSTANCES</u>.</text>
+      <para>
+        <num>(a)</num>
+        <text>A person who knowingly sells, distributes, transports or imports or offers to sell, distribute, transport or import alcoholic beverages, marijuana or controlled substances in violation of tribal law is guilty of a felony.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For each offense, the Court shall impose a term of imprisonment of one (1) year and a fine of five thousand ($5,000.00) dollars. Each act of sale, distribution or transportation under Subsection A shall constitute a separate offense. Such sentence shall not be otherwise suspended or deferred, and no parole, probation or other early release shall be authorized.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The mandatory sentence provided for in Subsection B shall not apply if the defendant is a first or second-time offender or the Court finds that extraordinary circumstances justify mitigation of the sentence.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon conviction under Subsection A, the Court shall assess as costs payable to the Tribe the reasonable costs of investigation and prosecution of the offense.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Enforcement</text>
+        <para>
+          <num>(1)</num>
+          <text>Any vehicle or other property knowingly used to facilitate the sale, distribution or transportation of alcoholic beverages, marijuana or a controlled substance may be seized immediately as a civil forfeiture and will not be returned without a showing of good cause before the Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Procedures for disposing of seized property shall be established by the Trial Court and approved by the Tribal Legislature.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|15|2." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.15.030</num>
+      <heading>PRODUCTION, CULTIVATION OR MANUFACTURING OFFENSES.</heading>
+      <text>A person who knowingly produces alcoholic beverages, cultivates marijuana or manufactures a controlled substance, or takes substantial steps toward such production, cultivation or manufacturing, in violation of tribal law is guilty of a felony.</text>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|15|3." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.15.040</num>
+      <heading>INTOXICATION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who is voluntarily under the influence of, or intoxicated by alcoholic beverages, marijuana or a controlled substance, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person who is voluntarily under the influence of, or intoxicated by alcoholic beverages, marijuana or a controlled substance with three or more prior convictions for said offense, committed within the past three years, is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The court may, in its discretion or at the request of another, commit a person convicted of intoxication, if he or she is a repeat offender, to an alcoholic rehabilitation facility for residential treatment, or require the person to participate in an out-patient counseling program designed and supervised by an alcohol or drug rehabilitation program as a condition of probation or in lieu of a jail sentence.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Nothing in <cite path="|13.15.040">this section</cite> shall make it illegal to possess, use or be affected by a controlled substance when authorized for medicinal purposes by a "Practitioner" as defined in 21 U.S.C. § 802(20), or as directed by a physician.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|15|4." type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.15.050</num>
+      <heading>POSSESSION OF DRUG PARAPHERNALIA.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person who possesses, or uses drug paraphernalia to plant, propagate, cultivate, grow, harvest, manufacture, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject, ingest, inhale or otherwise introduce into the human body marijuana or a controlled substance in violation of tribal law is guilty of a misdemeanor.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In determining whether an object is drug paraphernalia, a court or other authority shall consider, in addition to all other logically relevant factors, the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Statements by an owner or by anyone in control of the object concerning its use.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prior convictions, if any, of an owner, or of anyone in control of the object, under any state or federal law relating to marijuana or any controlled substance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The proximity of the object, in time and space, to a direct violation of <cite path="|13.15">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The proximity of the object to marijuana or a controlled substance.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The existence of any residue of marijuana or a controlled substance on the object.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Direct or circumstantial evidence of the intent of an owner, or of anyone in control of the object, to deliver it to persons whom he knows, or should reasonably know, intend to use the object to facilitate a violation of <cite path="|13.15">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The existence and scope of legitimate uses for the object in the community.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Expert testimony concerning its use.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|15|5." type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.16</num>
+    <heading>Juvenile</heading>
+  </container>
+</container>

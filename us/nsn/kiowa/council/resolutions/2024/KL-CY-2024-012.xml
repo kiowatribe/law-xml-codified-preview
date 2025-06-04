@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-012">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-012" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2024-012</num>
   <heading>Kiowa Tribe Executive Branch Four (4) Division Structure And Organizational Chart Act of 2024</heading>
   <meta>
@@ -14,7 +14,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text> The Legislature of the Kiowa Tribe holds the power to enact laws and resolutions as stated in Article VI, Section 6(a) of the Kiowa Tribe Constitution.</text>
+      <text> The Legislature of the Kiowa Tribe holds the power to enact laws and resolutions as stated in <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Kiowa Tribe</cite> Constitution.</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -53,7 +53,7 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing Resolution KL-CY-2024-012 was duly voted upon by the Legislature on August 10, 2024, at a Legislative Regular Session LXXXVIII (88), with a vote of (6) in favor and (0) opposed, (0) abstaining, and (1) absent, according to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing Resolution KL-CY-2024-012 was duly voted upon by the Legislature on August 10, 2024, at a Legislative Regular Session LXXXVIII (88), with a vote of (6) in favor and (0) opposed, (0) abstaining, and (1) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>
       <strong>Michael Primus</strong>
     </text>
@@ -70,19 +70,19 @@
         <thead>
           <tr>
             <th>LEGISLATURE</th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -90,74 +90,74 @@
         </thead>
         <tbody>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
             <td data-text-align="center">X</td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <td data-text-align="center">X</td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <td data-text-align="center">X</td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
             <td data-text-align="center">X</td>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Tiya Rosario</p>
               <p>District #5</p>
             </td>
             <td data-text-align="center">X</td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <td data-text-align="center">X</td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
             <td data-text-align="center">X</td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -165,7 +165,7 @@
     <text>
       <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. <strong>KL-CY-2024-012</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>14th</strong> day of <strong>August</strong>, <strong>2024</strong>, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Resolution No. <strong>KL-CY-2024-012</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>14th</strong> day of <strong>August</strong>, <strong>2024</strong>, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite> and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
     <text>
       <strong>Michael Primus</strong>
     </text>
@@ -196,7 +196,7 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing Order KLO-CY-2024-XXX was duly voted upon by the Legislature on __________________, 2024, at a Legislative Order Session___ with a vote of ______ in favor and ______opposed, and _____ abstaining, and _____absent.  Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing Order KLO-CY-2024-XXX was duly voted upon by the Legislature on __________________, 2024, at a Legislative Order Session___ with a vote of ______ in favor and ______opposed, and _____ abstaining, and _____absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>
       <strong>Michael Primus</strong>
     </text>
@@ -208,19 +208,19 @@
         <thead>
           <tr>
             <th>LEGISLATURE</th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th data-text-align="justify">
+            <th proof="needed" data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -228,92 +228,96 @@
         </thead>
         <tbody>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Tiya Rosario</p>
               <p>District #5</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
     </text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="2.06"/>
     <section>
-      <num>1.1</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.06.010"/>
+      <num codify:value="2.06.010">1.1</num>
       <heading>Short Title</heading>
-      <text>This enactment shall be known as the "Kiowa Tribe Executive Branch Four (4) Divisions and Organizational Chart Act of 2024".</text>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-012">This enactment</cite> shall be known as the "Kiowa Tribe Executive Branch Four (4) Divisions and Organizational Chart Act of 2024".</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.06.020"/>
+      <num codify:value="2.06.020">1.2</num>
       <heading>Purpose</heading>
       <text>This resolution approves Kiowa Tribe Executive Branch, four division and organizational chart structure, for a clear pattern of accountability that enables the delegation of power between the Executive Branch and departments.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|2.06.030"/>
+      <num codify:value="2.06.030">1.3</num>
       <heading>Findings</heading>
       <text>The Legislature hereby finds and declares that:</text>
       <para>
@@ -350,7 +354,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.06.040"/>
+      <num codify:value="2.06.040">1.4</num>
       <heading>Approval and Enactment</heading>
       <text>The Legislature hereby approves and enacts the <em>"Kiowa Tribe Executive Branch Four (4) Division Structure and Organizational Chart Act of 2024".</em></text>
     </section>

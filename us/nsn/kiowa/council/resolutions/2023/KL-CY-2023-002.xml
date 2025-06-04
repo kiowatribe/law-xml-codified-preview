@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-002">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-002" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2023-002</num>
   <heading>Kiowa Tribe Judiciary Act of 2023</heading>
   <meta>
@@ -15,11 +15,11 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text> the Legislature is vested with authority to pass laws and resolutions pursuant to Article VI, Section 6 (a) of the Constitution of the Kiowa Tribe, and;</text>
+      <text> the Legislature is vested with authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6 (a) of the Constitution of the Kiowa Tribe</cite>, and;</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text> the Constitution established a new Judicial Branch for the Tribe including a Tribal Court and Supreme Court, and;</text>
+      <text><cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> established a new Judicial Branch for the Tribe including a Tribal Court and Supreme Court, and;</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -42,7 +42,7 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing Resolution KL-CY-2023-002, was duly voted upon by the Kiowa Tribe Legislature at a duly called Regular Session LXIX, January 14, 2023, with a vote of (6)-Yes, (0)-No, (0)- Abstain, and (1)-Absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing Resolution KL-CY-2023-002, was duly voted upon by the Kiowa Tribe Legislature at a duly called Regular Session LXIX, January 14, 2023, with a vote of (6)-Yes, (0)-No, (0)- Abstain, and (1)-Absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Anita Johnson</text>
     <text>Secretary of the Legislat</text>
     <text>
@@ -65,77 +65,77 @@
         </thead>
         <tbody>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="center">
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center">
               <p>X</p>
               <p>Out of District</p>
             </td>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -143,7 +143,7 @@
     <text>
       <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. KL-CY-2023-002 was presented to the Chairman of the Kiowa Tribe on the _______ day of January, 2023, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Resolution No. KL-CY-2023-002 was presented to the Chairman of the Kiowa Tribe on the _______ day of January, 2023, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
     <text>Anita Johnson</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -177,74 +177,74 @@
         </thead>
         <tbody>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -252,22 +252,25 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on ____________________, 2023, at a Legislative Override Order Session with a vote of _____ in favor and _______ opposed, and _______ abstaining, _______Absent. Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on ____________________, 2023, at a Legislative Override Order Session with a vote of _____ in favor and _______ opposed, and _______ abstaining, _______Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Anita Onco-Johnson</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="5.05"/>
     <text class="center">
       <strong>KIOWA TRIBE JUDICIARY ACT OF 2023</strong>
     </text>
     <text>The following is the Kiowa Tribe Judiciary Act of 2023:</text>
     <section>
-      <num>1</num>
-      <heading>The Justices of the Supreme Court may select any person licensed to practice law in the United States, to serve as a "Judge pro-tem" of the Trial court, until the Justices of the Supreme Court determine a pro-tem appointment is no longer necessary; and,</heading>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|5.05.010"/>
+      <num codify:value="5.05.010">1</num>
+      <text>The Justices of the Supreme Court may select any person licensed to practice law in the United States, to serve as a "<em>Judge pro-tem</em>" of the Trial court, until the Justices of the Supreme Court determine a <em>pro-tem</em> appointment is no longer necessary; and,</text>
     </section>
     <section>
-      <num>2</num>
-      <heading>The Chief Justice of the Supreme Court shall be responsible for managing or delegating the management of the dockets of all Courts in the Judicial Branch.</heading>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|5.05.020"/>
+      <num codify:value="5.05.020">2</num>
+      <text>The Chief Justice of the Supreme Court shall be responsible for managing or delegating the management of the dockets of all Courts in the Judicial Branch.</text>
     </section>
   </attachment>
 </document>

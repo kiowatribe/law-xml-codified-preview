@@ -1,987 +1,887 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-001" codify:doc="Kiowa Code of Law">
-  <num>KL-CY-2023-001</num>
-  <heading>Kiowa Housing Law</heading>
-  <meta>
-    <effective>2023-01-19</effective>
-    <history>
-      <adopted>2023-01-14</adopted>
-    </history>
-    <citations>
-      <citation type="res" url="./adopted/KL-CY-2023-001.pdf">Kiowa Tribe Res. No. KL-CY-2023-001</citation>
-    </citations>
-  </meta>
-  <text>At a duly called Session of the Legislature of the Kiowa Tribe, held this 14th day of January, 2023, the following Resolution and Law was adopted.</text>
-  <recitals>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text> the Legislature is vested with authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6 (a) of the Constitution of the Kiowa Tribe</cite>, and;</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text> the Kiowa Tribe Legislature determined it is in the best interest of the Kiowa Tribe to amend the Kiowa Tribe Housing Authority Law of 2019 to "Kiowa Housing Law" (see attachment), to bring into compliance with the Kiowa Tribe Constitution and laws of the Tribe for the benefit of Tribal Members and delivery of housing services, and;</text>
-    </recital>
-    <recital>
-      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text> that the Kiowa Tribe Legislature hereby enacts the attached law entitled, "Kiowa Housing Law".</text>
-    </recital>
-  </recitals>
-  <procedural-data>
-    <text>
-      <b>CERTIFICATION</b>
-    </text>
-    <text>The foregoing Resolution KL-CY-2023-001, was duly voted upon by the Kiowa Tribe Legislature at a duly called Regular Session LXIX, January 14, 2023, with a vote of (6)-yes and (0)-no, (0)-abstaining, and (1)-absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
-    <text>Anita Johnson</text>
-    <text>Secretary of the Legislature</text>
-    <text>
-      <strong>LEGISLATURE-RESOLUTION NO. KL-CY-2023-001:</strong>
-    </text>
-    <text><strong>SPONSOR: </strong>Anita Johnson, Secretary/District #5</text>
-    <text>
-      <strong>CO-SPONSOR(S):</strong>
-    </text>
-    <text>
-      <table>
-        <thead>
-          <tr>
-            <th>LEGISLATORS</th>
-            <th>YES</th>
-            <th>NO</th>
-            <th>ABSTAIN</th>
-            <th>ABSENT</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Kyle Ataddlety</p>
-              <p>District #1</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center">
-              <p>X</p>
-              <p>Out of District</p>
-            </td>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Michael Primus</p>
-              <p>District #2</p>
-            </td>
-            <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Timothy Satepauhoodle</p>
-              <p>District #3</p>
-            </td>
-            <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Alana Quetone</p>
-              <p>District #4</p>
-            </td>
-            <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Anita Johnson</p>
-              <p>District #5</p>
-            </td>
-            <th>x</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Ben Wolf</p>
-              <p>District #6</p>
-            </td>
-            <th>x</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Warren Queton</p>
-              <p>District #7</p>
-            </td>
-            <th>x</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-    <text>
-      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
-    </text>
-    <text>Resolution No. KL-CY-2023-001 was presented to the Chairman of the Kiowa Tribe on the ______ day of January, 2023, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
-    <text>Anita Johnson</text>
-    <text>Secretary of the Legislature</text>
-    <text>
-      <strong>CHAIRMAN'S ACTION:</strong>
-    </text>
-    <text>[ X ] 	APPROVED</text>
-    <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
-    <text>On this <u>19</u><sup><u>th</u></sup> day of <u>January</u>, 2023.</text>
-    <text>Lawrence Spottedbird,</text>
-    <text>Chairman of the Kiowa Tribe</text>
-    <text>Presented by the Chairman to the Legislature on the __________ day of _______________, 2023.</text>
-    <text>
-      <b>LEGISLATURE'S ACTION:</b>
-    </text>
-    <text>
-      <strong>Override of Chairman's veto:</strong>
-    </text>
-    <text>[    ] 	YES</text>
-    <text>[    ] 	NO</text>
-    <text>
-      <strong>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2023-0XX</strong>
-    </text>
-    <text>
-      <table>
-        <thead>
-          <tr>
-            <th>LEGISLATORS</th>
-            <th>YES</th>
-            <th>NO</th>
-            <th>ABSTAIN</th>
-            <th>ABSENT</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Kyle Ataddlety</p>
-              <p>District #1</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Michael Primus</p>
-              <p>District #2</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Timothy Satepauhoodle</p>
-              <p>District #3</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Alana Quetone</p>
-              <p>District #4</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Anita Johnson</p>
-              <p>District #5</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Ben Wolf</p>
-              <p>District #6</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-          <tr>
-            <td proof="needed" data-text-align="justify">
-              <p>Warren Queton</p>
-              <p>District #7</p>
-            </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-          </tr>
-        </tbody>
-      </table>
-    </text>
-    <text>
-      <b>CERTIFICATION</b>
-    </text>
-    <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on ____________________ 2023, at a Legislative Override Order Session with a vote of _________ in favor and ________ opposed, and _________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
-    <text>Anita Onco-Johnson</text>
-    <text>Secretary</text>
-  </procedural-data>
-  <text class="center">
-    <strong>Kiowa Housing Law</strong>
-  </text>
-  <section>
-    <num>1</num>
-    <heading>CITIATION.</heading>
-    <text><cite path="">This Statute</cite> shall be called the Kiowa Housing Law.</text>
-    <text>Notice to Legislative History: The first tribal legislation concerning the Kiowa Tribe Housing Authority is the KIOWA TRIBE HOUSING AUTHORITY REFORM ACT OF 2017, which authorized the Kiowa Tribe to reform the Tribe's Housing Authority to bring it into compliance with <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> and laws of the Tribe, to take full responsibility to assert the Tribe's sovereign authority to address the housing needs of Members of the Tribe, and to abolish the outdated method of subjecting the Tribe's Housing sovereign status to the full or partial control of the State of Oklahoma by operating the Tribe's Housing Authority, in whole or in part, as a State Agency and to assume total assets of the Kiowa Housing Authority. The second piece of tribal legislation on the issue is the Kiowa Tribe Housing Authority Act of 2019. This amendment is made in 2022 to fix certain errors and inaccuracies as noted below. Two versions of this Law are provided. First is one showing the changes, where additions are underlined. The second version is merely clean, where all changes are accepted and it is the clean version which is the official Kiowa Housing Law.</text>
-  </section>
-  <section>
-    <num>2</num>
-    <heading>HOUSING AUTHORITY CREATED</heading>
-    <para>
-      <num>(A)</num>
-      <text>Pursuant to the Kiowa Tribe Constitution, <cite doc="Constitution of the Kiowa Tribe">Article VI, Sections 1 </cite>and 6, the Kiowa Legislature shall have the power to make laws toward a better government to address the needs of the people, to create commissions, and to establish executive boards. The Legislature therefore created the Kiowa Tribe Housing Authority (hereinafter referred to as the Authority) which is an agency of the Kiowa Tribe having the purposes, powers, and duties as herein or hereafter by law. The Legislature also created the Kiowa Housing Commission as a Constitutional Commission to direct the affairs of the Authority.</text>
-    </para>
-    <para>
-      <num>(B)</num>
-      <text>In any suit, action or proceeding involving the validity or enforcement of or relating to any of its contracts, the Authority shall be conclusively deemed to have become established and authorized to transact business and exercise its powers upon proof of the adoption of this ordinance. A copy of the ordinance duly certified by the Secretary of the Legislature of Kiowa Tribe shall be admissible in evidence in any suit, action or proceeding. The Tribal Courts shall take judicial notice of <cite path="">this Act</cite>.</text>
-    </para>
-    <para>
-      <num>(C)</num>
-      <text>All housing goals shall be documented in the IHP current Kiowa Housing Law, which describes the Authority as the Kiowa Tribally designated Housing Entity (TDHE) and the Recipient as required by the Department of Housing and Urban Development.</text>
-    </para>
-  </section>
-  <attachment id="law">
-    <codified:at path="9.02"/>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|1">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>1</num>
-        <heading>GENERAL PROVISIONS</heading>
-      </container>
-    </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|2">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>2</num>
-        <heading>BOARD OF COMMISSIONERS</heading>
-      </container>
-    </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|3">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>3</num>
-        <heading>POWERS OF THE AUTHORITY</heading>
-      </container>
-    </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|4">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>4</num>
-        <heading>OBLIGATIONS</heading>
-      </container>
-    </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|5">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>5</num>
-        <heading>MISCELLANEOUS PROVISIONS</heading>
-      </container>
-    </codify:insert>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>9</num>
+  <heading>Property</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9.01</num>
+    <heading>Leasing Code - Hearth Act</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9.02</num>
+    <heading>Housing Authority</heading>
     <container>
-      <prefix>Chapter</prefix>
+      <prefix>Subchapter</prefix>
       <num>1</num>
       <heading>GENERAL PROVISIONS</heading>
+      <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
-        <codify:insert path="1" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.010"/>
-        <num codify:value="9.02.010">101</num>
+        <num>9.02.010</num>
         <heading>DECLARATION OF NEED AND LEGISLATIVE FINDINGS.</heading>
         <text>It is hereby declared and found:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>That there exists in some places within the Kiowa Tribe Service Area unsanitary, unsafe, and overcrowded dwelling accommodations; that there is a shortage of decent, safe and sanitary dwelling accommodations available at rents or prices which persons of low income can afford; and that such shortage forces such persons to occupy unsanitary, unsafe and overcrowded dwelling accommodations;</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>That these conditions cause an increase in and spread disease and crime and constitute a menace to health safety, morals and welfare; and that these conditions necessitate excessive and disproportionate expenditures of public funds for crime prevention and punishment, public health and safety protection, fire and accident prevention, and other public services and facilities;</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>That the shortage of decent, safe and sanitary dwellings for persons of low income cannot be relieved through the operation of private enterprises;</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>That the providing of decent, safe and sanitary dwelling accommodations for person of low income are public uses and purposes, for which money may be spent and private property acquired and are governmental functions of Tribal concern;</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>That residential construction activity and a supply of acceptable housing are important factors to general economic activity, and that the undertakings authorized by this ordinance to aid the production of better housing and more desirable neighborhood and community development at a lower cost will make possible a more stable and larger volume of residential construction and housing supply which will assist materially in achieving full employment; and</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>That the necessity in the public interest for the provisions hereinafter enacted is hereby declared as a matter of legislative determination.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|1|101" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.020"/>
-        <num codify:value="9.02.020">102</num>
+        <num>9.02.020</num>
         <heading>PURPOSES.</heading>
         <text>The Authority shall be organized and operated for the purposes of:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Remedying unsafe and insanitary housing conditions that are injurious to the public health, safety and morals;</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>Alleviating the acute shortage of decent, safe and sanitary dwellings for persons of low income; and</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>Providing employment opportunities through the construction, reconstruction, improvement, extension, alteration or repair and operation of low-income dwellings.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|1|102" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="1" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.030"/>
-        <num codify:value="9.02.030">103</num>
+        <num>9.02.030</num>
         <heading>DEFINITIONS.</heading>
         <text>The following terms wherever used or referred to in this ordinance, shall have the following respective meanings, unless a different meaning clearly appears from the context:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>"Area of Operation" means all areas within the jurisdiction of the Tribe.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>"Legislation" means the laws passed by the Kiowa Tribe Legislature.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>"Federal Government" includes the United States of America, the Department of Housing and Urban Development, or any other agency or instrumentality, corporate or otherwise, of the Unites States of America.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>"Homebuyer" means a person(s) who has executed a lease-purchase agreement with the Authority, and who has not yet achieved home ownership.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>"Housing project" or "project" means any work or under-taking to provide or assist in providing (by any suitable method, including but not limited to: Rental, sale of individual units in single or multifamily structures under conventional condominium, or cooperative sales contracts or lease-purchase; loans; or subsidizing of rental or charges) decent, safe and sanitary dwellings apartments, or other living accommodations for persons of low income. Such work or under-taking may include buildings, land, leaseholds, equipment, facilities and other real or personal property for necessary, convenient, or desirable appurtenances, for streets, sewers, water service utilities, parks, site preparation landscaping, and for administrative, community, health, recreational, welfare, or other purposes. The term "housing project" or "project" also may be applied to the planning of the buildings and improvements, the acquisition of property or any interest therein, the demolition of existing structures, the construction, reconstruction, rehabilitation, alteration, or repair of the improvements or other property and all other work in connection therein, and the term shall include all other real and personal property and all tangible or intangible assets held or used in connection with the housing project.</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>"Obligations" means any notes, bonds, interim certificates, debentures, or other forms of obligation issued by the Authority pursuant to this ordinance.</text>
         </para>
         <para>
-          <num>(G)</num>
+          <num>(g)</num>
           <text>"Obligee" includes any holder of an obligation agent or trustee for any holder of an obligation, or lessor death to the Authority property used in connection with a project, or any assignee or assignees of such lessor's interest or any part thereof, and the federal government when it is a party to any contract with the Authority in respect to a housing project.</text>
         </para>
         <para>
-          <num>(H)</num>
+          <num>(h)</num>
           <text>"Persons of low income" means persons or families who cannot afford to pay enough to cause private enterprise in their locality to build an adequate supply of decent, safe and sanitary dwellings for their use.</text>
         </para>
         <para>
-          <num>(I)</num>
+          <num>(i)</num>
           <text>Kiowa Tribal Jurisdiction means, geographically, all those lands within the Reservation of the Kiowa Tribe, including in addition, any lands acquired at any place on earth outside the Reservation of the Kiowa Tribe.</text>
         </para>
         <para>
-          <num>(J)</num>
+          <num>(j)</num>
           <text>"Tribal Court" means the Courts of the Kiowa Tribe.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|1|103" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>Chapter</prefix>
+      <prefix>Subchapter</prefix>
       <num>2</num>
       <heading>BOARD OF COMMISSIONERS</heading>
+      <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.040"/>
-        <num codify:value="9.02.040">201</num>
+        <num>9.02.040</num>
         <heading>COMMISSION CREATED – NUMBER.</heading>
         <text>Pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6</cite>, (h) there is hereby created the Kiowa Housing Commission. The Commission shall provide oversight and direction to the Authority. The Commission shall meet no less than quarterly, and shall make a written report of the operations of the Authority as required in <cite path="attachments|law|5|501" doc="Kiowa Tribe Res. No. KL-CY-2023-001">Section 501</cite>, below, to the Kiowa Chairman and Legislature each quarter. A quarter shall run from the fiscal calendar of the Kiowa Tribe, with the first quarter beginning on October 1, and the first report being due on January 1 each year.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|201" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.050"/>
-        <num codify:value="9.02.050">202</num>
+        <num>9.02.050</num>
         <heading>APPOINTMENT OF BOARD MEMBERS.</heading>
         <text>Five persons shall be nominated by the Chairman, and may be re- nominated by the Chairman with hearing and confirmation before the Legislature. The Judicial Branch shall administer the Oath of Office of each confirmed nominee.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|202" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.060"/>
-        <num codify:value="9.02.060">203</num>
+        <num>9.02.060</num>
         <heading>QUALIFICATIONS OF COMMISSIONERS.</heading>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Every commissioner shall be a citizen of the Kiowa Tribe.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>No person shall be barred from serving on the Housing Commission because he is a tenant or Homebuyer in a housing project of the Authority; and such commissioner shall be entitled to fully participate in all meetings concerning matters that affect all of the tenants or Homebuyers, even though such matters affect him as well. However, no such commissioner shall be entitled or permitted to participate in or be present at any meeting (except in his capacity as a tenant or Homebuyer), or to be counted or treated as a member of the Commission, concerning any matter involving his individual rights, obligations or status as a tenant or a Homebuyer.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>Each commissioner shall be at least twenty-one (21) years of age and legally capable of entering into a binding contract.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>No person who has been convicted in any court of competent jurisdiction of a felony involving embezzlement, fraud, or moral turpitude shall serve on the Housing Commission.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|203" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.070"/>
-        <num codify:value="9.02.070">204</num>
+        <num>9.02.070</num>
         <heading>TERM OF OFFICE.</heading>
         <text>The term of office for each Commissioner shall be four years and staggered. When the Commission is first established, one member's term shall be designated to expire in one year, another to expire in two years, a third to expire in three years, and the last two in four years. "Thereafter, all appointments shall be for four years, except that in the case of a prior vacancy, an appointment shall be only for the length of the unexpired term. Each member of the Commission shall hold office until his successor has been qualified and nominated and confirmed.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|204" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.080"/>
-        <num codify:value="9.02.080">205</num>
+        <num>9.02.080</num>
         <heading>OFFICERS.</heading>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>The Commission shall elect from among its members a Chairman, a Vice-Chairman, a Secretary, and a Treasurer. In the absence of the Chairman, the Vice-Chairman shall preside and in the absence of both the Chairman and the Vice-Chairman, the Secretary shall preside.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|205" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.090"/>
-        <num codify:value="9.02.090">206</num>
+        <num>9.02.090</num>
         <heading>REMOVAL OF COMMISSIONERS.</heading>
         <text>A member of the Commission may be removed by the Legislature or the Chairman for serious inefficiency or neglect of duty or for misconduct in office pursuant to the rules set out in <cite path="attachments|law|1|206" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite>. The Legislature shall provide any commissioner it or the Chairman seeks to remove ten days' notice of a hearing and an opportunity to be heard. If the Commissioner to be removed does not appear at a properly noticed hearing concerning his removal, he shall be summarily removed from office and shall be deemed to consent to removal because he did not appear to contest the removal. If a commissioner facing removal appears at any such hearing to contest the removal, the Speaker of the Legislature shall present the evidence for removal. The commissioner to be removed shall have the opportunity to represent himself, or be represented by legal counsel or a non-lawyer lay advocate of his choosing. A commissioner to be removed shall have the opportunity to present evidence or witnesses on his/her behalf to the Legislature. The rules of evidence and procedure shall be relaxed. The Secretary of the Legislature shall preside over the proceedings. A quorum of Legislators is necessary for any removal proceeding. Every removal proceeding shall be taken publicly. An affirmative vote for removal of 2/3 or more of the quorum of legislators actually present is required for removal. The entire proceeding of removal shall be conducted on the record of the Kiowa Legislature, and all statements shall be recorded, and all documents or other evidence presented shall be recorded. In every case of a hearing on removal, the entire record of the proceedings, together with the charges and findings thereof, shall be filed with the office of the Kiowa Tribe Records Management.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|206" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.100"/>
-        <num codify:value="9.02.100">207</num>
+        <num>9.02.100</num>
         <heading>BUDGET</heading>
         <text>The Commissioners shall submit a budget for the Authority to the Legislature for approval as directed by the Chairman of the Kiowa Tribe. The Commission may seek amendment of its budget when necessary. No funds shall be expended unless the spending complies with the approved or amended budget.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|207" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.110"/>
-        <num codify:value="9.02.110">208</num>
+        <num>9.02.110</num>
         <heading>QUORUM.</heading>
         <text>A quorum of the Commission shall consist of three or more Commissioners. All voting, unless otherwise specified, shall be by simple majority of a quorum.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|208" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.120"/>
-        <num codify:value="9.02.120">209</num>
+        <num>9.02.120</num>
         <heading>DUTIES OF OFFICERS.</heading>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>The Chairman of the Commission shall preside at all meetings of the Commission and shall generally be responsible for the efficient and orderly functioning of the Commission.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>The Vice-Chairman of the Commission shall assume the duties of the Chairman in his absence, or upon his neglect, failure, or refusal to undertake the duties required or delegated to him by law.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>The Secretary of the Commission shall keep complete and accurate records of all meetings and actions taken by the Commission or may choose to designate this duty to Commissioner. One copy of the record of the meetings and actions taken by the Board shall be filed in Office of Records Management a secure location in the Kiowa Tribe Housing Authority Office.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>The Treasurer shall keep full and accurate financial records, make monthly reports to the Commission, and submit a complete annual report, in written form to the Legislature and Executive branch and the KIC of the Kiowa Tribe as required by <cite path="attachments|law|5|501" doc="Kiowa Tribe Res. No. KL-CY-2023-001">Section 501 </cite>of this Ordinance.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|209" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="2" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.130"/>
-        <num codify:value="9.02.130">210</num>
+        <num>9.02.130</num>
         <heading>MEETINGS.</heading>
         <text>Regular meetings of the Commission shall be held at least once each Quarter on such day as may be established by rule of the Commission. Public notice shall be provided of all regular meetings for at least 10 days by posting at the Tribal Complex, at the Authority, and on the webpage of the Kiowa Tribe. Special or emergency meetings may be held by posting at the Tribal Complex, at the Authority, and on the webpage of the Kiowa Tribe twenty-four (24) hours before the meeting. If a meeting is called as a special or emergency meeting all business transacted must be approved by no less than a majority of the full board.</text>
         <text>All meetings of the Commission shall be free and open to the public.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|2|210" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>Chapter</prefix>
+      <prefix>Subchapter</prefix>
       <num>3</num>
       <heading>POWERS OF THE AUTHORITY</heading>
+      <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.140"/>
-        <num codify:value="9.02.140">301</num>
+        <num>9.02.140</num>
         <heading>PERIOD OF EXISITENCE.</heading>
         <text>The Authority shall have perpetual existence and succession in its own name.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|301" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.150"/>
-        <num codify:value="9.02.150">302</num>
+        <num>9.02.150</num>
         <heading>POWER TO SUE AND BE SUED.</heading>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>The Authority shall have the power to sue in any Court in its own name, and upon approval by the Legislature in the name of the Kiowa Tribe under the style "Kiowa Tribe ex rel. Kiowa Tribe Housing Authority."</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>The Authority, as an agency of the Kiowa Tribe, and its officers, agents, and employees shall be immune from suit in law or equity except as specifically set out in subsections C and D of <cite path="attachments|law|3|302" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this Section</cite>, or as otherwise provided by the laws of the Kiowa Tribe.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>Subject to the limitations of Article X of the Kiowa Constitution, the sovereign immunity of the Authority is hereby waived, in the Kiowa Tribal Courts only, for any suit requesting injunctive or declaratory relief only, on behalf of any participant or applicant for services from the Authority.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>Subject to the limitations of Article X of the Kiowa Constitution, the sovereign immunity of the Authority is hereby waived, into any United States Court of competent jurisdiction, including appeals therefrom, for any suit or proceeding in which the United States or the United States Department of Housing and is plaintiff, and is which financial obligations of the Housing Authority to the federal government or the enforcement of federal requirements for Indian Housing programs are the issues.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>Notwithstanding the waivers of immunity contained in <cite path="attachments|law|3|302" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this Section</cite>, the property of the Authority and the property of the Kiowa Tribe shall be exempt from execution and sale or other civil process on aid of, or as a substitute for execution or any other form of forced sale upon any money judgement, except property expressly mortgaged or pledged by the Housing Authority.</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>Nothing herein waives the immunity of the Commission, the Commissioners, the Kiowa Legislature, the Kiowa Executive, the Kiowa Tribe, or any officer, director or employee of the Kiowa Tribe or any Commission or Department or office of the Kiowa Tribe.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|302" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.160"/>
-        <num codify:value="9.02.160">303</num>
+        <num>9.02.160</num>
         <heading>GENERAL POWERS.</heading>
         <text>The Authority shall have the following powers which it may exercise consistent with the purposes for which it is established:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>To adopt and use a corporate seal.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>To enter into agreements, contracts and understanding with any governmental agency, Federal, state or local (including the Tribe) or with any person, partnership, corporation or Indian Tribe; and to agree to any conditions attached to federal financial assistance.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>To agree, notwithstanding anything to the contrary contained in this ordinance or in any other provision of law, to any conditions attached to federal financial assistance relating to the determination of prevailing salaries or wages or payment of not less than prevailing salaries or wages or compliance with labor standards, in the development or operation of projects; and the authority may include in any contract let in connection with a project stipulations requiring that the contractor and any subcontractors comply with requirements as to maximum hours of labor and comply with any conditions which the Federal government may have attached to its financial aid to the project.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>To obligate itself, in any contract with the Federal government for annual contributions to the Authority to convey to the Federal government possession of or title to the project to which such contract relates upon the occurrence of substantial default (as defined in such contract) with respect to the covenants or conditions to which the Authority is subject; and such contract may further provide that in case of such conveyance, the Federal government may complete, operate, manage, lease, convey or otherwise deal with the project and funds in accordance with the terms of such contract; provided that the contract requires that, as soon as practicable after the Federal government is satisfied that all defaults with respect to the project have been cured and that the project will thereafter be operated in accordance with the terms of the contract, the Federal government shall reconvey to the Authority the project as then constituted.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>To lease property from the Tribe and others for such periods as are authorized by law, and to hold and manage or to sublease the same.</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>To borrow or lend money, to lease temporary or long-term evidence of indebtedness, and to repay the same. Obligations shall be issued and prepaid in accordance with the provisions of Chapter Four of this ordinance.</text>
         </para>
         <para>
-          <num>(G)</num>
+          <num>(g)</num>
           <text>To pledge the assets and receipts of the Authority as security for debts; and to acquire, sell, lease, exchange, transfer or assign personal property or interest therein.</text>
         </para>
         <para>
-          <num>(H)</num>
+          <num>(h)</num>
           <text>To purchase land or interest in land or take the same gift; to lease land or interest in land to the extent provided by law.</text>
         </para>
         <para>
-          <num>(I)</num>
+          <num>(i)</num>
           <text>To undertake and carry out studies and analyses of housing need, to prepare housing needs to execute the same, operate projects and to provide for construction, reconstruction, improvement, extension, alteration or repair of any project or any part thereof.</text>
         </para>
         <para>
-          <num>(J)</num>
+          <num>(j)</num>
           <text>With respect to any dwellings, accommodations, lands buildings or facilities embraced within any project (including individual cooperative or condominium units). To lease or rent, sell, enter into lease-purchase agreements or leases with option to purchase; to establish and revise rents or required monthly payments; to make rules and regulations concerning the selection of tenants or Homebuyers including the establishment of priorities, and concerning the occupancy, rental, care and management of housing units; and to make such further rules and regulations as the Board may deem necessary and desirable to effectuate the powers granted by this ordinance. <u>Provided</u>, that all such rules and regulations shall be filed for records in the Tribal Secretary's office prior to being given any force or effect.</text>
         </para>
         <para>
-          <num>(K)</num>
+          <num>(k)</num>
           <text>To finance purchase of a home by an eligible homebuyer in accordance with regulations and requirements of the Department of Housing and Urban Development.</text>
         </para>
         <para>
-          <num>(L)</num>
+          <num>(l)</num>
           <text>To terminate any lease or rental agreement when the tenant or Homebuyer has violated the terms of such agreement, or failed to meet any of its obligations thereunder, or when such termination is otherwise authorized under the provisions of such agreement; and to bring action for eviction against such tenant or Homebuyer.</text>
         </para>
         <para>
-          <num>(M)</num>
+          <num>(m)</num>
           <text>To establish income limits for admission to ensure that dwelling accommodations in a housing project shall be made available only to persons of specified levels of income.</text>
         </para>
         <para>
-          <num>(N)</num>
+          <num>(n)</num>
           <text>To purchase insurance from any stock or mutual company for any property or against any risk or hazards.</text>
         </para>
         <para>
-          <num>(O)</num>
+          <num>(o)</num>
           <text>To invest such funds as are not required for immediate disbursements.</text>
         </para>
         <para>
-          <num>(P)</num>
+          <num>(p)</num>
           <text>To establish and maintain such bank accounts as may be necessary or convenient.</text>
         </para>
         <para>
-          <num>(Q)</num>
+          <num>(q)</num>
           <text>To employ an executive director, technical and maintenance personnel and such other officers and employees, permanent or temporary, as the Authority may require; and to delegate to such officers and employees such powers or duties as the Board shall deem proper.</text>
         </para>
         <para>
-          <num>(R)</num>
+          <num>(r)</num>
           <text>To take such further actions as are commonly engaged in by public bodies of this character as the Board may deem necessary and desirable to effectuate the purposes of the Authority.</text>
         </para>
         <para>
-          <num>(S)</num>
+          <num>(s)</num>
           <text>To join or cooperate with any public housing agency or agencies operating under the laws or ordinances of a State or another tribe in the exercise, either jointly or otherwise, of any or all of the powers of the Authority and such other public housing agency or agencies for the purposes of financing including but not limited to the issuance of notes or other obligations and giving security therefore; planning, undertaking, owning, constructing, operating, or contracting with respect to a housing project or projects of the Authority or such other public housing agency or agencies, so joining or cooperating with the Authorities agent or otherwise, in the name of the Authority or in the name of such agency or agencies.</text>
         </para>
         <para>
-          <num>(T)</num>
+          <num>(t)</num>
           <text>To adopt such rules and regulations for the government of its affairs as the Commission deems necessary or appropriate to administer or enforce this ordinance and its activities thereunder, <u>Provided</u>, that all such rules and regulations shall be filed for record in the with the office of the Kiowa Tribe Records Management for 30 days prior to being given any force or effect.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|303" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.170"/>
-        <num codify:value="9.02.170">304</num>
+        <num>9.02.170</num>
         <heading>SECURING FINANCIAL ASSISTANCE.</heading>
         <text>It is the purpose and intent of this ordinance to authorize the Authority to do any and all things necessary or desirable to secure the financial aid or cooperation of the Federal government in the undertaking, construction, maintenance or operation of any project by the Authority.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|304" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.180"/>
-        <num codify:value="9.02.180">305</num>
+        <num>9.02.180</num>
         <heading>CERTAIN PROPERTY LAWS DO NOT APPLY.</heading>
         <text>Unless they specifically conflict with requirements in this Housing Law, the laws of the Kiowa Tribe shall be applicable to the Authority.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|305" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.190"/>
-        <num codify:value="9.02.190">306</num>
+        <num>9.02.190</num>
         <heading>CONSENT FOR NON-MEMBER TRUST ACQUISITIONS.</heading>
         <text>Prior to making any final conveyance to a program participant of title to a home the Authority shall counsel with such program participant regarding the feasibility or advisability of placing title in trust with the United States for such individual pursuant to Federal Law. Upon request of the program participant the Authority shall assist the program participant in submitting a request to the Secretary of the Interior to take such property in trust. The consent of the Kiowa Tribe is hereby given for any Indian who is a participant project of the Authority to acquire ownership of his or her home in trust where such lands fall within the reservation of the Kiowa Tribe.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|306" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.200"/>
-        <num codify:value="9.02.200">307</num>
+        <num>9.02.200</num>
         <heading>TITLE.</heading>
         <text>Subject to any debt or obligation validly undertaken by the Authority, title to any real property presently held or later acquired by the Authority shall name the Kiowa Tribe as the record title owner. The Authority may, where the Commission deems appropriate, and the Chairman of the Kiowa Tribe concurs, place property in Trust with the United States of America for the use and benefit of the Kiowa Tribe.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|307" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="3" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.210"/>
-        <num codify:value="9.02.210">308</num>
+        <num>9.02.210</num>
         <heading>MINERAL INTERESTS IN REAL PROPERTY.</heading>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Title to any mineral interests, including oil and gas interest, acquired by the Authority is hereby declared to be and is severed and vested in the Kiowa Tribe as of date of its acquisition by the Authority, and the Authority shall make such conveyances of the mineral interest in such form as may be necessary to clarify such severance and vesting of title on the record.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>All presently operating mineral leases shall be transferred to the Kiowa Tribe, and all revenues and proceeds derived from any mineral interest shall be deposited in the General Treasury of the Kiowa Tribe.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|3|308" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>Chapter</prefix>
+      <prefix>Subchapter</prefix>
       <num>4</num>
       <heading>OBLIGATIONS</heading>
+      <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.220"/>
-        <num codify:value="9.02.220">401</num>
+        <num>9.02.220</num>
         <heading>AUTHORITY TO ISSUE OBLIGATIONS.</heading>
         <text>Subject to confirmation by the Commission, the Authority may issue obligations from time to time in its discretion for any of its purposes and may also issue refunding obligations for the purpose of paying or retiring obligations previously issued by it. The Authority may issue such types of obligations as it may determine, including obligations on which the principal and interest are payable:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Exclusively from the income and revenues of the project financed with the proceeds of such obligations, or with such income and revenues together with a grant from the Federal government in aid of such project;</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>Exclusively from the income and revenues of certain designated projects whether or not they were financed in whole or impart with the proceeds of such obligations; or</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>From its revenues generally; any of such obligations may be additionally secured by a pledge of any revenues of any project or other property of the Authority.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|401" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.230"/>
-        <num codify:value="9.02.230">402</num>
+        <num>9.02.230</num>
         <heading>NO PERSONAL LIABILITY ON OBLIGATIONS.</heading>
         <text>Neither the commissioners of the Authority nor any person executing the obligations shall be liable personally on the obligations by reason of issuance thereof.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|402" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.240"/>
-        <num codify:value="9.02.240">403</num>
+        <num>9.02.240</num>
         <heading>NO TRIBAL LIABILITY ON OBLIGATIONS.</heading>
         <text>The notes and other obligations of the Authority shall not be debt of the Tribe and the obligations shall so state on their face.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|403" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.250"/>
-        <num codify:value="9.02.250">404</num>
+        <num>9.02.250</num>
         <heading>OBLIGATIONS ARE TAX EXEMPT.</heading>
         <text>Obligations of the Authority are declared to be issued for an essential public and governmental purpose and to be public instrumentalities and, together with interest and income therefrom, shall be exempt from taxes imposed by the Tribe. The tax exemption provisions of this ordinance shall be considered part of the security for the repayment of obligations and shall constitute, by virtue of this ordinance and without necessity of being restate in the obligations, a contract between (a) the Authority and the Tribe and (b) the holders of obligations and each of them including all transferees of the obligations from time to time.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|404" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.260"/>
-        <num codify:value="9.02.260">405</num>
+        <num>9.02.260</num>
         <heading>MANNER OF ISSUANCE AND SALES.</heading>
         <text>Obligations shall be issued and sold in the following manner:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Obligations of the Authority shall be authorized by a resolution adopted by the vote of a majority of the full Board and may be issued in one or more series.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>The obligations shall bear such dates, mature at such times, bear interest and such rates, be in such denominations, be in such form, either coupon or registered, carry such conversion or registration privileges, have such rank or priority, be executed in such manner, be payable in such medium of payment and at such places, and be subject to such terms of redemption, with or without premium as such resolution may provide.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>The obligations may be sold at public or private sale at not less than par.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>In case any of the commissioners of the Authority whose signatures appear on any obligations cease to be commissioners before the delivery of such obligations, the signatures shall, nevertheless, be valid and sufficient for all purposes, the same as if the commissioners had remained in office until delivery.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>Whenever necessary, the Authority shall comply in the issuance of its obligations with the Securities laws of the Federal Government.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|405" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.270"/>
-        <num codify:value="9.02.270">406</num>
+        <num>9.02.270</num>
         <heading>OBLIGATIONS ARE NEGOTIABLE.</heading>
         <text>Obligations of the Authority shall be fully negotiable. In any suit, action or proceeding involving the validity or enforceability of any obligation of the Authority or the security therefore, any such obligation by the Authority to aid in financing a project pursuant to this ordinance shall be conclusively deemed to have been planned, located and carried out in accordance with the purposes and provisions of this ordinance.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|406" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.280"/>
-        <num codify:value="9.02.280">407</num>
+        <num>9.02.280</num>
         <heading>SECURITY FOR OBLIGATIONS.</heading>
         <text>In connection with the issuance of obligations or incurring of obligations under leases and to secure the payment of such obligations, the Authority, subject to the limitations in this ordinance, may:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Pledge all or any part of its gross or net rents, fees or revenues to which its rights then exists or may thereafter come into existence.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>Provide for the powers and duties of obligees and limit their liabilities; and provide the terms and condition on which such obligees may enforce and covenant or rights securing or relating to the obligations.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>Covenant against pledging all or any part of its rents, fees and revenues or personal property to which its title or right then exists or may thereafter come into existence or permitting or suffering any lien on such revenues or property.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>Covenant with respect to limitations on its right to sell, lease, or otherwise dispose of any project or any part thereof.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>Covenant as to obligations to be issued and as to the issuance of such obligations in escrow or otherwise, and as to the use and disposition of the proceeds thereof.</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>Provide for the replacement of lost, destroyed or mutilated obligations.</text>
         </para>
         <para>
-          <num>(G)</num>
+          <num>(g)</num>
           <text>Covenant against extending the time for the payment of its obligations or interest thereon.</text>
         </para>
         <para>
-          <num>(H)</num>
+          <num>(h)</num>
           <text>Redeem the obligations and covenant for their redemption and provide the terms and conditions thereof.</text>
         </para>
         <para>
-          <num>(I)</num>
+          <num>(i)</num>
           <text>Covenant concerning the rents and fees to be charged in the operation of a project or projects, the amount to be raised each year or other period of time by rents, fees and other revenues, and as to the use and disposition to be made thereof.</text>
         </para>
         <para>
-          <num>(J)</num>
+          <num>(j)</num>
           <text>Create or authorize the creation of special funds for monies held for construction or operating costs, debt service, reserves or other purposes, and covenant as to the use and disposition of the monies held in such funds.</text>
         </para>
         <para>
-          <num>(K)</num>
+          <num>(k)</num>
           <text>Prescribe the procedure, if any by which the terms of any contract with holders of obligations may be amended or abrogated, the proportion of outstanding obligations the holders or which must consent thereto, and the manner in which such consent may be given.</text>
         </para>
         <para>
-          <num>(L)</num>
+          <num>(l)</num>
           <text>Covenant as to the use, maintenance and replacement of it real or personal property, the insurance to be carried thereon and the use and disposition of insurance monies.</text>
         </para>
         <para>
-          <num>(M)</num>
+          <num>(m)</num>
           <text>Covenant as to the rights, liabilities, powers and duties arising upon the breach by it of any covenant, condition or obligation.</text>
         </para>
         <para>
-          <num>(N)</num>
+          <num>(n)</num>
           <text>Covenant and prescribed as to events of default and terms and conditions upon which any or all of its obligations become or may be declared due before maturity, and as to the terms and conditions upon which such declaration and its consequences may be waived.</text>
         </para>
         <para>
-          <num>(O)</num>
+          <num>(o)</num>
           <text>Vest in any obliges or any proportion of them the right to enforce the payment of the obligations or any covenants, security or relating to the obligations.</text>
         </para>
         <para>
-          <num>(P)</num>
+          <num>(p)</num>
           <text>Exercise all or any part or combination of the powers granted in <cite path="attachments|law|3|407" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite>.</text>
         </para>
         <para>
-          <num>(Q)</num>
+          <num>(q)</num>
           <text>Make covenants other than and in addition to the covenants expressly authorized in <cite path="attachments|law|3|407" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite>, or like or different character.</text>
         </para>
         <para>
-          <num>(R)</num>
+          <num>(r)</num>
           <text>Make any covenants and do any acts and things necessary or convenient or desirable in order to secure its obligations, or in the absolute discretion of the Authority, tending to make the obligations more marketable although the covenants, acts or things are not enumerated in <cite path="attachments|law|3|407" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite>.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|407" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="4" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.290"/>
-        <num codify:value="9.02.290">408</num>
+        <num>9.02.290</num>
         <heading>ACTIONS TO BE FILED FOR RECORD.</heading>
         <text>The minutes and record of all actions of the Authority with respect to obligations issued by it shall be filed for record in the office of the Kiowa Tribe Records Management.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|4|408" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
-      <prefix>Chapter</prefix>
+      <prefix>Subchapter</prefix>
       <num>5</num>
       <heading>MISCELLANEOUS PROVISIONS</heading>
+      <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.300"/>
-        <num codify:value="9.02.300">501</num>
+        <num>9.02.300</num>
         <heading>REPORTS.</heading>
         <text>Every report of the Authority shall be signed by the Chairman of the Commission who shall attest, under oath, that the statements contained within the report are true and accurate to the best of her knowledge and ability. Each report of the Authority shall, at a minimum, address:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>a summary of the activities since the last report;</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>the financial condition of the Authority;</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>the title and condition of all real estate managed by or acquired by the Authority;</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>the number of units and vacancies;</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>any significant problems and accomplishments; and</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>plans for the following quarter and year.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|501" type="History"/>
+        </annotations>
       </section>
       <section>
         <heading>ACQUISITION OF INTEREST PROHIBITED.</heading>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.310"/>
-        <num codify:value="9.02.310">502</num>
+        <num>9.02.310</num>
         <heading>ACQUISITION OF INTEREST PROHIBITED.</heading>
         <text>During his/her tenure and for three (3) years thereafter, no commissioner, officer, or employee of the Authority, or any member of the Legislative or Executive branch of the Kiowa Tribe, or any other public official who exercises any responsibilities or functions with regard to the project, shall voluntarily acquire any interest direct or indirect, in any project of in any property, included or planned to be included in any project, or in any contract or proposed contract relating to any project. Unless prior to such acquisition, he/she discloses his interest in writing to the Authority and such disclosure is entered upon the minutes of the Authority, and the commissioner, officer or employee shall not participate in any action by the Authority relating to the property or contract in which he/she has any such interest. If any commissioner, officer, or employee, of the Authority involuntarily acquires any such interest, or voluntarily or involuntarily acquired any such interest prior to appointment or employment as a commissioner, officer or employee, the commissioner, officer or employee in any such event, shall immediately disclose his interest in writing to the Authority, and such disclosure shall be entered upon the minutes of the Authority, and commissioner, officer or employee shall not participate in any action by the Authority relating to the property or contract in which he has any interest. Any violation of the foregoing provisions of <cite path="attachments|law|5|502" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite> shall constitute misconduct in office and shall be grounds for removal. <cite path="attachments|law|5|502" doc="Kiowa Tribe Res. No. KL-CY-2023-001">This section</cite> shall not be applicable to the acquisition of any interest in obligations of the Authority issued in connection with any project, or to execution of agreements by banking institutions for the deposit or handling of funds in connection with a project or to act as trustee under any trust indenture, or to utility services the rate for which are fixed or controlled by a governmental agency, or to membership on the Board as provided in <cite path="attachments|law|1|203|(B)" doc="Kiowa Tribe Res. No. KL-CY-2023-001">Section 203(B)</cite>.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|502" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.320"/>
-        <num codify:value="9.02.320">503</num>
+        <num>9.02.320</num>
         <heading>COMPLIANCE WITH FEDERAL LAW.</heading>
         <text>Each project developed or operated under a contract providing for Federal financial assistance shall be developed and operated in compliance with all requirements of such contract and applicable Federal legislation, and with all regulations and requirements prescribed from time to time by the Federal government in connection with such assistance.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|503" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.330"/>
-        <num codify:value="9.02.330">504</num>
+        <num>9.02.330</num>
         <heading>FIDELITY BONDS.</heading>
         <text>The Authority shall obtain or provide for the obtaining of adequate fidelity bond handling cash, or authorized to sign checks or certify vouchers for all officers and employees.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|504" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.340"/>
-        <num codify:value="9.02.340">505</num>
+        <num>9.02.340</num>
         <heading>ALL OPERATIONS NOT FOR PROFIT.</heading>
         <text>The Authority shall not construct or operate any project for profit.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|505" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.350"/>
-        <num codify:value="9.02.350">506</num>
+        <num>9.02.350</num>
         <heading>PROPERTY OFAUTHORITY AS PUBLIC PROPERTY.</heading>
         <text>The property of the Authority of the Kiowa Tribe is declared to public property used for essential public and governmental purposes.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|506" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.360"/>
-        <num codify:value="9.02.360">507</num>
+        <num>9.02.360</num>
         <heading>NO EXECUTION OF AUTHORITY PROPERTY.</heading>
         <text>All property including funds acquired or held by the Authority pursuant to this ordinance shall be exempt from levy and sale by virtue of an execution, and no execution or other judicial process shall issue the same nor shall any judgement against the Authority be deemed to be a charge or lien upon such property. However the provisions of <cite path="attachments|law|5|507" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite> shall not apply to or limit the right of obliges to pursue any remedies for enforcement of any pledge or lien given by the Authority on its rents, fees or revenues or the right of the Federal government to pursue any remedies conferred upon it pursuant to the provisions of this ordinance or the right of the Authority to bring eviction actions in accordance with <cite path="attachments|law|3|303|(E)" doc="Kiowa Tribe Res. No. KL-CY-2023-001">Section 303(E)</cite>.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|507" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.370"/>
-        <num codify:value="9.02.370">508</num>
+        <num>9.02.370</num>
         <heading>RESERVED.</heading>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|508" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.380"/>
-        <num codify:value="9.02.380">509</num>
+        <num>9.02.380</num>
         <heading>RESERVED.</heading>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|509" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.390"/>
-        <num codify:value="9.02.390">510</num>
+        <num>9.02.390</num>
         <heading>RESERVED.</heading>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|510" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.400"/>
-        <num codify:value="9.02.400">511</num>
+        <num>9.02.400</num>
         <heading>COOPERATION IN CONNECTION WITH PROJECTS.</heading>
         <text>For the purposes of aiding and cooperating in the planning, undertaking, construction or operation or projects, the Tribe hereby declares that:</text>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>It will not levy or impose any real or personal property taxes or special assessments upon the Authority or any project of the Authority in any amount in excess of any such taxes imposed on similar or like property not owned, leased or used by the Authority. In lieu of taxes on its property an authority may enter into an agreement with the Tax Commission to pay such amount as the Tax Commission finds consistent with the maintenance of the low-rent character of housing projects and the purposes of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this Act</cite>, <u>provided</u>, that the Tax Commission shall not approve any in lieu agreement in which the in lieu payment would be less than ten percent (10%) of the total of all charges to all tenants of a project for dwelling rents and non-dwelling rents less the cost of all utility charges paid by the Authority, <u>provided further</u>, that the in lieu agreement shall not apply to any portion of a project used as a profit making enterprise when the Authority may pass such taxes as may be due through to the operator or other tenant of such portion of the project by contract or otherwise.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>It will furnish or cause to be furnished to the Authority and the occupants of projects all services and facilities of the same character and to the same extent as the Tribe furnishes from time to time without cost or charge to other dwellings and inhabitants.</text>
         </para>
         <para>
-          <num>(C)</num>
+          <num>(c)</num>
           <text>Insofar as it may lawfully do so, it will grant such deviations from any present or future building or housing codes of the Tribe as are reasonable and necessary to promote economy and efficiency in the development and operation of any project and at the same time safeguard health and safety, and make such changes in the zoning of the site and surrounding territory of any project as are reasonable and necessary for the development of such project and the surrounding territory.</text>
         </para>
         <para>
-          <num>(D)</num>
+          <num>(d)</num>
           <text>It will do any and all things, within its lawful powers, necessary or convenient to aid and cooperate in the planning, undertaking, construction or operation or projects.</text>
         </para>
         <para>
-          <num>(E)</num>
+          <num>(e)</num>
           <text>The Tribal Government hereby declares that the powers of the Tribal Government shall be vigorously utilized to enforce eviction of a tenant or Homebuyer for nonpayment or other contract violations including action through the appropriate courts.</text>
         </para>
         <para>
-          <num>(F)</num>
+          <num>(f)</num>
           <text>The Tribal Courts shall have jurisdiction to hear and determine an action for eviction of a tenant or Homebuyer. The Tribal Government hereby declares that the powers of the Tribal Courts shall be vigorously utilized to enforce eviction of a tenant or Homebuyer for nonpayment or other contract violations.</text>
         </para>
         <para>
-          <num>(G)</num>
+          <num>(g)</num>
           <text>The provisions of <cite path="attachments|law|5|511" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite> shall remain in effect with respect to any project, and said provisions shall not be abrogated, changed or modified without the consent of the Department of Housing and Urban Development, so long as (a) the project is owned by a public body or governmental agency and is used for low income housing purposes, (b) and a contract between the Authority and the Department of Housing and Urban Development for loans or annual contributions or both, in connection with such project remains in force and effect with such project or any monies due to the Department of Housing and Urban Development in connection with such project remain unpaid, whichever period ends the latest. If any time title to, or possession of any project is held by any public body or governmental agency authorized by law to engage in the development or operation of low-income housing including the Federal government, the provisions of <cite path="attachments|law|5|511" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this section</cite> shall insure to the benefit of and be enforce by such public body or governmental agency.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|511" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.410"/>
-        <num codify:value="9.02.410">512</num>
+        <num>9.02.410</num>
         <heading>RESERVED.</heading>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|512" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.420"/>
-        <num codify:value="9.02.420">513</num>
+        <num>9.02.420</num>
         <heading>APPROVAL OF CONTRACTS.</heading>
         <text>With respect to any financial assistance contract between the Authority and the Federal government, the Authority shall obtain the approval of the Tribal Chairman.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|513" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.430"/>
-        <num codify:value="9.02.430">514</num>
+        <num>9.02.430</num>
         <heading>JUDICIAL NOTICE.</heading>
         <text>The Tribal Court shall take Judicial notice of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-001">this Act</cite> and of all rules and regulations of the Authority which have been filed for record in the office the Kiowa Tribe Records Management. The certificate of the Director of the Kiowa Tribe Records Management as to the fact that an instrument is a true and exact copy of the record on file in the Kiowa Tribe Records Management office shall create a presumption that the instrument certified is a true and correct representation of the original properly filed.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|514" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.440"/>
-        <num codify:value="9.02.440">515</num>
+        <num>9.02.440</num>
         <heading>PERSONNEL POLICIES TO BE ENACTED.</heading>
         <text>The Authority shall prepare a Personnel Policy Manual which shall not conflict with the Personnel Policy of the Kiowa Tribe.</text>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|515" type="History"/>
+        </annotations>
       </section>
       <section>
-        <codify:insert path="5" renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|9.02.450"/>
-        <num codify:value="9.02.450">516</num>
+        <num>9.02.450</num>
         <heading>PROVISIONS RELATING TO PROGRAM PATICIPANT INTERESTS IN HUD PROGRAMS.</heading>
         <para>
-          <num>(A)</num>
+          <num>(a)</num>
           <text>Participants in Authority programs funded by the Department of Housing and Urban Development, whether low rent, mutual help, or otherwise, do not have nor may they attain any equitable interest in any real property to which the Department of Housing and Urban Development holds any mortgage, annual contributions contract, lien, or similar interest provided that such participants obtain an equitable interest in such properties upon their successful completion of the mutual help program when the only function left to Kiowa Tribe Housing Authority is the ministerial function of issuance of a deed or other instrument of conveyance of the real property in question, or upon the written approval of the Department of Housing and Urban Development for granting of such interest notwithstanding the mortgage, annual contributions contract, lien, or similar interest.</text>
         </para>
         <para>
-          <num>(B)</num>
+          <num>(b)</num>
           <text>In accordance with regulations of the Department of Housing and Urban Development, the Kiowa Tribe Housing Authority shall have sole and exclusive authority to terminate any lease agreement or mutual help and occupancy agreement between the Kiowa Tribe Housing Authority and program participant when the acquisition or construction of improvements on the real property being occupied by the participant has been funded by the United States Department of Housing and Urban Development. Whenever the lease agreement or mutual help and occupancy agreement between a program participant and the Kiowa Tribe Housing Authority has been so terminated, an action in forcible entry and detainer shall lie in the Courts of the Kiowa Tribe for the eviction of the program participant from the real estate, and the collection of all sums due the Kiowa Tribe Housing Authority, however said sums be designated.</text>
         </para>
+        <annotations>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
+          <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law|5|516" type="History"/>
+        </annotations>
       </section>
     </container>
-  </attachment>
-</document>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9.03</num>
+    <heading>Housing Assistance For Renovation/Repairs And Rental Costs Startup</heading>
+    <section>
+      <num>9.03.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="|9.03">This chapter</cite> shall be known as the Kiowa Tribe Housing Assistance for Renovation/Repairs and Rental Costs Startup Act of 2020. ("Act").</text>
+      <annotations>
+        <annotation app="2020-04-21" doc="Kiowa Tribe Res. No. KL-CY-2020-004" eff="2020-04-21" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>9.03.020</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="|9.03">this chapter</cite> is the Kiowa Tribe is interested in providing specific housing assistance to Kiowa Elders and Tribal Members who require this type of assistance cited in <cite path="|9.03">this chapter</cite>; and the Kiowa Tribe seeks to improve the living conditions of certain tribal members who do not otherwise qualify or receive housing assistance for home repairs/renovation and rental startup funds from NAHASDA.</text>
+      <annotations>
+        <annotation app="2020-04-21" doc="Kiowa Tribe Res. No. KL-CY-2020-004" eff="2020-04-21" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>9.03.030</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe is supportive of improving housing conditions for said tribal members.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Some tribal members relocate to find employment and need assistance with startup rental costs.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Some tribal members for various and legitimate reasons need rental assistance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Kiowa Tribe Housing Authority is designated by the Chairman, Kiowa Tribe to manage funds provided by the tribe for housing.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Kiowa Tribe Housing Authority is required by NAHASDA to utilize 5%, not to exceed $10,000 for administrative costs and fees in the implementation of the above described program.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-04-21" doc="Kiowa Tribe Res. No. KL-CY-2020-004" eff="2020-04-21" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>9.03.040</num>
+      <heading>Kiowa Tribe Housing Assistance</heading>
+      <text>The Tribe requests Kiowa Tribe Housing Authority to continue on an annual basis henceforth to manage any funds if provided by the Kiowa Tribe for the two housing activities mentioned above.</text>
+      <annotations>
+        <annotation app="2020-04-21" doc="Kiowa Tribe Res. No. KL-CY-2020-004" eff="2020-04-21" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+  </container>
+</container>

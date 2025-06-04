@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-023">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-023" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2017-023</num>
   <heading>Records Management and Access to Information Act</heading>
   <meta>
@@ -15,11 +15,11 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to Article VI, Section 6(a) of the Constitution of the Kiowa Tribe; and,</text>
+      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text> Article VI, Section 8 of the Constitution and Article I, Section 1(n) of the Bill of Rights requires the Tribe to establish an Office of Records Management to maintain important records of the Tribe, and to provide members of the Tribe with access to such records.</text>
+      <text><cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> and <cite doc="Constitution of the Kiowa Tribe">Article I, Section 1(n)</cite> of the Bill of Rights requires the Tribe to establish an Office of Records Management to maintain important records of the Tribe, and to provide members of the Tribe with access to such records.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE IT BE IT RESOLVED;</conjunction>
@@ -30,7 +30,7 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing resolution KL-CY-2017-023, was duly voted upon by the Legislature on September 09, 2017, at a Session with a vote of ( 7 ) favor, ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing resolution KL-CY-2017-023, was duly voted upon by the Legislature on September 09, 2017, at a Session with a vote of ( 7 ) favor, ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>
       <strong>Rhonda J. Ahhaitty</strong>
     </text>
@@ -57,58 +57,58 @@
           <tr>
             <td data-text-align="justify">Renee M. Plata</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Rhonda J. Ahhaitty</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ronald C. Poolaw, Sr.</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Dave Geimausaddle</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Anita Onco-Johnson</td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Modina M. Waters</td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ben Wolf</td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -116,7 +116,7 @@
     <text>
       <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. KL-CY-2017-023, was presented to the Chairman of the Kiowa Tribe on the 12<sup>th</sup> day of September 2017, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Resolution No. KL-CY-2017-023, was presented to the Chairman of the Kiowa Tribe on the 12<sup>th</sup> day of September 2017, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
     <text>
       <strong>Rhonda J. Ahhaitty</strong>
     </text>
@@ -155,59 +155,59 @@
         <tbody>
           <tr>
             <td data-text-align="justify">Rhonda J. Ahhaitty</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Renee M. Plata</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ronald C. Poolaw, Sr.</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Dave Geimausaddle</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Anita Onco-Johnson</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Modina M. Waters</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ben Lucero Hovakah-Wolf</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -215,7 +215,7 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing resolution KL-CY-2017-023, was duly voted upon by the Legislature on September 09, 2017, at a Session with a vote of ( 7 ) favor, ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing resolution KL-CY-2017-023, was duly voted upon by the Legislature on September 09, 2017, at a Session with a vote of ( 7 ) favor, ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Rhonda J. Ahhaitty</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>
@@ -223,17 +223,20 @@
     <text>
       <strong>RECORDS MANAGEMENT AND ACCESS TO INFORMATION ACT</strong>
     </text>
+    <codified:at path="1.02"/>
     <section>
-      <num>00.102</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.010"/>
+      <num codify:value="1.02.010">00.102</num>
       <heading>TITLE.</heading>
-      <text>This chapter shall be known as the "Records Management Act" or "Act".</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">This chapter</code-cite> shall be known as the "Records Management Act" or "Act".</text>
     </section>
     <section>
-      <num>00.104</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.020"/>
+      <num codify:value="1.02.020">00.104</num>
       <heading>PURPOSE.</heading>
       <para>
         <num>a.</num>
-        <text>The purpose of this Act is to provide for a system of retaining and managing all public records of the Kiowa Tribe "("Tribe"). This Act shall govern documents generated by the Tribe's government, including all Departments, Commissions, Enterprises, Programs, Boards, or Agencies. The enactment of this Act shall establish a uniform and timely manner for managing all of the Tribe's records, including but not limited to:</text>
+        <text>The purpose of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> is to provide for a system of retaining and managing all public records of the Kiowa Tribe "("Tribe"). <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">This Act</code-cite> shall govern documents generated by the Tribe's government, including all Departments, Commissions, Enterprises, Programs, Boards, or Agencies. The enactment of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> shall establish a uniform and timely manner for managing all of the Tribe's records, including but not limited to:</text>
         <para>
           <num>(1)</num>
           <text>Constitution</text>
@@ -337,7 +340,7 @@
       </para>
       <para>
         <num>b.</num>
-        <text>The enactment of this Act shall also establish a uniform and timely manner for managing all other records that may deal with the Tribe, including but not limited to:</text>
+        <text>The enactment of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> shall also establish a uniform and timely manner for managing all other records that may deal with the Tribe, including but not limited to:</text>
         <para>
           <num>(1)</num>
           <text>Documents of the United States, including but not limited to:</text>
@@ -389,23 +392,25 @@
       </para>
       <para>
         <num>c.</num>
-        <text>Nothing in this Act shall prevent the Legislature from keeping and maintaining a separate record of its proceedings, Bills, enactments, Legislative Orders, and any other document(s) designated by the Secretary, Speaker and/or by the Legislature.</text>
+        <text>Nothing in <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> shall prevent the Legislature from keeping and maintaining a separate record of its proceedings, Bills, enactments, Legislative Orders, and any other document(s) designated by the Secretary, Speaker and/or by the Legislature.</text>
       </para>
     </section>
     <section>
-      <num>00.106</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.030"/>
+      <num codify:value="1.02.030">00.106</num>
       <heading>AUTHORITY TO ENACT.</heading>
-      <text>This law is enacted under the authority of Article VI, Section 6(a) of the Constitution of Kiowa Tribe ("Constitution"), which states, "[The Legislature shall have the power to make laws and resolutions in accordance with the requirements of the Constitution."</text>
+      <text>This law is enacted under the authority of <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution</cite> of Kiowa Tribe ("Constitution"), which states, "[The Legislature shall have the power to make laws and resolutions in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>."</text>
     </section>
     <section>
-      <num>00.108</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.040"/>
+      <num codify:value="1.02.040">00.108</num>
       <heading>DEFINITIONS.</heading>
       <para>
         <num>a.</num>
-        <text>For the purpose of this chapter the term:</text>
+        <text>For the purpose of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this chapter</code-cite> the term:</text>
         <para>
           <num>1.</num>
-          <text>"Authority" shall mean any of the following having custody of any record: any Tribal office, elected official, agency, board, commission, committee, or public body corporate or politic created by the Constitution, law or ordinance, rule or order; a governmental or quasi- governmental corporation; any court of law; the Legislature; any organization which receives over 40% of its funds from the Tribe; or a formally construed sub-unit of any of the foregoing.</text>
+          <text>"Authority" shall mean any of the following having custody of any record: any Tribal office, elected official, agency, board, commission, committee, or public body corporate or politic created by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, law or ordinance, rule or order; a governmental or quasi- governmental corporation; any court of law; the Legislature; any organization which receives over 40% of its funds from the Tribe; or a formally construed sub-unit of any of the foregoing.</text>
         </para>
         <para>
           <num>2.</num>
@@ -457,7 +462,7 @@
         </para>
         <para>
           <num>14.</num>
-          <text>"Personal Representative" shall mean the parent, guardian or legal custodian of a child, the guardian of an individual adjudicated incompetent, the personal representative or spouse of a person who is deceased, or any person authorized, in a signed writing, by the individual to exercise the rights granted under this Act.</text>
+          <text>"Personal Representative" shall mean the parent, guardian or legal custodian of a child, the guardian of an individual adjudicated incompetent, the personal representative or spouse of a person who is deceased, or any person authorized, in a signed writing, by the individual to exercise the rights granted under <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>.</text>
         </para>
         <para>
           <num>15.</num>
@@ -478,7 +483,7 @@
       </para>
       <para>
         <num>b.</num>
-        <text>All words, phrases and terms in this Act shall be construed and interpreted so as to give effect to the ordinary, common meaning and understanding.</text>
+        <text>All words, phrases and terms in <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> shall be construed and interpreted so as to give effect to the ordinary, common meaning and understanding.</text>
       </para>
       <para>
         <num>c.</num>
@@ -486,12 +491,13 @@
       </para>
     </section>
     <section>
-      <num>00.110</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.050"/>
+      <num codify:value="1.02.050">00.110</num>
       <heading>CREATION OF OFFICE.</heading>
-      <text>An Office of Records Management is hereby established. The Office shall be located within the Executive branch of government and shall be responsible for the preservation, storage, and dissemination of all records under this Act, and other duties as assigned. The Office shall develop a system to index and access all Records.</text>
+      <text>An Office of Records Management is hereby established. The Office shall be located within the Executive branch of government and shall be responsible for the preservation, storage, and dissemination of all records under <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>, and other duties as assigned. The Office shall develop a system to index and access all Records.</text>
       <para>
         <num>a.</num>
-        <text>The Office is hereby delegated the authority to create policies and regulations consistent with the provisions of this Act governing document management regarding:</text>
+        <text>The Office is hereby delegated the authority to create policies and regulations consistent with the provisions of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> governing document management regarding:</text>
         <para>
           <num>1.</num>
           <text>Collection of all Records.</text>
@@ -516,29 +522,32 @@
       </para>
     </section>
     <section>
-      <num>00.112</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.060"/>
+      <num codify:value="1.02.060">00.112</num>
       <heading>ACCESS TO RECORDS.</heading>
-      <text>The public shall have the right to inspect any Public Record and shall have the right to obtain copies of any Public Record. This Act shall not be interpreted in a manner so as to deny access to Public Records to employees of the Tribe, its agencies, or departments. This law in no manner shall waive any immunities or privileges of the Tribe. Except as otherwise provided in this Act, unless otherwise required under Federal law, the laws of the Tribe, or court order, no Agency other than the Office shall provide any Person access to any Public Record, Confidential Record, Classified Record, or Restricted Record.</text>
+      <text>The public shall have the right to inspect any Public Record and shall have the right to obtain copies of any Public Record. <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">This Act</code-cite> shall not be interpreted in a manner so as to deny access to Public Records to employees of the Tribe, its agencies, or departments. This law in no manner shall waive any immunities or privileges of the Tribe. Except as otherwise provided in <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>, unless otherwise required under Federal law, the laws of the Tribe, or court order, no Agency other than the Office shall provide any Person access to any Public Record, Confidential Record, Classified Record, or Restricted Record.</text>
     </section>
     <section>
-      <num>00.114</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.070"/>
+      <num codify:value="1.02.070">00.114</num>
       <heading>DIRECTOR.</heading>
       <text>There is hereby established a position titled Director of the Office of Records Management ("Director"). The Director shall be responsible for the operation of the Office.</text>
     </section>
     <section>
-      <num>00.116</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.080"/>
+      <num codify:value="1.02.080">00.116</num>
       <heading>DUTIES OF THE OFFICE OF RECORDS MANAGEMENT.</heading>
       <para>
         <num>a.</num>
-        <text>The Records Office shall be charged with collecting, obtaining, logging, indexing, and filing all records and documents generated by the Tribe, its agencies or departments. The Office shall assure that all records are maintained in compliance with this Act. The Office shall make regular reports to the Chairman and the Legislature regarding compliance with this Act by other departments, agencies, entities, and programs.</text>
+        <text>The Records Office shall be charged with collecting, obtaining, logging, indexing, and filing all records and documents generated by the Tribe, its agencies or departments. The Office shall assure that all records are maintained in compliance with <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>. The Office shall make regular reports to the Chairman and the Legislature regarding compliance with <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> by other departments, agencies, entities, and programs.</text>
       </para>
       <para>
         <num>b.</num>
-        <text>The Records Office shall, within 60 days of the enactment of this Act, begin to conduct a review of all records currently housed, maintained, or kept by the Tribe, including its departments, programs, entities, or agencies.</text>
+        <text>The Records Office shall, within 60 days of the enactment of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>, begin to conduct a review of all records currently housed, maintained, or kept by the Tribe, including its departments, programs, entities, or agencies.</text>
       </para>
       <para>
         <num>c.</num>
-        <text>The Records Office shall, within 90 days of the enactment of this Act, present to the Chairman and Legislature a comprehensive list of the types of records created by the Tribe, its departments, agencies, or entities. The Director shall classify each record into one of the following four categories: 1) Public, 2) Confidential, 3) Restricted, or 4) Classified.</text>
+        <text>The Records Office shall, within 90 days of the enactment of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>, present to the Chairman and Legislature a comprehensive list of the types of records created by the Tribe, its departments, agencies, or entities. The Director shall classify each record into one of the following four categories: 1) Public, 2) Confidential, 3) Restricted, or 4) Classified.</text>
       </para>
       <para>
         <num>d.</num>
@@ -546,7 +555,7 @@
       </para>
       <para>
         <num>e.</num>
-        <text>The Records Office shall make Public Records available to all persons, except as otherwise provided in this Act, who submits the proper request form. Public Records are to be inspected or copied only in designated areas within the Office. The Records Office may provide copies for a nominal fee. The Records Office shall ensure that all lost, stolen, or damaged records are replaced. Originals may be available for Public Inspection, but may not be removed from the Department for any reason.</text>
+        <text>The Records Office shall make Public Records available to all persons, except as otherwise provided in <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>, who submits the proper request form. Public Records are to be inspected or copied only in designated areas within the Office. The Records Office may provide copies for a nominal fee. The Records Office shall ensure that all lost, stolen, or damaged records are replaced. Originals may be available for Public Inspection, but may not be removed from the Department for any reason.</text>
       </para>
       <para>
         <num>f.</num>
@@ -558,12 +567,14 @@
       </para>
     </section>
     <section>
-      <num>00.118</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.090"/>
+      <num codify:value="1.02.090">00.118</num>
       <heading>CONFIDENTIAL RECORDS.</heading>
-      <text>All documents, other than Public Records, generated by the Tribe or its departments, agencies, or enterprises are considered confidential. Confidential Records shall not be released to any Person other than an employee of the Tribe for employment purposes, unless such release complies with this Act. Intentional or <strong><em><u>negligent</u></em></strong> disclosure or theft of Confidential Records by an employee shall be grounds for immediate termination.</text>
+      <text>All documents, other than Public Records, generated by the Tribe or its departments, agencies, or enterprises are considered confidential. Confidential Records shall not be released to any Person other than an employee of the Tribe for employment purposes, unless such release complies with <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>. Intentional or <strong><em><u>negligent</u></em></strong> disclosure or theft of Confidential Records by an employee shall be grounds for immediate termination.</text>
     </section>
     <section>
-      <num>00.120</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.100"/>
+      <num codify:value="1.02.100">00.120</num>
       <heading>CLASSIFIED RECORDS.</heading>
       <para>
         <num>a.</num>
@@ -579,7 +590,8 @@
       </para>
     </section>
     <section>
-      <num>00.122</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.110"/>
+      <num codify:value="1.02.110">00.122</num>
       <heading>RESTRICTED RECORDS.</heading>
       <para>
         <num>a.</num>
@@ -595,15 +607,16 @@
       </para>
     </section>
     <section>
-      <num>00.124</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.120"/>
+      <num codify:value="1.02.120">00.124</num>
       <heading>ADOPTION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT OF 1996.</heading>
       <para>
         <num>a.</num>
-        <text>The Tribe specifically Adopts the Health and Insurance Portability and Accountability Act of 1996, hereinafter "HIPAA," and the supporting regulations and hereby incorporates the relevant provisions into this Act. Any revisions to HIPAA and/or its regulations are hereby automatically incorporated into this Act.</text>
+        <text>The Tribe specifically Adopts the Health and Insurance Portability and Accountability Act of 1996, hereinafter "HIPAA," and the supporting regulations and hereby incorporates the relevant provisions into <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>. Any revisions to HIPAA and/or its regulations are hereby automatically incorporated into <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>.</text>
       </para>
       <para>
         <num>b.</num>
-        <text>The Tribe shall enforce HIPAA as enumerated in this Act. Any individual found to have violated the provisions of HIPAA shall be subject to the Penalties enumerated within this Act.</text>
+        <text>The Tribe shall enforce HIPAA as enumerated in <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>. Any individual found to have violated the provisions of HIPAA shall be subject to the Penalties enumerated within <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>.</text>
       </para>
       <para>
         <num>c.</num>
@@ -611,17 +624,20 @@
       </para>
     </section>
     <section>
-      <num>00.126</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.130"/>
+      <num codify:value="1.02.130">00.126</num>
       <heading>DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION PROHIBITED.</heading>
       <text>Records containing Personally Identifiable Information shall not be disclosed without the consent of the person identified, unless required by subpoena. If the person identified in the record is deceased or unable to be located, the Records Office shall consult with next of kin prior to disclosure. If a record incidentally contains Personally Identifiable Information, the Office shall fully redact the Personally Identifiable Information prior to releasing the record.</text>
     </section>
     <section>
-      <num>00.128</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.140"/>
+      <num codify:value="1.02.140">00.128</num>
       <heading>INFORMATION SOURCES.</heading>
-      <text>All Tribal Agencies, Programs, Entities, Enterprises, and Departments shall be required to provide all information enumerated in Section 00.130 to the central repository.</text>
+      <text>All Tribal Agencies, Programs, Entities, Enterprises, and Departments shall be required to provide all information enumerated in <code-cite path="attachments|law|00.130" doc="Kiowa Tribe Res. No. KL-CY-2017-023">Section 00.130</code-cite> to the central repository.</text>
     </section>
     <section>
-      <num>00.130</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.150"/>
+      <num codify:value="1.02.150">00.130</num>
       <heading>INFORMATION TO BE PROVIDED.</heading>
       <text>All affected Agencies, Enterprises, and Departments, shall provide the following to the Records Office:</text>
       <para>
@@ -642,7 +658,8 @@
       </para>
     </section>
     <section>
-      <num>00.132</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.160"/>
+      <num codify:value="1.02.160">00.132</num>
       <heading>MAINTENANCE/FILING.</heading>
       <para>
         <num>a.</num>
@@ -650,11 +667,12 @@
       </para>
     </section>
     <section>
-      <num>00.134</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.170"/>
+      <num codify:value="1.02.170">00.134</num>
       <heading>RIGHT TO CHALLENGE RECORDS; CORRECTIONS.</heading>
       <para>
         <num>a.</num>
-        <text>Except as provided under subsection b. of this Section, any person or his or her personal representative may challenge the accuracy of a record containing personally identifiable information of such person if such person is authorized to inspect the record under the laws of the Tribe and such person notifies the Records Office, in writing, of the challenge. After receiving the notice, the Office shall do one of the following:</text>
+        <text>Except as provided under subsection b. of <code-cite path="attachments|law|00.134" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Section</code-cite>, any person or his or her personal representative may challenge the accuracy of a record containing personally identifiable information of such person if such person is authorized to inspect the record under the laws of the Tribe and such person notifies the Records Office, in writing, of the challenge. After receiving the notice, the Office shall do one of the following:</text>
         <para>
           <num>1.</num>
           <text>After agreeing in writing to the accuracy of the challenge, concur with the challenge and correct the information; or</text>
@@ -666,11 +684,12 @@
       </para>
       <para>
         <num>b.</num>
-        <text>This Section shall not apply to the any record if any other applicable law governs challenges to the accuracy of the record.</text>
+        <text><code-cite path="attachments|law|00.134" doc="Kiowa Tribe Res. No. KL-CY-2017-023">This Section</code-cite> shall not apply to the any record if any other applicable law governs challenges to the accuracy of the record.</text>
       </para>
     </section>
     <section>
-      <num>00.136</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.180"/>
+      <num codify:value="1.02.180">00.136</num>
       <heading>PRESERVATION OF RECORDS.</heading>
       <para>
         <num>a.</num>
@@ -682,7 +701,8 @@
       </para>
     </section>
     <section>
-      <num>00.138</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.200"/>
+      <num codify:value="1.02.200">00.138</num>
       <heading>ESTABLISHMENT OF ARCHIVES</heading>
       <para>
         <num>a.</num>
@@ -694,7 +714,8 @@
       </para>
     </section>
     <section>
-      <num>00.140</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.210"/>
+      <num codify:value="1.02.210">00.140</num>
       <heading>TRANSFER OF MATERIALS TO ARCHIVES</heading>
       <para>
         <num>a.</num>
@@ -714,7 +735,8 @@
       </para>
     </section>
     <section>
-      <num>00.202</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.220"/>
+      <num codify:value="1.02.220">00.202</num>
       <heading>RECORDS RELEASE.</heading>
       <para>
         <num>a.</num>
@@ -730,18 +752,20 @@
       </para>
       <para>
         <num>d.</num>
-        <text>Any Public Record shall be made available for inspection and/or copy upon completion of a records request form and upon payment of copying fees and services charges payable to the Records Office and in accordance with any other requirements of this Act. All records to be inspected shall be signed for and shall only be viewed in the Office viewing area. Copying fees and service charges shall be determined annually by the Office and shall be clearly identified and posted in the Office. Processing by the Office personnel shall be within a reasonable amount of time of the request depending upon other processing demands. No person shall be permitted to obtain records without the written permission of the Records Office so as to avoid the loss, theft, misfiling, or misuse of any records.</text>
+        <text>Any Public Record shall be made available for inspection and/or copy upon completion of a records request form and upon payment of copying fees and services charges payable to the Records Office and in accordance with any other requirements of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>. All records to be inspected shall be signed for and shall only be viewed in the Office viewing area. Copying fees and service charges shall be determined annually by the Office and shall be clearly identified and posted in the Office. Processing by the Office personnel shall be within a reasonable amount of time of the request depending upon other processing demands. No person shall be permitted to obtain records without the written permission of the Records Office so as to avoid the loss, theft, misfiling, or misuse of any records.</text>
       </para>
     </section>
     <section>
-      <num>00.204</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.230"/>
+      <num codify:value="1.02.230">00.204</num>
       <heading>SALE OF NAMES OR ADRESSES</heading>
-      <text>The Office of Records Management, any Department, or any official or employee of the Tribe may not sell or rent any record containing a person's name, address, or other contact information unless specifically authorized by law. The collection of fees to copy pursuant to §00.202 is not a sale or rental under this Act.</text>
+      <text>The Office of Records Management, any Department, or any official or employee of the Tribe may not sell or rent any record containing a person's name, address, or other contact information unless specifically authorized by law. The collection of fees to copy pursuant to §00.202 is not a sale or rental under <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>.</text>
     </section>
     <section>
-      <num>00.206</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.240"/>
+      <num codify:value="1.02.240">00.206</num>
       <heading>UNIFORM RECORDS NUMBERING SYSTEM</heading>
-      <text>Any record created by, or caused to be created by, any Department shall be numbered in the manner set forth in this Section. All such records, however created, shall be maintained in ascending order of number by both the Records Office and the Department which created the record. Each type of document shall be maintained separately in a place and manner so as to be reasonably accessible.</text>
+      <text>Any record created by, or caused to be created by, any Department shall be numbered in the manner set forth in <code-cite path="attachments|law|00.206" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Section</code-cite>. All such records, however created, shall be maintained in ascending order of number by both the Records Office and the Department which created the record. Each type of document shall be maintained separately in a place and manner so as to be reasonably accessible.</text>
       <para>
         <num>a.</num>
         <text>All resolutions of any Commission, Board, or Committee shall be numbered using the following system:</text>
@@ -868,16 +892,17 @@
       </para>
     </section>
     <section>
-      <num>00.208</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.250"/>
+      <num codify:value="1.02.250">00.208</num>
       <heading>PENALTIES.</heading>
       <para>
         <num>a.</num>
         <heading>EMPLOYEE DISCIPLINE.</heading>
-        <text>Any employee who violates this Act may be discharged or suspended without pay.</text>
+        <text>Any employee who violates <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> may be discharged or suspended without pay.</text>
       </para>
       <para>
         <num>b.</num>
-        <text>Any person who willfully collects, discloses, or maintains Personally Identifiable Information in violation of federal law, the law of the Tribe, or this Act may be required to forfeit not more than $1,000 for each violation.</text>
+        <text>Any person who willfully collects, discloses, or maintains Personally Identifiable Information in violation of federal law, the law of the Tribe, or <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> may be required to forfeit not more than $1,000 for each violation.</text>
       </para>
       <para>
         <num>c.</num>
@@ -885,12 +910,14 @@
       </para>
     </section>
     <section>
-      <num>00.210</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.260"/>
+      <num codify:value="1.02.260">00.210</num>
       <heading>RECORD DESTRUCTION.</heading>
-      <text>The Council, Office of the Chairman, or any Department shall not destroy any record at any time after receipt of a request for inspection or copying of the record until after the request is granted or until at least 90 days after the date that the request is denied, or if the requester is a committed or incarcerated person, until at least 180 days after the request is denied. If the Records Office or any Department receives written notice that an action relating to a record has been commenced under Section 00.218, the record may not be destroyed until after the order of the court in relation to such record is issued and the deadline for appealing that order has passed, or if appealed, until after the order of the court hearing the appeal is issued. If the court orders the production of any record and the order is not appealed, the record may not be destroyed until after the request for inspection or copying is granted.</text>
+      <text>The Council, Office of the Chairman, or any Department shall not destroy any record at any time after receipt of a request for inspection or copying of the record until after the request is granted or until at least 90 days after the date that the request is denied, or if the requester is a committed or incarcerated person, until at least 180 days after the request is denied. If the Records Office or any Department receives written notice that an action relating to a record has been commenced under <code-cite path="attachments|law|00.218" doc="Kiowa Tribe Res. No. KL-CY-2017-023">Section 00.218</code-cite>, the record may not be destroyed until after the order of the court in relation to such record is issued and the deadline for appealing that order has passed, or if appealed, until after the order of the court hearing the appeal is issued. If the court orders the production of any record and the order is not appealed, the record may not be destroyed until after the request for inspection or copying is granted.</text>
     </section>
     <section>
-      <num>00.214</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.270"/>
+      <num codify:value="1.02.270">00.214</num>
       <heading>LIMITATIONS TO ACCESS</heading>
       <para>
         <num>a.</num>
@@ -926,12 +953,14 @@
       </para>
     </section>
     <section>
-      <num>00.216</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.280"/>
+      <num codify:value="1.02.280">00.216</num>
       <heading>OFFICIAL TRIBAL BUSINESS</heading>
       <text>Employees, Agents, and Officers of the Tribe may require the Office to conduct research and make copies of records without fees for official government business.</text>
     </section>
     <section>
-      <num>00.218</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.290"/>
+      <num codify:value="1.02.290">00.218</num>
       <heading>TIME FOR COMPLIANCE AND PROCEDURES</heading>
       <para>
         <num>a.</num>
@@ -955,29 +984,34 @@
       </para>
     </section>
     <section>
-      <num>00.302</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.300"/>
+      <num codify:value="1.02.300">00.302</num>
       <heading>SOVEREIGN IMMUNITY.</heading>
-      <text>Nothing within this Act shall be construed to waive the Tribe's sovereign immunity.</text>
+      <text>Nothing within <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> shall be construed to waive the Tribe's sovereign immunity.</text>
     </section>
     <section>
-      <num>00.304</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.310"/>
+      <num codify:value="1.02.310">00.304</num>
       <heading>INCONSISTENT LAW.</heading>
-      <text>Any provision of the Tribe's law which is inconsistent with this Act is hereby repealed or amended.</text>
+      <text>Any provision of the Tribe's law which is inconsistent with <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> is hereby repealed or amended.</text>
     </section>
     <section>
-      <num>00.306</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.320"/>
+      <num codify:value="1.02.320">00.306</num>
       <heading>EFFECTIVE DATE.</heading>
-      <text>This Act shall become effective sixty (60) days after enactment.</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">This Act</code-cite> shall become effective sixty (60) days after enactment.</text>
     </section>
     <section>
-      <num>00.308</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.330"/>
+      <num codify:value="1.02.330">00.308</num>
       <heading>SEVERABILITY.</heading>
-      <text>In the event a court of competent jurisdiction finds invalid any word, phrase, paragraph, or section of this Act, such invalid word, phrase, paragraph, or section shall be severed from the remaining body of the Act, and the remainder of the Act shall remain in full force and effect.</text>
+      <text>In the event a court of competent jurisdiction finds invalid any word, phrase, paragraph, or section of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite>, such invalid word, phrase, paragraph, or section shall be severed from the remaining body of the Act, and the remainder of the Act shall remain in full force and effect.</text>
     </section>
     <section>
-      <num>00.310</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.340"/>
+      <num codify:value="1.02.340">00.310</num>
       <heading>PROMULGATION OF REGULATIONS.</heading>
-      <text>The Office of Records Management is hereby delegated the authority to enact regulations relating to the Office. Any regulations enacted pursuant to this Act shall have the force of law. The Office shall enact no regulation unless notice is first given to the public and the public is given thirty (30) days to respond to the proposed regulation.</text>
+      <text>The Office of Records Management is hereby delegated the authority to enact regulations relating to the Office. Any regulations enacted pursuant to <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2017-023">this Act</code-cite> shall have the force of law. The Office shall enact no regulation unless notice is first given to the public and the public is given thirty (30) days to respond to the proposed regulation.</text>
     </section>
   </attachment>
 </document>

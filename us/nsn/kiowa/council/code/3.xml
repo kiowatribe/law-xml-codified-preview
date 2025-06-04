@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>3</num>
+  <heading>Territory</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3.01</num>
+    <heading>Territory Expansion</heading>
+    <section>
+      <prefix></prefix>
+      <num>3.01.010</num>
+      <heading>Short Title.</heading>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">This enactment</cite> shall be known as the "First Amendment to the Kiowa Tribe Territory Expansion Act of 2024" ("Act").</text>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>3.01.020</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">this Act</cite> is to authorize and direct the Chairman to acquire additional lands for housing and economic development purposes for the benefit of the Tribe and the People.</text>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>3.01.030</num>
+      <heading>Findings.</heading>
+      <text>The Legislature finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>historically, the Tribe controlled vast areas of land that sustained the People; however, over time, the Tribe's land base has been greatly diminished by harmful Federal laws and policies, fraudulent transfers, and theft; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is in the best interests of the Tribe to acquire additional lands, including available allotments, in order to expand the Tribe's land base and territory,</text>
+      </para>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>3.01.040</num>
+      <heading>Authorization and Place Land into Trust</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Legislature hereby authorizes the Chairman or his designee to acquire land subject to approval by the legislature and appropriation for such purposes.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To obtain approval from the Legislature, the Chairman shall provide written notice to the Speaker of the Legislature.  If the Legislature does not respond within 20 days, approval will be deemed given.  If the legislature wishes to consider the matter before approval is considered, then the Speaker shall so notify the Chairman in writing, and the matter shall be taken up at the next regularly monthly session of the Kiowa Legislature in accordance with the <cite doc="Constitution of the Kiowa Tribe">Kiowa Constitution Article VI Section 7(a)</cite>, and approval for the transaction shall require an affirmative, majority vote of the quorum of the Legislature.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In making such appropriations, the Legislature may make restrictions on the total amount expended for a particular tract of land, including per acre limitations on the amount expended.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In the process of purchasing such land, an attorney must be consulted, and before the land can be purchased the attorney shall state in writing to the legislature and the Chairman that:</text>
+        <para>
+          <num>(1)</num>
+          <text>Title to be conveyed to the Kiowa Tribe is sufficient to satisfy the United States in an action under 25 U.S.C. part 151;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A phase 1 environmental review reveals no impairments to the land to be purchased;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the land includes buildings, a structural inspection of the buildings shows they are in reasonable working order; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>the other requirements of 25 U.S.C. part 151 likely can be met when the Kiowa Tribe seeks to put the land into trust.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>3.01.050</num>
+      <heading>Duty to Apply for Trust Status.</heading>
+      <text>Unless the Chairman specifies the land shall not be placed immediately into trust when he provides initial notice to the Speaker under <cite path="attachments|law|4" doc="Kiowa Tribe Res. No. KL-CY-2024-002">Article 4</cite>, above, within 180 days of acquiring title of property purchased under <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">this Act</cite>, the Chairman or his designee shall file with the United States an application to take the land into trust.</text>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>3.01.060</num>
+      <heading>Savings Clause</heading>
+      <text>Both the requirements of this law and the requirements of <em>"KL-CY-2018-003 Economic Development Due Diligence Act of 2018"</em>, must be met when real estate is being purchased for economic development reasons.</text>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|6" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>3.01.070</num>
+      <heading>Approval and Enactment</heading>
+      <text>The Legislature hereby approves and enacts the <em>"First Amendment to the Territory Expansion Act of 2024".</em></text>
+      <annotations>
+        <annotation app="2024-02-15" doc="Kiowa Tribe Res. No. KL-CY-2024-002" eff="2024-02-15" path="attachments|law|7" type="History"/>
+      </annotations>
+    </section>
+  </container>
+</container>

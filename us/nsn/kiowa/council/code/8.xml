@@ -1,0 +1,2389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>8</num>
+  <heading>Vehicles, Roads, Traffic</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.01</num>
+    <heading>Motor Vehicle Code</heading>
+    <section>
+      <prefix></prefix>
+      <num>8.01.010</num>
+      <heading>GENERAL PROVISIONS</heading>
+      <para>
+        <num>(a)</num>
+        <heading>SHORT TITLE.</heading>
+        <text><cite path="|8.01">This chapter</cite> may be known and cited as the "Kiowa Motor Vehicle Code".</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>JURISDICTION OF KIOWA TRIBE.</heading>
+        <text>Under <cite path="|8.01">this chapter</cite>, the Kiowa Trial Court shall have exclusive original jurisdiction over all civil traffic infractions and all criminal traffic offenses committed within its Territorial jurisdiction.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>DEPOSIT TO AND APPROPRIATION OF GENERAL FUNDS.</heading>
+        <text>All fees, assessments, fines, penalties and forfeitures imposed and collected under <cite path="|8.01">this chapter</cite> shall be used for funding programs related to the enforcement and implementation of <cite path="|8.01">this chapter</cite>, including appointment of Traffic Hearing Officers as provided below.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>CIVIL COMPROMISE DISMISSAL.</heading>
+        <text>A Trial Court Judge may dismiss a pending action based on a complaint or citation for any civil infraction under <cite path="|8.01">this chapter</cite> upon a motion filed by the defendant together with the sworn stipulation and acknowledgement of all parties claiming injury or damage that they have received full compensation and satisfaction from the defendant.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>COURT-APPOINTED CIVIL TRAFFIC HEARING OFFICERS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Subject to available funding, the Chief Judge of the Trial Court may appoint qualified Traffic Hearing Officers. Such Traffic Hearing Officers may hear and dispose of civil traffic infractions under the supervision of the Trial Court Judges, and the judgment and disposition of the Traffic Hearing Officers shall constitute the final judgment and order of the Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All criminal traffic offenses shall be heard and determined only by a Judge of the Trial Court, consistent with the provisions of the Kiowa Criminal Code and all other applicable laws, court rules and regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>DEFINITION OF TERMS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The definitions contained herein shall apply to all chapters of <cite path="|8.01">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Under <cite path="|8.01">this chapter</cite>, unless the context or subject matter otherwise requires:</text>
+          <para>
+            <num>(A)</num>
+            <heading>ABANDONED VEHICLE:</heading>
+            <text>a vehicle left unattended, on private or public property, for an unreasonable length of time, and which, after being reported to a law enforcement agency, has been discovered by that agency:</text>
+            <para>
+              <num>(i)</num>
+              <text>not to have been stolen; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>not able to establish legal ownership by normal record-checking procedures; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the legal ownership of which is not claimed or asserted by any person.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <heading>AUTHORIZED EMERGENCY VEHICLE:</heading>
+            <text>properly marked law enforcement vehicles, fire department vehicles, and ambulances or other vehicles as authorized by the Kiowa Tribe, the State of Oklahoma, or the United States Government.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <heading>BICYCLE:</heading>
+            <text>a vehicle with two wheels tandem, a steering handle, a saddle seat and pedals by which it is propelled.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <heading>CARGO TANK:</heading>
+            <text>any tank permanently affixed to a motor vehicle for the purpose of transporting any flammable liquid or compressed gas.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <heading>CROSSWALK:</heading>
+            <text>any portion of a roadway distinctly indicating a pedestrian crossing by lines or other surface markings.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <heading>DEPARTMENT:</heading>
+            <text>refers to the Kiowa Department of Public Safety.</text>
+          </para>
+          <para>
+            <num>(G)</num>
+            <heading>DRIVER:</heading>
+            <text>any person who exercises control over a motor vehicle, or any person who steers a vehicle that is being towed.</text>
+          </para>
+          <para>
+            <num>(H)</num>
+            <heading>FARM TRACTOR:</heading>
+            <text>any motor vehicle designed and used primarily for drawing implements of husbandry.</text>
+          </para>
+          <para>
+            <num>(I)</num>
+            <heading>FREIGHT TRAILER:</heading>
+            <text>any trailer, semi-trailer or pole trailer drawn by a truck tractor or road tractor, and any trailer, semi-trailer or pole trailer drawn by a truck which has a gross vehicle weight of more than twenty-six thousand (26,000) pounds. The term does not include house trailers, trailers of less than one-ton carrying capacity used to transport animals, or fertilizer trailers of less than three thousand five hundred (3,500) pounds empty weight.</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <heading>GROSS VEHICLE WEIGHT:</heading>
+            <text>the weight of a vehicle without load, plus the weight of any load thereon.</text>
+          </para>
+          <para>
+            <num>(K)</num>
+            <heading>INTERSECTION:</heading>
+            <text>the common area created when two or more roadways join or cross one another.</text>
+          </para>
+          <para>
+            <num>(L)</num>
+            <heading>LANED ROADWAY:</heading>
+            <text>a roadway that is divided into two or more clearly marked lanes for vehicular traffic.</text>
+          </para>
+          <para>
+            <num>(M)</num>
+            <heading>MOBILE HOME:</heading>
+            <text>a house trailer, other than one held as inventory for sale or resale by a registered dealer.</text>
+          </para>
+          <para>
+            <num>(N)</num>
+            <heading>MOTORCYCLE:</heading>
+            <text>a two-wheeled automotive vehicle with one or two saddles and sometimes a sidecar with a third supporting wheel.</text>
+          </para>
+          <para>
+            <num>(O)</num>
+            <heading>MOTOR VEHICLE:</heading>
+            <text>any vehicle propelled by the use of an internal combustible engine, electricity or motor vehicle fuel.</text>
+          </para>
+          <para>
+            <num>(P)</num>
+            <heading>NEGLIGENCE:</heading>
+            <text>the failure to use such care as a reasonably prudent and careful person would exercise under similar circumstances; it may involve either an omission or an affirmative act.</text>
+          </para>
+          <para>
+            <num>(Q)</num>
+            <heading>OFFICIAL TRAFFIC-CONTROL DEVICES:</heading>
+            <text>all signs, signals, markings and devices placed or erected by authority of a public body or official with the responsibility to regulate, warn or guide traffic.</text>
+          </para>
+          <para>
+            <num>(R)</num>
+            <heading>OWNER:</heading>
+            <text>a person who holds legal title to a vehicle or, if who holds the right of purchase upon performance of the conditions stated in the agreement, if the vehicle is the subject of an agreement for a conditional sale or lease.</text>
+          </para>
+          <para>
+            <num>(S)</num>
+            <heading>PEDESTRIAN:</heading>
+            <text>any person afoot. A person who is not ambulatory and is in a wheelchair is considered a pedestrian.</text>
+          </para>
+          <para>
+            <num>(T)</num>
+            <heading>PERSON:</heading>
+            <text>includes individuals, firms, co-partnerships, associations or corporations.</text>
+          </para>
+          <para>
+            <num>(U)</num>
+            <text>POLICE or LAW ENFORCEMENT OFFICER: any officer duly authorized or commissioned by the authority of the Kiowa Tribe to direct or regulate traffic or to enforce or make arrests for violations of the Kiowa Motor Vehicle Code.</text>
+          </para>
+          <para>
+            <num>(V)</num>
+            <heading>RACE:</heading>
+            <text>two or more vehicles operating at accelerating speeds in a competitive attempt to outdistance each other.</text>
+          </para>
+          <para>
+            <num>(W)</num>
+            <heading>RIGHT-OF-WAY:</heading>
+            <text>the privilege of the immediate use of the highway or the lands or interest in the lands within the right-of-way boundaries.</text>
+          </para>
+          <para>
+            <num>(X)</num>
+            <heading>ROADWAY:</heading>
+            <text>that portion of a route which is improved, designed or ordinarily used for vehicular travel, exclusive of the shoulder.</text>
+          </para>
+          <para>
+            <num>(Y)</num>
+            <heading>SIDEWALK:</heading>
+            <text>that portion of a street between the curb or lateral lines of a roadway, and the adjacent property lines; intended for the use of pedestrians.</text>
+          </para>
+          <para>
+            <num>(Z)</num>
+            <heading>SCHOOL BUS:</heading>
+            <text>any motor vehicle which is used to transport children, students or teachers to and from school, or to and from any school activity. This definition may include any type of vehicle except:</text>
+            <para>
+              <num>(i)</num>
+              <text>one operated by a common carrier, or private mass transit system not used exclusively for the transportation of pupils.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>one operated solely by a governmental-owned public transit authority not used exclusively for transportation of pupils.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a privately owned vehicle not used exclusively for the transportation of pupils.</text>
+            </para>
+          </para>
+          <para>
+            <num>(AA)</num>
+            <heading>SEMI-TRAILER:</heading>
+            <text>any vehicle without mechanical power, other than a pole trailer, designed for carrying persons or property and for being drawn by another vehicle, and so constructed that some part of its weight and that of its load rests upon or is carried by such other vehicle.</text>
+          </para>
+          <para>
+            <num>(BB)</num>
+            <heading>SHOULDER:</heading>
+            <text>the area immediately adjacent to the edge of a paved road.</text>
+          </para>
+          <para>
+            <num>(CC)</num>
+            <heading>SINGLE AXLE LOAD:</heading>
+            <text>the total load transmitted to the road by all wheels whose centers are included between two parallel transverse vertical planes 40 inches or less apart, extending across the full width of the vehicle.</text>
+          </para>
+          <para>
+            <num>(DD)</num>
+            <heading>STOP:</heading>
+            <text>complete cessation from movement.</text>
+          </para>
+          <para>
+            <num>(EE)</num>
+            <heading>TANDEM AXLE LOAD:</heading>
+            <text>the total load transmitted to the road by all wheels whose centers are included between two (2) parallel transverse vertical planes more than 40 inches apart but less than 120 inches apart, extending across the full width of the vehicle.</text>
+          </para>
+          <para>
+            <num>(FF)</num>
+            <heading>TANK MOTOR VEHICLE:</heading>
+            <text>any motor vehicle designed for the transportation of liquids or gases in a cargo tank.</text>
+          </para>
+          <para>
+            <num>(GG)</num>
+            <heading>TRAFFIC:</heading>
+            <text>pedestrians, ridden or herded animals, vehicles, and other conveyances, either singly or together, using any roadway for purposes of travel.</text>
+          </para>
+          <para>
+            <num>(HH)</num>
+            <heading>TRAFFIC-CONTROL SIGNAL:</heading>
+            <text>a device, manually, electrically or mechanically operated, by which traffic is alternately directed to stop and to proceed.</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <heading>TRUCK:</heading>
+            <text>any vehicle with an attached box, platform or other equipment designed to carry property other than the effects of the driver or passengers.</text>
+          </para>
+          <para>
+            <num>(JJ)</num>
+            <heading>TRUCK TRACTOR:</heading>
+            <text>a vehicle designed to draw other vehicles without carrying part of the weight of the vehicle and load down.</text>
+          </para>
+          <para>
+            <num>(KK)</num>
+            <heading>VEHICLE:</heading>
+            <text>any device in, upon or by which persons or property may be transported, including a frame chassis or body of any type of vehicle, excluding devices driven by human power or used exclusively upon stationary rails or tracks.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.020</num>
+      <heading>GENERAL APPLICATION</heading>
+      <para>
+        <num>(a)</num>
+        <heading>ENFORCEMENT.</heading>
+        <text>The Kiowa Tribe Police Officers and other police officers authorized by the Tribe shall be responsible for the enforcement of all regulations established in <cite path="|8.01.020">this section</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>VALID STATE DRIVER'S LICENSE REQUIRED.</heading>
+        <text>Any person operating a motor vehicle within the jurisdiction of the Tribe must possess a valid state driver's license.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>AUTHORIZED EMERGENCY VEHICLES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The driver of an authorized emergency vehicle, when responding to an emergency call, or when in the pursuit of an actual or suspected violator of law, or when responding to a fire alarm, is exempt from the requirements in <cite path="|8.01.020">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The provisions of <cite path="|8.01.020|(c)">Section 8.01.020(c)</cite> shall not relieve the driver of an authorized emergency vehicle from the duty to drive with ordinary care for the safety of all persons, nor shall these provisions exempt any party from the consequences of his reckless disregard for the safety of others.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Upon the approach of an authorized emergency vehicle displaying flashing red lights and sirens, all other vehicles shall immediately drive to a position parallel with, and as close as possible to, the right-hand edge of the roadway, clear of any intersection, and shall stop and remain in that position until the authorized emergency vehicle has passed.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>APPLICATION TO ANIMALS AND ANIMAL-DRAWN VEHICLES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person riding an animal or driving an animal-drawn vehicle upon a roadway shall be granted all the rights, and shall be subject to all the duties, applicable to the driver of a vehicle by <cite path="|8.01.020">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A vehicle approaching animals or animal-drawn vehicles shall exercise reasonable care to prevent frightening such animals, and to insure the safety of any person riding or driving the same.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>CIVIL ASSESSMENT FEE.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Except as otherwise indicated, it shall be a civil infraction for any person to violate the provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except as otherwise indicated, any person violating the provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> within the territorial jurisdiction of the Tribe shall be subject to civil assessment fees of not less than thirty-seven dollars and fifty cents ($37.50), or more than five hundred dollars ($500.00), and/or possible civil forfeiture.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Court may hire a collection agency for the collection of civil assessment fees.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>TRAFFIC CONTROL DEVICES AND SIGNS.</heading>
+        <text>An officially designated Department of the Tribe is authorized to place and maintain traffic-control devices on or within the right-of-way of any roadway within the Kiowa Territory.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.030</num>
+      <heading>ACCIDENTS</heading>
+      <para>
+        <num>(a)</num>
+        <heading>DUTY OF DRIVERS INVOLVED IN AN ACCIDENT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The driver of a vehicle involved in an accident resulting in damage to an unattended vehicle, shall immediately stop and locate the operator or owner of the vehicle. If locating the operator or owner of the damaged vehicle is not possible, the driver shall leave written notice giving the name and address of the driver and the owner of the vehicle causing the damage.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The driver of any vehicle involved in an accident resulting in damage to fixtures or other property legally upon or adjacent to a roadway, shall take reasonable steps to locate and notify the property's owner or caretaker of such damage, giving his name, address and the registration number of his vehicle.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The driver of a vehicle involved in an accident resulting in bodily injury, death or total property damage of three hundred dollars ($300.00) or more, shall immediately file a written report of the accident with the appropriate Law Enforcement Agency. If necessary, the driver of such vehicle shall render reasonable assistance to any person injured in the accident by making immediate arrangements for medical care.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>WHEN DRIVER UNABLE TO REPORT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>If an accident occurs, and the driver of the vehicle involved in an accident is physically incapable of making an immediate report, any occupant in the vehicle at the time of the accident capable of making a report, shall be responsible for filing the accident report.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the driver physically incapable of making a written report does not own the vehicle involved in the accident, the owner shall file a report immediately upon being informed of such accident.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>CONFIDENTIALITY OF ACCIDENT REPORTS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>All accident reports shall be made without prejudice to the individual reporting such accident. The department may disclose:</text>
+          <para>
+            <num>(A)</num>
+            <text>the identities of the parties involved in an accident; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>whether the owner or operator of the vehicle involved in the accident is insured. If such owner or operator is insured, the department may release the name and address of the insurance carrier.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon request, the department may furnish a copy of the investigating officer's accident report to the parties involved and to any court of competent jurisdiction.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any law enforcement officer making the initial investigation of a motor vehicle accident in which a minor was involved, shall make every reasonable effort to immediately notify the parents or legal guardian of such accident.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>DUTY OF GARAGES, DEALERS AND WRECKERS TO REPORT ACCIDENTS.</heading>
+        <text>If a vehicle showing recent evidence of an accident under <cite path="|8.01.020|(a)">Section 8.01.020(a)</cite> is brought in for services, the owner or manager of the garage, repair shop, dealership or wrecker service shall report the vehicle to the department within twenty-four hours after such vehicle is received. The report must include the engine number, registration number and the name and address of the owner or operator of such vehicle. Non-compliance may result in the loss of business license.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>TRAFFIC ACCIDENTS INVOLVING DEATH OR SERIOUS PHYSICAL INJURY, IMPLIED CONSENT.</heading>
+        <text>A person who operates a motor vehicle within the Kiowa Territory gives consent to a test or tests of the person's blood, breath, urine or other bodily substance for the purposes of determining alcohol concentration or drug content, if the vehicle is involved in a traffic accident resulting in death or serious physical injury to a passenger, driver, or pedestrian.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.040</num>
+      <heading>SPEED REGULATIONS</heading>
+      <para>
+        <num>(a)</num>
+        <heading>SPEED REGULATIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall operate a vehicle on a public roadway at a speed greater than:</text>
+          <para>
+            <num>(A)</num>
+            <text>Fifteen (15) miles per hour in a school zone.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Twenty-five (25) mph in any business or residential district.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Fifty-five (65) mph on highways in open country; or</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The maximum posted speed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No person shall drive a motor vehicle at such a slow speed as to impede the normal and reasonable movement of traffic except when reduced speed is necessary for safe operation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>SPEED ZONE.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The director of any agency having authority to maintain the roadways within the Territory of the Tribe is hereby empowered to do the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>To determine upon the basis of an engineering survey or traffic investigation that any speed limit established by law is greater or less than is reasonable and safe under the conditions found to exist upon any part of such roadway.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>To determine and declare a reasonable maximum speed for such location, which shall be in effect when appropriate signs giving notice thereof are erected.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The agency establishing a speed zone under <cite path="|8.01.040|(b)">Section 8.01.040(b)</cite> shall be responsible for erecting at the beginning of each such zone, a sign designating a maximum allowed speed within the zone, and at the end thereof, a sign bearing either the legend "Resume Speed" or setting forth a new maximum speed limit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>CLASSIFICATION OF COMPLAINT OF EXCESSIVE SPEED AS ALLEGING CIVIL OR CRIMINAL VIOLATION.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every complaint alleging excessive speed shall specify the speed at which the defendant is alleged to have driven and the maximum speed applicable at such location.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In addition to those violations expressly designated a criminal offense in <cite path="|8.01">this chapter</cite>, the Trial Court may elect to classify the following as alleging minor criminal offenses:</text>
+          <para>
+            <num>(A)</num>
+            <text>any complaint for speeding more than twenty (20) miles per hour in excess of the posted or otherwise applicable speed limit; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>any complaint alleging that a violation of the speed limit has caused or contributed to an accident resulting in personal injury or property damage in excess of one thousand five hundred ($1,500.00) dollars.</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.050</num>
+      <heading>TRAFFIC SIGNS AND SIGNALS</heading>
+      <para>
+        <num>(a)</num>
+        <heading>OBEDIENCE TO TRAFFIC-CONTROL DEVICES.</heading>
+        <text>The driver of a vehicle shall obey the instruction of any official traffic- control device placed by the proper authority, subject to the exemptions granted authorized emergency vehicles.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>TRAFFIC CONTROL SIGNAL LEGENDS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Electric traffic control signals shall use only the colors green, red, and yellow, except for special pedestrian signals carrying a word legend. Such lights shall apply to drivers of vehicles and pedestrians as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>Green indication:</text>
+            <para>
+              <num>(i)</num>
+              <text>Vehicular traffic facing a green signal may proceed straight through or turn right or left unless otherwise indicated. All vehicular traffic shall yield the right-of- way to other vehicles and to pedestrians lawfully within the intersection or an adjacent crosswalk at the time the signal is shown.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Vehicular traffic facing a green arrow signal may cautiously enter the intersection only to make the movement indicated by such arrow, unless other indications are shown simultaneously. All such vehicular traffic shall yield the right-of-way to other vehicles and to pedestrians lawfully within the intersection or an adjacent crosswalk at the time the signal is shown.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Unless otherwise directed by a pedestrian control signal, pedestrians facing any green signal not a turn arrow, may proceed across the roadway.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Steady yellow indication:</text>
+            <para>
+              <num>(i)</num>
+              <text>Vehicular traffic approaching a steady yellow signal must reduce speed in anticipation of a pending red indication.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Pedestrians facing a steady, yellow signal, unless otherwise directed by a pedestrian control signal, shall not then start to cross the roadway, but may continue if already in the crosswalk.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Red indication:</text>
+            <para>
+              <num>(i)</num>
+              <text>Vehicular traffic facing a steady red signal shall stop before entering the intersection and shall remain stopped until an indication to proceed is shown, except as provided in sub-paragraph (b) below.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The driver of a vehicle stopped at the entrance to an intersection in obedience to a red signal, may make a right turn, but shall yield the right of way to pedestrians and other traffic proceeding as directed by the signal. Right turns against a red signal may be prohibited at any intersection where a posted sign so indicates.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Unless otherwise directed by a pedestrian control signal, pedestrians facing a steady red signal shall not enter the roadway.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The provisions of <cite path="|8.01.050|(b)">Section 8.01.050(b)</cite> shall be applicable where an official traffic control signal is erected and maintained at a place other than an intersection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>FLASHING SIGNALS.</heading>
+        <text>A flashing red or yellow traffic control signal shall indicate the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Flashing Red: all traffic must stop before entering the intersection. The right to proceed shall be subject to the rules applicable after making a stop at a stop sign.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Flashing Yellow: traffic must proceed through the intersection with extreme caution.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>PROHIBITION OF UNAUTHORIZED SIGNS, SIGNALS OR MARKINGS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall display or maintain a device that attempts to direct traffic or hide or interfere with official traffic control devices.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No person shall alter, deface or remove any official traffic control device or railroad sign or signal, in whole or in part.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All prohibited signs, signals, or markings are hereby declared to be a public nuisance and any authority having jurisdiction over the highway, including police officers, are empowered to remove the such signs or cause them to be removed without notice.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The court, in addition to or in lieu of any assessment imposed, may require any person found in violation of <cite path="|8.01.050|(d)">Section 8.01.050(d)</cite>, to pay to the Kiowa Tribe the full cost of replacing or removing such traffic control device or railroad sign or signal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>KIOWA TERRITORY BOUNDARY SIGNS.</heading>
+        <text>The Chairman, or his designee, shall maintain public notice signs at key ingress and egress points at the boundaries of the Tribe's Territory notifying the public that they are entering the Jurisdiction of the Tribe and subject to the laws of the Tribe.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.060</num>
+      <heading>RIGHT-OF-WAY</heading>
+      <para>
+        <num>(a)</num>
+        <heading>RIGHT-OF-WAY WHEN APPROACHING OR ENTERING INTERSECTIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When two vehicles enter or approach an intersection from different streets or roadways at approximately the same time the driver of the vehicle to the left shall yield the right of way to the vehicle on the right.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>This paragraph does not apply to vehicles approaching or entering an uncontrolled "T" intersection when the vehicle on the left is on a continuing street or roadway and the vehicle on the right is on the terminating street or roadway. In such cases, the vehicle on the terminating street or roadway shall yield to the vehicle on the continuing street or roadway.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>VEHICLES ENTERING YIELD INTERSECTION.</heading>
+        <text>The driver of a vehicle approaching a yield sign shall, in obedience to the sign, slow down to a speed reasonable for the existing conditions, and must yield the right-of-way to any vehicle already in the intersection or approaching so closely as to constitute an immediate hazard. If such driver is involved in a collision after failing to yield, the collision shall be deemed prima facie evidence of his failure to yield.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>VEHICLE ENTERING ROADWAY FROM PRIVATE ROAD OR DRIVEWAY.</heading>
+        <text>A vehicle attempting to enter or cross a public roadway from a private road or driveway shall yield the right-of-way to any vehicle or pedestrian on the public roadway.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|6" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.070</num>
+      <heading>DRIVING, OVERTAKING AND PASSING</heading>
+      <para>
+        <num>(a)</num>
+        <heading>OVERTAKING A VEHICLE ON THE LEFT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass to the left at a safe speed and shall not drive on the right side of the roadway again until safely clear of the overtaken vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Except when overtaking and passing on the right is permitted the driver of an overtaken vehicle shall give way to the right in favor of the overtaking vehicle and shall not increase the speed of his vehicle until completely passed by the overtaking vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>OVERTAKING A VEHICLE ON THE RIGHT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The driver of a vehicle may overtake and pass upon the right of another vehicle only under the following conditions:</text>
+          <para>
+            <num>(A)</num>
+            <text>When the vehicle overtaken is making or is about to make a left turn; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Upon a roadway with unobstructed pavement not occupied by parked vehicles and of sufficient width for two or more lines of moving vehicles in each direction.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Upon a one-way street, or upon any roadway on which traffic is restricted to one direction, where the roadway is free from obstructions and of sufficient width for two or more lines of moving vehicles.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Such exceptions are only allowed when the movement to the right can be made with safety. In no event shall movement to the right be made by driving off the pavement or main-traveled portion of the roadway.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>OVERTAKING AND PASSING A SCHOOL BUS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Upon meeting or overtaking a stopped school bus with its red flashing lights in operation, all other vehicles must stop before reaching the school bus and shall not proceed until the bus resumes motion and the red flashing lights are not in operation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every bus used for the transportation of school children shall bear upon the front and rear thereof a plainly visible sign containing the words "School Bus" in letters not less than eight (8) inches in height.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Every bus used for the transportation of school children shall be equipped with a signal with the word "Stop" printed on both sides in white letters not less than five (5) inches high on a red background. The signal shall not be less than twenty (20) inches long and shall be manually operated by the operator of the school bus in such manner as to be clearly visible from both front and rear when extended from the left of the body of the bus. It shall be displayed only when passengers are being received or discharged from the bus.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who violates the provisions of paragraph (a) of <cite path="|8.01.070|(c)">Section 8.01.070(c)</cite> shall be guilty of an infraction punishable by a civil assessment fee of not more than one hundred fifty dollars ($150.00). A second violation within one year thereafter shall be a criminal offense subject to a fine of not more than three hundred seventy-five dollars ($375.00). A third or subsequent violation within one year after the last violation shall be a criminal offense subject to not less than five hundred dollars ($500.00) or imprisonment for not less than sixty (60) days, nor more than six (6) months, or both.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>LIMITATIONS ON OVERTAKING AND PASSING.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No vehicle shall be driven to the left side of the center of the roadway when the following conditions exist:</text>
+          <para>
+            <num>(A)</num>
+            <text>When approaching the crest of a grade or upon a curve in the roadway where the driver's view is so obstructed as to create a hazard in the event another vehicle might approach from the opposite direction; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Within one hundred (100) feet of an intersection; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Where appropriate signs or markings indicate the existence of a no passing zone; or</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Within one hundred (100) feet of any bridge, viaduct or tunnel.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The limitations set forth in paragraph (A) of <cite path="|8.01.070|(d)">Section 8.01.070(d)</cite> shall not apply on a one-way roadway.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>FOLLOWING TOO CLOSELY.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A motor vehicle shall not follow another vehicle more closely than is reasonable, having due regard for the speed of the vehicle, volume of traffic and the condition of the roadway.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All vehicles being driven in a caravan or motorcade shall be operated so as to allow another vehicle to enter and occupy space within the caravan or motorcade without danger. The provisions of this subsection shall not apply to funeral processions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>DRIVING ON RIGHT SIDE OF ROADWAY; EXCEPTIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>On all roadways of sufficient width, a person shall drive a vehicle on the right half of the roadway except as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>When overtaking and passing another vehicle proceeding in the same direction under the rules governing the movement.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>When the right half of a roadway is closed to traffic while under construction or repair.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>On a roadway divided into three marked lanes for traffic under the rules applicable on the roadway.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>On a roadway designated by sign and marked for one-way traffic.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On all roadways, a person driving a vehicle proceeding at less than the normal speed of traffic at the time and place and under the conditions then existing shall drive the vehicle in the right- hand lane then available for traffic or as close as practicable to the right-hand curb or edge of the roadway, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|7" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.080</num>
+      <heading>SIGNALS ON STARTING, TURNING AND STOPPING</heading>
+      <para>
+        <num>(a)</num>
+        <heading>REQUIRED POSITION AND METHOD OF TURNING AT INTERSECTIONS.</heading>
+        <text>The driver of a vehicle intending to turn at an intersection shall observe the following rules:</text>
+        <para>
+          <num>(1)</num>
+          <text>A right turn shall be made as close as practicable to the right- hand curb or edge of the roadway.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When making a left turn from a two-way road, the driver shall use the lane closest to the centerline.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When making a left turn onto a one-way road, the driver shall enter the extreme left-hand lane on the one-way road.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Where a center lane has been provided, any maneuver other than a left turn from this center lane will be deemed a violation of <cite path="|8.01.080|(a)">Section 8.01.080(a)</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>TURNING MOVEMENTS AND REQUIRED SIGNALS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall turn his vehicle without giving an appropriate signal, whether mechanical or manual.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A signal of intention to turn right or left shall be given continuously during the last one hundred (100) feet traveled by the vehicle before turning.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No person shall stop or suddenly decrease the speed of a vehicle without first signaling the driver of any vehicle immediately to the rear.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>SIGNAL DEVICE REQUIRED.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any stop or turn signal shall be given by means of the hand and arm or by a mechanical signal device, except as provided in Subsection (B).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When the distance from the center of the top of the steering post to the left outside limit of a motor vehicle exceeds twenty-four inches, or when the distance from the center of the top of the steering post to the rear limit of the body or load thereof exceeds fourteen (14) feet, a turn signal must be given by a mechanical signal device.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>METHOD OF GIVING HAND AND ARM SIGNALS.</heading>
+        <text>All signals given by hand and arm shall be given from the left side of the vehicle in the following manner:</text>
+        <para>
+          <num>(1)</num>
+          <text>Left Turn: hand and arm extended horizontally.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Right Turn: hand and arm extended upward.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Stop or Decreasing Speed: hand and arm extended downward.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|8" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.090</num>
+      <heading>STANDING OR PARKING</heading>
+      <para>
+        <num>(a)</num>
+        <heading>STOPPING, STANDING OR PARKING.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall stop, park or leave standing any vehicle, whether attended or unattended, upon the paved or main-traveled part of the roadway when it is possible to stop, park or leave the vehicle off that part of the roadway.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a vehicle is left standing upon a roadway in violation of paragraph (A), any law enforcement officer is authorized to remove or to cause the vehicle to be removed to a place of safety.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text><cite path="|8.01.090|(a)">Section 8.01.090(a)</cite> shall not apply to a disabled vehicle on the paved or main-traveled portion of a roadway when it is impossible to avoid temporarily leaving the disabled vehicle in such position.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>PROHIBITIONS ON STOPPING, STANDING OR PARKING.</heading>
+        <text>No person shall stop, stand or park a vehicle in any of the following places:</text>
+        <para>
+          <num>(1)</num>
+          <text>On a sidewalk; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In front of a public or private driveway; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In an intersection; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Within twenty (20) feet of a fire hydrant; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Within thirty (30) feet of a crosswalk at an intersection; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Within thirty (30) feet of the approach to any flashing beacon, stop sign, yield sign or traffic-control device located adjacent to the roadway; or</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Within fifty (50) feet of the nearest rail or railroad crossing, except when a motor vehicle is loading or unloading railroad cars; or</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Within thirty (30) feet of the driveway entrance to any fire station or within seventy-five (75) feet on the side of a street opposite the entrance to any fire station; or</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Adjacent or opposite to any street excavation when stopping, standing or parking would obstruct traffic; or</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>On the roadway side of any vehicle stopped or parked at the edge or curb of a street; or</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Upon a bridge, tunnel or other elevated roadway structure; or</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>At any place where official signs prohibit standing or stopping.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>PARKING PRIVILEGES FOR PHYSICALLY DISABLED.</heading>
+        <text>Only a motor vehicle bearing the international wheelchair symbol may park in designated parking areas for the physically disabled, except as provided in <cite path="|8.01.090|(a)|(3)">Section 8.01.090(a)(3)</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>ADDITIONAL PARKING REGULATIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any vehicle stopped or parked upon a roadway with an adjacent curb shall be so stopped or parked with the right-hand wheels of the vehicle parallel to and within eighteen (18) inches of the right-hand curb.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A vehicle may be angle parked only within posted zones and will not be permitted on any federal-aid or state highway unless the appropriate governmental agency has specifically determined that angle parking will not interfere with the free movement of traffic.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|9" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.100</num>
+      <heading>PEDESTRIAN RIGHTS AND DUTIES</heading>
+      <para>
+        <num>(a)</num>
+        <heading>PEDESTRIANS SUBJECT TO TRAFFIC REGULATIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Pedestrians shall obey all traffic control signals. Where no signals are in place, pedestrians shall have the right-of-way subject to the restrictions in <cite path="|8.01.100">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every pedestrian crossing a roadway at any point other than within a marked crosswalk shall yield the right-of-way to all vehicles upon the roadway.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All pedestrians shall exercise due caution and reasonable care when walking adjacent to a roadway.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>PEDESTRIANS' RIGHT-OF-WAY IN CROSSWALKS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When traffic control signals are not in place or not in operation, the driver of a vehicle shall yield the right-of-way, allowing a pedestrian to cross the roadway within a crosswalk when the pedestrian is upon the same half of the roadway as the vehicle, or when the pedestrian is close enough on the other side to be in danger.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No pedestrian shall suddenly leave a curb or other place of safety and walk or run into the path of a vehicle which is so close that it is impossible for the driver to yield.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When any vehicle is stopped at a crosswalk in order to permit a pedestrian to cross the roadway, the driver of any other vehicle approaching from the rear shall not overtake and pass the stopped vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>PEDESTRIAN CONTROL SIGNALS, LOITERING PROHIBITED.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When pedestrian control signals exhibiting the words "Walk" or "Don't Walk" are in place, the signals shall indicate as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>Walk: pedestrians facing the signal may proceed across the roadway in the direction of the signal and shall be given the right-of-way by vehicles in the intersection.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Don't Walk: no pedestrian shall start to cross the roadway in the direction of the signal, but any pedestrian who has partially completed his crossing may proceed to a sidewalk or safety island while the "Don't Walk" signal is showing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Pedestrians shall not loiter or unduly delay crossing the roadway after traffic has stopped to give the right-of-way.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Failure to comply with <cite path="|8.01.100|(c)">Section 8.01.100(c)</cite> may result in the imposition of a civil assessment fee not to exceed thirty-seven dollars and fifty cents ($37.50).</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>SCHOOL CROSSINGS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Crosswalks may be established over highways near a school or the grounds nearby, and all children crossing the highway shall be required to do so within the marked crosswalks.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>At all school crossings, except as provided in <cite path="|8.01.100|(d)">Section 8.01.100(d)</cite>, appropriate signs shall be provided, indicating the crossings and regulations for traffic movement within the school zones.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>School crossings are not required to be specially posted when they are located:</text>
+          <para>
+            <num>(A)</num>
+            <text>at a signalized intersection; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>at an intersection where traffic is controlled by a stop sign; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>at a point where a pedestrian tunnel or overhead crossing is provided.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>USE OF WHITE CANE AND OTHER AMBULATION OR MOBILITY DEVICES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A vehicle approaching a legally blind pedestrian who is carrying a white or metallic cane, using a guide dog or is assisted by a sighted person shall yield the right-of-way and take reasonable precautions to avoid injury to such pedestrian. Such pedestrians shall have the same rights as all other pedestrians whether or not they are carrying canes, using a dog or being assisted by a sighted person.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A violation of <cite path="|8.01.100|(e)">Section 8.01.100(e)</cite> shall be subject to a fine not to exceed five hundred dollars ($500.00).</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|10" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.110</num>
+      <heading>OPERATION OF BICYCLES AND PLAY VEHICLES</heading>
+      <para>
+        <num>(a)</num>
+        <heading>APPLICATION OF PROVISIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A parent or guardian who authorizes or knowingly permits a child to violate any of the provisions of <cite path="|8.01.110">this section</cite> may be found liable and assessed for each such violation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person riding a bicycle upon a roadway shall be granted all the rights and shall be subject to all the duties applicable to the driver of a vehicle by <cite path="|8.01.110">this section</cite>, except as provided herein.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>CLINGING TO VEHICLES.</heading>
+        <text>No person riding on a tricycle, bicycle, coaster, roller skates, skateboard, sled or toy vehicle shall attach the same or himself to any vehicle operated upon a roadway.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>RIDING ON ROADWAYS AND BICYCLE PATHS; PROHIBITION OF MOTOR VEHICLE TRAFFIC ON BIKE PATH.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A person operating a bicycle upon a roadway shall ride as near to the right side of the roadway as possible, exercising due care when passing vehicles proceeding in the same direction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Persons riding bicycles upon a roadway must ride single file, except on paths or parts of the roadway set aside for the exclusive use of bicycles.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Wherever a path for bicycles has been provided, a bicycle rider shall refrain from riding on the roadway.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Motor vehicles are prohibited from operating on bike paths.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>LAMPS AND OTHER EQUIPMENT ON BICYCLES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any bicycle being used after dark shall be equipped with a lamp on the front emitting a white light visible from a distance of at least 500 feet to the front and a red reflector on the rear which shall be visible from at least 150 feet to the rear.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every bicycle shall be equipped with brakes that will make the wheels skid on clean, dry, level pavement.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person who violates a provision of this subchapter shall be subject to a civil assessment fee not to exceed thirty-seven dollars and fifty cents ($37.50).</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|11" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.120</num>
+      <heading>MISCELLANEOUS PROVISIONS</heading>
+      <para>
+        <num>(a)</num>
+        <heading>RIDING ON MOTORCYCLES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall operate a motorcycle or motor-driven cycle upon a public roadway in the Territory unless he has a valid motorcycle license.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A person operating a motorcycle shall ride only upon the permanent and regular seat attached thereto, and the operator shall not carry any other person unless the motorcycle is specifically designed for that purpose.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person operating a motorcycle without a fixed windshield shall wear an eye protective device. All eye protective devices or windshields shall comply with appropriate state regulations or codes.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who violates the provisions of <cite path="|8.01.120|(a)">Section 8.01.120(a)</cite> shall be subject to a civil assessment fee not to exceed one hundred fifty dollars ($150.00).</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>MANDATORY USE OF PROTECTIVE HELMETS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall operate or be a passenger on a motorcycle unless he is wearing a safety helmet securely fastened in the prescribed manner and meeting the standards specified in applicable state regulations or codes.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person who violates the provisions of <cite path="|8.01.120|(b)">Section 8.01.120(b)</cite> shall be subject to a civil assessment fee not to exceed three hundred seventy-five dollars ($375.00).</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>OBSTRUCTION TO DRIVER'S VIEW.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall drive a vehicle when its load obstructs the view of the driver or interferes with the driver's control over the vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No passenger in a vehicle shall ride in such position as to interfere with the driver's view or his control over the driving mechanisms of the vehicle.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person who violates the provisions of <cite path="|8.01.120|(c)">Section 8.01.120(c)</cite> shall be subject to a civil assessment fee not to exceed one hundred fifty dollars ($150.00).</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>COASTING PROHIBITED.</heading>
+        <text>A motor vehicle traveling upon a downgrade shall not coast with the clutch disengaged or with the motor off.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>LIVESTOCK ON HIGHWAYS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>It is unlawful for any person to ride a horse or other animal upon the roadway or its shoulder after dark.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It is unlawful for any person to permit livestock to wander or graze upon a fenced roadway at any time or to drive livestock upon the roadway or its shoulder after dark.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Owners of livestock ranging in pastures through which unfenced roads pass, shall not be liable for damages or injuries to persons or property caused by collisions of vehicles with livestock unless the owner of such livestock is guilty of negligence.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any person who violates the provisions of <cite path="|8.01.120|(e)">Section 8.01.120(e)</cite> shall be subject to a civil assessment fee not to exceed five hundred dollars ($500.00).</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|12" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.130</num>
+      <heading>EQUIPMENT</heading>
+      <para>
+        <num>(a)</num>
+        <heading>GENERAL APPLICABILITY.</heading>
+        <para>
+          <num>(1)</num>
+          <text>It shall constitute a civil infraction for any person to operate an unsafe vehicle or combination of vehicles.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The use of additional parts and accessories on any vehicle shall not be prohibited, unless inconsistent with the provisions of <cite path="|8.01.130">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The provisions of <cite path="|8.01.130">this section</cite>, with respect to vehicular equipment, shall not apply to implements of husbandry, road machinery, road rollers or farm tractors unless otherwise stated.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>WHEN LIGHTED LAMPS ARE REQUIRED.</heading>
+        <text>Any vehicle operating upon a highway within the Territory of the Tribe from one-half hour after sunset to one-half hour before sunrise, and at any other time when there is not sufficient light to render clearly discernible any persons and/or vehicles on the highway at a distance of five hundred (500) feet ahead, shall display lighted lamps and reflective devices.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>HEADLAMPS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any vehicle other than a motorcycle or motor-driven cycle shall be equipped with at least two headlamps, one on each side of the front of the motor vehicle, which shall comply with the requirements and limitations set forth in <cite path="|8.01.130">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every motorcycle and motor-driven cycle shall be equipped with at least one and not more than two headlamps that shall comply with the requirements and limitations set forth in <cite path="|8.01.130">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Every headlamp upon a motor vehicle, including every motorcycle and motor-driven cycle, shall be located at a height measured from the center of the headlamp of not more than fifty-four inches nor less than twenty-four inches from level ground.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>TAIL LAMPS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every motor vehicle, trailer, semi-trailer and pole trailer and any other vehicle drawn last, shall be equipped with at least one tail- lamp mounted on the rear, which shall emit a red light plainly visible from a distance of five hundred (500) feet to the rear.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each tail-lamp shall be located at a height of not more than seventy-two (72) inches nor less than twenty (20) inches from level ground.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any tail-lamp together with any separate lamp for illuminating the rear license plate, shall be wired to be lighted whenever the headlamps or auxiliary driving lamps are lighted, and shall be free of any obstruction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>SIGNAL LAMPS AND DEVICES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>All motor vehicles shall be equipped with the following signal lamps or devices:</text>
+          <para>
+            <num>(A)</num>
+            <text>Rear stop lamps which shall light up upon use of the foot brake and which may be incorporated with one or more rear lamps; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A lamp or mechanical signal device capable of clearly indicating a right or left turn, which is visible both from the front and rear.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every stop lamp shall be plainly visible from a distance of one hundred (100) feet to the rear both during the day and at night. Turn signal lamps shall be plainly visible from a distance of one hundred (100) feet to the rear both during the day and at night. All such lamps shall at all times be maintained in good working condition.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>ADDITIONAL LIGHTING EQUIPMENT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A motor vehicle may be equipped with not more than two side cowl or fender lamps, which shall emit an amber or white light.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A motor vehicle may be equipped with not more than two back- up lamps either separately or in combination with other lamps except that a back-up lamp shall not be lighted when the motor vehicle is in forward motion.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A vehicle may be equipped with no more than one spot lamp. A lighted spot lamp shall not be aimed at another vehicle in such a way as to impair the vision of oncoming drivers.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A vehicle may be equipped with no more than two fog lamps. A lighted fog lamp shall not be aimed at another vehicle in such a way as to impair the vision of oncoming drivers.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>When a motor vehicle equipped with headlamps as required by <cite path="|8.01.130">this section</cite> is also equipped with an auxiliary lamp or spot lamp, not more than a total of four of any such lamps on the front of a vehicle shall be lighted at any one time.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>SPECIAL RESTRICTIONS ON LAMPS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Only fire department vehicles, law enforcement agency vehicles, ambulances, school buses and authorized emergency vehicles shall display flashing red lights visible from the front of the vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Tow trucks standing on highways for the purpose of removing disabled vehicles, and while engaged in towing any disabled vehicle, shall display flashing blue lights. This shall not be construed to permit the use of flashing lights by tow trucks in going to or returning from the location of disabled vehicles unless actually engaged in towing a disabled vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>MULTIPLE-BEAM ROAD LIGHTING EQUIPMENT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A vehicle's headlamps, auxiliary driving lamps, auxiliary passing lamps, or some combination thereof, shall be arranged so the driver may select different light elevations, subject to the following requirements and limitations:</text>
+          <para>
+            <num>(A)</num>
+            <text>An uppermost distribution of light, or composite beam, shall reveal persons and vehicles at a distance of at least three hundred fifty (350) feet ahead under all conditions.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A lowermost distribution of light, or composite beam, shall reveal persons and vehicles at a distance of at least one hundred (100) feet ahead.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>High-intensity beams shall not be aimed at another vehicle in such a way as to impair the vision of oncoming drivers.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Headlamps arranged to provide a single distribution of light shall be permitted on motor vehicles manufactured prior to January 1, 1951, in lieu of multiple-beam road-lighting equipment specified above.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>FLAG ON PROJECTING LOAD.</heading>
+        <text>Whenever a load upon a vehicle extends at least four feet or more beyond the bed or body of the vehicle, there shall be displayed at the extreme rear end of the load a red flag or cloth not less than twelve inches square and plainly visible to the driver of a vehicle approaching from the rear.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>EQUIPMENT REQUIRED ON CERTAIN VEHICLES.</heading>
+        <text>Every bus or truck less than eighty (80) inches in overall width shall be equipped at a minimum as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>on the front: two headlamps: and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>on the rear: one red tail lamp; one red stop lamp; and two red reflectors, one at each side.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>COLOR OF CLEARANCE LAMPS, SIDE-MARKER LAMPS AND REFLECTORS.</heading>
+        <text>Every bus or truck eighty (80) inches or more in overall width shall be equipped as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>On the front: two headlamps and two amber clearance lamps, one at each side.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On the rear: one red tail lamp, one red stop lamp, two red clearance lamps, one at each side, and two red reflectors, one at each side.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>On each side: one amber side-marker lamp, located at or near the front; one red side-marker lamp, located at or near the rear; one amber reflector, located at or near the front; one red reflector, located at or near the rear; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Both the back-up lamp and the light illuminating the license plate shall emit a white light.</text>
+        </para>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>LAMPS AND REFLECTORS:</heading>
+        <text>
+          <u>TRUCK TRACTORS AND ROAD TRACTORS.</u>
+        </text>
+        <text>Every truck tractor and road tractor shall be equipped as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>On the front: two headlamps; and two amber clearance lamps, one at each side.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On the rear: one red tail lamp and one red stop lamp.</text>
+        </para>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>LAMPS AND REFLECTORS:</heading>
+        <text><u>LARGE SEMITRAILERS, FULL TRAILERS AND HOUSE TRAILERS</u>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Every semitrailer, full trailer or house trailer eighty (80) inches or more in overall width and in motion shall be equipped as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>On the front: two amber clearance lamps, one at each side.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>On the rear: one red tail lamp; one red stop lamp; two red clearance lamps, one at each side, two red reflectors, one at each side; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>On each side: one amber side-marker lamp, located at or near the front; one red side-marker lamp, located at or near the rear; one amber reflector, located at or near the front; one red reflector, located at or near the rear.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Side-marker lamps may be in combination with clearance lamps and may use the same light source.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>LAMPS AND REFLECTORS:</heading>
+        <text><u>SMALL SEMITRAILERS, HOUSE TRAILERS AND TRAILERS</u>.</text>
+        <text>On the rear of every semitrailer, house trailer or trailer less than eighty (80) inches in overall width there shall be the following equipment: one red tail lamp; two red reflectors, one at each side; and one red stop lamp, if the semitrailer, house trailer or trailer obscures the stop lamp on the towing vehicle.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>LAMPS AND REFLECTORS:</heading>
+        <text><u>POLE TRAILERS</u>.</text>
+        <text>Every pole trailer shall be equipped as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>On the rear: one red tail lamp, two red reflectors, one at each side; one indicator of the extreme width of the pole trailer; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On each side, on the rearmost support for the load: one combination marker lamp showing amber to the front and red to the side and rear, mounted to indicate the maximum width of the pole trailer; and red reflector, located at or near the rear; and on pole trailers thirty feet or more in overall length, an amber marker lamp on each side near the center.</text>
+        </para>
+      </para>
+      <para>
+        <num>(p)</num>
+        <heading>LAMPS AND REFLECTORS:</heading>
+        <text><u>COMBINATION IN DRIVEAWAY- TOWAWAY OPERATIONS</u>.</text>
+        <text>Combinations of motor vehicles engaged in driveaway/towaway operations shall be equipped as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>On the towing vehicle:</text>
+          <para>
+            <num>(A)</num>
+            <text>On the front: two headlamps and two amber clearance lamps, one at each side.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>On each side and near the front: one amber side-marker lamp.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>On the rear: one red tail lamp; one red or amber stop lamp; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Provided, however, that vehicles of less than eighty inches in width shall be equipped as provided in section 4.12.10;</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On the towed vehicle of a tow-bar combination, the towed vehicle of a single saddle-mount combination and the rearmost towed vehicles of a double saddle-mount combination:</text>
+          <para>
+            <num>(A)</num>
+            <text>On each side, and near the rear: one red side marker lamp; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>On the rear: one red tail lamp; two red clearance lamps, one at each side; one red or amber stop lamp; two red reflectors, one at each side.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>On the first saddle-mount of a double saddle-mount combination: on each side, and near the rear, one amber side-marker lamp; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Combination of vehicles less than eighty (80) inches in width in driveaway/towaway operations shall carry lamp and reflectors as required in <cite path="|8.01.130|(j)">Section 8.01.130(j)</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(q)</num>
+        <heading>REFLECTORS, CLEARANCE LAMPS AND SIDE-MARKER LAMPS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>All reflectors shall be permanently and securely mounted so as to provide maximum stability and minimum likelihood of damage.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Retro-reflective surfaces, other than required reflectors, may be used, provided:</text>
+          <para>
+            <num>(A)</num>
+            <text>Designs do not resemble traffic control signs, lights or devices, although straight edged stripping resembling a barricade pattern may be used.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Designs do not tend to distort the length or width of the vehicle.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Such surface shall be at least three inches from any required lamp or reflector unless of the same color as such lamp or reflector.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>No red color shall be used on the front of any vehicle; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>No provision of this subsection shall be so construed as to prohibit the use of retro-reflective registration plates required by any State of local authority.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(r)</num>
+        <heading>BRAKES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The following brake equipment is required:</text>
+          <para>
+            <num>(A)</num>
+            <text>Every motor vehicle must have two separate means of applying the brakes, each of which shall effectively apply the brakes to at least two wheels. If these two, separate means of applying the brakes are connected in any way, they shall be so constructed that a failure of any one part of the operating mechanism shall not leave the motor vehicle without brakes on at least two wheels.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Every motorcycle and every motor-driven cycle shall be equipped with at least one brake which may be operated by hand or foot.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Every trailer or semi-trailer of a gross weight of three thousand (3000) pounds or more shall be equipped with brakes adequate to control the movement of and to stop and to hold the vehicle. Brakes may be applied from the vehicle's cab or be of a type which will operate automatically when the service brakes of the towing vehicle are applied. The brakes shall be so designed that in case of an accidental break-away of the towed vehicle the brakes shall be automatically applied.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>In any combination of motor-drawn vehicles, the rear-most trailer brakes must operate in approximate synchronism with the brakes on the towing vehicle.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The brake shoes operating within or upon the wheel drums may be used for both service and foot operation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Every motor vehicle or combination of motor-drawn vehicles shall be capable, at all times and under all conditions of loading, of being stopped on a dry, smooth, level road, free from loose material, upon application of the service or foot brake, within the distances specified below, or shall be capable of being decelerated at a sustained rate corresponding to these distances:</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td data-text-align="justify">Deceleration</td>
+                  <td proof="needed" data-text-align="justify">
+                    <p>Feet to stop</p>
+                    <p>from 20 miles</p>
+                    <p>per hour</p>
+                  </td>
+                  <td proof="needed" data-text-align="justify">
+                    <p>in feet per</p>
+                    <p>second</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-text-align="center">Vehicles or combination of vehicles having brakes on all wheels</td>
+                  <td data-text-align="justify">30</td>
+                  <td data-text-align="justify">14</td>
+                </tr>
+                <tr>
+                  <td data-text-align="center">Vehicles or combination of vehicles not having brakes on all wheels</td>
+                  <td data-text-align="justify">40</td>
+                  <td data-text-align="justify">10.7</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>All brakes shall be maintained in good working order and shall be adjusted as to operate as equally as possible.</text>
+        </para>
+      </para>
+      <para>
+        <num>(s)</num>
+        <heading>HORNS AND WARNING DEVICES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every motor vehicle shall be equipped with a horn in good working order and capable of emitting sound audible under normal conditions from a distance of not less than two hundred (200) feet.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An authorized emergency vehicle may be equipped with a siren, whistle or bell, capable of emitting sound audible under normal conditions from a distance of at least five hundred (500) feet. The siren shall not be used except when the vehicle is operating in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(t)</num>
+        <heading>MUFFLERS; EMISSION CONTROL DEVICES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every motor vehicle shall at all times be equipped with a muffler in good working order and in constant operation to prevent excessive or unusual noise. No person shall use a muffler cutout, bypass or similar device.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The muffler, emission control equipment device, engine and power mechanism of every motor vehicle shall be so equipped and adjusted as to prevent the escape of excessive fumes or smoke.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Every registered gasoline-fueled motor vehicle manufactured after December 31, 1967, shall be equipped and maintained with the factory-installed equipment or its replacement designed to prevent, reduce or control exhaust emissions or air pollution.</text>
+        </para>
+      </para>
+      <para>
+        <num>(u)</num>
+        <heading>MIRRORS.</heading>
+        <text>Every motor vehicle shall be equipped with a mirror positioned to reflect an unobstructed view of the roadway.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <heading>WINDSHIELD AND WINDOWS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall place signs, posters or other nontransparent material upon or in the front windshield, windows to the immediate right and left of the driver or in the rearmost window.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The windshield on every motor vehicle, except a motorcycle, shall be equipped with a mechanical device for cleaning rain, snow or other moisture from the windshield and shall be maintained in good working order.</text>
+        </para>
+      </para>
+      <para>
+        <num>(w)</num>
+        <heading>RESTRICTIONS AS TO TIRE EQUIPMENT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When their use is permitted, every solid rubber tire shall have rubber on its entire traction surface at least one-inch thick above the edge of the flange of the entire outside surface.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No tire shall have on its outside surface any block, flange, cleat, spike or other protection of any material other than rubber that is beyond the tread of the traction surface of the tire.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It is permissible to use farm machinery with tires having rubber protections that will not damage the highway. It is permissible to use tire chains of reasonable proportions or snow tires with metal studs when weather conditions permit.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Department may issue special permits authorizing the operation of traction engines, tractors or other farm machinery having movable tracks with transverse corrugations, the operation of which would otherwise be prohibited.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>No vehicle equipped with solid rubber tires shall be permitted upon any roadway of the Kiowa Tribe without special permission first being granted by the Department. In no event may any such vehicle be operated at a speed in excess of that specified by law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(x)</num>
+        <heading>EMERGENCY WARNING EQUIPMENT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every bus, truck, truck tractor, and road tractor, and every driven vehicle in driveway/towaway operation, of a width greater than 80 inches, shall carry the following emergency equipment:</text>
+          <para>
+            <num>(A)</num>
+            <text>Three flares or liquid-burning pot torches, three fuses and two red cloth flags; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Three red electric lanterns, two red cloth flags and three fuses; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Three red emergency reflectors, two red cloth flags, and three fuses.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Motor vehicles used in the transportation of explosives, flammable liquids or flammable compressed gases, and motor vehicles fueled by flammable compressed gas, must carry three electrical lanterns or three red emergency reflectors. Under no circumstances may these vehicles carry an emergency signal produced by a flame.</text>
+        </para>
+      </para>
+      <para>
+        <num>(y)</num>
+        <heading>PLACEMENT OF WARNING SIGNALS.</heading>
+        <text>In an emergency, a driver shall place three liquid-burning flares or pot torches, or three red electric lanterns, or three red emergency reflectors on the traveled portion of the highway according to the following guidelines:</text>
+        <para>
+          <num>(1)</num>
+          <text>One at a distance of approximately one hundred (100) feet from the disabled vehicle in the center of the traffic lane occupied by such vehicle and toward traffic approaching in that lane.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>One at a distance of approximately one hundred (100) feet in the opposite direction from the disabled vehicle in the center of the traffic lane occupied by such vehicle; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>One at the traffic side of the disabled vehicle, not less than (10) feet to the front of it.</text>
+        </para>
+      </para>
+      <para>
+        <num>(z)</num>
+        <heading>VEHICLES TRANSPORTING EXPLOSIVES OR OTHER DANGEROUS SUBSTANCES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Vehicles transporting explosives or dangerous substances will not be permitted to stop while in route to destination unless instructed to do so by an authorized law enforcement office.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Dangerous substances include but are not limited to:</text>
+          <para>
+            <num>(A)</num>
+            <text>Flammable Solid: a solid substance other than one classified as an explosive, which is liable, under conditions incident to transportation, to cause fires through friction, absorption of moisture, spontaneous chemical changes, or as a result of retained heat from manufacturing or processing.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Oxidizing Materials: a substance that yields oxygen, stimulating the combustion of organic matter. Examples include chlorate, permanganate, peroxide or nitrate.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Corrosive Liquids: acids, alkaline caustic liquids and other corrosive liquids which may cause severe damage to persons or property by chemical action; or such liquids as are liable to cause fire when in contact with organic matter or with certain chemicals.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Compressed Gas: any material with a gauge pressure exceeding 40 pounds per square at 70 degrees Fahrenheit; or any liquid flammable material having a Reid vapor pressure exceeding 40 pounds per square inch, absolute, at 100 degrees Fahrenheit. Compressed gas (butane propane) must be transported in an open, ventilated transportation device.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Classifications of Poison:</text>
+            <para>
+              <num>(i)</num>
+              <text>Class A: includes extremely dangerous poisons. Poisonous gases or liquids of such nature that a very small amount of the gas, or vapor of the liquid mixed with air, is dangerous to life. Such poison shall be labeled as dangerous.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Class B: includes less dangerous poisons. Poisonous liquids or solids, including pastes and semi-liquids, are substances of such nature that they are chiefly dangerous by external contact with the body or by being taken internally as in contaminated foods or feeds.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Class C: includes tear gases or irritating substances. Tear gases are liquid or solid substances which upon contact with fire or when exposed to air give off dangerous or intensely irritating fumes, such as brombensylcyanide, chloracetophonone, diphenylaminechlorisane, and diphelychlorasine.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <heading>MARKINGS ON MOTOR VEHICLES CONCERNING DANGEROUS SUBSTANCES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every motor vehicle other than a tank motor vehicle transporting twenty-five hundred (2,500) pounds or more of any class of explosives or other dangerous substances, shall be marked as prescribed below:</text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td data-text-align="justify">1. Explosives, Class A...................</td>
+                  <td data-text-align="justify">EXPLOSIVES</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">2. Explosives, Class B...................</td>
+                  <td data-text-align="justify">DANGEROUS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">3. Flammable liquid.....................</td>
+                  <td data-text-align="justify">DANGEROUS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">4. Flammable solid.......................</td>
+                  <td data-text-align="justify">DANGEROUS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">5. Oxidizing material....................</td>
+                  <td data-text-align="justify">DANGEROUS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">6. Corrosive liquid.........................</td>
+                  <td data-text-align="justify">DANGEROUS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">7. Compressed gas........................</td>
+                  <td data-text-align="justify">COMPRESSED GAS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">8. Poison gas, Class A....................</td>
+                  <td data-text-align="justify">POISON GAS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">9. Tear Gas....................................</td>
+                  <td data-text-align="justify">DANGEROUS</td>
+                </tr>
+                <tr>
+                  <td data-text-align="justify">10. Poisons, Class B.......................</td>
+                  <td data-text-align="justify">DANGEROUS-POISON GAS</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The prescribed markings shall be located on each side and the rear of the motor vehicle, and the letters shall be at least three inches high on a background of sharply contrasting color.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A motor vehicle transporting more than one class of dangerous substances for which signs are required shall designate the most dangerous substance being transported on its sign.</text>
+        </para>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <heading>SAFETY BELT REQUIREMENT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>All adults, children 13 years of age and older, or 4 feet 9 inches in height or taller, in a moving non-commercial vehicle operated in the Kiowa Territory shall use a properly fastened lap and shoulder belt, or a lap belt only in those vehicles without a lap and shoulder restraint system. This requirement shall not apply to any person possessing a written statement from a physician indicating that the person is unable to wear a safety belt for medical or psychological reasons. A copy of the physician's statement must be in the person's possession while operating the vehicle in the Territory of the Tribe.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Violators of <cite path="|8.01.130|(bb)">Section 8.01.130(bb)</cite> are subject to a civil assessment fee of not less than thirty-seven dollars and fifty cents ($37.50) and not more than seventy-five dollars ($75.00), or not less than ten hours and not more than 30 hours of community service.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Evidence of a violation of <cite path="|8.01.130|(bb)">Section 8.01.130(bb)</cite> shall be admissible for the purposes of mitigation of damages, appointment of damages or comparative fault, or other issues as determined by the court, with respect to any person who is involved in an accident and seeks to recover damages for injuries resulting from the accident.</text>
+        </para>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <heading>INFANT/CHILD PASSENGER RESTRAINTS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A parent or guardian of a child twelve (12) years of age or younger and less than 4'9", when transporting the child in a non- commercial motor vehicle operated on any highway within the Territory of the Tribe, shall properly secure the child in a child passenger restraint system. The restraint system shall meet Federal Motor Vehicle Safety Standard Number 213, which requires the following information to be printed on a permanent label attached to the restraint:</text>
+          <para>
+            <num>(A)</num>
+            <text>The statement: "This child restraint system conforms to all applicable Federal Motor Vehicle Safety Standards; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The manufacturers' recommendations of the minimum and maximum weight and height of the children who can safely occupy the system; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Step-by-step instructions for installing the system in motor vehicle, positioning the child in the system, and adjusting the system to fit the child.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No child passenger restraint system shall be used if:</text>
+          <para>
+            <num>(A)</num>
+            <text>it is beyond its labeled expiration date; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>it is known to be on a University of North Carolina/Highway Safety Research Center, or other equivalent national, child restraint recall list.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A person shall not operate a passenger car, van or pickup truck within the Territory of the Tribe, unless all passengers less than 12 years of age and less than 4 feet 9 inches in height are properly restrained.</text>
+          <para>
+            <num>(A)</num>
+            <text>Children less than one year of age shall be properly secured in a rear-facing child restraint of a vehicle that is equipped with a rear seat. If the vehicle is not equipped with a rear seat, the child may right in the front seat of the vehicle with the passenger- side air bag deactivated.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Children one year of age through four years of age, regardless of weight, and children who weigh less than forty pounds, regardless of age, shall be properly secured in a child passenger restraint device that meets federal standards for this age and size range.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Children five years of age through 12 years of age, regardless of weight; or children who weigh less than 60 pounds, regardless of age; shall be properly secured in a child restraint device that meets federal standards, by a booster seat or by a seat belt.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Civil Penalties.</text>
+          <para>
+            <num>(A)</num>
+            <text>A first-time violator of <cite path="|8.01.130|(cc)">Section 8.01.130(cc)</cite> is subject to a civil assessment fee not more than thirty-seven dollars and fifty cents ($37.50), or not less than ten (10) hours of community service. A second time violator of <cite path="|8.01.130|(cc)">Section 8.01.130(cc)</cite> is subject to a civil assessment fee of not more than fifty dollars ($50), or not less than twenty (20) hours of community service. A person violating <cite path="|8.01.130|(cc)">Section 8.01.130(cc)</cite> three times or more is subject to a civil assessment fee of not more than sixty-seven dollars and fifty cents ($67.50), or not less than thirty (30) hours of community service.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Civil assessment fees collected from violations of <cite path="|8.01.130|(cc)">Section 8.01.130(cc)</cite> shall be used for the purpose of purchasing child restraint seats for the Tribe.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A civil assessment fee arising from a violation of <cite path="|8.01.130|(cc)">Section 8.01.130(cc)</cite> can be reduced or waived if the individual attends a Children Are Precious Passengers (CAPP) course and provides proof within thirty (30) days that they have purchased a child passenger restraint system that meets the requirements of subsection A.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>This provision shall not apply to a driver who transports a child in an emergency to obtain necessary emergency medical care.</text>
+        </para>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <heading>UNSECURED PASSENGERS IN TRUCKS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>No person shall operate a truck when any person under the age of thirteen is riding in the unenclosed bed of the truck. The provisions of <cite path="|8.01.130|(dd)">Section 8.01.130(dd)</cite> shall not apply if the truck has installed a means of preventing a person riding in the unenclosed bed from being thrown, falling, or jumping from the truck.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Violators of <cite path="|8.01.130|(dd)">Section 8.01.130(dd)</cite> are subject to a civil assessment fee not more than three hundred fifty dollars ($350.00) or less than fifty (50) hours of community service.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|13" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.140</num>
+      <heading>WEIGHT AND SIZE LIMITATIONS</heading>
+      <para>
+        <num>(a)</num>
+        <heading>SCOPE AND EFFECT OF ARTICLE.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The provisions of <cite path="|8.01.140">this section</cite> governing size, weight and load shall not apply to fire apparatus, road machinery engaged in highway construction or maintenance, or to implements of husbandry temporarily moved upon a highway, or to a vehicle operated under term of special permit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The court, in addition to or in lieu of any assessment imposed, may require any person found in violation of <cite path="|8.01.140|(a)">Section 8.01.140(a)</cite> to pay the full cost of repairing or replacing any property damaged as the result of such violation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>PROJECTING LOADS ON PASSENGER VEHICLES.</heading>
+        <text>No passenger-type vehicle, except a motorcycle, shall be operated on any highway with any load carried on it that extends beyond the line of the fenders on the left side of the vehicle nor extending more than six (6) inches beyond the line of the fenders on the right side of the vehicle.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>SPECIAL LOAD LIMITS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The load upon any vehicle operated alone, or the load upon the front vehicle of a combination of vehicles, shall not extend more than three feet (3) beyond the foremost part of the vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The load upon any vehicle operated alone, or the load upon the rear vehicle of a combination of vehicles, shall not extend more than six feet (6) beyond the rear of the bed or body of such vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>LOADS ON VEHICLES.</heading>
+        <text>No vehicle shall operate on any highway unless its load is securely fastened so as to prevent such load from becoming loose, detached, or in any manner a hazard to other users of the highway.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>TRAILERS AND TOWED VEHICLES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When one vehicle is towing another the drawbar or other connection shall not extend more than fifteen (15) feet from one vehicle to the other.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When one vehicle is towing another and the connection consists of a chain, rope, or cable, there shall be displayed upon such connection a white flag or cloth not less than 15 inches square.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When a combination of vehicles are engaged in transporting poles, pipe, machinery, or other objects of a structural nature which cannot readily be dismembered, the load shall be distributed so as to equalize the weights on the axles of each vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>LOAD LIMITS ON AXLES, WHEELS AND TIRES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The gross weight imposed on the highway by the wheels of any one axle of a vehicle shall not exceed 21,600 pounds; nor shall any one wheel carry a load in excess of 11,000 pounds; nor shall a tandem axle carry a load in excess of 34,320 pounds.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No wheel equipped with pneumatic, solid rubber or cushion tires shall carry a load in excess of 600 pounds for each inch of tire width. The width of pneumatic tires shall be taken at the manufacturer's rating. The width of solid rubber and cushion tires shall be measured at the flange of the rim.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>PERMITS FOR EXCESSIVE SIZE AND WEIGHT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Upon application to the appropriate tribal authority, a special permit may be issued authorizing the applicant to operate a vehicle or combination of vehicles of a size, weight or load exceeding the maximum specified in <cite path="|8.01.140">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Whenever vehicles are being moved upon the highway under special permit, escort vehicles shall be required in front of and behind the non-conforming vehicle.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|14" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.150</num>
+      <heading>CRIMINAL OFFENSES</heading>
+      <para>
+        <num>(a)</num>
+        <heading>OBEDIENCE TO POLICE OFFICERS.</heading>
+        <text>Any person who knowingly fails or refuses to comply with any reasonable order or direction of any law enforcement official vested with authority to direct, control or regulate traffic, is guilty of an offense.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>UNLAWFUL FLIGHT FROM PURSUING LAW ENFORCEMENT VEHICLE.</heading>
+        <text>Any driver of a motor vehicle who intentionally flees or attempts to elude a pursuing law enforcement vehicle is guilty of an offense.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>DRIVING UNDER INFLUENCE OF INTOXICATING LIQUOR OR DRUGS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person under the influence of intoxicating liquor or drugs who drives or is in actual physical control of any vehicle within the territorial jurisdiction of the Kiowa Tribe, is guilty of an offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It is a offense for any person under the influence of any narcotic drug, any other drug or controlled substance, to drive or be in actual physical control of any vehicle within the Territory. The fact that any person charged with a violation of this paragraph is or has been entitled to use such drug under the laws of any state or the Kiowa Tribe shall not constitute a defense.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person convicted of violating <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite> shall be sentenced to not less than twenty-four (24) consecutive hours in jail. The court will not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serve not less than twenty-four consecutive hours in jail. The court shall order such person to pay a fine of not less than three hundred ($300.00) dollars and may order the person to perform not less than eight (8) nor more than forty (40) hours of community service. The Judge shall require the surrender of the offender's operator's or chauffeur's license and suspend the license for a period of ninety (90) days, for a first offense, one hundred eighty (180) days, for a second offense, and one (1) year, for a third offense.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>When the Trial Court requires a person convicted of violating the provisions of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite> to surrender to the court the operator's or chauffeur's license of such person, it shall forward the surrendered license or permit to the state office issuing the license or permit together with a certified order of the court suspending or revoking the driving privileges of the convicted person.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The court may require the person to attend traffic safety or alcohol abuse classes at the offender's expense or, if in the court's opinion, the offender has the problem of habitual abuse of alcohol or drugs, the court may require the person to obtain treatment under its supervision; however, in no case shall an offender be excused from spending twenty-four (24) consecutive hours in jail.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If a person is convicted of a second violation of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite> within a period of twenty-four months, the person shall be ordered to serve a term of not less than thirty days in jail. A court shall not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serves not less than thirty days in jail. The court shall also order the person to pay a fine of not less than five hundred ($500.00) dollars. The dates of the commission of the offense shall be the determining factor in applying this rule. No judge may grant probation to, or suspend the imposition or execution of a jail sentence. If, in the court's opinion, the offender has the problem of habitual abuse of alcohol or drugs, the court shall require the person to obtain treatment under its supervision.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If a person is convicted of a third or subsequent violation of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite> within a period of thirty-six months, the person shall be sentenced to serve not less than six months in jail. A judge shall not grant probation, pardon, parole, commutation or suspension of sentence or release on any other basis, except upon the condition that the person serves not less than six months in jail. The dates of the commission of the offense are the determining factors in applying this rule. The Judge shall require the surrender of such offender's operator's or chauffeur's license and suspend the license for a period of five years. A judge shall not suspend the imposition of a prison sentence or fail to require the surrender of any license of a person for a third or subsequent conviction. If, in the court's opinion, the person has the problem of habitual abuse of alcohol or drugs, the court shall require the person to obtain treatment under its supervision.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Any political subdivision processing or utilizing the services of a person ordered to perform community service pursuant to <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite>, shall not incur any civil liability to the person ordered to perform community service as a result of these activities, unless the political subdivision, its agent or employee is guilty of gross negligence or willful and wanton disregard for such person's safety.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The court may, upon pronouncement of any jail sentence under <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite>, provide in the sentence that the defendant be permitted, if he or she is employed and can continue the employment, to continue such employment for not more than twelve (12) hours per day nor more than six (6) days per week; the remaining days or parts of days shall be spent in jail until the sentence is served. Such person shall be allowed out of jail only long enough to complete his or her actual hours of employment and no longer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>AGGRAVATED DRIVING UNDER INFLUENCE OF INTOXICATING LIQUOR OR DRUGS.</heading>
+        <text>A person is guilty of aggravated driving or actual physical control while under the influence of intoxicating liquor or drugs, an offense, if the person does any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Commits a violation of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite>while the person's driver license or privilege to drive is suspended, canceled, revoked or refused or while a restriction is placed on the person's driver license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Commits a violation of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite>while a person under twelve years of age is in the vehicle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>RECKLESS DRIVING.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person who drives a vehicle in reckless disregard of the rights or safety of others, and at a speed or in a manner so as to endanger any person or property, shall be guilty of reckless driving, a minor offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>On a second or subsequent conviction for reckless driving within a period of twenty-four (24) months, the defendant shall be punished by imprisonment for a term not less than twenty (20) days, or by a fine of not less than two hundred twenty dollars ($220.00), or both, and shall be required to attend a traffic safety education course.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The driving license or permit of any person found guilty of violating <cite path="|8.01.150|(e)">Section 8.01.150(e)</cite> may be suspended by the court for a period not to exceed ninety (90) days.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>RACING PROHIBITED.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person who drives a vehicle on a highway in any race, exhibition of speed or acceleration, or for the purpose of making a speed record, whether or not the speed is in excess of the maximum speed prescribed by law, is guilty of a petty offense.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person found guilty of violating <cite path="|8.01.150|(f)">Section 8.01.150(f)</cite> shall attend a traffic safety education course, in addition to any other penalties imposed by the court.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Upon a second or subsequent conviction committed within a period of twenty-four (24) months, such person shall be punished by imprisonment for a term of not less than twenty (20) days or be ordered to pay a fine of not less than two hundred twenty-five dollars ($225.00), or both.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>IMPLIED CONSENT TO SUBMIT TO CHEMICAL TEST.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person who operates a motor vehicle within the Territory of the Tribe shall be deemed to have given consent to chemical tests of his breath and/or blood for the purpose of determining the alcoholic and/or drug content of his blood, for any offense alleged to be committed while the person was operating the motor vehicle.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The tests shall be administered at the direction of a law enforcement officer having reasonable grounds to believe the person has been operating a motor vehicle under the influence of intoxicating liquor or drugs.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any person in a condition rendering him incapable of refusal, shall not be deemed to have withdrawn the consent provided by paragraph (a), and any test designated by law enforcement officers may be administered.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>PENALTY FOR REFUSAL TO SUBMIT TO CHEMICAL TEST.</heading>
+        <text>Any person who refuses to submit to a chemical test as requested by an officer pursuant to <cite path="|8.01.150|(g)">Section 8.01.150(g)</cite>, shall have his driving privileges suspended by the court for a period of one year.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>PRESUMPTIONS OF INTOXICATION.</heading>
+        <para>
+          <num>(1)</num>
+          <text>The results of a chemical test performed pursuant to <cite path="|8.01.150">this section</cite> may be introduced into evidence in any civil or criminal action arising out of acts alleged to have been committed while operating a motor vehicle under the influence of intoxicating liquor or drugs.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The amount of alcohol in a person's blood as shown by analysis of the person's blood, breath or other bodily substance shall give rise to the following presumptions:</text>
+          <para>
+            <num>(A)</num>
+            <text>If there was at the time 0.05 percent or less by weight of alcohol in defendant's blood, it shall be presumed that the defendant was not under the influence of intoxicating liquor.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If there was at that time in excess of 0.05 percent but less than 0.08 percent by weight of alcohol in defendant's blood, such fact shall not give rise to any presumption, but such fact may be considered with other competent evidence in determining the guilt or innocence of the defendant.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If there was at the time 0.08 percent or more by weight of alcohol in defendant's blood, it shall be presumed that the defendant was under the influence of intoxicating liquor.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Paragraphs 1, 2 and 3 of this subsection shall not limit the introduction of any other competent evidence bearing upon the question of whether or not the defendant was under the influence of intoxicating liquor.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The percent by weight of alcohol shall he based on the grams of alcohol per one hundred (100) cubic centimeters of blood.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>ADMINISTRATION OF CHEMICAL TESTS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Only a physician, practical nurse, phlebotomist, certified technician, laboratory technician or technologist employed by a hospital or physician shall withdraw blood from any person in the performance of a blood-alcohol and/or drug test. This limitation does not apply to the taking of samples of breath or urine.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A physician, nurse, technician or technologist who performs a blood-alcohol and/or drug test at the direction of any law enforcement agency, shall not be liable in any civil or criminal action for assault, battery, false imprisonment or the violation of any right of the person tested or for any conduct of any police officer.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The person tested shall be given an opportunity to arrange for a physician, licensed nurse or hospital laboratory technician of his own choosing to perform a chemical test, in addition to any test performed at the direction of a law enforcement officer. If a person exercises his right to have a chemical test performed by a person of his own choosing, then the cost of that test shall be paid by the person exercising that right.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Upon the request of the person tested, full information concerning the test or tests performed at the direction of the law enforcement officer shall be made available to him as soon as it is available.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Nothing in <cite path="|8.01.150">this section</cite> will authorize any law enforcement officer, or any judicial or probation officer, to make an arrest or to direct the performance of a blood-alcohol and/or drug test not unauthorized by law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>RECORDS OR DISPOSITION.</heading>
+        <text>All records regarding the disposition of cases in which a person is charged with a violation of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite>shall be maintained by the court and made accessible to the general public. The court shall include in these records an explanation of its reasons for accepting any plea agreement or dismissing any charge in violation of <cite path="|8.01.150|(c)">Section 8.01.150(c)</cite>. 4.15.11 THROWING OR DROPPING OBJECTS AT MOVING VEHICLES. It is an offense for any person to intentionally or recklessly throw, or otherwise propel any object at a motor vehicle in operation. The Court shall consider the age of the violator, the extent of damage, as well as any injuries and may, in its discretion, reduce the classification or sentence.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>WARNING DEVICES AT CONSTRUCTION SITES.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any contractor, individual, firm, corporation, political subdivision or other entity performing work on roads, streets or highways, shall place at every such work or construction site, specified notices, warnings and traffic control signs and devices in conformity with the specifications required by the National Highway Safety Code. All such notices shall remain at the work site until the work is completed.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any person failing to place or maintain such notices, warnings or traffic control signs and devices, shall be guilty of an offense.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In addition, to any penalties imposed by the court, the Department may order that the conduct of any highway, roadway or street work construction or maintenance not in conformity with the requirements of <cite path="|8.01.150|(l)">Section 8.01.150(l)</cite>, be secured and suspended until brought into full compliance and conformity with said requirements.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|15" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix></prefix>
+      <num>8.01.160</num>
+      <heading>PROCEDURE FOR THE TRAFFIC COURT</heading>
+      <para>
+        <num>(a)</num>
+        <heading>WHEN ARRESTEE TO BE GIVEN NOTICE TO APPEAR IN COURT.</heading>
+        <para>
+          <num>(1)</num>
+          <text>When a person is arrested for a criminal offense under <cite path="|8.01">this chapter</cite>, he shall give his written promise to appear in court in order to secure release as provided in <cite path="|8.01.160|(a)">Section 8.01.160(a)</cite> unless the arresting officers has good reason to believe the arrestee is incapable of safely operating a motor vehicle. The officer shall deliver a copy of the notice to the person promising to appear. The officer shall then release the person arrested from custody but shall not permit an impaired person to operate a motor vehicle and shall have the vehicle towed and stored if a third party is not promptly selected by the arrestee to drive their vehicle to arrestee's chosen destination.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>An officer violating any of the provisions of <cite path="|8.01.160|(a)">Section 8.01.160(a)</cite> is guilty of misconduct and is subject to removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>VIOLATION OF PROMISE TO APPEAR.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Any person knowingly violating his written promise to appear in court, given as provided in <cite path="|8.01.160|(a)">Section 8.01.160(a)</cite>above, is guilty of a offense, regardless of the disposition or the charge upon which he was originally arrested.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A written promise to appear in court may be complied with by an appearance by counsel.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>DISPOSITION OF TRAFFIC CITATIONS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Every law enforcement officer issuing a traffic citation to an alleged violator of the Kiowa Motor Vehicle Code shall deposit the original or a copy of the traffic citation with the Trial Court.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Upon the deposit of the original or a copy of the traffic citation with the Trial Court, such original or copy may be disposed of only by the court. Disposition by the court includes trial, forfeiture of bond or bail, entry of judgment or determination, the deposit of sufficient bond or bail with the court, payment by the offender of any fine or assessment to the court, or fulfillment of appropriate sentences.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>It is unlawful and official misconduct for any law enforcement officer or public employee to dispose of an original, copy or record of a traffic citation in a manner other than as required by <cite path="|8.01.160">this section</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The Department shall also maintain a record of the disposition of the traffic citation by the court in which the original or copy of such was deposited.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>CERTIFICATION OF TRAFFIC CITATION FORMS AND COMPLAINTS.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Traffic citation or complaints need not be sworn to if they contain a form of certification by the arresting officer in substance as follows:</text>
+          <text>"I hereby certify that I have reasonable grounds to believe and do believe that the person cited herein committed the offense described herein contrary to law."</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A knowingly false certification under the provisions of subsection A shall constitute an offense.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|IV|16" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.02</num>
+    <heading>Road Inventory and Repair Authorization</heading>
+    <section>
+      <num>8.02.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="|8.02">This chapter</cite> shall be known as the "Road Inventory and Repair Priority Act of 2020" ("Act")</text>
+      <annotations>
+        <annotation app="2020-03-24" doc="Kiowa Tribe Res. No. KL-CY-2020-001" eff="2020-03-24" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.02.020</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="|8.02">this chapter</cite> is to establish a priority list for road maintenance and repairs.</text>
+      <annotations>
+        <annotation app="2020-03-24" doc="Kiowa Tribe Res. No. KL-CY-2020-001" eff="2020-03-24" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.02.030</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Legislature supports the efforts of the Tribe's Transportation Department to seek funds for road maintenance and repairs and related matters that benefit Members of the Tribe,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The legislature has determined that it is in the best interests of the tribe to set a priority list of roads and streets to be included as high priorities for road maintenance and repair,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Legislature has determined that these following described roads need maintenance and repair and will serve several Members of the Tribe.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-03-24" doc="Kiowa Tribe Res. No. KL-CY-2020-001" eff="2020-03-24" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.02.040</num>
+      <heading>Road Inventory and Priorities</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Transportation Department shall include the following roads and streets on the IRR list of roads and shall take all steps necessary to prioritize the maintenance and repair of such roads and streets:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>CR 1320</p>
+                  <p>CS 2500</p>
+                </td>
+                <td data-text-align="justify">Kiowa Route 6821 East 3 miles to CS500 and Kiowa Route 6740 South 2 miles to CR 1380 (past Botone Church). This route is adjacent to multiple Kiowa trust lands and homes.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>CR 1370</p>
+                  <p>HWY. 58</p>
+                </td>
+                <td data-text-align="justify">Kiowa Route 6705 East 3 miles to CR 2490. This route is adjacent to multiple Kiowa trust lands and homes.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>CS 2570</p>
+                  <p>HWY. 9</p>
+                </td>
+                <td data-text-align="justify">Kiowa Route 7636 South less than a mile to E1350 Rd. 1350 is Apache Route 6603 which is adjacent to multiple Kiowa homes.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>100 Kiowa</p>
+                  <p>Wildcat Way</p>
+                </td>
+                <td data-text-align="justify">Kiowa Complex and Carnegie High School including Headstart/Campground entrance.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>Bridge #329A</p>
+                  <p>NBI 0908</p>
+                </td>
+                <td data-text-align="justify">Bridge on Kiowa Route 7464 south of Road 1330 near Apache Blackfeet Grounds.</td>
+                <td data-text-align="justify">Bridge</td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>CR1430/</p>
+                  <p>HWY 19</p>
+                </td>
+                <td data-text-align="justify">CR 1430 South 3 miles to HWY 19 on Kiowa Route 6824. This route is adjacent to multiple Kiowa trust lands and homes.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>CR1400/</p>
+                  <p>N2160</p>
+                </td>
+                <td data-text-align="justify">Kiowa Route 6789 East 2 miles to CR2180. Severe washout of multiple Kiowa homes.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>E1340/</p>
+                  <p>N2490/ E1350</p>
+                </td>
+                <td data-text-align="justify">Kiowa Route 7446 1mile south from E1340 on N2490 then West on Kiowa Route 6668 for .5 Miles.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify">
+                  <p>Hwy 62/</p>
+                  <p>CR1380 to CS2620</p>
+                </td>
+                <td data-text-align="justify">East from HWY 62 on Kiowa Route 6832 3miles to Kiowa Route 6831 then N 1 mile to HWY 9.</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify"/>
+                <td data-text-align="justify">Kiowa Route 6708 (Verden Casino)</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+              <tr>
+                <td proof="needed" data-text-align="justify"/>
+                <td data-text-align="justify">Kiowa Route 6705 (South 40)</td>
+                <td proof="needed" data-text-align="justify">
+                  <p>Asphalt</p>
+                  <p>Concrete</p>
+                  <p>Overlay</p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <annotations>
+        <annotation app="2020-03-24" doc="Kiowa Tribe Res. No. KL-CY-2020-001" eff="2020-03-24" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>2</num>
+  <heading>Government Administration</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.01</num>
+    <heading>Newsletter Publishing</heading>
+    <section>
+      <num>2.01.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="|2.01">This chapter</cite> shall be known as, the "KIOWA TRIBE NEWSLETTER PUBLISHING ACT OF 2023" ("Act").</text>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-003" eff="2023-01-19" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.01.020</num>
+      <heading>Findings.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Kiowa Tribe Legislators serve as the Kiowa Tribe Citizens representatives to ensure that the Tribe's government acts in a transparent and responsible manner in accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> and laws of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> requires the Legislature to publish certain documents, and to otherwise provide information to the members of the Kiowa Tribe;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Citizens of the Tribe live in all areas of the Tribe's Territory and outside the Tribe's Territory, and the use of a newsletters and modern forms of electronic communication to publish and receive information from the Tribe, are the most cost-effective method to comply with the publishing requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-003" eff="2023-01-19" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.01.030</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="|2.01">this chapter</cite> is to authorize and direct the Public Relations, Media and Outreach Department to publish a newsletter <strong><em>on a monthly basis by print and electronically</em></strong>, on the Tribe's official website, for Kiowa Tribal Citizens, to receive information and current events.</text>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-003" eff="2023-01-19" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.02</num>
+    <heading>Youth Council</heading>
+    <section>
+      <num>2.02.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="|2.02">This chapter</cite> shall be known as the Kiowa Indian Youth Council Act of 2023.</text>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-004" eff="2023-01-19" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.02.020</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>KIYC - Kiowa Indian Youth Council</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>KTEA - Kiowa Tribal Education Agency</text>
+      </para>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-004" eff="2023-01-19" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.02.030</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="|2.02">this chapter</cite> is to implement a Kiowa Indian Youth Council to promote leadership development and character building.</text>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-004" eff="2023-01-19" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.02.040</num>
+      <heading>Findings.</heading>
+      <text>The Legislature hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Legislature shall pass laws that promote improvements in its government system and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Executive Branch shall develop programs to support leadership development and character building among it tribal young people;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Legislature shall support the Executive Branch it its desire to develop programs designed to assist in the development of positive programs to support leadership development among its tribal young people;</text>
+      </para>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-004" eff="2023-01-19" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.02.050</num>
+      <heading>Approval of the Kiowa Indian Youth Council of 2023</heading>
+      <text><cite path="|2.02">This chapter</cite> establishes a Kiowa Indian Youth Council under the Executive Branch which henceforth shall function on a regular basis to support leadership development of its tribal youth:</text>
+      <para>
+        <num>(a)</num>
+        <text>Two members of the Youth Council (grades 7-12) shall be appointed from each of the 7 Legislative Districts;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The KIYC shall meet once a month each year at the Kiowa Tribal Headquarters</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The KIYC shall function under the auspices of the Kiowa Tribal Education Agency and under the guidance of its Executive Director or his/her designee.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The annual budget of the KIYC shall be $10,000 to be utilized for travel and conference registration.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-004" eff="2023-01-19" path="attachments|law|1.5" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.03</num>
+    <heading>477 Resolution</heading>
+    <section>
+      <num>2.03.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-012">This enactment</cite> shall be known as the "477 Resolution".</text>
+      <annotations>
+        <annotation app="2023-07-21" doc="Kiowa Tribe Res. No. KL-CY-2023-012" eff="2023-07-21" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.03.020</num>
+      <heading>Purpose</heading>
+      <text>The purpose of the resolution is to authorize the Executive Branch of the Kiowa Tribe to pursue funding in support of establishing the Kiowa Tribe as a 477 Self-Governance Tribe.</text>
+      <annotations>
+        <annotation app="2023-07-21" doc="Kiowa Tribe Res. No. KL-CY-2023-012" eff="2023-07-21" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.03.030</num>
+      <heading>Findings</heading>
+      <text>The Legislature hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>A 477 Self-Governance Tribe is a special relationship between the United States government and an Indian tribe that allows the tribes to take control of its own destiny and self-governance. This type of relationship is established through legislation, such as the Indian Self-Determination and Education Assistance Act of 1975.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This law provides the Kiowa Tribe with the authority to manage Kiowa Tribe affairs, including developing and administering programs and services that were once managed by the federal government. This type of relationship allows the Kiowa Tribe greater control over the Tribe's own destiny, providing it with the opportunity to create sustainable economic opportunities for tribal citizens that are both culturally relevant and economically viable.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Additionally, as a 477 Self Governance Tribe, the Kiowa Tribe can form partnerships with other organizations to expand tribal reach, such as public and private entities, that can benefit both the Kiowa Tribe and its citizenship by providing access to resources and knowledge. Through this type of relationship, the Kiowa Tribe can shape its own future while maintaining control over Kiowa culture and traditions. By taking control of the Kiowa Tribe's own destiny, it will ensure a brighter future for Kiowa citizens and the generations to come.</text>
+      </para>
+      <annotations>
+        <annotation app="2023-07-21" doc="Kiowa Tribe Res. No. KL-CY-2023-012" eff="2023-07-21" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.04</num>
+    <heading>Minimum Commission Standards</heading>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.05</num>
+    <heading>Audit Authorization, Acceptance, And Responsibility</heading>
+    <section>
+      <num>2.05.010</num>
+      <heading>Short Title.</heading>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-009">This enactment</cite> shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
+      <annotations>
+        <annotation app="2024-07-01" doc="Kiowa Tribe Res. No. KL-CY-2024-009" eff="2024-07-01" path="attachments|law|1.0" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.05.020</num>
+      <heading>Purpose.</heading>
+      <text>The purpose of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-009">this Act</cite> is to:</text>
+      <para>
+        <num>(a)</num>
+        <text>Authorize and direct the Chairman to complete an external financial audit of the Tribe in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Authorize the Chairman to procure an independent licensed auditor; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Require the Chairman to provide a copy of the annual audit report to the Legislature and to direct the auditor to make an in-person presentation to the Legislature, and to assign to the Chairman the responsibility to accept or reject the annual audit prepared by the auditors; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Require the Chairman to develop and implement a plan to adequately address all audit findings identified in the annual audit.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-07-01" doc="Kiowa Tribe Res. No. KL-CY-2024-009" eff="2024-07-01" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.05.030</num>
+      <heading>Findings.</heading>
+      <text>The Legislature hereby finds that:</text>
+      <para>
+        <num>(a)</num>
+        <text><cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> requires the Tribe to conduct an annual financial audit by an independent auditor; and</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>the annual audit is an important indicator of the Tribe's accounting practices and financial health, and is a valuable tool to safeguard the financial assets of the Tribe; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>the Chairman of the Tribe oversees and directs the Finance Department personnel, engages the independent auditor, and is vested with the executive authority and responsibility to ensure</text>
+        <text>that the annual audit is conducted and accepted by the Tribe and that a plan to address all audit findings is developed and implemented.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>At any time, the Chairman may conduct an Executive Inquiry into any tribal department, program or commission. Should be inquiry findings warrant a deeper investigation through an audit, the Chairman may initiate an internal, external, or forensic audit. The Chairman would need to work with the Kiowa Legislature to allocate funding support within the tribal budget.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>the Legislature may initiate a Legislative Inquiry through a legislative order that initiates a document request from any tribal department, program or commission. All requested information would be sent to the Kiowa Legislative Administrator and Legislative Clerk.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>following the Legislative Inquiry and document request, the Legislature may direct the Chairman to conduct an internal, external, or forensic audit if warranted by the outcome of the Legislative Inquiry findings, subject to budgetary requirements</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>If requested information is not provided in response to an information request in a legislative inquiry, or if audit findings merit, in the opinion of a majority of the legislature, the need for more information, the legislature may authorize the Speaker of the Legislature to petition the Trial Court for the issuance of a subpoena, seeking specific information or the attendance of a person to provide testimony at a Legislative Hearing.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>At any time, the Legislature through legislative order may initiate a public Legislative Hearing where tribal employees shall have the right to protest and defend the allegations against him or her, including the right to cross-examine any witnesses who testify against him or her, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Kiowa Tribe's courts; all findings and recommendations of the legislative hearing will be released as public records, with redacted information which may be protected as private under any federal or tribal law.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-07-01" doc="Kiowa Tribe Res. No. KL-CY-2024-009" eff="2024-07-01" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.05.040</num>
+      <heading>Contract Authorization for Independent Auditors.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Chairman is hereby authorized to negotiate and execute a contract with external and independent qualified auditors to conduct and complete an annual financial audit for the Tribe in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chairman shall provide a copy of the annual audit report to the Legislature prior to the Chairman's acceptance of the audit and shall direct the auditor to make an in-person presentation to the Legislature regarding the annual audit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Chairman is authorized to accept an audit on behalf of the Tribe.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-07-01" doc="Kiowa Tribe Res. No. KL-CY-2024-009" eff="2024-07-01" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.06</num>
+    <heading>Executive Branch Four Division Structure And Organizational Chart</heading>
+    <section>
+      <num>2.06.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-012">This enactment</cite> shall be known as the "Kiowa Tribe Executive Branch Four (4) Divisions and Organizational Chart Act of 2024".</text>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-012" eff="2024-08-20" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.06.020</num>
+      <heading>Purpose</heading>
+      <text>This resolution approves Kiowa Tribe Executive Branch, four division and organizational chart structure, for a clear pattern of accountability that enables the delegation of power between the Executive Branch and departments.</text>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-012" eff="2024-08-20" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.06.030</num>
+      <heading>Findings</heading>
+      <text>The Legislature hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The structure of divisions makes it easier to identify the needs of our Kiowa Tribe Citizens and focus on its efforts of services.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The structure of divisions promotes effective management by breaking down work into manageable tasks and assigning them to specific departments, as well as tracking progress while managing resources simultaneously.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The four divisions are established within the approved organizational chart (see attachment), as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>Tribal Operations</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Health &amp; Human Services</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Education Agency</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Housing &amp; Community Development</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Chairman will have sole authority to re-align departments and programs underneath these four divisions within the approved organizational chart. The Executive Branch will forward any changes, additions or deletions to the Kiowa Legislature within five working days.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-012" eff="2024-08-20" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.06.040</num>
+      <heading>Approval and Enactment</heading>
+      <text>The Legislature hereby approves and enacts the <em>"Kiowa Tribe Executive Branch Four (4) Division Structure and Organizational Chart Act of 2024".</em></text>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-012" eff="2024-08-20" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.07</num>
+    <heading>Sponsorship</heading>
+    <section>
+      <num>2.07.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-013">This enactment</cite> shall be known as the "1<sup>st</sup> Amendment of the Kiowa Tribe Sponsorship Act".</text>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-013" eff="2024-08-20" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.07.020</num>
+      <heading>Purpose</heading>
+      <text>The purpose of the Act is to determine the processes and procedures for such sponsorships.</text>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-013" eff="2024-08-20" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.07.030</num>
+      <heading>Findings</heading>
+      <text>The Legislature hereby finds and declares that:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Legislature shall determine if it feasible to allocate funding for sponsorships through an Annual Budget, and budget modifications, for the Tribe, subject to approval by the tribal voters.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Kiowa Tribe sponsorships shall be approved by the Kiowa Tribal Chairman, up to $10,000, for the following Kiowa Tribal Ceremonial Societies and Groups.</text>
+        <para>
+          <num>(1)</num>
+          <text>Tohn-Kohn-Gaw</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Kiowa O-Ho-Mah Lodge</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Kiowa Gourd Clan</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Kiowa Tia-Piah Society of Carnegie</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Tia-piah Society of Oklahoma</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Rabbit Societies</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Kiowa Tribal Princess Sorority</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Crow/Kiowa Handgame Visitations for Oklahoma and Montana</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Kiowa Tribe sponsorships for Kiowa Churches shall be approved by the Kiowa Chairman, up to $5,000. The funding for annual Christmas activities shall be limited to $750.00. Additional Churches requesting sponsorship from the Kiowa Tribe shall have been founded in the Kiowa Reservation Jurisdiction and must have documentation that the founding members of the church were enrolled Kiowa citizens.</text>
+        <para>
+          <num>(1)</num>
+          <text>Botone Memorial United Methodist Church</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Cache Creek United Methodist Church</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Cedar Creek United Methodist Church</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Christ Our Savior Pentecostal Church, Anadarko</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Kiowa Indian Mission Church, Carnegie OK (Former Names of the Church - Faith Nations; Pentecostal Church of God Indian Mission – White Church)</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>First American Baptist Church, Hobart</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Hunting Horse United Methodist Church, Lawton, OK</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Indian Capital Baptist Church, Anadarko, OK</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>JJ Methvin United Methodist Church, Anadarko, OK</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Lil Red Church, Carnegie, OK</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Mt. Scott United Methodist Church, Meers/Mt. Scott, OK</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Kiowa Chapter of Native American Church</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>Rainy Mountain Kiowa Indian Baptist Church, Mountain View, OK</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>Redstone Baptist Church, Anadarko, OK</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>Victory Assembly of God, Anadarko, OK</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>Ware's Chapel United Methodist Church, Hog Creek, OK</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>Fellowship of American Indian Church, Chickasha, OK</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>Prayer House Association, Fort Cobb, OK</text>
+        </para>
+        <para>
+          <num>(19)</num>
+          <text>The Impact Center, Lawton, OK</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Legislature determines that the following list may apply for sponsorship under cultural organizations, if funds are available in an approved annual budget or budget modification. Each cultural organization may request up to $2,500.</text>
+        <para>
+          <num>(1)</num>
+          <text>Kiowa War Mothers Chapter 18</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Carnegie Victory Club</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Chief Satanta Descendants</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Kiowa MMIP Chapter</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Old Chief Lonewolf Descendants</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Carnegie High School Indian Club</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Anadarko High School Indian Club</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Mountain View JOM</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>American Indian Exposition</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>Hobart Powwow</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>Kiowa Women Warriors</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>Other Kiowa Tribal events &amp; partnerships.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Chairman shall setup an application process.  The Chairman shall submit to the Legislature, a quarterly report of all approved sponsorships.  Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Kiowa Casino sponsorships shall have an approved budget and be processed through the Executive Branch and approved by the Chairman.  The Chairman shall submit to the Legislature, a quarterly report of all approved Kiowa Casino Sponsorships.  Anything above the limits of this bill/law shall be ratified by the Kiowa Tribe Legislature, through a Legislative Order.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-08-20" doc="Kiowa Tribe Res. No. KL-CY-2024-013" eff="2024-08-20" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2.08</num>
+    <heading>Delegate to The Inter-Tribal Buffalo Council (ITBC)</heading>
+  </container>
+</container>

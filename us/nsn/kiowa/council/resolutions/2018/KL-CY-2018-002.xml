@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2018-002">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2018-002" codify:doc="Kiowa Code of Law">
   <num>KL-CY-2018-002</num>
   <heading>Nepotism Prevention Act of 2018</heading>
   <meta>
@@ -15,7 +15,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS;</conjunction>
-      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to Article VI, Section 6(a) of the Constitution of the Kiowa Tribe; and,</text>
+      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS;</conjunction>
@@ -30,7 +30,7 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing resolution KL-CY-2018-002 was duly voted upon by the Legislature on January 13, 2018, at a Session with a vote of ( 7 ) in favor and ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing resolution KL-CY-2018-002 was duly voted upon by the Legislature on January 13, 2018, at a Session with a vote of ( 7 ) in favor and ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Rhonda J. Ahhaitty</text>
     <text>Secretary of the Legislature</text>
     <text>LEGISLATURE-RESOLUTION NO. KL-CY-2018-002:</text>
@@ -51,58 +51,58 @@
           <tr>
             <td data-text-align="justify">Renee M. Plata</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Rhonda J. Ahhaitty</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ronald C. Poolaw, Sr.</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Dave Geimausaddle</td>
             <th>X</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Anita Onco Johnson</td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Modina Waters</td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ben Wolf</td>
             <th>x</th>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -110,7 +110,7 @@
     <text>
       <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. KL-CY-2018-002 was presented to the Chairman of the Kiowa Tribe on the 18<sup>th</sup> day of January, 2018, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Resolution No. KL-CY-2018-002 was presented to the Chairman of the Kiowa Tribe on the 18<sup>th</sup> day of January, 2018, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
     <text>Rhonda J. Ahhaitty</text>
     <text>Secretary of the Legislature</text>
     <text>
@@ -148,59 +148,59 @@
         <tbody>
           <tr>
             <td data-text-align="justify">Renee M. Plata</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Rhonda J. Ahhaitty</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ronald C. Poolaw, Sr.</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Dave Geimausaddle</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Anita Onco Johnson</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Modina Waters</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
             <td data-text-align="justify">Ben Wolf</td>
-            <td data-text-align="center"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
-            <td data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -208,23 +208,27 @@
     <text>
       <b>CERTIFICATION</b>
     </text>
-    <text>The foregoing resolution KL-CY-2018-002 was duly voted upon by the Legislature on January, 2018, at a meeting with a vote of __________ in favor and __________ opposed, and __________ abstaining pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
+    <text>The foregoing resolution KL-CY-2018-002 was duly voted upon by the Legislature on January, 2018, at a meeting with a vote of __________ in favor and __________ opposed, and __________ abstaining pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Rhonda J. Ahhaitty</text>
     <text>Secretary of the Legislature</text>
   </procedural-data>
   <attachment id="law">
+    <codified:at path="10.03"/>
     <section>
-      <num>1.1</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.03.010"/>
+      <num codify:value="10.03.010">1.1</num>
       <heading>Short Title</heading>
-      <text>This enactment shall be known as the "NEPOTISM PREVENTION ACT OF 2018"("Act").</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2018-002">This enactment</code-cite> shall be known as the "NEPOTISM PREVENTION ACT OF 2018"("Act").</text>
     </section>
     <section>
-      <num>1.2</num>
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.03.020"/>
+      <num codify:value="10.03.020">1.2</num>
       <heading>Purpose</heading>
-      <text>The purpose of this Act is to prohibit a Director or employee of the Tribe from hiring a Close Relative, or to directly manage or supervise a Close Relative, in order to ensure the integrity of the personnel and management systems, and to otherwise avoid any appearance of impropriety.</text>
+      <text>The purpose of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2018-002">this Act</code-cite> is to prohibit a Director or employee of the Tribe from hiring a Close Relative, or to directly manage or supervise a Close Relative, in order to ensure the integrity of the personnel and management systems, and to otherwise avoid any appearance of impropriety.</text>
     </section>
     <section>
-      <num>1.3</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.03.030"/>
+      <num codify:value="10.03.030">1.3</num>
       <heading>Findings</heading>
       <text>The Legislature finds that:</text>
       <para>
@@ -233,7 +237,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The Constitution of the Tribe requires the Tribe to provide "equal protection, application, and opportunity under the law", including the Tribe's employment laws;</text>
+        <text><cite doc="Constitution of the Kiowa Tribe">The Constitution of the Tribe</cite> requires the Tribe to provide "equal protection, application, and opportunity under the law", including the Tribe's employment laws;</text>
       </para>
       <para>
         <num>(c)</num>
@@ -245,7 +249,8 @@
       </para>
     </section>
     <section>
-      <num>1.4</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.03.040"/>
+      <num codify:value="10.03.040">1.4</num>
       <heading>Definitions</heading>
       <para>
         <num>(a)</num>
@@ -257,7 +262,8 @@
       </para>
     </section>
     <section>
-      <num>1.5</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.03.050"/>
+      <num codify:value="10.03.050">1.5</num>
       <heading>Hiring</heading>
       <para>
         <num>(a)</num>
@@ -265,11 +271,12 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>For all new hires after the effective date of this Act, the Hiring Authority shall not include any Close Relative of any candidate for employment.</text>
+        <text>For all new hires after the effective date of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2018-002">this Act</code-cite>, the Hiring Authority shall not include any Close Relative of any candidate for employment.</text>
       </para>
     </section>
     <section>
-      <num>1.6</num>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.03.060"/>
+      <num codify:value="10.03.060">1.6</num>
       <heading>Supervision and Management of an Existing Employee who is a Close Relative</heading>
       <para>
         <num>(a)</num>
@@ -277,7 +284,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Upon the effective date of this Act, any employee who is serving as a manger or supervisor of a Close Relative shall notify the Chairman in writing, and the Chairman shall take steps to reorganize the line of authority between the manager or supervisor and the employee to eliminate any direct management or supervision of a Close Relative, notwithstanding any law or policy to the contrary.</text>
+        <text>Upon the effective date of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2018-002">this Act</code-cite>, any employee who is serving as a manger or supervisor of a Close Relative shall notify the Chairman in writing, and the Chairman shall take steps to reorganize the line of authority between the manager or supervisor and the employee to eliminate any direct management or supervision of a Close Relative, notwithstanding any law or policy to the contrary.</text>
       </para>
     </section>
   </attachment>

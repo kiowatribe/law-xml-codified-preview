@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Kiowa Code of Law">
+  <prefix>Title</prefix>
+  <num>11</num>
+  <heading>Education</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.01</num>
+    <heading>Establishment of a Tribal Education Agency</heading>
+    <section>
+      <num>11.01.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="|11.01">This chapter</cite> shall be known as the <strong>ESTABLISHMENT OF A KIOWA TRIBAL EDUCATION AGENCY</strong></text>
+      <annotations>
+        <annotation app="2022-08-16" doc="Kiowa Tribe Res. No. KL-CY-2022-013" eff="2022-08-16" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.020</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Academic Term" means the duration of one (1) quarter, one (1) semester, or one (1) other segment for course of study, including appropriate amount of summer sessions as required by specific instruction.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Academic Year" means the duration of three (3) quarters, or two (2) semesters, including appropriate amount of summer sessions as required by the specific instruction.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Applicant" means any person who has applied for financial assistance from the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Authorized Transfer" means officially withdrawing from an institution and enrolling in another with prior approval from the Board of Education.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Board" means the Board of Education</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Board of Education" means the duly elected governing body of the Kiowa Tribal Education Agency.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Business Day" means any day except a Saturday, Sunday or a holiday officially recognized by the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Continuing Applicant" means an applicant who is no longer a first time applicant, having been awarded financial assistance for the preceding academic term and already has a student file on record with the Office of Post-Secondary Education.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Credit Hour" means a unit of measurement referring to the amount of credit a student receives for completion of one (1) or more courses per academic term. Credit Hours are measured differently according to whether the institution the student is attending is on a quarter or semester system. In general, the Office of Post-Secondary Education refers to semester credit hours, whereby one (1) quarter hours equals 66% of a semester credit hour.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Director" means the Executive Director of the Kiowa Tribal Education Agency.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Disability" includes mental and physical disabilities as defined in the Individuals with Disabilities Education Act 20 U.S.C. § 1401(3), as amended.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Education institution" means a tribal, public or private preschool, elementary, or secondary school or institution; the Board of Education of a Tribal Education Department, Tribal Education Agencies, or school district; or any combination of Tribal Education Departments, Tribal Education Agencies, County Departments of Education, community college districts, elementary or secondary school districts recognized as the administrative agency for public elementary or secondary schools, or Regional Occupational Centers and Programs.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Education Levels" means education levels for the purpose of this Education Code and its administration shall be defined as the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Pre-School - all children and programs/projects with children below Kindergarten (grade K).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Primary - all Participants and schools, programs, and projects with Participants in grades K-8.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Secondary – all Participants and schools, programs, and projects with Participants in grades 9-12.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Post-Secondary - all Participants and schools, programs, and projects with Participants above grade 12.</text>
+        </para>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Full-Time Student" is enrollment in a college, university, graduate school, or professional school as defined by the institution in which the student is enrolled. The Office of Post-Secondary Education further defines Full-Time Student to be enrolled in twelve (12) or more credit hours.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Gender" means sex, and includes a person's gender identity and gender expression.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Gender expression" means a person's gender related appearance and behavior whether or not stereotypically associated with the person's assigned sex at birth.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>"Graduate Participants" a post-secondary participant pursuing a masters, doctoral or professional degree. Participants qualifying under this definition shall be subject to all Office of Post-Secondary Education Student Scholarship Award Program requirements.</text>
+      </para>
+      <para>
+        <num>(r)</num>
+        <text>"Half-Time Student" is enrollment in a college, university, graduation school, or professional school as defined by the institution in which the student is enrolled. The Office of Post-Secondary Education further defines Half-Time Student to be enrolled in six (6) or eight (8) credit hours.</text>
+      </para>
+      <para>
+        <num>(s)</num>
+        <text>"Nationality" includes citizenship, country of origin, and national origin.</text>
+      </para>
+      <para>
+        <num>(t)</num>
+        <text>"Participant" includes Participants from other non-Kiowa nations participating in Kiowa TEA programs such as Johnson O'Malley and Title VI.</text>
+      </para>
+      <para>
+        <num>(u)</num>
+        <text>"Race or ethnicity" includes ancestry color, ethnic group identification, and ethnic background.</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>"Recipient" means a participant who is awarded financial assistance from the Tribe via the TEA and its Board of Education.</text>
+      </para>
+      <para>
+        <num>(w)</num>
+        <text>"Religion" includes all aspects of religious belief, observance, and practice and includes agnosticism and atheism.</text>
+      </para>
+      <para>
+        <num>(x)</num>
+        <text>"Reservation" means all the lands which are held in trust or restricted status within the exterior boundaries of the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(y)</num>
+        <text>"Sexual harassment" means unwelcome sexual advances, requests for sexual favors, and other verbal, visual, or physical conduct of a sexual nature, made by someone from or in the work or educational setting, under any of the following conditions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Submission to the conduct is explicitly or implicitly made a term or condition of an individual's employment, academic status, or progress.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Submission to, or rejection of, the conduct by the individual is used as a basis of employment or academic decisions affecting the individual.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The conduct has the purpose or effect of having a negative impact upon the individual's work or academic performance, or of creating an intimidating, hostile, or offensive work or educational environment.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Submission to, or rejection of, the conduct by the individual is used as the basis for any decision affecting the individual regarding benefits and services, honors, programs, or activities available at or through the educational institution.</text>
+        </para>
+      </para>
+      <para>
+        <num>(z)</num>
+        <text>"Sexual orientation" means heterosexuality, homosexuality, or bisexuality.</text>
+      </para>
+      <para>
+        <num>(aa)</num>
+        <text>"Student" means an applicant or recipient currently enrolled and attending a primary or secondary school, high school preparatory institution, a post-secondary institution, a graduate school, a professional school, or a vocational institution.</text>
+      </para>
+      <para>
+        <num>(bb)</num>
+        <text>"Three-Quarter Time Student" is enrollment in a college, university, graduation school, or professional school as defined by the institution in which the student is enrolled. The Office of Post-Secondary Education further defines Three-Quarter Time Student to be enrolled in nine (9) or eleven (11) credit hours.</text>
+      </para>
+      <para>
+        <num>(cc)</num>
+        <text>"Tribal Member" means a person who is enrolled with the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(dd)</num>
+        <text>"Tribe" means the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(ee)</num>
+        <text>"Tribal Legislature" means the Legislature of the Kiowa Tribe as defined in Article V of the Tribe's constitution.</text>
+      </para>
+      <para>
+        <num>(ff)</num>
+        <text>"Undergraduate Participants" a post-secondary participant pursuing an associates or baccalaureate degree. Participants qualifying under this definition shall be subject to all Office of Post-Secondary Education Student Scholarship Award Program requirements.</text>
+      </para>
+      <annotations>
+        <annotation app="2022-08-16" doc="Kiowa Tribe Res. No. KL-CY-2022-013" eff="2022-08-16" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.030</num>
+      <heading>Purpose</heading>
+      <text>The Tribe recognizes the citizens of the Kiowa Tribe are its most valuable and important resource. The Kiowa Tribe, as a sovereign tribe residing within the United States, reorganized under the Indian Reorganization Act of 1934 (IRA; 25 U.S.C. §476), has a constitutional responsibility to oversee and direct their education through educational institutions, to assure their education reflects academic excellence, meets rigorous academic standards, broaden career expectations for all its citizens, and to streamline and improve delivery of educational services.</text>
+      <annotations>
+        <annotation app="2022-08-16" doc="Kiowa Tribe Res. No. KL-CY-2022-013" eff="2022-08-16" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.040</num>
+      <heading>Findings.</heading>
+      <text>The Legislature hereby finds and declares that: The goal of all education and training for Tribal Citizens is self-sufficiency in its most comprehensive form. Of critical importance to the Tribe in the achievement of this goal of self-sufficiency is the use and practical application of academic instruction and training by Tribal Citizens towards realizing the attainment of degrees and certifications in their respective career areas. Self-sufficiency of an individual, his/her family, and ultimately the community of which the individual is an integral part is critical to the attainment of this goal of self-sufficiency. However, of primary importance is the development of internal expertise to contribute towards the advancement and progress of the entire Tribe towards self-sufficiency.</text>
+      <para>
+        <num>(a)</num>
+        <text>Current Kiowa Education Programs are disparate and disconnected without a seamless administrative oversight which could lend itself to more effective functioning with streamlined services to better serve its citizens under one umbrella of administration and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Kiowa Tribal Education Agency shall provide for a single point of contact for its Tribal Citizens to engage the educational process of each and every citizen who needs support of this agency.</text>
+      </para>
+      <annotations>
+        <annotation app="2022-08-16" doc="Kiowa Tribe Res. No. KL-CY-2022-013" eff="2022-08-16" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.01.050</num>
+      <heading>Kiowa Tribal Education Agency</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="|11.01">This chapter</cite> establishes its TEA in order to achieve this goal of self-sufficiency, the Kiowa Tribe declares that an appropriate education for its Tribal Citizens is one that promotes and encourages the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The formulation of age, grade, and/or developmentally appropriate competencies in all basic areas of academic and cognitive skills;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Development of Tribal citizenship;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Self-discipline, self-determination, and positive self-concept;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A comprehension and promotion of tribal culture, language, values; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>An attitude towards education which encourages lifelong learning.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This Education Code provides for accountability from all those involved in the education process: the participant, the parents, education providers, the Tribal Education Agency, the Tribal government, and the community.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe shall commit sufficient resources, funds, and/or monies towards the achievement of the education goal and the implementation of these policies set forth in this Education Code. In addition, this Education Code shall serve to assure the members of the Kiowa Tribe that the funds committed to education are spent for that purpose in a fair and equitable manner.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Whenever reference is made to any portion of this Education Code, <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> or other Ordinances of the Kiowa Tribe, or of any law of the State of Oklahoma, or the laws of the United States, such reference applies to all amendments and additions now or hereafter made.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Title, division, part, chapter, article, and section headings do not in any manner affect the scope, meaning, or intent of the provisions of this Education Code.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>If any provision of this Education Code, or the application thereof to any person or circumstances is held invalid, the remainder of the Education Code, and the application of such provision to other persons or circumstances, shall not be affected thereby.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Whenever a power is granted to, or a duty is imposed upon, an officer of the Tribal Education Agency, the power may be exercised or the duty may be performed by a deputy of the officer or by a person authorized, pursuant to Tribal law, by the officer, unless this Education Code expressly provides otherwise.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Words giving a joint authority to three or more Tribal or public officers or other persons are construed as giving such authority to the majority of them, unless it is otherwise expressed in the provisions of the Education Code giving the authority.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Unless the provisions or the context otherwise requires, these general provisions, rules of construction, and definitions shall govern the construction of this Education Code.</text>
+      </para>
+      <annotations>
+        <annotation app="2022-08-16" doc="Kiowa Tribe Res. No. KL-CY-2022-013" eff="2022-08-16" path="attachments|law|1.5" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.02</num>
+    <heading>Charter of Bacone College as a Tribal College</heading>
+    <section>
+      <num>11.02.010</num>
+      <heading>Short Title</heading>
+      <text><cite path="|11.02">This chapter</cite> shall be known as the Kiowa Tribe "Charter of Bacone College as a Tribal College Act of 2020." ("Act").</text>
+      <annotations>
+        <annotation app="2020-02-18" doc="Kiowa Tribe Res. No. KL-CY-2020-002" eff="2020-02-18" path="attachments|law|1.1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.020</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="|11.02">this chapter</cite> is to charter Bacone College to become a tribal college eligible to receive annual appropriation pursuant to the Tribally Controlled Colleges and Universities Assistance Act of 1978 (P.L. 95-471), 25 U.S C.§1801 et seq., and eligible for membership in the American Indian Higher Education Consortium (AIHEC), which was founded in 1973; and to apply for one of the membership categories of AIHEC.</text>
+      <annotations>
+        <annotation app="2020-02-18" doc="Kiowa Tribe Res. No. KL-CY-2020-002" eff="2020-02-18" path="attachments|law|1.2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.030</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe is supportive of chartering Bacone College.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Over the years numerous Kiowa tribal members have attended and completed their studies at Bacone College.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Tribe is interested in seeing post-secondary educational opportunities for its tribal members and therefore wants to charter Bacon College as a Tribal College.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribe supports Bacone College to further leverage donors and potential donors to invest in Bacone College.</text>
+      </para>
+      <annotations>
+        <annotation app="2020-02-18" doc="Kiowa Tribe Res. No. KL-CY-2020-002" eff="2020-02-18" path="attachments|law|1.3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>11.02.040</num>
+      <heading>Charter of Bacone College</heading>
+      <text>The Tribe requests long-time stakeholders to continue supporting Bacone College for the further higher educational opportunities that will benefit the Kiowa Tribe and other American Indian students without any financial commitment from the Kiowa Tribe only.</text>
+      <annotations>
+        <annotation app="2020-02-18" doc="Kiowa Tribe Res. No. KL-CY-2020-002" eff="2020-02-18" path="attachments|law|1.4" type="History"/>
+      </annotations>
+    </section>
+  </container>
+</container>
