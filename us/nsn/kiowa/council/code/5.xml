@@ -3011,7 +3011,7 @@
     <section>
       <num>5.06.010</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-001">This enactment</cite> shall be known as the "Establishment for Recognition of Judicial Proceedings in Foreign Courts-Full Faith and Credit".</text>
+      <text><cite path="|5.06">This chapter</cite> shall be known as the "Establishment for Recognition of Judicial Proceedings in Foreign Courts-Full Faith and Credit".</text>
       <annotations>
         <annotation app="2024-01-23" doc="Kiowa Tribe Res. No. KL-CY-2024-001" eff="2024-01-23" path="attachments|law|1.1" type="History"/>
       </annotations>
@@ -3048,7 +3048,7 @@
       <heading>Recognition of Domestic Foreign Judgements-Full Faith and Credit</heading>
       <para>
         <num>(a)</num>
-        <text>The Trial Court of the Kiowa Tribe shall grant full faith and credit and cause to be enforced any Domestic Foreign Judgment where the Domestic Foreign Court that issued the judgment grants reciprocity to judgments of the courts of the Kiowa Tribe, provided, a Domestic Foreign Judgment shall receive no greater effect or full faith and credit under <cite path="attachments|law|1.4" doc="Kiowa Tribe Res. No. KL-CY-2024-001">this rule</cite> than would a similar or comparable judgment of any other Domestic Foreign Court.</text>
+        <text>The Trial Court of the Kiowa Tribe shall grant full faith and credit and cause to be enforced any Domestic Foreign Judgment where the Domestic Foreign Court that issued the judgment grants reciprocity to judgments of the courts of the Kiowa Tribe, provided, a Domestic Foreign Judgment shall receive no greater effect or full faith and credit under <cite path="|5.06.040">this section</cite> than would a similar or comparable judgment of any other Domestic Foreign Court.</text>
       </para>
       <para>
         <num>(b)</num>

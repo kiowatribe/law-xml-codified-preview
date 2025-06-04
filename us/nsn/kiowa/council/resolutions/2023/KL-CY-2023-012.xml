@@ -299,7 +299,7 @@
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.03.010"/>
       <num codify:value="2.03.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-012">This enactment</cite> shall be known as the "477 Resolution".</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-012">This enactment</code-cite> shall be known as the "477 Resolution".</text>
     </section>
     <section>
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.03.020"/>

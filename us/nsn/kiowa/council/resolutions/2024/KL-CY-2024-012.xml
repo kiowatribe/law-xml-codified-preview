@@ -307,7 +307,7 @@
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.06.010"/>
       <num codify:value="2.06.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-012">This enactment</cite> shall be known as the "Kiowa Tribe Executive Branch Four (4) Divisions and Organizational Chart Act of 2024".</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-012">This enactment</code-cite> shall be known as the "Kiowa Tribe Executive Branch Four (4) Divisions and Organizational Chart Act of 2024".</text>
     </section>
     <section>
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.06.020"/>

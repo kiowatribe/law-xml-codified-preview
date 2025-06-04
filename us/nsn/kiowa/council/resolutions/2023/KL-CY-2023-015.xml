@@ -319,7 +319,7 @@
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.04.010"/>
       <num codify:value="1.04.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-015">This enactment</cite> shall be known as the "Kiowa Tribe Annual Budget Transparency Act of 2023".</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2023-015">This enactment</code-cite> shall be known as the "Kiowa Tribe Annual Budget Transparency Act of 2023".</text>
     </section>
     <section>
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.04.020"/>

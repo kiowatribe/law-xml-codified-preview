@@ -303,14 +303,14 @@
       <prefix codify:value="">Article</prefix>
       <num codify:value="3.01.010">1</num>
       <heading>Short Title.</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">This enactment</cite> shall be known as the "First Amendment to the Kiowa Tribe Territory Expansion Act of 2024" ("Act").</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">This enactment</code-cite> shall be known as the "First Amendment to the Kiowa Tribe Territory Expansion Act of 2024" ("Act").</text>
     </container>
     <container codify:tag="section">
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|3.01.020"/>
       <prefix codify:value="">Article</prefix>
       <num codify:value="3.01.020">2</num>
       <heading>Purpose.</heading>
-      <text>The purpose of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">this Act</cite> is to authorize and direct the Chairman to acquire additional lands for housing and economic development purposes for the benefit of the Tribe and the People.</text>
+      <text>The purpose of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">this Act</code-cite> is to authorize and direct the Chairman to acquire additional lands for housing and economic development purposes for the benefit of the Tribe and the People.</text>
     </container>
     <container codify:tag="section">
       <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|3.01.030"/>
@@ -370,7 +370,7 @@
       <prefix codify:value="">Article</prefix>
       <num codify:value="3.01.050">5</num>
       <heading>Duty to Apply for Trust Status.</heading>
-      <text>Unless the Chairman specifies the land shall not be placed immediately into trust when he provides initial notice to the Speaker under <cite path="attachments|law|4" doc="Kiowa Tribe Res. No. KL-CY-2024-002">Article 4</cite>, above, within 180 days of acquiring title of property purchased under <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">this Act</cite>, the Chairman or his designee shall file with the United States an application to take the land into trust.</text>
+      <text>Unless the Chairman specifies the land shall not be placed immediately into trust when he provides initial notice to the Speaker under <code-cite path="attachments|law|4" doc="Kiowa Tribe Res. No. KL-CY-2024-002">Article 4</code-cite>, above, within 180 days of acquiring title of property purchased under <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-002">this Act</code-cite>, the Chairman or his designee shall file with the United States an application to take the land into trust.</text>
     </container>
     <container codify:tag="section">
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|3.01.060"/>

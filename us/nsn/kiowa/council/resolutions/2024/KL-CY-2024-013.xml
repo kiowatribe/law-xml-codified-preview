@@ -301,7 +301,7 @@
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.07.010"/>
       <num codify:value="2.07.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-013">This enactment</cite> shall be known as the "1<sup>st</sup> Amendment of the Kiowa Tribe Sponsorship Act".</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-013">This enactment</code-cite> shall be known as the "1<sup>st</sup> Amendment of the Kiowa Tribe Sponsorship Act".</text>
     </section>
     <section>
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.07.020"/>

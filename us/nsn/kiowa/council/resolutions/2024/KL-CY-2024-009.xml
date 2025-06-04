@@ -286,13 +286,13 @@
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|2.05.010"/>
       <num codify:value="2.05.010">1.0</num>
       <heading>Short Title.</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-009">This enactment</cite> shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-009">This enactment</code-cite> shall be known as the "AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT."</text>
     </section>
     <section>
       <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|2.05.020"/>
       <num codify:value="2.05.020">1.1</num>
       <heading>Purpose.</heading>
-      <text>The purpose of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-009">this Act</cite> is to:</text>
+      <text>The purpose of <code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-009">this Act</code-cite> is to:</text>
       <para>
         <num>(a)</num>
         <text>Authorize and direct the Chairman to complete an external financial audit of the Tribe in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>; and</text>

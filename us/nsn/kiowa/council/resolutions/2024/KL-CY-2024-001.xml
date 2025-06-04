@@ -282,7 +282,7 @@
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|5.06.010"/>
       <num codify:value="5.06.010">1.1</num>
       <heading>Short Title</heading>
-      <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-001">This enactment</cite> shall be known as the "Establishment for Recognition of Judicial Proceedings in Foreign Courts-Full Faith and Credit".</text>
+      <text><code-cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2024-001">This enactment</code-cite> shall be known as the "Establishment for Recognition of Judicial Proceedings in Foreign Courts-Full Faith and Credit".</text>
     </section>
     <section>
       <codify:insert codified:doc="Kiowa Code of Law" codified:path="|5.06.020"/>
@@ -313,7 +313,7 @@
       <heading>Recognition of Domestic Foreign Judgements-Full Faith and Credit</heading>
       <para>
         <num>(1)</num>
-        <text>The Trial Court of the Kiowa Tribe shall grant full faith and credit and cause to be enforced any Domestic Foreign Judgment where the Domestic Foreign Court that issued the judgment grants reciprocity to judgments of the courts of the Kiowa Tribe, provided, a Domestic Foreign Judgment shall receive no greater effect or full faith and credit under <cite path="attachments|law|1.4" doc="Kiowa Tribe Res. No. KL-CY-2024-001">this rule</cite> than would a similar or comparable judgment of any other Domestic Foreign Court.</text>
+        <text>The Trial Court of the Kiowa Tribe shall grant full faith and credit and cause to be enforced any Domestic Foreign Judgment where the Domestic Foreign Court that issued the judgment grants reciprocity to judgments of the courts of the Kiowa Tribe, provided, a Domestic Foreign Judgment shall receive no greater effect or full faith and credit under <code-cite path="attachments|law|1.4" doc="Kiowa Tribe Res. No. KL-CY-2024-001">this rule</code-cite> than would a similar or comparable judgment of any other Domestic Foreign Court.</text>
       </para>
       <para>
         <num>(2)</num>
