@@ -10,7 +10,7 @@
     <section>
       <num>13.01.010</num>
       <heading>SHORT TITLE.</heading>
-      <text><cite path="|13">This title</cite> may be known and cited as the "Kiowa Criminal Code".</text>
+      <text><cite path="13">This title</cite> may be known and cited as the "Kiowa Criminal Code".</text>
       <annotations>
         <annotation app="2020-08-18" doc="Kiowa Tribe Res. No. KL-CY-2020-007" eff="2020-08-18" path="attachments|law|III|1|3.1.1" type="History"/>
       </annotations>
@@ -315,7 +315,7 @@
       <heading>TIME LIMITATIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>A prosecution for any homicide, any offense that is listed in §§<cite path="|13.10.010">Section 13.10.010</cite>- 3.10.03 of <cite path="|13">this title</cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
+        <text>A prosecution for any homicide, any offense that is listed in §§<cite path="|13.10.010">Section 13.10.010</cite>- 3.10.03 of <cite path="13">this title</cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
       </para>
       <para>
         <num>(b)</num>

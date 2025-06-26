@@ -32,7 +32,7 @@
   </recitals>
   <procedural-data>
     <text>
-      <b>CERTIFICATION</b>
+      <b>C E R T I F I C A T I O N</b>
     </text>
     <text>The foregoing Resolution KL-CY-2023-008 was duly voted upon by the Legislature on March 11, 2023, at a Legislative Regular Session LXXI (71) with a vote of (7) in favor and (0) opposed, (0) abstaining, and (0) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Anita Johnson</text>
@@ -237,7 +237,7 @@
       </table>
     </text>
     <text>
-      <b>CERTIFICATION</b>
+      <b>C E R T I F I C A T I O N</b>
     </text>
     <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on _________________, 2023, at a Legislative Override Order Session with a vote of ________ In favor and ________ opposed, and ________ abstaining, _______ Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Anita Johnson</text>
@@ -278,57 +278,57 @@
       <text class="center">
         <strong>Labor and Employment Act of 2023</strong>
       </text>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|1">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|1">
         <container>
           <prefix>Subchapter</prefix>
-          <num>1</num>
+          <num path-omit="true">1</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|2">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|2">
         <container>
           <prefix>Subchapter</prefix>
-          <num>2</num>
+          <num path-omit="true">2</num>
           <heading>Fair Labor Standards</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|3">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|3">
         <container>
           <prefix>Subchapter</prefix>
-          <num>3</num>
+          <num path-omit="true">3</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|4">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|4">
         <container>
           <prefix>Subchapter</prefix>
-          <num>4</num>
+          <num path-omit="true">4</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|5">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|5">
         <container>
           <prefix>Subchapter</prefix>
-          <num>5</num>
+          <num path-omit="true">5</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|6">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|6">
         <container>
           <prefix>Subchapter</prefix>
-          <num>6</num>
+          <num path-omit="true">6</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
-      <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|7">
+      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|10.01|7">
         <container>
           <prefix>Subchapter</prefix>
-          <num>7</num>
+          <num path-omit="true">7</num>
           <heading>General Provisions</heading>
         </container>
       </codify:insert>
       <container>
-        <codified:at path="1"/>
+        <codified:at path="|10.01|1"/>
         <prefix>Chapter</prefix>
         <num>1</num>
         <heading>General Provisions.</heading>
@@ -356,7 +356,7 @@
         </section>
       </container>
       <container>
-        <codified:at path="2"/>
+        <codified:at path="|10.01|2"/>
         <prefix>Chapter</prefix>
         <num>2</num>
         <heading>Fair Labor Standards</heading>
@@ -452,13 +452,13 @@
         <section>
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.01.100"/>
           <num codify:value="10.01.100">2.07</num>
-          <text>Pay Period and Overtime for Employees of Departments of Tribal Government</text>
-          <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <cite path="attachments|law|X|2|2.09" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 2.09</cite>, below.</text>
+          <heading>Pay Period and Overtime for Employees of Departments of Tribal Government</heading>
+          <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <code-cite path="attachments|law|X|2|2.09" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 2.09</code-cite>, below.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.01.110"/>
           <num codify:value="10.01.110">2.08</num>
-          <text>Compensation Time Off Option for Specified Positions in Departments of Government</text>
+          <heading>Compensation Time Off Option for Specified Positions in Departments of Government</heading>
           <text>Departments of the Government may offer certain Employees in pre-designated positions the option of receiving compensation time off (at the rate of one and a half hours) in lieu of overtime pay after such Employees have worked eighty (80) hours within a two (2) week pay period if said Employees have seasonally fluctuating workloads.</text>
         </section>
         <section>
@@ -491,7 +491,7 @@
         <section>
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.01.150"/>
           <num codify:value="10.01.150">2.12</num>
-          <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
+          <heading>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</heading>
           <para>
             <num>2.12.1</num>
             <text>Any Employee who claims that an Employer has violated <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> must commence an administrative claim as provided herein within 180 days of the employee's discovery of an alleged violation.</text>
@@ -533,12 +533,12 @@
             </para>
             <para>
               <num>D.</num>
-              <text>An Employee who remains aggrieved from an alleged violation of <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> after completion of all administrative steps under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above, may bring suit in the Courts for a review of their claim.</text>
+              <text>An Employee who remains aggrieved from an alleged violation of <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> after completion of all administrative steps under <code-cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</code-cite>, above, may bring suit in the Courts for a review of their claim.</text>
             </para>
           </para>
           <para>
             <num>2.12.4</num>
-            <text>An appeal of an administrative decision under <cite path="attachments|law|X|2|2.12" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> filed with the Court shall contain:</text>
+            <text>An appeal of an administrative decision under <code-cite path="attachments|law|X|2|2.12" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite> filed with the Court shall contain:</text>
             <para>
               <num>A.</num>
               <text>The name and address of the Employee;</text>
@@ -562,7 +562,7 @@
           </para>
           <para>
             <num>2.12.5</num>
-            <text>If the Court makes a determination that the Employee has proven that the Employer has violated <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> or failed to abide by an award granted to the Employee in the administrative process under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above, the Court may order one or more of the following remedies:</text>
+            <text>If the Court makes a determination that the Employee has proven that the Employer has violated <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> or failed to abide by an award granted to the Employee in the administrative process under <code-cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</code-cite>, above, the Court may order one or more of the following remedies:</text>
             <para>
               <num>A.</num>
               <text>A directive to the Employer to cease and desist from engaging in a violation of <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>; or</text>
@@ -578,11 +578,11 @@
           </para>
           <para>
             <num>2.12.6</num>
-            <text>Any judicial complaint brought under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> must be brought within thirty (30) days of the final administrative decision issued under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above.</text>
+            <text>Any judicial complaint brought under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> must be brought within thirty (30) days of the final administrative decision issued under <code-cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</code-cite>, above.</text>
           </para>
           <para>
             <num>2.12.7</num>
-            <text>An Employee who claims that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above, or for testifying in any proceeding under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
+            <text>An Employee who claims that an Employer has retaliated against the Employee for pursuing an administrative decision under <code-cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</code-cite>, above, or for testifying in any proceeding under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
           </para>
         </section>
         <section>
@@ -596,7 +596,7 @@
         </section>
       </container>
       <container>
-        <codified:at path="3"/>
+        <codified:at path="|10.01|3"/>
         <prefix>Chapter</prefix>
         <num>3</num>
         <heading>Recognized Holidays</heading>
@@ -682,7 +682,7 @@
         </section>
       </container>
       <container>
-        <codified:at path="4"/>
+        <codified:at path="|10.01|4"/>
         <prefix>Chapter</prefix>
         <num>4</num>
         <heading>Integrity of Laws Provisions</heading>
@@ -692,7 +692,7 @@
           <heading>Findings for this Chapter</heading>
           <para>
             <num>4.01.1</num>
-            <text>The Legislature has enacted <code-code-cite path="attachments|law|X|2">Chapter 2</code-code-cite> of <code-code-cite path="attachments|law|X">this Act</code-code-cite> as a law of the Tribe.</text>
+            <text>The Legislature has enacted <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite> as a law of the Tribe.</text>
           </para>
           <para>
             <num>4.01.2</num>
@@ -744,7 +744,7 @@
           <para>
             <num>4.05.2</num>
             <heading>Examples of failure to exhaust remedies.</heading>
-            <text>For the purposes of <cite path="attachments|law|X|4|4.05|4.05.1" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 4. 05. 1</cite>, above, Employees shall be deemed to have "failed to exhaust their remedies provided by any provisions of <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite>" if they have failed to exhaust the procedures, rights, remedies, and appeals (including opportunities to challenge jurisdiction) available under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite> or the procedures of the Court, and have, instead, invoked investigations or proceedings outside of those authorized by <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Title</code-cite> to:</text>
+            <text>For the purposes of <code-cite path="attachments|law|X|4|4.05|4.05.1" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 4. 05. 1</code-cite>, above, Employees shall be deemed to have "failed to exhaust their remedies provided by any provisions of <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite>" if they have failed to exhaust the procedures, rights, remedies, and appeals (including opportunities to challenge jurisdiction) available under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite> or the procedures of the Court, and have, instead, invoked investigations or proceedings outside of those authorized by <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Title</code-cite> to:</text>
             <para>
               <num>A.</num>
               <text>Address controversies or rights covered by <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite>, such as unfair labor practices and proceedings for enforcement of the Tribe's wages and hours laws <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Act</code-cite>, or</text>
@@ -759,17 +759,17 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.01.250"/>
           <num codify:value="10.01.250">4.06</num>
           <heading>Actions for Injunctive Relief to Prevent Disclosures.</heading>
-          <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <cite path="attachments|law|X|4|4.05" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 4.05</cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
+          <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <code-cite path="attachments|law|X|4|4.05" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 4.05</code-cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
         </section>
         <section>
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.01.260"/>
           <num codify:value="10.01.260">4.07</num>
-          <text>Authority of the Court to Resolve Jurisdictional Disputes.</text>
+          <heading>Authority of the Court to Resolve Jurisdictional Disputes.</heading>
           <text>In any case or proceeding commenced under <code-cite path="attachments|law|X|2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Chapter 2</code-cite> of <code-cite path="attachments|law|X" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this title</code-cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
         </section>
       </container>
       <container>
-        <codified:at path="5"/>
+        <codified:at path="|10.01|5"/>
         <prefix>Chapter</prefix>
         <num>5</num>
         <heading>Prevailing Wage</heading>
@@ -913,7 +913,7 @@
         </section>
       </container>
       <container>
-        <codified:at path="6"/>
+        <codified:at path="|10.01|6"/>
         <prefix>Chapter</prefix>
         <num>6</num>
         <heading>Family Medical Leave Protection</heading>
@@ -939,7 +939,7 @@
           </para>
           <para>
             <num>6.03.2</num>
-            <text>An eligible Employee who is the spouse, son, daughter, parent, or next of kin of a covered service- member shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the service- member with a serious injury or illness, as defined in <cite path="attachments|law|X|6|6.03|6.03.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 6.03.3</cite>, below. The leave described in this paragraph shall only be available during a single 12-month period.</text>
+            <text>An eligible Employee who is the spouse, son, daughter, parent, or next of kin of a covered service- member shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the service- member with a serious injury or illness, as defined in <code-cite path="attachments|law|X|6|6.03|6.03.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 6.03.3</code-cite>, below. The leave described in this paragraph shall only be available during a single 12-month period.</text>
           </para>
           <para>
             <num>6.03.3</num>
@@ -975,11 +975,11 @@
           </para>
           <para>
             <num>6.03.5</num>
-            <text>Nature of Leave Requirement - Family Medical Leave granted under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> is unpaid leave. An eligible Employee may elect, or an employer may require the employee, to substitute any accrued paid time off (including vacation leave, sick leave, medical leave bank, extended illness bank, and floating holidays) of the Employee for leave provided under <cite path="attachments|law|X|6|6.03|6.03.5" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite>.</text>
+            <text>Nature of Leave Requirement - Family Medical Leave granted under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> is unpaid leave. An eligible Employee may elect, or an employer may require the employee, to substitute any accrued paid time off (including vacation leave, sick leave, medical leave bank, extended illness bank, and floating holidays) of the Employee for leave provided under <code-cite path="attachments|law|X|6|6.03|6.03.5" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite>.</text>
           </para>
           <para>
             <num>6.03.6</num>
-            <text>Conditions - The following conditions apply to Family Medical Leave granted under <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite>:</text>
+            <text>Conditions - The following conditions apply to Family Medical Leave granted under <code-cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite>:</text>
             <para>
               <num>A.</num>
               <text>Notice. The Employee must give at least 30 calendar days' notice of the intended date upon which the medical leave will commence and terminate, unless prevented by a medical emergency from giving that notice. Where it is not possible for an Employee to provide 30 calendar days' notice, the Employee must provide notice to the employer as soon as possible.</text>
@@ -1058,7 +1058,7 @@
             </para>
             <para>
               <num>C.</num>
-              <text>Second Opinions. In any case in which the Employer has a reasonable basis to doubt the validity of the medical certification provided, the Employer may require, at its own expense, that the Employee obtain the opinion of a second health care provider designated or approved by the Employer concerning any information certified under subsection 2. of <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> for such leave. A health care provider designated or approved under this subsection 3. shall not be employed on a regular basis by the Employer. In the event that the second opinion differs from the opinion in the original certification, the Employer and Employee shall jointly designate a third health care provider to provide a third opinion, which opinion shall be considered final and binding on the Employee and the Employer.</text>
+              <text>Second Opinions. In any case in which the Employer has a reasonable basis to doubt the validity of the medical certification provided, the Employer may require, at its own expense, that the Employee obtain the opinion of a second health care provider designated or approved by the Employer concerning any information certified under subsection 2. of <code-cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite> for such leave. A health care provider designated or approved under this subsection 3. shall not be employed on a regular basis by the Employer. In the event that the second opinion differs from the opinion in the original certification, the Employer and Employee shall jointly designate a third health care provider to provide a third opinion, which opinion shall be considered final and binding on the Employee and the Employer.</text>
             </para>
             <para>
               <num>D.</num>
@@ -1081,7 +1081,7 @@
               </para>
               <para>
                 <num>3.</num>
-                <text>If an Employee requests intermittent leave, or leave on a reduced leave schedule, for any reason specified in subsection B of <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite>, the Employer may require the Employee to transfer temporarily to an alternative position for which the Employee is qualified if such new position (i) has equivalent pay and benefits and (ii) better accommodates recurring periods of leave than the Employee's regular position; and</text>
+                <text>If an Employee requests intermittent leave, or leave on a reduced leave schedule, for any reason specified in subsection B of <code-cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite>, the Employer may require the Employee to transfer temporarily to an alternative position for which the Employee is qualified if such new position (i) has equivalent pay and benefits and (ii) better accommodates recurring periods of leave than the Employee's regular position; and</text>
               </para>
               <para>
                 <num>4.</num>
@@ -1090,7 +1090,7 @@
             </para>
             <para>
               <num>G.</num>
-              <text>Spouses Employed by the Same Employer. In any case in which spouses entitled to leave under <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Section</cite> are employed by the same Employer, the aggregate number of workweeks of leave to which both may be entitled may be limited to 12 workweeks during any 12-month period if such leave is taken pursuant to <cite path="attachments|law|X|6|6.03|6.03.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 6.03.3</cite>, subparagraph A or B, or to care for a sick parent or to a combined total of 26 weeks of leave during a 12-month period to care for a covered service-member with a serious injury or illness.</text>
+              <text>Spouses Employed by the Same Employer. In any case in which spouses entitled to leave under <code-cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Section</code-cite> are employed by the same Employer, the aggregate number of workweeks of leave to which both may be entitled may be limited to 12 workweeks during any 12-month period if such leave is taken pursuant to <code-cite path="attachments|law|X|6|6.03|6.03.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 6.03.3</code-cite>, subparagraph A or B, or to care for a sick parent or to a combined total of 26 weeks of leave during a 12-month period to care for a covered service-member with a serious injury or illness.</text>
             </para>
             <para>
               <num>H.</num>
@@ -1218,7 +1218,7 @@
           <para>
             <num>6.07.1</num>
             <heading>Restoration to position.</heading>
-            <text>Except as provided herein, any Employee who exercises the right to Family Medical Leave under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>, on return from such leave, is entitled to be restored by the Employer to the position held by the Employee when the leave commenced or to an equivalent position with equivalent Employee benefits, pay and other terms and conditions of employment. Notwithstanding anything to the contrary contained in <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>, an Employer may deny restoration under <cite path="attachments|law|X|6|6.07|6.07.1" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> to any Employee if the Employee obtains Family Medical Leave fraudulently, or in the following circumstances:</text>
+            <text>Except as provided herein, any Employee who exercises the right to Family Medical Leave under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>, on return from such leave, is entitled to be restored by the Employer to the position held by the Employee when the leave commenced or to an equivalent position with equivalent Employee benefits, pay and other terms and conditions of employment. Notwithstanding anything to the contrary contained in <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>, an Employer may deny restoration under <code-cite path="attachments|law|X|6|6.07|6.07.1" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite> to any Employee if the Employee obtains Family Medical Leave fraudulently, or in the following circumstances:</text>
             <para>
               <num>A.</num>
               <text>If the Employee would not otherwise have been employed at the time reinstatement is requested (for example, if an Employee is laid off, if the Employee's shift has been eliminated, or if the Employee was hired for a specific term or only to perform work on a discrete project and that term/project has expired or been completed);</text>
@@ -1239,7 +1239,7 @@
           <para>
             <num>6.07.2</num>
             <heading>Maintenance of Employee Benefits.</heading>
-            <text>During any Family Medical Leave taken under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>, the Employer shall maintain health insurance coverage for the duration of such leave at the level and under the conditions coverage would have been provided if the Employee had continued in employment. The taking of leave pursuant to <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced. However, nothing in <cite path="attachments|law|X|6|6.07|6.07.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> shall be construed to entitle any Employee to the accrual of any employment benefits during any period of leave or to any right, benefit, or position of employment except those to which the Employee would have been entitled had the Employee not taken the leave. The Employer may require the Employee to pay the Employee's share of the benefit premium(s).</text>
+            <text>During any Family Medical Leave taken under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>, the Employer shall maintain health insurance coverage for the duration of such leave at the level and under the conditions coverage would have been provided if the Employee had continued in employment. The taking of leave pursuant to <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced. However, nothing in <code-cite path="attachments|law|X|6|6.07|6.07.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite> shall be construed to entitle any Employee to the accrual of any employment benefits during any period of leave or to any right, benefit, or position of employment except those to which the Employee would have been entitled had the Employee not taken the leave. The Employer may require the Employee to pay the Employee's share of the benefit premium(s).</text>
           </para>
           <para>
             <num>6.07.3</num>
@@ -1295,7 +1295,7 @@
         <section>
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|10.01.450"/>
           <num codify:value="10.01.450">6.12</num>
-          <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
+          <heading>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</heading>
           <para>
             <num>6.12.1</num>
             <text>Procedures. The provisions of <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> shall be the sole procedures for an Employee seeking recovery for a violation of <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite>.</text>
@@ -1338,11 +1338,11 @@
           </para>
           <para>
             <num>6.12.4</num>
-            <text>An Employee who remains aggrieved from an alleged violation of <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> after completion of all administrative steps under <cite path="attachments|law|X|6|6.12|6.12.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.3</cite>, above, may bring suit in Court for a review of their claim.</text>
+            <text>An Employee who remains aggrieved from an alleged violation of <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> after completion of all administrative steps under <code-cite path="attachments|law|X|6|6.12|6.12.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.3</code-cite>, above, may bring suit in Court for a review of their claim.</text>
           </para>
           <para>
             <num>6.12.5</num>
-            <text>Action in Court. An Employee who remains aggrieved from an alleged violation of <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> after completion of all three administrative steps under <cite path="attachments|law|X|6|6.12|6.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.2</cite>, above, may bring suit in the Tribe's Court for a review of his or her claim. Any judicial complaint brought under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> must be brought within one (1) year of the final administrative decision issued under <cite path="attachments|law|X|6|6.12|6.12.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.3</cite>, above. An appeal of an administrative decision under <cite path="attachments|law|X|6|6.12" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> filed with the Court shall contain:</text>
+            <text>Action in Court. An Employee who remains aggrieved from an alleged violation of <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> after completion of all three administrative steps under <code-cite path="attachments|law|X|6|6.12|6.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.2</code-cite>, above, may bring suit in the Tribe's Court for a review of his or her claim. Any judicial complaint brought under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> must be brought within one (1) year of the final administrative decision issued under <code-cite path="attachments|law|X|6|6.12|6.12.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.3</code-cite>, above. An appeal of an administrative decision under <code-cite path="attachments|law|X|6|6.12" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</code-cite> filed with the Court shall contain:</text>
             <para>
               <num>A.</num>
               <text>The name and address of the Employee;</text>
@@ -1386,7 +1386,7 @@
           </para>
           <para>
             <num>6.12.7</num>
-            <text>An Employee who claims that that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="attachments|law|X|6|6.12|6.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.2</cite>, above, or for testifying in any proceeding under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
+            <text>An Employee who claims that that an Employer has retaliated against the Employee for pursuing an administrative decision under <code-cite path="attachments|law|X|6|6.12|6.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.2</code-cite>, above, or for testifying in any proceeding under <code-cite path="attachments|law|X|6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Chapter</code-cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
           </para>
         </section>
         <section>
@@ -1404,7 +1404,7 @@
         </section>
       </container>
       <container>
-        <codified:at path="7"/>
+        <codified:at path="|10.01|7"/>
         <prefix>Chapter</prefix>
         <num>7</num>
         <heading>Financial Hardship Programs</heading>

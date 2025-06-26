@@ -10,22 +10,23 @@
       <xml-bulk>https://github.com/kiowatribe/law-xml</xml-bulk>
       <html-bulk>https://github.com/kiowatribe/law-html</html-bulk>
       <static-assets>https://github.com/kiowatribe/law-static-assets</static-assets>
-      <html/>
+      <html>https://law.kiowatribe.org</html>
     </canonical-urls>
     <history-start>2023-12-12</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="kiowatribe/law-xml" commit="aac07e39c2f85129a29344a0f970114f023f25a9"/>
+        <repository name="kiowatribe/law-xml" commit="4c81e9c484e7cf4eedfff951f4858085cd15249b"/>
       </repositories>
-      <platform version="2.16.0" reproducible="false"/>
-      <build-date>2025-06-04</build-date>
-      <codified-date>2024-09-24</codified-date>
+      <platform version="2.17.0" reproducible="false"/>
+      <build-date>2025-06-26</build-date>
+      <codified-date>2025-04-22</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/kiowa/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/kiowa/council/code/index.xml"/>
   <collection name="us/nsn/kiowa/council/resolutions">
     <heading>Legislative Resolutions/Bills</heading>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2025/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2023/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2022/index.xml"/>
@@ -35,4 +36,5 @@
     <xi:include href="./us/nsn/kiowa/council/resolutions/2018/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2017/index.xml"/>
   </collection>
+  <xi:include href="./us/nsn/kiowa/council/model-rules-judicial-conduct/index.xml"/>
 </library>

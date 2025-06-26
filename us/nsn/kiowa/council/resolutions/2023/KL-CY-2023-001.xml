@@ -28,7 +28,7 @@
   </recitals>
   <procedural-data>
     <text>
-      <b>CERTIFICATION</b>
+      <b>C E R T I F I C A T I O N</b>
     </text>
     <text>The foregoing Resolution KL-CY-2023-001, was duly voted upon by the Kiowa Tribe Legislature at a duly called Regular Session LXIX, January 14, 2023, with a vote of (6)-yes and (0)-no, (0)-abstaining, and (1)-absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Anita Johnson</text>
@@ -240,7 +240,7 @@
       </table>
     </text>
     <text>
-      <b>CERTIFICATION</b>
+      <b>C E R T I F I C A T I O N</b>
     </text>
     <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on ____________________ 2023, at a Legislative Override Order Session with a vote of _________ in favor and ________ opposed, and _________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>Anita Onco-Johnson</text>
@@ -273,38 +273,38 @@
   </section>
   <attachment id="law">
     <codified:at path="9.02"/>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|1">
+    <codify:insert codified:doc="Kiowa Code of Law" codified:path="|9.02|1">
       <container>
         <prefix>Subchapter</prefix>
-        <num>1</num>
+        <num path-omit="true">1</num>
         <heading>GENERAL PROVISIONS</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|2">
+    <codify:insert codified:doc="Kiowa Code of Law" codified:path="|9.02|2">
       <container>
         <prefix>Subchapter</prefix>
-        <num>2</num>
+        <num path-omit="true">2</num>
         <heading>BOARD OF COMMISSIONERS</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|3">
+    <codify:insert codified:doc="Kiowa Code of Law" codified:path="|9.02|3">
       <container>
         <prefix>Subchapter</prefix>
-        <num>3</num>
+        <num path-omit="true">3</num>
         <heading>POWERS OF THE AUTHORITY</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|4">
+    <codify:insert codified:doc="Kiowa Code of Law" codified:path="|9.02|4">
       <container>
         <prefix>Subchapter</prefix>
-        <num>4</num>
+        <num path-omit="true">4</num>
         <heading>OBLIGATIONS</heading>
       </container>
     </codify:insert>
-    <codify:insert path-omit="true" codified:doc="Kiowa Code of Law" codified:path="|5">
+    <codify:insert codified:doc="Kiowa Code of Law" codified:path="|9.02|5">
       <container>
         <prefix>Subchapter</prefix>
-        <num>5</num>
+        <num path-omit="true">5</num>
         <heading>MISCELLANEOUS PROVISIONS</heading>
       </container>
     </codify:insert>

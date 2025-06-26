@@ -9,7 +9,7 @@
     <heading>Labor and Employment</heading>
     <container>
       <prefix>Subchapter</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>General Provisions</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>
@@ -46,13 +46,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>Fair Labor Standards</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>
         <num>10.01.040</num>
         <heading>Purpose, Authority and Intent for this Chapter</heading>
-        <text>The Tribe, as an exercise of its inherent governmental authority, adopts <cite path="|10.01">this chapter</cite> as a law of the Tribe. The purpose of <cite path="|2">Title 2</cite> is to ensure that all Employers, as defined in <cite path="|2">Title 2</cite>, fairly compensate Employees, as defined in <cite path="|2">Title 2</cite>, in accordance with the values and traditions of the Tribe.</text>
+        <text>The Tribe, as an exercise of its inherent governmental authority, adopts <cite path="|10.01">this chapter</cite> as a law of the Tribe. The purpose of <cite path="|10.01|2">this subchapter</cite> is to ensure that all Employers, as defined in <cite path="|10.01|2">this subchapter</cite>, fairly compensate Employees, as defined in <cite path="|10.01|2">this subchapter</cite>, in accordance with the values and traditions of the Tribe.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.01" type="History"/>
@@ -61,7 +61,7 @@
       <section>
         <num>10.01.050</num>
         <heading>Scope and Jurisdiction of this Chapter</heading>
-        <text><cite path="|2">Title 2</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Courts of the Kiowa Tribe shall have exclusive jurisdiction over any actions under <cite path="|2">Title 2</cite>.</text>
+        <text><cite path="|10.01|2">This subchapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Courts of the Kiowa Tribe shall have exclusive jurisdiction over any actions under <cite path="|10.01|2">this subchapter</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.02" type="History"/>
@@ -122,7 +122,7 @@
       <section>
         <num>10.01.070</num>
         <heading>Minimum Wages</heading>
-        <text>The minimum wage applicable to the Employees of all Employers will be set the Legislature as needed and shall not be less than the minimum wage provided by the Federal Labor Standards Act. Except as otherwise provided in <cite path="|2">Title 2</cite>, Employers shall pay Employees a minimum wage of ___________ per hour.</text>
+        <text>The minimum wage applicable to the Employees of all Employers will be set the Legislature as needed and shall not be less than the minimum wage provided by the Federal Labor Standards Act. Except as otherwise provided in <cite path="|10.01|2">this subchapter</cite>, Employers shall pay Employees a minimum wage of ___________ per hour.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.04" type="History"/>
@@ -131,7 +131,7 @@
       <section>
         <num>10.01.080</num>
         <heading>Overtime</heading>
-        <text>Except as otherwise provided in <cite path="|2">Title 2</cite>, Employers shall pay Employees overtime for all hours worked in excess of 40 during each work week, and employees will receive overtime at the rate of one and one-half times the employee's regular rate. Paid leave shall not qualify as time worked for overtime calculation purposes.</text>
+        <text>Except as otherwise provided in <cite path="|10.01|2">this subchapter</cite>, Employers shall pay Employees overtime for all hours worked in excess of 40 during each work week, and employees will receive overtime at the rate of one and one-half times the employee's regular rate. Paid leave shall not qualify as time worked for overtime calculation purposes.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.05" type="History"/>
@@ -158,8 +158,8 @@
       </section>
       <section>
         <num>10.01.100</num>
-        <text>Pay Period and Overtime for Employees of Departments of Tribal Government</text>
-        <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <cite path="attachments|law|X|2|2.09" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 2.09</cite>, below.</text>
+        <heading>Pay Period and Overtime for Employees of Departments of Tribal Government</heading>
+        <text>The regular pay period for Employees of a Department of the Tribe's Government shall be every two weeks. Overtime pay shall be paid to Employees of Departments of the Tribe's Government after (forty (40) hours of work per week / eighty (80) hours of work within a two (2) week pay period), provided, however, that certain Employees may be provided compensation time-off in lieu of overtime pay in accordance with <cite path="|10.01.120">Section 10.01.120</cite>, below.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.07" type="History"/>
@@ -167,7 +167,7 @@
       </section>
       <section>
         <num>10.01.110</num>
-        <text>Compensation Time Off Option for Specified Positions in Departments of Government</text>
+        <heading>Compensation Time Off Option for Specified Positions in Departments of Government</heading>
         <text>Departments of the Government may offer certain Employees in pre-designated positions the option of receiving compensation time off (at the rate of one and a half hours) in lieu of overtime pay after such Employees have worked eighty (80) hours within a two (2) week pay period if said Employees have seasonally fluctuating workloads.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -195,7 +195,7 @@
       <section>
         <num>10.01.130</num>
         <heading>Implementation</heading>
-        <text>Employers subject to the provisions of <cite path="|2">Title 2</cite> shall develop and adopt policies and procedures to implement the provisions of <cite path="|2">Title 2</cite> within 90 days of the effective date of <cite path="|10.01">this chapter</cite>.</text>
+        <text>Employers subject to the provisions of <cite path="|10.01|2">this subchapter</cite> shall develop and adopt policies and procedures to implement the provisions of <cite path="|10.01|2">this subchapter</cite> within 90 days of the effective date of <cite path="|10.01">this chapter</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.10" type="History"/>
@@ -204,7 +204,7 @@
       <section>
         <num>10.01.140</num>
         <heading>Limited Waiver of Sovereign Immunity</heading>
-        <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in Court for the limited purpose of enforcing <cite path="|2">Title 2</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+        <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in Court for the limited purpose of enforcing <cite path="|10.01|2">this subchapter</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|2|2.11" type="History"/>
@@ -212,14 +212,14 @@
       </section>
       <section>
         <num>10.01.150</num>
-        <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
+        <heading>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</heading>
         <para>
           <num>(a)</num>
-          <text>Any Employee who claims that an Employer has violated <cite path="|2">Title 2</cite> must commence an administrative claim as provided herein within 180 days of the employee's discovery of an alleged violation.</text>
+          <text>Any Employee who claims that an Employer has violated <cite path="|10.01|2">this subchapter</cite> must commence an administrative claim as provided herein within 180 days of the employee's discovery of an alleged violation.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Any Employee alleging a violation of <cite path="|2">Title 2</cite> shall pursue the following administrative remedies for resolution of the claim, in the order listed, before filing an action in the Courts, provided however, that an Employee who claims retaliation may proceed directly to Court:</text>
+          <text>Any Employee alleging a violation of <cite path="|10.01|2">this subchapter</cite> shall pursue the following administrative remedies for resolution of the claim, in the order listed, before filing an action in the Courts, provided however, that an Employee who claims retaliation may proceed directly to Court:</text>
           <para>
             <num>(1)</num>
             <text>A written claim filed pursuant to the grievance procedure outlined in the Employer's Personnel Policy Manual.</text>
@@ -242,7 +242,7 @@
           <text>The Employee's claim shall be in writing, and the Employee shall have the right to proceed to the next level of administrative review if the Employee's claim is not resolved at any given level within twenty-one (21) days after the filing of the claim, which shall be deemed a decision of denial. If the Employee's claim is found to have merit, the Employee may be awarded any of the following remedies at any level of the administrative process by a written decision, dated and delivered to the Employee:</text>
           <para>
             <num>(1)</num>
-            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|2">Title 2</cite>; or</text>
+            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|10.01|2">this subchapter</cite>; or</text>
           </para>
           <para>
             <num>(2)</num>
@@ -250,16 +250,16 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Any other relief that is deemed reasonably necessary to remedy a violation of <cite path="|2">Title 2</cite>.</text>
+            <text>Any other relief that is deemed reasonably necessary to remedy a violation of <cite path="|10.01|2">this subchapter</cite>.</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>An Employee who remains aggrieved from an alleged violation of <cite path="|2">Title 2</cite> after completion of all administrative steps under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above, may bring suit in the Courts for a review of their claim.</text>
+            <text>An Employee who remains aggrieved from an alleged violation of <cite path="|10.01|2">this subchapter</cite> after completion of all administrative steps under <cite path="|10.01.150|(b)">Section 10.01.150(b)</cite>, above, may bring suit in the Courts for a review of their claim.</text>
           </para>
         </para>
         <para>
           <num>(d)</num>
-          <text>An appeal of an administrative decision under <cite path="attachments|law|X|2|2.12" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> filed with the Court shall contain:</text>
+          <text>An appeal of an administrative decision under <cite path="|10.01.150">this section</cite> filed with the Court shall contain:</text>
           <para>
             <num>(1)</num>
             <text>The name and address of the Employee;</text>
@@ -270,7 +270,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The section of <cite path="|2">Title 2</cite> that was allegedly violated;</text>
+            <text>The section of <cite path="|10.01|2">this subchapter</cite> that was allegedly violated;</text>
           </para>
           <para>
             <num>(4)</num>
@@ -283,10 +283,10 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>If the Court makes a determination that the Employee has proven that the Employer has violated <cite path="|2">Title 2</cite> or failed to abide by an award granted to the Employee in the administrative process under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above, the Court may order one or more of the following remedies:</text>
+          <text>If the Court makes a determination that the Employee has proven that the Employer has violated <cite path="|10.01|2">this subchapter</cite> or failed to abide by an award granted to the Employee in the administrative process under <cite path="|10.01.150|(b)">Section 10.01.150(b)</cite>, above, the Court may order one or more of the following remedies:</text>
           <para>
             <num>(1)</num>
-            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|2">Title 2</cite>; or</text>
+            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|10.01|2">this subchapter</cite>; or</text>
           </para>
           <para>
             <num>(2)</num>
@@ -294,16 +294,16 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Any other relief the court deems reasonably necessary to remedy a violation of <cite path="|2">Title 2</cite>.</text>
+            <text>Any other relief the court deems reasonably necessary to remedy a violation of <cite path="|10.01|2">this subchapter</cite>.</text>
           </para>
         </para>
         <para>
           <num>(f)</num>
-          <text>Any judicial complaint brought under <cite path="|2">Title 2</cite> must be brought within thirty (30) days of the final administrative decision issued under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above.</text>
+          <text>Any judicial complaint brought under <cite path="|10.01|2">this subchapter</cite> must be brought within thirty (30) days of the final administrative decision issued under <cite path="|10.01.150|(b)">Section 10.01.150(b)</cite>, above.</text>
         </para>
         <para>
           <num>(g)</num>
-          <text>An Employee who claims that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="attachments|law|X|2|2.12|2.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 2.12.2</cite>, above, or for testifying in any proceeding under <cite path="|2">Title 2</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
+          <text>An Employee who claims that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="|10.01.150|(b)">Section 10.01.150(b)</cite>, above, or for testifying in any proceeding under <cite path="|10.01|2">this subchapter</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -315,7 +315,7 @@
         <heading>Severability; Amendments</heading>
         <para>
           <num>(a)</num>
-          <text>If any provision of <cite path="|2">Title 2</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions of the Chapter shall remain unaffected.</text>
+          <text>If any provision of <cite path="|10.01|2">this subchapter</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions of the Chapter shall remain unaffected.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -325,7 +325,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>3</num>
+      <num path-omit="true">3</num>
       <heading>General Provisions</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>
@@ -420,7 +420,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>4</num>
+      <num path-omit="true">4</num>
       <heading>General Provisions</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>
@@ -428,14 +428,14 @@
         <heading>Findings for this Chapter</heading>
         <para>
           <num>(a)</num>
-          <text>The Legislature has enacted <code-code-cite path="attachments|law|X|2">Chapter 2</code-code-cite> of <code-code-cite path="attachments|law|X">this Act</code-code-cite> as a law of the Tribe.</text>
+          <text>The Legislature has enacted <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> as a law of the Tribe.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>In providing for procedures, rights, and remedies for Employer and Employees under <cite path="|2">Title 2</cite>, including those afforded through actions in Court, the Legislature has carefully considered (and continues to consider) the values and interests of the Tribe in order to establish fair processes, rights, and remedies for the parties and interests at stake. This has included careful consideration of:</text>
+          <text>In providing for procedures, rights, and remedies for Employer and Employees under <cite path="|10.01|2">Subchapter 2</cite>, including those afforded through actions in Court, the Legislature has carefully considered (and continues to consider) the values and interests of the Tribe in order to establish fair processes, rights, and remedies for the parties and interests at stake. This has included careful consideration of:</text>
           <para>
             <num>(1)</num>
-            <text>The time, costs, and inconvenience of parties and witnesses involved in proceedings to resolve controversies or to establish rights and remedies provided by <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>;</text>
+            <text>The time, costs, and inconvenience of parties and witnesses involved in proceedings to resolve controversies or to establish rights and remedies provided by <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -448,7 +448,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The integrity of <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite> is threatened if parties bypass the procedures, rights, and remedies established therein and seek, instead, to invoke procedures or remedies outside of the Tribe's law and jurisdiction for controversies that <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite> is designed to address and resolve in accordance with the unique public policies of the Tribe. Investigations or proceedings directed at Employers, apart from those provided for by <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>, which seek to address controversies or rights covered by that Chapter, require the expenditure of time and resources to the detriment of those involved and, in many instances, to the Tribe or its Entities.</text>
+          <text>The integrity of <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> is threatened if parties bypass the procedures, rights, and remedies established therein and seek, instead, to invoke procedures or remedies outside of the Tribe's law and jurisdiction for controversies that <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> is designed to address and resolve in accordance with the unique public policies of the Tribe. Investigations or proceedings directed at Employers, apart from those provided for by <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>, which seek to address controversies or rights covered by that Chapter, require the expenditure of time and resources to the detriment of those involved and, in many instances, to the Tribe or its Entities.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -458,7 +458,7 @@
       <section>
         <num>10.01.210</num>
         <heading>Purpose</heading>
-        <text>The purpose of <cite path="|4">Title 4</cite> is to protect the integrity of the procedures, rights, and remedies established by <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite> as described in the foregoing findings.</text>
+        <text>The purpose of <cite path="|10.01|4">this subchapter</cite> is to protect the integrity of the procedures, rights, and remedies established by <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> as described in the foregoing findings.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|4|4.02" type="History"/>
@@ -467,7 +467,7 @@
       <section>
         <num>10.01.220</num>
         <heading>Scope; Jurisdiction</heading>
-        <text><cite path="|4">Title 4</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="|4">Title 4</cite>.</text>
+        <text><cite path="|10.01|4">This subchapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="|10.01|4">this subchapter</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|4|4.03" type="History"/>
@@ -476,7 +476,7 @@
       <section>
         <num>10.01.230</num>
         <heading>Definitions</heading>
-        <text>The definitions set forth in <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite> shall apply to the terms used in <cite path="|4">Title 4</cite> unless the context clearly indicates otherwise.</text>
+        <text>The definitions set forth in <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> shall apply to the terms used in <cite path="|10.01|4">this subchapter</cite> unless the context clearly indicates otherwise.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|4|4.04" type="History"/>
@@ -487,19 +487,19 @@
         <text>Prohibition of Employer Testimony and Documents Disclosure in External Proceedings When Employees Fail to Exhaust Tribal Remedies.</text>
         <para>
           <num>(a)</num>
-          <text>Employers are prohibited from giving testimony or witness statements of any kind or producing documents or other information of any kind in response to requests or subpoenas issued by outside authorities, other than those authorities expressly granted powers under <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>, engaged in investigations or proceedings on behalf of current or former Employees, when such Employees have failed to exhaust their remedies provided by any provisions of <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>.</text>
+          <text>Employers are prohibited from giving testimony or witness statements of any kind or producing documents or other information of any kind in response to requests or subpoenas issued by outside authorities, other than those authorities expressly granted powers under <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>, engaged in investigations or proceedings on behalf of current or former Employees, when such Employees have failed to exhaust their remedies provided by any provisions of <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Examples of failure to exhaust remedies.</heading>
-          <text>For the purposes of <cite path="attachments|law|X|4|4.05|4.05.1" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 4. 05. 1</cite>, above, Employees shall be deemed to have "failed to exhaust their remedies provided by any provisions of <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>" if they have failed to exhaust the procedures, rights, remedies, and appeals (including opportunities to challenge jurisdiction) available under <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite> or the procedures of the Court, and have, instead, invoked investigations or proceedings outside of those authorized by <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite> to:</text>
+          <text>For the purposes of <cite path="|10.01.240|(a)">Section 10.01.240(a)</cite>, above, Employees shall be deemed to have "failed to exhaust their remedies provided by any provisions of <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>" if they have failed to exhaust the procedures, rights, remedies, and appeals (including opportunities to challenge jurisdiction) available under <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> or the procedures of the Court, and have, instead, invoked investigations or proceedings outside of those authorized by <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite> to:</text>
           <para>
             <num>(1)</num>
             <text>Address controversies or rights covered by <cite path="|10.01">this chapter</cite>, such as unfair labor practices and proceedings for enforcement of the Tribe's wages and hours laws <cite path="|10.01">this chapter</cite>, or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Challenge the assertion of jurisdiction under <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>.</text>
+            <text>Challenge the assertion of jurisdiction under <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>.</text>
           </para>
         </para>
         <annotations>
@@ -510,7 +510,7 @@
       <section>
         <num>10.01.250</num>
         <heading>Actions for Injunctive Relief to Prevent Disclosures.</heading>
-        <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <cite path="attachments|law|X|4|4.05" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 4.05</cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
+        <text>The Court shall have authority to grant preliminary and permanent injunctions, upon motion to prevent Employer disclosures in violation of <cite path="|10.01.240">Section 10.01.240</cite>, above, and the sovereign immunity of Employers from such actions is hereby waived for the sole purpose of granting non-monetary equitable relief.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|4|4.06" type="History"/>
@@ -518,8 +518,8 @@
       </section>
       <section>
         <num>10.01.260</num>
-        <text>Authority of the Court to Resolve Jurisdictional Disputes.</text>
-        <text>In any case or proceeding commenced under <cite path="|2">Title 2</cite> of <cite path="|10.01">this chapter</cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
+        <heading>Authority of the Court to Resolve Jurisdictional Disputes.</heading>
+        <text>In any case or proceeding commenced under <cite path="|10.01|2">Subchapter 2</cite> of <cite path="|10.01">this chapter</cite>, where the regulatory or adjudicatory jurisdiction of the Tribe or the Court is called into question, the Court shall have authority to address the jurisdictional question by means of a declaratory judgment.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|4|4.07" type="History"/>
@@ -528,13 +528,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>5</num>
+      <num path-omit="true">5</num>
       <heading>General Provisions</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>
         <num>10.01.270</num>
         <heading>Title of Chapter</heading>
-        <text><cite path="|5">Title 5</cite> shall be known and may be cited as the Kiowa Tribe Prevailing Wage Act.</text>
+        <text><cite path="|10.01|5">This subchapter</cite> shall be known and may be cited as the Kiowa Tribe Prevailing Wage Act.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|5|5.01" type="History"/>
@@ -543,7 +543,7 @@
       <section>
         <num>10.01.280</num>
         <heading>Purpose and Authority of Chapter</heading>
-        <text>The purpose of <cite path="|5">Title 5</cite> is to codify the Tribe's authority to determine area prevailing wages to the extent not in violation of federal law so that the federal Davis-Bacon Act (40 U.S.C. § 3141 et seq.) area prevailing wage determinations will not apply to a Covered Agreement, as defined below.</text>
+        <text>The purpose of <cite path="|10.01|5">this subchapter</cite> is to codify the Tribe's authority to determine area prevailing wages to the extent not in violation of federal law so that the federal Davis-Bacon Act (40 U.S.C. § 3141 et seq.) area prevailing wage determinations will not apply to a Covered Agreement, as defined below.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|5|5.02" type="History"/>
@@ -552,7 +552,7 @@
       <section>
         <num>10.01.290</num>
         <heading>Scope</heading>
-        <text><cite path="|5">Title 5</cite> shall cover construction projects funded under programs of the Federal Government that would normally be covered by the Federal Davis-Bacon Act.</text>
+        <text><cite path="|10.01|5">This subchapter</cite> shall cover construction projects funded under programs of the Federal Government that would normally be covered by the Federal Davis-Bacon Act.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|5|5.03" type="History"/>
@@ -636,7 +636,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The Legislature may delegate the conducting and establishment of the schedule of Prevailing Wages under <cite path="|5">Title 5</cite> to any outside agency, or agency of the Tribe,.</text>
+          <text>The Legislature may delegate the conducting and establishment of the schedule of Prevailing Wages under <cite path="|10.01|5">this subchapter</cite> to any outside agency, or agency of the Tribe,.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -672,15 +672,15 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Any adversely affected employee covered under <cite path="|5">Title 5</cite>, may bring an action in Court against any covered employer to recover the amount of the Wage or Records Penalty and may receive reasonable attorney's fees under <cite path="|5">Title 5</cite>. A decision of the Court may be appealed to the Supreme Court to the extent otherwise allowed under the laws of the Tribe. There shall not be a right of appeal to any other court nor is a cause of action created hereby for a proceeding in any other court, proceeding or tribunal;</text>
+          <text>Any adversely affected employee covered under <cite path="|10.01|5">this subchapter</cite>, may bring an action in Court against any covered employer to recover the amount of the Wage or Records Penalty and may receive reasonable attorney's fees under <cite path="|10.01|5">this subchapter</cite>. A decision of the Court may be appealed to the Supreme Court to the extent otherwise allowed under the laws of the Tribe. There shall not be a right of appeal to any other court nor is a cause of action created hereby for a proceeding in any other court, proceeding or tribunal;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>No action under <cite path="|5">Title 5</cite> shall be allowed more than two (2) years after the date such wages became due and payable under a Covered Agreement; and</text>
+          <text>No action under <cite path="|10.01|5">this subchapter</cite> shall be allowed more than two (2) years after the date such wages became due and payable under a Covered Agreement; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Any adversely affected employee covered under <cite path="|5">Title 5</cite> shall first be required to exhaust all administrative remedies prior to bringing an action in Court under <cite path="|5">Title 5</cite>.</text>
+          <text>Any adversely affected employee covered under <cite path="|10.01|5">this subchapter</cite> shall first be required to exhaust all administrative remedies prior to bringing an action in Court under <cite path="|10.01|5">this subchapter</cite>.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -690,7 +690,7 @@
       <section>
         <num>10.01.350</num>
         <heading>Sovereign Immunity</heading>
-        <text><cite path="|5">Title 5</cite> provides only those remedies and damages identified above and none other. Its provisions shall not be construed or interpreted to grant jurisdiction to any other court, except the Courts of the Kiowa Tribe, over the Tribe or over individuals acting in their official capacity. Nothing in <cite path="|5">Title 5</cite> shall be construed to be a waiver of any sovereign immunity except as specifically and expressly provided in <cite path="|5">Title 5</cite> and other titles of the Kiowa Code. Nothing herein shall act to waive sovereign immunity for injunctive or declaratory relief nor for monetary damages or penalties, however characterized or described, beyond reasonable attorney's fees and recovery against the employer, without any interest or penalties, of the Wage Penalty as defined above.</text>
+        <text><cite path="|10.01|5">This subchapter</cite> provides only those remedies and damages identified above and none other. Its provisions shall not be construed or interpreted to grant jurisdiction to any other court, except the Courts of the Kiowa Tribe, over the Tribe or over individuals acting in their official capacity. Nothing in <cite path="|10.01|5">this subchapter</cite> shall be construed to be a waiver of any sovereign immunity except as specifically and expressly provided in <cite path="|10.01|5">this subchapter</cite> and other titles of the Kiowa Code. Nothing herein shall act to waive sovereign immunity for injunctive or declaratory relief nor for monetary damages or penalties, however characterized or described, beyond reasonable attorney's fees and recovery against the employer, without any interest or penalties, of the Wage Penalty as defined above.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|5|5.09" type="History"/>
@@ -699,13 +699,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>6</num>
+      <num path-omit="true">6</num>
       <heading>General Provisions</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>
         <num>10.01.360</num>
         <heading>Purpose; Authority and Intent</heading>
-        <text>The purpose of <cite path="|6">Title 6</cite> is to entitle eligible Employees to take reasonable leave for medical reasons and to accomplish this purpose in a manner that accommodates the legitimate interests of Employers in accordance with the values and traditions of the Tribe.</text>
+        <text>The purpose of <cite path="|10.01|6">this subchapter</cite> is to entitle eligible Employees to take reasonable leave for medical reasons and to accomplish this purpose in a manner that accommodates the legitimate interests of Employers in accordance with the values and traditions of the Tribe.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|6|6.01" type="History"/>
@@ -714,7 +714,7 @@
       <section>
         <num>10.01.370</num>
         <heading>Scope; Jurisdiction</heading>
-        <text><cite path="|6">Title 6</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="|6">Title 6</cite>.</text>
+        <text><cite path="|10.01|6">This subchapter</cite> applies to Employers who employ Employees within the Territory of the Tribe. The Court shall have exclusive jurisdiction over any actions under <cite path="|10.01|6">this subchapter</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|6|6.02" type="History"/>
@@ -729,7 +729,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>An eligible Employee who is the spouse, son, daughter, parent, or next of kin of a covered service- member shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the service- member with a serious injury or illness, as defined in <cite path="attachments|law|X|6|6.03|6.03.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 6.03.3</cite>, below. The leave described in this paragraph shall only be available during a single 12-month period.</text>
+          <text>An eligible Employee who is the spouse, son, daughter, parent, or next of kin of a covered service- member shall be entitled to a total of 26 workweeks of leave during a 12-month period to care for the service- member with a serious injury or illness, as defined in <cite path="|10.01.380|(c)">Section 10.01.380(c)</cite>, below. The leave described in this paragraph shall only be available during a single 12-month period.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -761,15 +761,15 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The entitlement to leave under subparagraphs A) and B), above, for a birth or placement of a son or daughter shall expire at the end of the 12-month period beginning on the date of such birth or placement. The right to take leave under <cite path="|6">Title 6</cite> applies equally to male and female Employees. Thus, a father, as well as a mother, can take family leave for the birth, placement for adoption, or foster care of a child provided that they are "caring" for the child.</text>
+          <text>The entitlement to leave under subparagraphs A) and B), above, for a birth or placement of a son or daughter shall expire at the end of the 12-month period beginning on the date of such birth or placement. The right to take leave under <cite path="|10.01|6">this subchapter</cite> applies equally to male and female Employees. Thus, a father, as well as a mother, can take family leave for the birth, placement for adoption, or foster care of a child provided that they are "caring" for the child.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Nature of Leave Requirement - Family Medical Leave granted under <cite path="|6">Title 6</cite> is unpaid leave. An eligible Employee may elect, or an employer may require the employee, to substitute any accrued paid time off (including vacation leave, sick leave, medical leave bank, extended illness bank, and floating holidays) of the Employee for leave provided under <cite path="attachments|law|X|6|6.03|6.03.5" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite>.</text>
+          <text>Nature of Leave Requirement - Family Medical Leave granted under <cite path="|10.01|6">this subchapter</cite> is unpaid leave. An eligible Employee may elect, or an employer may require the employee, to substitute any accrued paid time off (including vacation leave, sick leave, medical leave bank, extended illness bank, and floating holidays) of the Employee for leave provided under <cite path="|10.01.380|(e)">Section 10.01.380(e)</cite>.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>Conditions - The following conditions apply to Family Medical Leave granted under <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite>:</text>
+          <text>Conditions - The following conditions apply to Family Medical Leave granted under <cite path="|10.01.380|(f)">Section 10.01.380(f)</cite>:</text>
           <para>
             <num>(1)</num>
             <text>Notice. The Employee must give at least 30 calendar days' notice of the intended date upon which the medical leave will commence and terminate, unless prevented by a medical emergency from giving that notice. Where it is not possible for an Employee to provide 30 calendar days' notice, the Employee must provide notice to the employer as soon as possible.</text>
@@ -848,7 +848,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Second Opinions. In any case in which the Employer has a reasonable basis to doubt the validity of the medical certification provided, the Employer may require, at its own expense, that the Employee obtain the opinion of a second health care provider designated or approved by the Employer concerning any information certified under subsection 2. of <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> for such leave. A health care provider designated or approved under this subsection 3. shall not be employed on a regular basis by the Employer. In the event that the second opinion differs from the opinion in the original certification, the Employer and Employee shall jointly designate a third health care provider to provide a third opinion, which opinion shall be considered final and binding on the Employee and the Employer.</text>
+            <text>Second Opinions. In any case in which the Employer has a reasonable basis to doubt the validity of the medical certification provided, the Employer may require, at its own expense, that the Employee obtain the opinion of a second health care provider designated or approved by the Employer concerning any information certified under subsection 2. of <cite path="|10.01.380|(f)">Section 10.01.380(f)</cite> for such leave. A health care provider designated or approved under this subsection 3. shall not be employed on a regular basis by the Employer. In the event that the second opinion differs from the opinion in the original certification, the Employer and Employee shall jointly designate a third health care provider to provide a third opinion, which opinion shall be considered final and binding on the Employee and the Employer.</text>
           </para>
           <para>
             <num>(4)</num>
@@ -871,7 +871,7 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>If an Employee requests intermittent leave, or leave on a reduced leave schedule, for any reason specified in subsection B of <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite>, the Employer may require the Employee to transfer temporarily to an alternative position for which the Employee is qualified if such new position (i) has equivalent pay and benefits and (ii) better accommodates recurring periods of leave than the Employee's regular position; and</text>
+              <text>If an Employee requests intermittent leave, or leave on a reduced leave schedule, for any reason specified in subsection B of <cite path="|10.01.380|(f)">Section 10.01.380(f)</cite>, the Employer may require the Employee to transfer temporarily to an alternative position for which the Employee is qualified if such new position (i) has equivalent pay and benefits and (ii) better accommodates recurring periods of leave than the Employee's regular position; and</text>
             </para>
             <para>
               <num>(D)</num>
@@ -880,15 +880,15 @@
           </para>
           <para>
             <num>(7)</num>
-            <text>Spouses Employed by the Same Employer. In any case in which spouses entitled to leave under <cite path="attachments|law|X|6|6.03|6.03.6" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this Section</cite> are employed by the same Employer, the aggregate number of workweeks of leave to which both may be entitled may be limited to 12 workweeks during any 12-month period if such leave is taken pursuant to <cite path="attachments|law|X|6|6.03|6.03.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">Section 6.03.3</cite>, subparagraph A or B, or to care for a sick parent or to a combined total of 26 weeks of leave during a 12-month period to care for a covered service-member with a serious injury or illness.</text>
+            <text>Spouses Employed by the Same Employer. In any case in which spouses entitled to leave under <cite path="|10.01.380|(f)">Section 10.01.380(f)</cite> are employed by the same Employer, the aggregate number of workweeks of leave to which both may be entitled may be limited to 12 workweeks during any 12-month period if such leave is taken pursuant to <cite path="|10.01.380|(c)">Section 10.01.380(c)</cite>, subparagraph A or B, or to care for a sick parent or to a combined total of 26 weeks of leave during a 12-month period to care for a covered service-member with a serious injury or illness.</text>
           </para>
           <para>
             <num>(8)</num>
-            <text>Employee's Substance Abuse. Substance abuse may be a serious health condition in certain instances. However, leave under <cite path="|6">Title 6</cite> may only be taken for treatment for substance abuse by a health care provider. Absence because of the Employee's use of the substance, rather than for treatment, does not qualify for leave under <cite path="|6">Title 6</cite>. The rules regarding substance abuse at work always apply.</text>
+            <text>Employee's Substance Abuse. Substance abuse may be a serious health condition in certain instances. However, leave under <cite path="|10.01|6">this subchapter</cite> may only be taken for treatment for substance abuse by a health care provider. Absence because of the Employee's use of the substance, rather than for treatment, does not qualify for leave under <cite path="|10.01|6">this subchapter</cite>. The rules regarding substance abuse at work always apply.</text>
           </para>
           <para>
             <num>(9)</num>
-            <text>Employer's Option to Provide Domestic Partner Family Medical Leave. Any Employer may elect, by policy provided to (and acknowledged by) its employees or by contract with an Employee, to provide Family Medical Leave under <cite path="|6">Title 6</cite> to care for domestic partners. In that event, such domestic partners shall be treated in the same manner as spouses are treated under <cite path="|6">Title 6</cite>. To qualify for domestic partner coverage, an employee must have registered their domestic partnership and the name of their domestic partner with the Human Resources Director (or the equivalent employer representative) with the Employer on such forms or affidavits as may be required by the Employer.</text>
+            <text>Employer's Option to Provide Domestic Partner Family Medical Leave. Any Employer may elect, by policy provided to (and acknowledged by) its employees or by contract with an Employee, to provide Family Medical Leave under <cite path="|10.01|6">this subchapter</cite> to care for domestic partners. In that event, such domestic partners shall be treated in the same manner as spouses are treated under <cite path="|10.01|6">this subchapter</cite>. To qualify for domestic partner coverage, an employee must have registered their domestic partnership and the name of their domestic partner with the Human Resources Director (or the equivalent employer representative) with the Employer on such forms or affidavits as may be required by the Employer.</text>
           </para>
           <para>
             <num>(10)</num>
@@ -905,7 +905,7 @@
         <heading>Definitions</heading>
         <para>
           <num>(a)</num>
-          <text>For purposes of <cite path="|6">Title 6</cite>, the following definitions shall apply:</text>
+          <text>For purposes of <cite path="|10.01|6">this subchapter</cite>, the following definitions shall apply:</text>
           <para>
             <num>(1)</num>
             <text>"Covered active duty or call to covered active duty" means, in the case of a member of the Regular Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country and, in the case of a member of the Reserves, duty during the deployment of the member of the Armed Forces to a foreign country under a federal call or order to active duty in support of a contingency operation.</text>
@@ -936,7 +936,7 @@
           </para>
           <para>
             <num>(8)</num>
-            <text>"Health care provider" means a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the Tribe or any other person capable of providing health care services. For purposes of <cite path="|6">Title 6</cite>, "others capable of providing health care services" include only:</text>
+            <text>"Health care provider" means a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the Tribe or any other person capable of providing health care services. For purposes of <cite path="|10.01|6">this subchapter</cite>, "others capable of providing health care services" include only:</text>
             <para>
               <num>(A)</num>
               <text>Podiatrists, dentists, clinical psychologists, optometrists, and chiropractors (limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist) authorized to practice in a State and by the Tribe and performing within the scope of their practice as defined under State law;</text>
@@ -952,7 +952,7 @@
           </para>
           <para>
             <num>(9)</num>
-            <text>"Military caregiver leave" means leave taken to care for a covered service-member with a serious injury or illness under <cite path="|6">Title 6</cite>.</text>
+            <text>"Military caregiver leave" means leave taken to care for a covered service-member with a serious injury or illness under <cite path="|10.01|6">this subchapter</cite>.</text>
           </para>
           <para>
             <num>(10)</num>
@@ -1014,7 +1014,7 @@
         <para>
           <num>(a)</num>
           <heading>Restoration to position.</heading>
-          <text>Except as provided herein, any Employee who exercises the right to Family Medical Leave under <cite path="|6">Title 6</cite>, on return from such leave, is entitled to be restored by the Employer to the position held by the Employee when the leave commenced or to an equivalent position with equivalent Employee benefits, pay and other terms and conditions of employment. Notwithstanding anything to the contrary contained in <cite path="|6">Title 6</cite>, an Employer may deny restoration under <cite path="attachments|law|X|6|6.07|6.07.1" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> to any Employee if the Employee obtains Family Medical Leave fraudulently, or in the following circumstances:</text>
+          <text>Except as provided herein, any Employee who exercises the right to Family Medical Leave under <cite path="|10.01|6">this subchapter</cite>, on return from such leave, is entitled to be restored by the Employer to the position held by the Employee when the leave commenced or to an equivalent position with equivalent Employee benefits, pay and other terms and conditions of employment. Notwithstanding anything to the contrary contained in <cite path="|10.01|6">this subchapter</cite>, an Employer may deny restoration under <cite path="|10.01.400|(a)">Section 10.01.400(a)</cite> to any Employee if the Employee obtains Family Medical Leave fraudulently, or in the following circumstances:</text>
           <para>
             <num>(1)</num>
             <text>If the Employee would not otherwise have been employed at the time reinstatement is requested (for example, if an Employee is laid off, if the Employee's shift has been eliminated, or if the Employee was hired for a specific term or only to perform work on a discrete project and that term/project has expired or been completed);</text>
@@ -1035,12 +1035,12 @@
         <para>
           <num>(b)</num>
           <heading>Maintenance of Employee Benefits.</heading>
-          <text>During any Family Medical Leave taken under <cite path="|6">Title 6</cite>, the Employer shall maintain health insurance coverage for the duration of such leave at the level and under the conditions coverage would have been provided if the Employee had continued in employment. The taking of leave pursuant to <cite path="|6">Title 6</cite> shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced. However, nothing in <cite path="attachments|law|X|6|6.07|6.07.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> shall be construed to entitle any Employee to the accrual of any employment benefits during any period of leave or to any right, benefit, or position of employment except those to which the Employee would have been entitled had the Employee not taken the leave. The Employer may require the Employee to pay the Employee's share of the benefit premium(s).</text>
+          <text>During any Family Medical Leave taken under <cite path="|10.01|6">this subchapter</cite>, the Employer shall maintain health insurance coverage for the duration of such leave at the level and under the conditions coverage would have been provided if the Employee had continued in employment. The taking of leave pursuant to <cite path="|10.01|6">this subchapter</cite> shall not result in the loss of any employment benefit accrued prior to the date on which the leave commenced. However, nothing in <cite path="|10.01.400|(b)">Section 10.01.400(b)</cite> shall be construed to entitle any Employee to the accrual of any employment benefits during any period of leave or to any right, benefit, or position of employment except those to which the Employee would have been entitled had the Employee not taken the leave. The Employer may require the Employee to pay the Employee's share of the benefit premium(s).</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Return to Work Certification.</heading>
-          <text>As a condition of restoration to employment, the Employer may require the Employee to provide a health care provider certification stating that the Employee is able to resume work and perform the essential functions of his/her position. Nothing in <cite path="|6">Title 6</cite> shall be construed to prohibit an Employer from requiring an Employee on leave to report periodically to the Employer on the status and intention of the Employee to return to work.</text>
+          <text>As a condition of restoration to employment, the Employer may require the Employee to provide a health care provider certification stating that the Employee is able to resume work and perform the essential functions of his/her position. Nothing in <cite path="|10.01|6">this subchapter</cite> shall be construed to prohibit an Employer from requiring an Employee on leave to report periodically to the Employer on the status and intention of the Employee to return to work.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -1053,12 +1053,12 @@
         <para>
           <num>(a)</num>
           <heading>Benefit accrual.</heading>
-          <text>The taking of Family Medical Leave under <cite path="|6">Title 6</cite> shall not result in the loss of any Employee benefit accrued before the date on which the leave commenced. However, an Employee has no greater right to benefits and conditions of employment than if the Employee had been continuously employed during the leave period. In accordance with the policies of the Tribe, Employees who are out on unpaid leave pursuant to <cite path="|6">Title 6</cite> shall not be entitled to accrue paid time off while on leave.</text>
+          <text>The taking of Family Medical Leave under <cite path="|10.01|6">this subchapter</cite> shall not result in the loss of any Employee benefit accrued before the date on which the leave commenced. However, an Employee has no greater right to benefits and conditions of employment than if the Employee had been continuously employed during the leave period. In accordance with the policies of the Tribe, Employees who are out on unpaid leave pursuant to <cite path="|10.01|6">this subchapter</cite> shall not be entitled to accrue paid time off while on leave.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Limitations.</heading>
-          <text>Nothing in <cite path="|6">Title 6</cite> shall be construed to entitle any restored Employee to the accrual of any seniority or employment benefits during any period of leave or any right, benefit, or position of employment other than any right, benefit, or position to which the Employee would have been entitled had the Employee not taken the leave.</text>
+          <text>Nothing in <cite path="|10.01|6">this subchapter</cite> shall be construed to entitle any restored Employee to the accrual of any seniority or employment benefits during any period of leave or any right, benefit, or position of employment other than any right, benefit, or position to which the Employee would have been entitled had the Employee not taken the leave.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -1068,18 +1068,18 @@
       <section>
         <num>10.01.420</num>
         <heading>Prohibited Acts</heading>
-        <text>The following shall be considered prohibited acts for an Employer under <cite path="|6">Title 6</cite>:</text>
+        <text>The following shall be considered prohibited acts for an Employer under <cite path="|10.01|6">this subchapter</cite>:</text>
         <para>
           <num>(a)</num>
-          <text>Unlawful interference or denial of rights. An Employer may not interfere with, restrain or deny the exercise of or the attempt to exercise any right provided by <cite path="|6">Title 6</cite>.</text>
+          <text>Unlawful interference or denial of rights. An Employer may not interfere with, restrain or deny the exercise of or the attempt to exercise any right provided by <cite path="|10.01|6">this subchapter</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Unlawful discrimination against exercise of rights. An Employer may not discharge or otherwise discriminate against any Employee for exercising any right provided by <cite path="|6">Title 6</cite>.</text>
+          <text>Unlawful discrimination against exercise of rights. An Employer may not discharge or otherwise discriminate against any Employee for exercising any right provided by <cite path="|10.01|6">this subchapter</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Unlawful discrimination against opposition. An Employer may not discriminate or retaliate against any Employee for opposing any practice made unlawful by <cite path="|6">Title 6</cite>.</text>
+          <text>Unlawful discrimination against opposition. An Employer may not discriminate or retaliate against any Employee for opposing any practice made unlawful by <cite path="|10.01|6">this subchapter</cite>.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -1089,7 +1089,7 @@
       <section>
         <num>10.01.430</num>
         <heading>Implementation</heading>
-        <text>Employers subject to the provisions of <cite path="|6">Title 6</cite> shall develop and adopt, policies and procedures to implement the provisions of <cite path="|6">Title 6</cite>.</text>
+        <text>Employers subject to the provisions of <cite path="|10.01|6">this subchapter</cite> shall develop and adopt, policies and procedures to implement the provisions of <cite path="|10.01|6">this subchapter</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|6|6.10" type="History"/>
@@ -1098,7 +1098,7 @@
       <section>
         <num>10.01.440</num>
         <heading>Limited Waiver of Sovereign Immunity</heading>
-        <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in the Tribe's Courts for the limited purpose of enforcing <cite path="|6">Title 6</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+        <text>The Tribe expressly waives the sovereign immunity of the Tribe, Tribal Entities, and Departments of Tribal Government for suits and process in the Tribe's Courts for the limited purpose of enforcing <cite path="|10.01|6">this subchapter</cite> and for the purpose of awarding equitable relief and compensatory damages limited to compensation for hours worked or benefits earned and shall not include any award of punitive damages, and shall be done in accordance with the requirements and limits set in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X|6|6.11" type="History"/>
@@ -1106,14 +1106,14 @@
       </section>
       <section>
         <num>10.01.450</num>
-        <text>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</text>
+        <heading>Right to File a Complaint; Available Remedies; Right to Bring a Cause of Action; Form of Complaint</heading>
         <para>
           <num>(a)</num>
-          <text>Procedures. The provisions of <cite path="|6">Title 6</cite> shall be the sole procedures for an Employee seeking recovery for a violation of <cite path="|6">Title 6</cite>.</text>
+          <text>Procedures. The provisions of <cite path="|10.01|6">this subchapter</cite> shall be the sole procedures for an Employee seeking recovery for a violation of <cite path="|10.01|6">this subchapter</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Administrative Exhaustion. Any Employee who claims that an Employer has violated <cite path="|6">Title 6</cite> must commence an administrative claim as provided herein within 180 calendar days of the Employee's discovery of an alleged violation. Any Employee alleging a violation of <cite path="|6">Title 6</cite> shall pursue the following administrative remedies for resolution of the claim, in the order listed, before filing an action in Court:</text>
+          <text>Administrative Exhaustion. Any Employee who claims that an Employer has violated <cite path="|10.01|6">this subchapter</cite> must commence an administrative claim as provided herein within 180 calendar days of the Employee's discovery of an alleged violation. Any Employee alleging a violation of <cite path="|10.01|6">this subchapter</cite> shall pursue the following administrative remedies for resolution of the claim, in the order listed, before filing an action in Court:</text>
           <para>
             <num>(1)</num>
             <text>A written claim filed pursuant to the grievance procedure outlined in the Employer's Personnel Policy Manual.</text>
@@ -1136,7 +1136,7 @@
           <text>Administrative Remedies Available. If the Employee's claim is found to have merit, the Employee may be awarded any of the following remedies at any level of the administrative process by a written decision, dated and delivered to the Employee:</text>
           <para>
             <num>(1)</num>
-            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|6">Title 6</cite>;</text>
+            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|10.01|6">this subchapter</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -1144,16 +1144,16 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Any other relief that is deemed reasonably necessary to remedy a violation of <cite path="|6">Title 6</cite>, including employment, reinstatement, or promotion.</text>
+            <text>Any other relief that is deemed reasonably necessary to remedy a violation of <cite path="|10.01|6">this subchapter</cite>, including employment, reinstatement, or promotion.</text>
           </para>
         </para>
         <para>
           <num>(d)</num>
-          <text>An Employee who remains aggrieved from an alleged violation of <cite path="|6">Title 6</cite> after completion of all administrative steps under <cite path="attachments|law|X|6|6.12|6.12.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.3</cite>, above, may bring suit in Court for a review of their claim.</text>
+          <text>An Employee who remains aggrieved from an alleged violation of <cite path="|10.01|6">this subchapter</cite> after completion of all administrative steps under <cite path="|10.01.450|(c)">Section 10.01.450(c)</cite>, above, may bring suit in Court for a review of their claim.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Action in Court. An Employee who remains aggrieved from an alleged violation of <cite path="|6">Title 6</cite> after completion of all three administrative steps under <cite path="attachments|law|X|6|6.12|6.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.2</cite>, above, may bring suit in the Tribe's Court for a review of his or her claim. Any judicial complaint brought under <cite path="|6">Title 6</cite> must be brought within one (1) year of the final administrative decision issued under <cite path="attachments|law|X|6|6.12|6.12.3" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.3</cite>, above. An appeal of an administrative decision under <cite path="attachments|law|X|6|6.12" doc="Kiowa Tribe Res. No. KL-CY-2023-008">this section</cite> filed with the Court shall contain:</text>
+          <text>Action in Court. An Employee who remains aggrieved from an alleged violation of <cite path="|10.01|6">this subchapter</cite> after completion of all three administrative steps under <cite path="|10.01.450|(b)">Section 10.01.450(b)</cite>, above, may bring suit in the Tribe's Court for a review of his or her claim. Any judicial complaint brought under <cite path="|10.01|6">this subchapter</cite> must be brought within one (1) year of the final administrative decision issued under <cite path="|10.01.450|(c)">Section 10.01.450(c)</cite>, above. An appeal of an administrative decision under <cite path="|10.01.450">this section</cite> filed with the Court shall contain:</text>
           <para>
             <num>(1)</num>
             <text>The name and address of the Employee;</text>
@@ -1164,7 +1164,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>The section of <cite path="|6">Title 6</cite> that was allegedly violated;</text>
+            <text>The section of <cite path="|10.01|6">this subchapter</cite> that was allegedly violated;</text>
           </para>
           <para>
             <num>(4)</num>
@@ -1177,14 +1177,14 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>If the Court makes a determination that the Employee has proven that the Employer has violated <cite path="|6">Title 6</cite> or failed to abide by an award granted to the Employee in the administrative process under subsection C., above, the Court may order one or more of the following remedies:</text>
+          <text>If the Court makes a determination that the Employee has proven that the Employer has violated <cite path="|10.01|6">this subchapter</cite> or failed to abide by an award granted to the Employee in the administrative process under subsection C., above, the Court may order one or more of the following remedies:</text>
           <para>
             <num>(1)</num>
-            <text>That the Employer must cease and desist from engaging in a violation of <cite path="|6">Title 6</cite>;</text>
+            <text>That the Employer must cease and desist from engaging in a violation of <cite path="|10.01|6">this subchapter</cite>;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|6">Title 6</cite>;</text>
+            <text>A directive to the Employer to cease and desist from engaging in a violation of <cite path="|10.01|6">this subchapter</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -1192,12 +1192,12 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>Any other relief that is deemed reasonably necessary to remedy a violation of <cite path="|6">Title 6</cite>, including employment, reinstatement, or promotion.</text>
+            <text>Any other relief that is deemed reasonably necessary to remedy a violation of <cite path="|10.01|6">this subchapter</cite>, including employment, reinstatement, or promotion.</text>
           </para>
         </para>
         <para>
           <num>(g)</num>
-          <text>An Employee who claims that that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="attachments|law|X|6|6.12|6.12.2" doc="Kiowa Tribe Res. No. KL-CY-2023-008">subsection 6.12.2</cite>, above, or for testifying in any proceeding under <cite path="|6">Title 6</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
+          <text>An Employee who claims that that an Employer has retaliated against the Employee for pursuing an administrative decision under <cite path="|10.01.450|(b)">Section 10.01.450(b)</cite>, above, or for testifying in any proceeding under <cite path="|10.01|6">this subchapter</cite> may bring a claim in Court and upon a finding that the Employee has proven such retaliation, the Court may award such legal and equitable remedies as the Court deems just.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -1209,11 +1209,11 @@
         <heading>Effective Date; Severability</heading>
         <para>
           <num>(a)</num>
-          <text>The provisions of <cite path="|6">Title 6</cite> shall take effect ninety (90) calendar days after adoption by the Legislature.</text>
+          <text>The provisions of <cite path="|10.01|6">this subchapter</cite> shall take effect ninety (90) calendar days after adoption by the Legislature.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>If any provision of <cite path="|6">Title 6</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions of the Chapter shall remain unaffected.</text>
+          <text>If any provision of <cite path="|10.01|6">this subchapter</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions of the Chapter shall remain unaffected.</text>
         </para>
         <annotations>
           <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
@@ -1223,7 +1223,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>7</num>
+      <num path-omit="true">7</num>
       <heading>General Provisions</heading>
       <annotation app="2023-03-15" doc="Kiowa Tribe Res. No. KL-CY-2023-008" eff="2023-03-15" path="attachments|law|X" type="History"/>
       <section>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-007" codify:doc="Kiowa Code of Law">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-007" codify:doc="Kiowa Model Rules of Judicial Conduct">
   <num>KL-CY-2017-007</num>
   <heading>Model Rules of Judicial Conduct</heading>
   <meta>
@@ -31,7 +31,7 @@
   </recitals>
   <procedural-data>
     <text>
-      <b>CERTIFICATION</b>
+      <b>C E R T I F I C A T I O N</b>
     </text>
     <text>The foregoing Resolution No. KL-CY-2017-007 was duly voted upon at a duly called Session III of the Legislature of the Kiowa Tribe held this 8th day of July 2017, the following Resolution and Law were adopted, with a vote of (5) in favor, and (0) opposed, (0) abstaining, and (0) absent, pursuant to the authority vested in the Kiowa Tribe Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>
@@ -214,7 +214,7 @@
       </table>
     </text>
     <text>
-      <b>CERTIFICATION</b>
+      <b>C E R T I F I C A T I O N</b>
     </text>
     <text>The foregoing <strong>Resolution No. KL-CY-2017-007</strong> was duly voted upon at a duly called Session III of the Legislature of the Kiowa Tribe held this <strong>8</strong><sup><strong>th</strong></sup> day of <strong>July 2017</strong>, the following Resolution and Law were adopted, with a vote of <strong>(5)</strong> in favor, and <strong>(0)</strong> opposed, <strong>(0)</strong> abstaining, and <strong>(0)</strong> absent, pursuant to the authority vested in the Kiowa Tribe Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
     <text>
@@ -225,19 +225,12 @@
     </text>
   </procedural-data>
   <attachment id="law-judicial-conduct">
-    <codified:at path="5.04"/>
-    <text class="center">
-      <strong>ABA MODEL CODE OF</strong>
-    </text>
-    <text class="center">
-      <strong>JUDICIAL CONDUCT</strong>
-    </text>
+    <heading>ABA MODEL CODE OF JUDICIAL CONDUCT</heading>
     <text class="center">
       <strong>FEBRUARY 2007</strong>
     </text>
-    <container name="preamble" codify:tag="section">
-      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|preamble"/>
-      <num codify:value="5.04.010"/>
+    <container name="PREAMBLE">
+      <codify:insert/>
       <heading>PREAMBLE</heading>
       <para>
         <num>(1)</num>
@@ -252,9 +245,8 @@
         <text>The Model Code of Judicial Conduct establishes standards for the ethical conduct of judges and judicial candidates. It is not intended as an exhaustive guide for the conduct of judges and judicial candidates, who are governed in their judicial and personal conduct by general ethical standards as well as by the Code. The Code is intended, however, to provide guidance and assist judges in maintaining the highest standards of judicial and personal conduct, and to provide a basis for regulating their conduct through disciplinary agencies.</text>
       </para>
     </container>
-    <container name="scope" codify:tag="section">
-      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|scope"/>
-      <num codify:value="5.04.020"/>
+    <container name="SCOPE">
+      <codify:insert/>
       <heading>SCOPE</heading>
       <para>
         <num>(1)</num>
@@ -285,9 +277,8 @@
         <text>The Code is not designed or intended as a basis for civil or criminal liability. Neither is it intended to be the basis for litigants to seek collateral remedies against each other or to obtain tactical advantages in proceedings before a court.</text>
       </para>
     </container>
-    <container name="terminology" codify:tag="section">
-      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|terminology"/>
-      <num codify:value="5.04.030"/>
+    <container name="TERMINOLOGY">
+      <codify:insert/>
       <heading>TERMINOLOGY</heading>
       <text>
         <strong>The first time any term listed below is used in a Rule in its defined sense, it is followed by an asterisk (*).</strong>
@@ -334,14 +325,13 @@
       <text><strong>"Public election"</strong> includes primary and general elections, partisan elections, nonpartisan elections, and retention elections. See Rules 4.2 and 4.4.</text>
       <text><strong>"Third degree of relationship"</strong> includes the following persons: great-grandparent, grandparent, parent, uncle, aunt, brother, sister, child, grandchild, great-grandchild, nephew, and niece. See Rule 2.11.</text>
     </container>
-    <container name="application" codify:tag="section">
-      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|application"/>
-      <num codify:value="5.04.040"/>
+    <container name="APPLICATION">
+      <codify:insert/>
       <heading>APPLICATION</heading>
       <text>The Application section establishes when the various Rules apply to a judge or judicial candidate.</text>
-      <container codify:tag="para">
+      <container>
         <num>I.</num>
-        <text>APPLICABILITY OF THIS CODE</text>
+        <heading>APPLICABILITY OF THIS CODE</heading>
         <para>
           <num>(A)</num>
           <text>The provisions of the Code apply to all full-time judges. Parts II through V of this section identify those provisions that apply to four distinct categories of part-time judges. The four categories of judicial service in other than a full-time capacity are necessarily defined in general terms because of the widely varying forms of judicial service. Canon 4 applies to judicial candidates.</text>
@@ -368,7 +358,7 @@
       </container>
       <container>
         <num>II.</num>
-        <text>RETIRED JUDGE SUBJECT TO RECALL</text>
+        <heading>RETIRED JUDGE SUBJECT TO RECALL</heading>
         <text>
           <strong>A retired judge subject to recall for service, who by law is not permitted to practice law, is not required to comply:</strong>
         </text>
@@ -390,7 +380,7 @@
       </container>
       <container>
         <num>III.</num>
-        <text>CONTINUING PART-TIME JUDGE</text>
+        <heading>CONTINUING PART-TIME JUDGE</heading>
         <text>
           <strong>A judge who serves repeatedly on a part-time basis by election or under a continuing appointment, including a retired judge subject to recall who is permitted to practice law ("continuing part-time judge"),</strong>
         </text>
@@ -420,7 +410,7 @@
       </container>
       <container>
         <num>IV.</num>
-        <text>PERIODIC PART-TIME JUDGE</text>
+        <heading>PERIODIC PART-TIME JUDGE</heading>
         <text>
           <strong>A periodic part-time judge who serves or expects to serve repeatedly on a part-time basis, but under a separate appointment for each limited period of service or for each matter,</strong>
         </text>
@@ -443,7 +433,7 @@
       </container>
       <container>
         <num>V.</num>
-        <text>PRO TEMPORE PART-TIME JUDGE</text>
+        <heading>PRO TEMPORE PART-TIME JUDGE</heading>
         <text>
           <strong>A pro tempore part-time judge who serves or expects to serve once or only sporadically on a part-time basis under a separate appointment for each period of service or for each case heard is not required to comply:</strong>
         </text>
@@ -458,7 +448,7 @@
       </container>
       <container>
         <num>VI.</num>
-        <text>TIME FOR COMPLIANCE</text>
+        <heading>TIME FOR COMPLIANCE</heading>
         <text>
           <strong>A person to whom this Code becomes applicable shall comply immediately with its provisions, except that those judges to whom Rules 3.8 (Appointments to Fiduciary Positions) and 3.11 (Financial, Business, or Remunerative Activities) apply shall comply with those Rules as soon as reasonably possible, but in no event later than one year after the Code becomes applicable to the judge.</strong>
         </text>
@@ -472,6 +462,7 @@
       </container>
     </container>
     <container>
+      <codify:insert/>
       <prefix>CANON</prefix>
       <num>1</num>
       <text>
@@ -480,11 +471,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>1.1</num>
-        <heading>
-          <strong>
-            <em>Compliance with the Law</em>
-          </strong>
-        </heading>
+        <heading>Compliance with the Law</heading>
         <text>
           <strong>A judge shall comply with the law,* including the Code of Judicial Conduct.</strong>
         </text>
@@ -492,11 +479,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>1.2</num>
-        <heading>
-          <strong>
-            <em>Promoting Confidence in the Judiciary</em>
-          </strong>
-        </heading>
+        <heading>Promoting Confidence in the Judiciary</heading>
         <text>
           <strong>A judge shall act at all times in a manner that promotes public confidence in the independence,* integrity,* and impartiality* of the judiciary, and shall avoid impropriety and the appearance of impropriety.</strong>
         </text>
@@ -531,11 +514,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>1.3</num>
-        <heading>
-          <strong>
-            <em>Avoiding Abuse of the Prestige of Judicial Office</em>
-          </strong>
-        </heading>
+        <heading>Avoiding Abuse of the Prestige of Judicial Office</heading>
         <text>
           <strong>A judge shall not abuse the prestige of judicial office to advance the personal or economic interests* of the judge or others, or allow others to do so.</strong>
         </text>
@@ -561,6 +540,7 @@
       </container>
     </container>
     <container>
+      <codify:insert/>
       <prefix>CANON</prefix>
       <num>2</num>
       <text>
@@ -569,11 +549,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.1</num>
-        <heading>
-          <strong>
-            <em>Giving Precedence to the Duties of Judicial Office</em>
-          </strong>
-        </heading>
+        <heading>Giving Precedence to the Duties of Judicial Office</heading>
         <text>
           <strong>The duties of judicial office, as prescribed by law,* shall take precedence over all of a judge's personal and extrajudicial activities.</strong>
         </text>
@@ -592,11 +568,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.2</num>
-        <heading>
-          <strong>
-            <em>Impartiality and Fairness</em>
-          </strong>
-        </heading>
+        <heading>Impartiality and Fairness</heading>
         <text>
           <strong>A judge shall uphold and apply the law,* and shall perform all duties of judicial office fairly and impartially.*</strong>
         </text>
@@ -623,11 +595,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.3</num>
-        <heading>
-          <strong>
-            <em>Bias, Prejudice, and Harassment</em>
-          </strong>
-        </heading>
+        <heading>Bias, Prejudice, and Harassment</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall perform the duties of judicial office, including administrative duties, without bias or prejudice.</text>
@@ -667,11 +635,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.4</num>
-        <heading>
-          <strong>
-            <em>External Influences on Judicial Conduct</em>
-          </strong>
-        </heading>
+        <heading>External Influences on Judicial Conduct</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall not be swayed by public clamor or fear of criticism.</text>
@@ -695,11 +659,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.5</num>
-        <heading>
-          <strong>
-            <em>Competence, Diligence, and Cooperation</em>
-          </strong>
-        </heading>
+        <heading>Competence, Diligence, and Cooperation</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall perform judicial and administrative duties, competently and diligently.</text>
@@ -731,11 +691,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.6</num>
-        <heading>
-          <strong>
-            <em>Ensuring the Right to Be Heard</em>
-          </strong>
-        </heading>
+        <heading>Ensuring the Right to Be Heard</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall accord to every person who has a legal interest in a proceeding, or that person's lawyer, the right to be heard according to law.*</text>
@@ -763,11 +719,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.7</num>
-        <heading>
-          <strong>
-            <em>Responsibility to Decide</em>
-          </strong>
-        </heading>
+        <heading>Responsibility to Decide</heading>
         <text>
           <strong>A judge shall hear and decide matters assigned to the judge, except when disqualification is required by Rule 2.11 or other law.*</strong>
         </text>
@@ -782,11 +734,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.8</num>
-        <heading>
-          <strong>
-            <em>Decorum, Demeanor, and Communication with Jurors</em>
-          </strong>
-        </heading>
+        <heading>Decorum, Demeanor, and Communication with Jurors</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall require order and decorum in proceedings before the court.</text>
@@ -818,11 +766,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.9</num>
-        <heading>
-          <strong>
-            <em>Ex Parte Communications</em>
-          </strong>
-        </heading>
+        <heading>Ex Parte Communications</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall not initiate, permit, or consider ex parte communications, or consider other communications made to the judge outside the presence of the parties or their lawyers, concerning a pending* or impending matter,* except as follows:</text>
@@ -902,11 +846,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.10</num>
-        <heading>
-          <strong>
-            <em>Judicial Statements on Pending and Impending Cases</em>
-          </strong>
-        </heading>
+        <heading>Judicial Statements on Pending and Impending Cases</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall not make any public statement that might reasonably be expected to affect the outcome or impair the fairness of a matter pending* or impending in any court, or make any nonpublic statement that might substantially interfere with a fair trial or hearing.</text>
@@ -946,11 +886,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.11</num>
-        <heading>
-          <strong>
-            <em>Disqualification</em>
-          </strong>
-        </heading>
+        <heading>Disqualification</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall disqualify himself or herself in any proceeding in which the judge's impartiality* might reasonably be questioned, including but not limited to the following circumstances:</text>
@@ -1066,11 +1002,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.12</num>
-        <heading>
-          <strong>
-            <em>Supervisory Duties</em>
-          </strong>
-        </heading>
+        <heading>Supervisory Duties</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall require court staff, court officials, and others subject to the judge's direction and control to act in a manner consistent with the judge's obligations under this Code.</text>
@@ -1094,11 +1026,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.13</num>
-        <heading>
-          <strong>
-            <em>Administrative Appointments</em>
-          </strong>
-        </heading>
+        <heading>Administrative Appointments</heading>
         <para>
           <num>(A)</num>
           <text>In making administrative appointments, a judge:</text>
@@ -1150,11 +1078,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.14</num>
-        <heading>
-          <strong>
-            <em>Disability and Impairment</em>
-          </strong>
-        </heading>
+        <heading>Disability and Impairment</heading>
         <text>
           <strong>A judge having a reasonable belief that the performance of a lawyer or another judge is impaired by drugs or alcohol, or by a mental, emotional, or physical condition, shall take appropriate action, which may include a confidential referral to a lawyer or judicial assistance program.</strong>
         </text>
@@ -1173,11 +1097,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.15</num>
-        <heading>
-          <strong>
-            <em>Responding to Judicial and Lawyer Misconduct</em>
-          </strong>
-        </heading>
+        <heading>Responding to Judicial and Lawyer Misconduct</heading>
         <para>
           <num>(A)</num>
           <text>A judge having knowledge that another judge has committed a violation of this Code that raises a substantial question regarding the judge's honesty, trustworthiness, or fitness as a judge in other respects shall inform the appropriate authority.*</text>
@@ -1209,11 +1129,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>2.16</num>
-        <heading>
-          <strong>
-            <em>Cooperation with Disciplinary Authorities</em>
-          </strong>
-        </heading>
+        <heading>Cooperation with Disciplinary Authorities</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall cooperate and be candid and honest with judicial and lawyer disciplinary agencies.</text>
@@ -1232,6 +1148,7 @@
       </container>
     </container>
     <container>
+      <codify:insert/>
       <prefix>CANON</prefix>
       <num>3</num>
       <text>
@@ -1240,11 +1157,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.1</num>
-        <heading>
-          <strong>
-            <em>Extrajudicial Activities in General</em>
-          </strong>
-        </heading>
+        <heading>Extrajudicial Activities in General</heading>
         <text>
           <strong>A judge may engage in extrajudicial activities, except as prohibited by law or this Code. However, when engaging in extrajudicial activities, a judge shall not:</strong>
         </text>
@@ -1291,11 +1204,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.2</num>
-        <heading>
-          <strong>
-            <em>Appearances before Governmental Bodies and Consultation with Government Officials</em>
-          </strong>
-        </heading>
+        <heading>Appearances before Governmental Bodies and Consultation with Government Officials</heading>
         <text>
           <strong>A judge shall not appear voluntarily at a public hearing before, or otherwise consult with, an executive or a legislative body or official, except:</strong>
         </text>
@@ -1330,11 +1239,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.3</num>
-        <heading>
-          <strong>
-            <em>Testifying as a Character Witness</em>
-          </strong>
-        </heading>
+        <heading>Testifying as a Character Witness</heading>
         <text>
           <strong>A judge shall not testify as a character witness in a judicial, administrative, or other adjudicatory proceeding or otherwise vouch for the character of a person in a legal proceeding, except when duly summoned.</strong>
         </text>
@@ -1349,11 +1254,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.4</num>
-        <heading>
-          <strong>
-            <em>Appointments to Governmental Positions</em>
-          </strong>
-        </heading>
+        <heading>Appointments to Governmental Positions</heading>
         <text>
           <strong>A judge shall not accept appointment to a governmental committee, board, commission, or other governmental position, unless it is one that concerns the law, the legal system, or the administration of justice.</strong>
         </text>
@@ -1372,11 +1273,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.5</num>
-        <heading>
-          <strong>
-            <em>Use of Nonpublic Information</em>
-          </strong>
-        </heading>
+        <heading>Use of Nonpublic Information</heading>
         <text>
           <strong>A judge shall not intentionally disclose or use nonpublic information* acquired in a judicial capacity for any purpose unrelated to the judge's judicial duties.</strong>
         </text>
@@ -1395,11 +1292,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.6</num>
-        <heading>
-          <strong>
-            <em>Affiliation with Discriminatory Organizations</em>
-          </strong>
-        </heading>
+        <heading>Affiliation with Discriminatory Organizations</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall not hold membership in any organization that practices invidious discrimination on the basis of race, sex, gender, religion, national origin, ethnicity, or sexual orientation.</text>
@@ -1435,11 +1328,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.7</num>
-        <heading>
-          <strong>
-            <em>Participation in Educational, Religious, Charitable, Fraternal, or Civic Organizations and Activities</em>
-          </strong>
-        </heading>
+        <heading>Participation in Educational, Religious, Charitable, Fraternal, or Civic Organizations and Activities</heading>
         <para>
           <num>(A)</num>
           <text>Subject to the requirements of Rule 3.1, a judge may participate in activities sponsored by organizations or governmental entities concerned with the law, the legal system, or the administration of justice, and those sponsored by or on behalf of educational, religious, charitable, fraternal, or civic organizations not conducted for profit, including but not limited to the following activities:</text>
@@ -1507,11 +1396,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.8</num>
-        <heading>
-          <strong>
-            <em>Appointments to Fiduciary Positions</em>
-          </strong>
-        </heading>
+        <heading>Appointments to Fiduciary Positions</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall not accept appointment to serve in a fiduciary* position, such as executor, administrator, trustee, guardian, attorney in fact, or other personal representative, except for the estate, trust, or person of a member of the judge's family,* and then only if such service will not interfere with the proper performance of judicial duties.</text>
@@ -1539,11 +1424,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.9</num>
-        <heading>
-          <strong>
-            <em>Service as Arbitrator or Mediator</em>
-          </strong>
-        </heading>
+        <heading>Service as Arbitrator or Mediator</heading>
         <text>
           <strong>A judge shall not act as an arbitrator or a mediator or perform other judicial functions apart from the judge's official duties unless expressly authorized by law.*</strong>
         </text>
@@ -1558,11 +1439,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.10</num>
-        <heading>
-          <strong>
-            <em>Practice of Law</em>
-          </strong>
-        </heading>
+        <heading>Practice of Law</heading>
         <text>
           <strong>A judge shall not practice law. A judge may act pro se and may, without compensation, give legal advice to and draft or review documents for a member of the judge's family,* but is prohibited from serving as the family member's lawyer in any forum.</strong>
         </text>
@@ -1577,11 +1454,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.11</num>
-        <heading>
-          <strong>
-            <em>Financial, Business, or Remunerative Activities</em>
-          </strong>
-        </heading>
+        <heading>Financial, Business, or Remunerative Activities</heading>
         <para>
           <num>(A)</num>
           <text>A judge may hold and manage investments of the judge and members of the judge's family.*</text>
@@ -1633,11 +1506,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.12</num>
-        <heading>
-          <strong>
-            <em>Compensation for Extrajudicial Activities</em>
-          </strong>
-        </heading>
+        <heading>Compensation for Extrajudicial Activities</heading>
         <text>
           <strong>A judge may accept reasonable compensation for extrajudicial activities permitted by this Code or other law* unless such acceptance would appear to a reasonable person to undermine the judge's independence,* integrity,* or impartiality.*</strong>
         </text>
@@ -1656,11 +1525,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.13</num>
-        <heading>
-          <strong>
-            <em>Acceptance and Reporting of Gifts, Loans, Bequests, Benefits, or Other Things of Value</em>
-          </strong>
-        </heading>
+        <heading>Acceptance and Reporting of Gifts, Loans, Bequests, Benefits, or Other Things of Value</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall not accept any gifts, loans, bequests, benefits, or other things of value, if acceptance is prohibited by law or would appear to a reasonable person to undermine the judge's independence,* integrity,* or impartiality.*</text>
@@ -1752,11 +1617,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.14</num>
-        <heading>
-          <strong>
-            <em>Reimbursement of Expenses and Waivers of Fees or Charges</em>
-          </strong>
-        </heading>
+        <heading>Reimbursement of Expenses and Waivers of Fees or Charges</heading>
         <para>
           <num>(A)</num>
           <text>Unless otherwise prohibited by Rules 3.1 and 3.13(A) or other law,* a judge may accept reimbursement of necessary and reasonable expenses for travel, food, lodging, or other incidental expenses, or a waiver or partial waiver of fees or charges for registration, tuition, and similar items, from sources other than the judge's employing entity, if the expenses or charges are associated with the judge's participation in extrajudicial activities permitted by this Code.</text>
@@ -1820,11 +1681,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>3.15</num>
-        <heading>
-          <strong>
-            <em>Reporting Requirements</em>
-          </strong>
-        </heading>
+        <heading>Reporting Requirements</heading>
         <para>
           <num>(A)</num>
           <text>A judge shall publicly report the amount or value of:</text>
@@ -1856,6 +1713,7 @@
       </container>
     </container>
     <container>
+      <codify:insert/>
       <prefix>CANON</prefix>
       <num>4</num>
       <text>
@@ -1864,11 +1722,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>4.1</num>
-        <heading>
-          <strong>
-            <em>Political and Campaign Activities of Judges and Judicial Candidates in General</em>
-          </strong>
-        </heading>
+        <heading>Political and Campaign Activities of Judges and Judicial Candidates in General</heading>
         <para>
           <num>(A)</num>
           <text>Except as permitted by law,* or by Rules 4.2, 4.3, and 4.4, a judge or a judicial candidate* shall not:</text>
@@ -2000,11 +1854,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>4.2</num>
-        <heading>
-          <strong>
-            <em>Political and Campaign Activities of Judicial Candidates in Public Elections</em>
-          </strong>
-        </heading>
+        <heading>Political and Campaign Activities of Judicial Candidates in Public Elections</heading>
         <para>
           <num>(A)</num>
           <text>A judicial candidate* in a partisan, nonpartisan, or retention public election* shall:</text>
@@ -2100,11 +1950,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>4.3</num>
-        <heading>
-          <strong>
-            <em>Activities of Candidates for Appointive Judicial Office</em>
-          </strong>
-        </heading>
+        <heading>Activities of Candidates for Appointive Judicial Office</heading>
         <text>
           <strong>A candidate for appointment to judicial office may:</strong>
         </text>
@@ -2127,11 +1973,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>4.4</num>
-        <heading>
-          <strong>
-            <em>Campaign Committees</em>
-          </strong>
-        </heading>
+        <heading>Campaign Committees</heading>
         <para>
           <num>(A)</num>
           <text>A judicial candidate* subject to public election* may establish a campaign committee to manage and conduct a campaign for the candidate, subject to the provisions of this Code. The candidate is responsible for ensuring that his or her campaign committee complies with applicable provisions of this Code and other applicable law.*</text>
@@ -2171,11 +2013,7 @@
       <container>
         <prefix>RULE</prefix>
         <num>4.5</num>
-        <heading>
-          <strong>
-            <em>Activities of Judges Who Become Candidates for Nonjudicial Office</em>
-          </strong>
-        </heading>
+        <heading>Activities of Judges Who Become Candidates for Nonjudicial Office</heading>
         <para>
           <num>(A)</num>
           <text>Upon becoming a candidate for a nonjudicial elective office, a judge shall resign from judicial office, unless permitted by law* to continue to hold judicial office.</text>
@@ -2197,9 +2035,11 @@
         </para>
       </container>
     </container>
-    <footnote>
-      <num>1</num>
-      <text>Each jurisdiction should consider the characteristics of particular positions within the administrative law judiciary in adopting, adapting, applying, and enforcing the Code for the administrative law judiciary. See, e.g., Model Code of Judicial Conduct for Federal Administrative Law Judges (1989) and Model Code of Judicial Conduct for State Administrative Law Judges (1995). Both Model Codes are endorsed by the ABA National Conference of the Administrative Law Judiciary.</text>
-    </footnote>
+    <footnotes>
+      <footnote>
+        <num>1</num>
+        <text>Each jurisdiction should consider the characteristics of particular positions within the administrative law judiciary in adopting, adapting, applying, and enforcing the Code for the administrative law judiciary. See, e.g., Model Code of Judicial Conduct for Federal Administrative Law Judges (1989) and Model Code of Judicial Conduct for State Administrative Law Judges (1995). Both Model Codes are endorsed by the ABA National Conference of the Administrative Law Judiciary.</text>
+      </footnote>
+    </footnotes>
   </attachment>
 </document>

@@ -14,7 +14,7 @@
     <heading>Housing Authority</heading>
     <container>
       <prefix>Subchapter</prefix>
-      <num>1</num>
+      <num path-omit="true">1</num>
       <heading>GENERAL PROVISIONS</heading>
       <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
@@ -123,7 +123,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>2</num>
+      <num path-omit="true">2</num>
       <heading>BOARD OF COMMISSIONERS</heading>
       <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
@@ -253,7 +253,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>3</num>
+      <num path-omit="true">3</num>
       <heading>POWERS OF THE AUTHORITY</heading>
       <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
@@ -441,7 +441,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>4</num>
+      <num path-omit="true">4</num>
       <heading>OBLIGATIONS</heading>
       <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
@@ -623,7 +623,7 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>5</num>
+      <num path-omit="true">5</num>
       <heading>MISCELLANEOUS PROVISIONS</heading>
       <annotation app="2023-01-19" doc="Kiowa Tribe Res. No. KL-CY-2023-001" eff="2023-01-19" path="attachments|law" type="History"/>
       <section>
