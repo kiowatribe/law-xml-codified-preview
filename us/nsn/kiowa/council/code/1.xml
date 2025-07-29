@@ -6,7 +6,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1.01</num>
-    <heading>Public Information and Legislative Publishing Act of 2017</heading>
+    <heading>Public Information and Legislative Publishing Act</heading>
     <section>
       <num>1.01.010</num>
       <heading>Short Title</heading>
@@ -472,15 +472,15 @@
       <num>1.02.120</num>
       <heading>ADOPTION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT OF 1996.</heading>
       <para>
-        <num>a.</num>
+        <num>(a)</num>
         <text>The Tribe specifically Adopts the Health and Insurance Portability and Accountability Act of 1996, hereinafter "HIPAA," and the supporting regulations and hereby incorporates the relevant provisions into <cite path="|1.02">this chapter</cite>. Any revisions to HIPAA and/or its regulations are hereby automatically incorporated into <cite path="|1.02">this chapter</cite>.</text>
       </para>
       <para>
-        <num>b.</num>
+        <num>(b)</num>
         <text>The Tribe shall enforce HIPAA as enumerated in <cite path="|1.02">this chapter</cite>. Any individual found to have violated the provisions of HIPAA shall be subject to the Penalties enumerated within <cite path="|1.02">this chapter</cite>.</text>
       </para>
       <para>
-        <num>c.</num>
+        <num>(c)</num>
         <text>A custodian of any health records shall apply the rules within HIPAA to all its transactions and dealing with insurers, individuals, and agencies, and shall not be required to submit a record to the Office if such record is covered by HIPAA.</text>
       </para>
       <annotations>
@@ -923,42 +923,42 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1.03</num>
-    <heading>Kiowa Tribe Election Law of 2022</heading>
+    <heading>Kiowa Tribe Election Law</heading>
     <section>
       <num>1.03.010</num>
       <heading>Authority</heading>
-      <text>This election ordinance is established by the Election Commission of the Kiowa Tribe under authority delegated to it by Article IX, Sec 3. (a) of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+      <text>This election ordinance is established by the Election Commission of the Kiowa Tribe under authority delegated to it by <cite doc="Constitution of the Kiowa Tribe">Article IX, Sec 3. (a) of the Constitution of the Kiowa Tribe</cite>.</text>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|1." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|1" type="History"/>
       </annotations>
     </section>
     <section>
       <num>1.03.020</num>
       <heading>Purpose</heading>
-      <text>The intent and purpose of this ordinance is to establish procedures for free and fair elections and to ensure the secrecy of the ballot and privacy of the voter in casting their ballot. The regulations and procedures contained in this ordinance shall be administered in such a way as to accomplish this purpose and intent. No mere informality in the manner of carrying out or executing the provisions of this ordinance shall invalidate this Ordinance or any election held under it. Substantial compliance shall be recognized as adequate.</text>
+      <text>The intent and purpose of this Chapter is to establish procedures for free and fair elections and to ensure the secrecy of the ballot and privacy of the voter in casting their ballot. The regulations and procedures contained in this Chapter shall be administered in such a way as to accomplish this purpose and intent. No mere informality in the manner of carrying out or executing the provisions of this Chapter shall invalidate this Chapter or any election held under it. Substantial compliance shall be recognized as adequate.</text>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|2." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|2" type="History"/>
       </annotations>
     </section>
     <section>
       <num>1.03.030</num>
       <heading>Definitions</heading>
-      <text>For the purposes of this Ordinance the following definitions shall be applied to the terms or words found within this Ordinance.</text>
-      <text><strong>Absentee Voter</strong> - An eligible voter who has requested an Absentee Ballot in accordance with the provisions of this Ordinance in an election where Absentee balloting is provided.</text>
+      <text>For the purposes of this Chapter the following definitions shall be applied to the terms or words found within this Chapter.</text>
+      <text><strong>Absentee Voter</strong> - An eligible voter who has requested an Absentee Ballot in accordance with the provisions of this Chapter in an election where Absentee balloting is provided.</text>
       <text><strong>Conflict of Interest</strong> - When a member of the Commission or a Poll Official has a legal or familial relationship to a candidate for office. Such relationships are defined as Mother, Grandmother, Father, Grandfather, Sister, Brother, Wife, Husband, and those sharing a domicile or residence including those related by civil union or common law marriage. A conflict of interest shall also exist if a Commissioner or Poll Official is in the employ of a candidate or of a business entity that would be affected by the passage or defeat of any referendum question placed on a ballot.</text>
-      <text><strong>Election Commission</strong> - The Election Commission of the Kiowa Tribe as established by <cite doc="Constitution of the Kiowa Tribe">Article IX Section 3</cite>. (a)(b) of the Kiowa Constitution.</text>
+      <text><strong>Election Commission</strong> - The Election Commission of the Kiowa Tribe as established by <cite doc="Constitution of the Kiowa Tribe">Article IX Section 3. (a)(b) of the Kiowa Constitution</cite>.</text>
       <text><strong>Election Notice</strong> - The official notice posted, published or otherwise disseminated by the Election Commission notifying voters that an election will be held and including the dates and rules of that election.</text>
-      <text><strong>Eligible Voter</strong> - A currently enrolled member of the Kiowa Tribe who is or will be eighteen years of age or older as of the date of any election conducted under the provisions of this Ordinance.</text>
+      <text><strong>Eligible Voter</strong> - A currently enrolled member of the Kiowa Tribe who is or will be eighteen years of age or older as of the date of any election conducted under the provisions of this Chapter.</text>
       <text><strong>Inactive Voter</strong> - An eligible tribal member who has had election correspondence returned to the election office for an invalid address. These voters shall not be issued a mail in ballot until an address update is received in the Kiowa Election Commission office.</text>
-      <text><strong>Polling Sites</strong> - Locations designated by the Election Commission for the casting of ballots in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 6 </cite>of the Kiowa Constitution.</text>
+      <text><strong>Polling Sites</strong> - Locations designated by the Election Commission for the casting of ballots in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 6 of the Kiowa Constitution</cite>.</text>
       <text><strong>Poll Official</strong> - An official appointed or hired by the Election Commission to oversee Polling Site operations.</text>
-      <text><strong>Registered Voter</strong> - An eligible tribal member age 18 or over at the time of the election who has registered or voted within the district they reside, in accordance <cite doc="Constitution of the Kiowa Tribe">Article IX Section 2 </cite>of the Kiowa Constitution.</text>
+      <text><strong>Registered Voter</strong> - An eligible tribal member age 18 or over at the time of the election who has registered or voted within the district they reside, in accordance <cite doc="Constitution of the Kiowa Tribe">Article IX Section 2 of the Kiowa Constitution</cite>.</text>
       <text><strong>Rejected Ballot</strong> - A ballot that has been improperly marked in such a way that the intentions of the voter cannot be determined. A Rejected Ballot is not tabulated or included in the results of the election.</text>
       <text><strong>Spoiled Ballot</strong> - A ballot that has been marked in error by a voter and that has been returned to the poll officials by the voter and replaced with a new ballot.</text>
       <text><strong>Tribe</strong> - The Kiowa Tribe.</text>
-      <text><strong>Vote by Mail Ballot</strong> - A ballot that has been issued by mail to an Eligible voter under the provisions of this Ordinance and the Right of Kiowa Voters to Vote by Mail Act.</text>
+      <text><strong>Vote by Mail Ballot</strong> - A ballot that has been issued by mail to an Eligible voter under the provisions of this Chapter and the Right of Kiowa Voters to Vote by Mail Act.</text>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|3." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -967,7 +967,7 @@
       <para>
         <num>(a)</num>
         <heading>Membership</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX, Section 3(a)</cite> of Constitution of the Kiowa Tribe, there shall be an Election Commission which shall have responsibility for the conduct of all elections, and the Legislature shall not have executive or administrative authority over the Commission.</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX, Section 3(a) of Constitution of the Kiowa Tribe</cite>, there shall be an Election Commission which shall have responsibility for the conduct of all elections, and the Legislature shall not have executive or administrative authority over the Commission.</text>
         <text>The members of the Commission shall consist of one member from each District with a Chairperson elected annually from its membership. Prospective members of the Commission must be eligible voters of the Kiowa Tribe and must be nominated by the Kiowa Tribal Chairman. They must further be confirmed in a formal meeting of the Kiowa Business Committee at which a quorum of the Legislature is in attendance. No elected official of the Tribe shall be eligible to serve on the Commission. Members of the Commission shall be compensated for their duties.</text>
         <text>Commission members must, at the time of their nomination;</text>
         <para>
@@ -994,9 +994,9 @@
       <para>
         <num>(c)</num>
         <heading>Internal Procedures of the Election Commission</heading>
-        <text>In its role in the conduct of elections and the processes contained within this document, the Commission and its members shall hold itself to standards contained within this Ordinance as well applicable standards contained within <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>. The Commission shall have authority to act regarding discipline up to and including removal of members for violation of Tribal law, provisions of this Ordinance or conduct deemed to be detrimental to the ability of the Commission to function as the fair and unbiased administrators of the elections of the Kiowa Tribe.</text>
-        <text>Members shall not have been convicted of a felony. Any potential member of the Commission that has been convicted of a felony shall not be eligible for nomination to the Commission. Any member of the Commission convicted of a felony or other crimes as described in <cite doc="Constitution of the Kiowa Tribe">Article X11, Section 1 </cite>of the Kiowa Constitution shall automatically have their seat declared vacant upon the date of their conviction. A replacement Commissioner shall be appointed in accordance with the process described in <cite path="|1.03.040|(a)">Section 1.03.040(a)</cite>of this Ordinance.</text>
-        <text>Members of the Commission shall not be related to any candidate competing for office. A Commissioner with a familial relationship as described in the Conflict of Interest portion of the Definition Section of this Ordinance to a person filing for office shall immediately disclose that relationship to the Commission and recuse themselves from further participation in that particular election until its conclusion or until the person to whom the Commissioner is related is no longer a candidate in the election. Recusal includes no participation in any processes or decisions of the Commission and no participation in votes taken by the Commission during the course of the recusal. Failure to disclose this type of conflict of interest shall be grounds for disciplinary action up to and including removal from the Commission.</text>
+        <text>In its role in the conduct of elections and the processes contained within this document, the Commission and its members shall hold itself to standards contained within this Chapter as well applicable standards contained within <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>. The Commission shall have authority to act regarding discipline up to and including removal of members for violation of Tribal law, provisions of this Chapter or conduct deemed to be detrimental to the ability of the Commission to function as the fair and unbiased administrators of the elections of the Kiowa Tribe.</text>
+        <text>Members shall not have been convicted of a felony. Any potential member of the Commission that has been convicted of a felony shall not be eligible for nomination to the Commission. Any member of the Commission convicted of a felony or other crimes as described in <cite doc="Constitution of the Kiowa Tribe">Article X11, Section 1 of the Kiowa Constitution</cite> shall automatically have their seat declared vacant upon the date of their conviction. A replacement Commissioner shall be appointed in accordance with the process described in <cite path="|1.03.040|(a)">Section 1.03.040(a)</cite>.</text>
+        <text>Members of the Commission shall not be related to any candidate competing for office. A Commissioner with a familial relationship as described in the Conflict of Interest portion of the Definition Section of this Chapter to a person filing for office shall immediately disclose that relationship to the Commission and recuse themselves from further participation in that particular election until its conclusion or until the person to whom the Commissioner is related is no longer a candidate in the election. Recusal includes no participation in any processes or decisions of the Commission and no participation in votes taken by the Commission during the course of the recusal. Failure to disclose this type of conflict of interest shall be grounds for disciplinary action up to and including removal from the Commission.</text>
         <text>Members of the Commission shall not endorse any candidate or question in any election. They shall not participate in any campaign activities or other forums or venues, including social media, that could be perceived as being in support of or against any candidate or question in an election. Commissioners failing to maintain impartiality in the conduct of their duties and the term of their office shall be subject to disciplinary action up to and including removal from the Commission.</text>
         <text>Members of the Commission must be capable of performing the necessary duties of the Commission to ensure that elections are conducted as required. The ability to participate in the meetings of the Commission and to execute its other responsibilities is critical to the election process. Any Commissioner unable to attend the meetings of the Commission or having more than three (3) unexcused absences from Commission meetings or other Election related functions as called by the Commission, shall be subject to disciplinary action up to and including removal from the Commission.</text>
         <text>The Commission collects and its members are privy to private and confidential information collected in the process of the execution of the Commission's duties. Such information is to be safeguarded at all times and the maintenance of the confidentiality of that information is the responsibility of the Commission. Disclosure of any confidential information by a Commissioner obtained during the course of their term shall make that Commissioner subject to disciplinary action up to and including removal from the Commission.</text>
@@ -1004,7 +1004,7 @@
       <para>
         <num>(d)</num>
         <heading>Disciplinary Procedures</heading>
-        <text>The ability of the Commission to function in its critical role and to maintain its impartiality in the conduct of its duties requires that it have the ability to take corrective action in the event that the actions of a Commissioner or Commissioners threatens to undermine the integrity of the Commission or the election process. Disciplinary action is not to be undertaken lightly and shall be conducted in accordance with the provisions of this Ordinance.</text>
+        <text>The ability of the Commission to function in its critical role and to maintain its impartiality in the conduct of its duties requires that it have the ability to take corrective action in the event that the actions of a Commissioner or Commissioners threatens to undermine the integrity of the Commission or the election process. Disciplinary action is not to be undertaken lightly and shall be conducted in accordance with the provisions of this Chapter.</text>
         <text>Any allegation of misconduct, lack of performance, or any violation of the Election Ordinance, Constitution or other laws of the Kiowa Tribe regarding the fitness of an Election Commissioner to perform their duties must be submitted in writing to the Election Commission Chairperson at a duly called Commission meeting.</text>
         <text>Tangible supporting evidence of the allegation must also be presented at the time of the submission. If the Commissioner(s) identified in the allegation is in attendance at the meeting, they shall be offered the opportunity to address the allegation(s), speak on their own behalf and ask for a period of time to gather and present evidence on their own behalf at a subsequent meeting scheduled by the Chairperson. If that Commissioner is not in attendance due to an excused absence, they shall be offered the opportunity to address the allegations at a subsequent meeting called for that purpose. If the Commissioner is not in attendance due to an unexcused absence, the Commission shall have the ability to render judgement in the presented matter immediately.</text>
         <text>Any disciplinary action must be voted on in a duly called meeting of the Commission in which a quorum of the members are present.</text>
@@ -1012,14 +1012,14 @@
         <text>All matters discussed regarding conduct, evidence and discipline shall be conducted in executive session during any Commission meeting.</text>
         <text>The Election Commission's options for discipline shall be;</text>
         <text><strong>Written Reprimand</strong>. Such reprimand shall be incorporated into the minutes of the Commission meeting at which such reprimand was issued but recorded simply as action taken in Executive Session. The Commission's decision regarding reprimand shall be final.</text>
-        <text><strong>Suspension</strong>. The Commission shall have the ability to issue a suspension to any member found to have violated the rules of this Ordinance or the laws of the Kiowa Tribe. The term of the suspension shall be at the discretion of the Commission but shall not exceed ninety (90) days unless that period should conclude during an election cycle, in which case such suspension shall conclude upon final certification of that election. The Commission seat affected by a suspension shall remain open until the conclusion of the suspension. The Commission's decision regarding suspension shall be final.</text>
-        <text><strong>Removal</strong>. The Commission shall have the ability to remove any member found to have violated the rules of this Ordinance or the laws of the Kiowa Tribe. Removal of a Commissioner shall result in that Commission seat being declared immediately vacant and the provisions for filling that vacancy shall commence. The Commission's decision regarding removal shall be final.</text>
+        <text><strong>Suspension</strong>. The Commission shall have the ability to issue a suspension to any member found to have violated the rules of this Chapter or the laws of the Kiowa Tribe. The term of the suspension shall be at the discretion of the Commission but shall not exceed ninety (90) days unless that period should conclude during an election cycle, in which case such suspension shall conclude upon final certification of that election. The Commission seat affected by a suspension shall remain open until the conclusion of the suspension. The Commission's decision regarding suspension shall be final.</text>
+        <text><strong>Removal</strong>. The Commission shall have the ability to remove any member found to have violated the rules of this Chapter or the laws of the Kiowa Tribe. Removal of a Commissioner shall result in that Commission seat being declared immediately vacant and the provisions for filling that vacancy shall commence. The Commission's decision regarding removal shall be final.</text>
       </para>
       <para>
         <num>(e)</num>
         <heading>Meetings</heading>
         <text>The Election Commission shall conduct its work in meetings scheduled for that purpose. The Commission shall make all reasonable efforts to conduct such meetings in an open manner and in substantial compliance with the provisions of Roberts Rules of Order with meetings requiring an Agenda and that minutes shall be recorded. At its discretion, the Election Commission may utilize remote meeting technologies to conduct meetings provided that meetings conducted remotely meet the requirements for attendance and quorum as if the meeting were conducted in person.</text>
-        <text>Meetings of the Election Commission may be called at any time by the Election Commission Chairperson or by request of a majority of the members of the Election Commission. In the event the Election Commission Chairperson should fail to call a meeting as requested by a majority of the other members of the Election Commission, the remaining members of the Election Commission may convene upon proper notification to the other members of the Election Commission and conduct business as required, provided that the attendees of such meeting must constitute and maintain a quorum as prescribed in this Ordinance.</text>
+        <text>Meetings of the Election Commission may be called at any time by the Election Commission Chairperson or by request of a majority of the members of the Election Commission. In the event the Election Commission Chairperson should fail to call a meeting as requested by a majority of the other members of the Election Commission, the remaining members of the Election Commission may convene upon proper notification to the other members of the Election Commission and conduct business as required, provided that the attendees of such meeting must constitute and maintain a quorum as prescribed in this Chapter.</text>
         <text>For a meeting of the Election Commission to occur, a quorum must be present. A quorum of the Election Commission shall consist of at least 3 Commission members.</text>
       </para>
       <para>
@@ -1060,7 +1060,7 @@
         <text>The Election Commission shall appoint or hire any necessary Poll Officials as may be required for an election. The Election Commission shall compensate Poll Officials appointed or hired to serve in this capacity.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|4." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1069,25 +1069,25 @@
       <para>
         <num>(a)</num>
         <heading>Primary Election</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. IX Sec. 10, which states "A Primary Election for the Chairman/ Vice-Chairman Team, and Legislators shall be held on the first Saturday in May in odd numbered years when such terms are set to expire. If three or more candidates for the Office of Chairman/ Vice Chairman, or a Legislator seat are vying for the same office, then the two candidates who receive the highest number of votes in the Primary Election shall proceed to the General Election. If a candidate for the Office of Chairman/Vice-Chairman, or a Legislator seat receives fifty-one percent or more of the votes cast in the Primary Election, then that person or Team shall be declared candidate(s)-elect, shall not be required to run-off in a General Election, and shall be seated at the expiration of the term of the incumbent(s).", the Election Commission shall conduct a Primary election 3 or more candidates file and qualify as candidates for any elective office.</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. IX Sec. 10</cite>, which states "A Primary Election for the Chairman/ Vice-Chairman Team, and Legislators shall be held on the first Saturday in May in odd numbered years when such terms are set to expire. If three or more candidates for the Office of Chairman/ Vice Chairman, or a Legislator seat are vying for the same office, then the two candidates who receive the highest number of votes in the Primary Election shall proceed to the General Election. If a candidate for the Office of Chairman/Vice-Chairman, or a Legislator seat receives fifty-one percent or more of the votes cast in the Primary Election, then that person or Team shall be declared candidate(s)-elect, shall not be required to run-off in a General Election, and shall be seated at the expiration of the term of the incumbent(s).", the Election Commission shall conduct a Primary election 3 or more candidates file and qualify as candidates for any elective office.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>General Election</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. IX Sec. 11, which states "A General Election for Chairman and Vice-Chairman, and Legislators shall be held on the first Saturday in June in odd numbered years when such terms are set to expire. The candidates receiving the highest number of votes in the General Election shall be seated. Any tie vote in a General Election shall be decided by lottery."</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. IX Sec. 11</cite>, which states "A General Election for Chairman and Vice-Chairman, and Legislators shall be held on the first Saturday in June in odd numbered years when such terms are set to expire. The candidates receiving the highest number of votes in the General Election shall be seated. Any tie vote in a General Election shall be decided by lottery."</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Special Election</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. IX Sec. 12, which states "A Special Election shall be held when called for by the Legislature by law or by this Constitution."</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. IX Sec. 12</cite>, which states "A Special Election shall be held when called for by the Legislature by law or by this Constitution."</text>
       </para>
       <para>
         <num>(d)</num>
         <heading>Referendum/Initiative Election</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. XI Sec. 4, which states; "(a) All petitions seeking a Referendum or Initiative vote on a law or budget as permitted by this Constitution shall be submitted to the Election Commission. Upon request, the Election Commission shall prepare and issue a petition form to a Petitioner along with the names and addresses of the eligible voters of the Tribe listed according to Districts including the minimum number of signatures required for a valid petition. The Election Commission shall provide a list of names and addresses within seven days of the request. (b) Any voter may submit a Referendum or Initiative petition to the Election Commission. The Election Commission shall have thirty calendar days to rule on the validity of the signatures on the petition, and if valid, the Election Commission shall submit the law or proposed law to a popular vote in a Special Election which shall be held within forty-five days. (c) The majority of votes cast by the voters in a Special Election shall determine the success or failure of the Referendum or Initiative, and if successful, the results shall be binding on the Tribe; provided, that six hundred or more voters participated in the election."</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. XI Sec. 4</cite>, which states; "(a) All petitions seeking a Referendum or Initiative vote on a law or budget as permitted by this Constitution shall be submitted to the Election Commission. Upon request, the Election Commission shall prepare and issue a petition form to a Petitioner along with the names and addresses of the eligible voters of the Tribe listed according to Districts including the minimum number of signatures required for a valid petition. The Election Commission shall provide a list of names and addresses within seven days of the request. (b) Any voter may submit a Referendum or Initiative petition to the Election Commission. The Election Commission shall have thirty calendar days to rule on the validity of the signatures on the petition, and if valid, the Election Commission shall submit the law or proposed law to a popular vote in a Special Election which shall be held within forty-five days. (c) The majority of votes cast by the voters in a Special Election shall determine the success or failure of the Referendum or Initiative, and if successful, the results shall be binding on the Tribe; provided, that six hundred or more voters participated in the election."</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|5." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1123,8 +1123,8 @@
       <para>
         <num>(c)</num>
         <heading>Absentee Voters</heading>
-        <text>Any Registered Voter may request an Absentee ballot if they expect to be away from the address at which they would normally receive their mail ballot and are unable to cast a ballot in person on Election Day. Such request must be submitted in writing to the Election Commission. Beginning not more than 45 (forty- five) days nor less than 3 (three) days prior to any election governed by this Ordinance, a Registered Voter may request an Absentee Ballot by submitting such request in writing utilizing the Voter Information/Registration Form provided by the Election Commission.</text>
-        <text>Any Eligible Voter may request an Absentee ballot if they expect to be unable to cast a ballot in person on Election Day. An Eligible Voter may obtain an Absentee Ballot by requesting one in writing from the Election Commission. Such request must be submitted in writing to the Election Commission. Beginning not more than 45 (forty-five) days nor less than 3 (three) days prior to any election governed by this Ordinance, an Eligible Voter may request an Absentee Ballot by submitting such request in writing utilizing the Voter Information/Registration Form provided by the Election Commission.</text>
+        <text>Any Registered Voter may request an Absentee ballot if they expect to be away from the address at which they would normally receive their mail ballot and are unable to cast a ballot in person on Election Day. Such request must be submitted in writing to the Election Commission. Beginning not more than 45 (forty- five) days nor less than 3 (three) days prior to any election governed by this Chapter, a Registered Voter may request an Absentee Ballot by submitting such request in writing utilizing the Voter Information/Registration Form provided by the Election Commission.</text>
+        <text>Any Eligible Voter may request an Absentee ballot if they expect to be unable to cast a ballot in person on Election Day. An Eligible Voter may obtain an Absentee Ballot by requesting one in writing from the Election Commission. Such request must be submitted in writing to the Election Commission. Beginning not more than 45 (forty-five) days nor less than 3 (three) days prior to any election governed by this Chapter, an Eligible Voter may request an Absentee Ballot by submitting such request in writing utilizing the Voter Information/Registration Form provided by the Election Commission.</text>
         <text>The Eligible Voter shall become a Registered Voter upon acceptance of Voter Information/Registration Form by the Election Commission.</text>
       </para>
       <para>
@@ -1138,7 +1138,7 @@
         <text>Voters will be removed from the voter registration list for the following reasons (1) death, (2) relinquishment of Kiowa Tribal membership status, or (3) disenrollment from the Kiowa Tribe.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|6." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1147,17 +1147,17 @@
       <para>
         <num>(a)</num>
         <heading>Eligibility Chairman/ Vice Chairman</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. VII Sec. 3, which states "(a) At the time of filing, each candidate for Chairman and Vice Chairman shall be an enrolled Member of the Tribe, shall have attained the age of least thirty-five (35) years of age or older, and shall each possess at least a Bachelor's degree from an accredited college or university as determined by law, or in absence of law regarding accreditation, then in accordance with regulations promulgated by the Election Commission. (b) No person convicted of a felony shall be eligible to be a candidate for Chairman or Vice Chairman or serve as a Chairman or Vice Chairman. Each candidate for Chairman or Vice Chairman shall be required to submit to a criminal background check conducted by the Election Commission. (c) At the time of filing a nomination petition, a candidate for Chairman or Vice Chairman shall physically reside in a voting District other than District 7. Verification of residence, such as a driver's license, a utility bill, or similar documents, shall be filed with the Election Commission at the time of nomination. The Chairman and Vice-Chairman shall be residents of a voting District, other than District 7, for the duration of their terms. (d) At the time of filing, each candidate for Chairman and Vice-Chairman shall submit copies of their Federal income tax returns for the previous five (5) years and provide a written list of all of their personal and real property in excess of ten thousand dollars to the Election Commission. (e) At the time of filing, candidates for Chairman or Vice-Chairman cannot owe any monetary debts to the Tribe if such debts are in arrears or in default.</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. VII Sec. 3</cite>, which states "(a) At the time of filing, each candidate for Chairman and Vice Chairman shall be an enrolled Member of the Tribe, shall have attained the age of least thirty-five (35) years of age or older, and shall each possess at least a Bachelor's degree from an accredited college or university as determined by law, or in absence of law regarding accreditation, then in accordance with regulations promulgated by the Election Commission. (b) No person convicted of a felony shall be eligible to be a candidate for Chairman or Vice Chairman or serve as a Chairman or Vice Chairman. Each candidate for Chairman or Vice Chairman shall be required to submit to a criminal background check conducted by the Election Commission. (c) At the time of filing a nomination petition, a candidate for Chairman or Vice Chairman shall physically reside in a voting District other than District 7. Verification of residence, such as a driver's license, a utility bill, or similar documents, shall be filed with the Election Commission at the time of nomination. The Chairman and Vice-Chairman shall be residents of a voting District, other than District 7, for the duration of their terms. (d) At the time of filing, each candidate for Chairman and Vice-Chairman shall submit copies of their Federal income tax returns for the previous five (5) years and provide a written list of all of their personal and real property in excess of ten thousand dollars to the Election Commission. (e) At the time of filing, candidates for Chairman or Vice-Chairman cannot owe any monetary debts to the Tribe if such debts are in arrears or in default.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Eligibility Legislators - Districts 1-6</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. V Sec. 4, which states "(a) At the time of filing, each candidate for District Legislator shall be an enrolled Member of the Tribe, shall have attained the age twenty-one (21) years or older, and shall possess a High School degree or its equivalent. (b) No person convicted of a felony shall be eligible to be a candidate for Legislator or serve as a Legislator. Each candidate for Legislator shall be required to submit to a criminal background check conducted by the Election Commission. (c) At the time of filing a nomination petition, a candidate for District Legislator shall physically reside in such District. Verification of residence, such as a driver's license, a utility bill, or similar documents, shall be filed with the Election Commission at the time of nomination. Each District Legislator shall reside in the District from which they are elected for the duration of the term. Each District Legislator shall be a registered voter in the District from which they are elected. (d) At time of filing, a candidate for District Legislator cannot owe any monetary debts to the Tribe if such debts are in arrears or in default. (e) No Legislator shall be otherwise employed in any governmental capacity. (f) Candidates who run for Districts 1-6 Legislator seats shall be prohibited from running as a candidate in District 7 at the same time."</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. V Sec. 4</cite>, which states "(a) At the time of filing, each candidate for District Legislator shall be an enrolled Member of the Tribe, shall have attained the age twenty-one (21) years or older, and shall possess a High School degree or its equivalent. (b) No person convicted of a felony shall be eligible to be a candidate for Legislator or serve as a Legislator. Each candidate for Legislator shall be required to submit to a criminal background check conducted by the Election Commission. (c) At the time of filing a nomination petition, a candidate for District Legislator shall physically reside in such District. Verification of residence, such as a driver's license, a utility bill, or similar documents, shall be filed with the Election Commission at the time of nomination. Each District Legislator shall reside in the District from which they are elected for the duration of the term. Each District Legislator shall be a registered voter in the District from which they are elected. (d) At time of filing, a candidate for District Legislator cannot owe any monetary debts to the Tribe if such debts are in arrears or in default. (e) No Legislator shall be otherwise employed in any governmental capacity. (f) Candidates who run for Districts 1-6 Legislator seats shall be prohibited from running as a candidate in District 7 at the same time."</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Eligibility Legislators - District 7</heading>
-        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. VI Sec. 5, which states "(a) At the time of filing for candidacy, each candidate for District 7 Legislator shall be an enrolled Member of the Tribe, shall have attained the age twenty-one (21) years or older, and shall possess a High School degree or its equivalent. (b) No person convicted of a felony shall be eligible to be a candidate for District 7 Legislator. Each candidate for Legislator shall be required to submit to a criminal background check conducted by the Election Commission. (c) The Legislator from District 7 shall reside outside of the six voting Districts. Only qualified Members who reside outside of the boundaries set for District 1 through 6 shall vote for the District 7 Legislator. Verification of residence, such as a driver's license, a utility bill, or similar documents, shall be filed with the Election Commission at the time of nomination. (d) At time of filing, a candidate for District 7 Legislator cannot owe any monetary debts to the Tribe if such debts are in arrears or in default. (e) No District 7 Legislator shall be otherwise employed in any governmental capacity."</text>
+        <text>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. VI Sec. 5</cite>, which states "(a) At the time of filing for candidacy, each candidate for District 7 Legislator shall be an enrolled Member of the Tribe, shall have attained the age twenty-one (21) years or older, and shall possess a High School degree or its equivalent. (b) No person convicted of a felony shall be eligible to be a candidate for District 7 Legislator. Each candidate for Legislator shall be required to submit to a criminal background check conducted by the Election Commission. (c) The Legislator from District 7 shall reside outside of the six voting Districts. Only qualified Members who reside outside of the boundaries set for District 1 through 6 shall vote for the District 7 Legislator. Verification of residence, such as a driver's license, a utility bill, or similar documents, shall be filed with the Election Commission at the time of nomination. (d) At time of filing, a candidate for District 7 Legislator cannot owe any monetary debts to the Tribe if such debts are in arrears or in default. (e) No District 7 Legislator shall be otherwise employed in any governmental capacity."</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1171,7 +1171,7 @@
         </text>
         <text>
           <ul proof="needed">
-            <li>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. IX Sec 4, which states "Each candidate for elective office shall file a nomination petition with the Election Commission. Each nomination petition shall contain at least fifty signatures of Members of the Tribe who are qualified to vote in the respective District."</li>
+            <li>In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. IX Sec 4</cite>, which states "Each candidate for elective office shall file a nomination petition with the Election Commission. Each nomination petition shall contain at least fifty signatures of Members of the Tribe who are qualified to vote in the respective District."</li>
           </ul>
         </text>
         <text>
@@ -1197,15 +1197,15 @@
       <para>
         <num>(e)</num>
         <heading>Verification of Eligibility</heading>
-        <text>The Election Commission shall meet to review all candidate filings at the close of the filing period to confirm the completeness of the filings. An Unofficial Candidate list will be posted the following business day. The Election Commission will verify financial statements, tribal enrollment, and background checks to confirm eligibility. An Official Candidates List reflecting all candidates determined by the Commission to be eligible to appear on the ballot shall be posted within 5 (five) days of the close of the candidate registration period. If the Election Commission determines that a person is not eligible to be a candidate, the Commission shall promptly notify such person that their candidacy has been denied, providing the reasons for the denial, and informing the person that unless satisfactory proof of eligibility is furnished within seventy-two (72) hours of notification, they shall be declared ineligible to be a candidate. The Election Commission shall make its final ruling within forty-eight (48) hours of receipt of such satisfactory proof. There shall be no refund of filing fees. In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>, Art. IX Sec 9 (a), which states, "...The Election Commission shall make all determinations regarding the eligibility of candidates." The decision of the Election Commission regarding eligibility shall be final.</text>
+        <text>The Election Commission shall meet to review all candidate filings at the close of the filing period to confirm the completeness of the filings. An Unofficial Candidate list will be posted the following business day. The Election Commission will verify financial statements, tribal enrollment, and background checks to confirm eligibility. An Official Candidates List reflecting all candidates determined by the Commission to be eligible to appear on the ballot shall be posted within 5 (five) days of the close of the candidate registration period. If the Election Commission determines that a person is not eligible to be a candidate, the Commission shall promptly notify such person that their candidacy has been denied, providing the reasons for the denial, and informing the person that unless satisfactory proof of eligibility is furnished within seventy-two (72) hours of notification, they shall be declared ineligible to be a candidate. The Election Commission shall make its final ruling within forty-eight (48) hours of receipt of such satisfactory proof. There shall be no refund of filing fees. In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe, Art. IX Sec 9 (a)</cite>, which states, "...The Election Commission shall make all determinations regarding the eligibility of candidates." The decision of the Election Commission regarding eligibility shall be final.</text>
       </para>
       <para>
         <num>(f)</num>
         <heading>Challenge of Candidates</heading>
-        <text>The candidate challenge period shall begin the day after the Official Candidate List has been posted. Any eligible voter may challenge the eligibility of a candidate by filing with the Election Commission, a written statement setting forth the grounds for the challenge. Such Challenge must be filed within seventy-two (72) hours of the posting of the Official Candidate List. Once a challenge is received, the Election Commission shall meet promptly after the challenge period has concluded to determine if any Challenges have been timely filed and to determine the validity of such challenges. If no challenges are filed, the Election Commission shall promptly post the Final Official Candidates List. If the Election Commission determines the challenge to be valid, the Commission shall notify the challenged candidate that his or her candidacy has been challenged and provide the reason(s) for the challenge. The candidate being challenged shall furnish satisfactory proof of eligibility to refute the challenge within seventy-two (72) hours of notification, or they shall be declared ineligible to be a candidate. The Election Commission shall make its final ruling within forty-eight (48) hours of receipt of any challenged candidates' response to a challenge. There shall be no refund of filing fees. In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite> Art. IX Sec 9 (a), which states, "...The Election Commission shall make all determinations regarding the eligibility of candidates.", the decision of the Election Commission regarding candidate eligibility shall be final.</text>
+        <text>The candidate challenge period shall begin the day after the Official Candidate List has been posted. Any eligible voter may challenge the eligibility of a candidate by filing with the Election Commission, a written statement setting forth the grounds for the challenge. Such Challenge must be filed within seventy-two (72) hours of the posting of the Official Candidate List. Once a challenge is received, the Election Commission shall meet promptly after the challenge period has concluded to determine if any Challenges have been timely filed and to determine the validity of such challenges. If no challenges are filed, the Election Commission shall promptly post the Final Official Candidates List. If the Election Commission determines the challenge to be valid, the Commission shall notify the challenged candidate that his or her candidacy has been challenged and provide the reason(s) for the challenge. The candidate being challenged shall furnish satisfactory proof of eligibility to refute the challenge within seventy-two (72) hours of notification, or they shall be declared ineligible to be a candidate. The Election Commission shall make its final ruling within forty-eight (48) hours of receipt of any challenged candidates' response to a challenge. There shall be no refund of filing fees. In accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe Art. IX Sec 9 (a)</cite>, which states, "...The Election Commission shall make all determinations regarding the eligibility of candidates.", the decision of the Election Commission regarding candidate eligibility shall be final.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|7." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1289,13 +1289,13 @@
         <text>Ballots shall be distributed to each polling site and the quantities of ballots at each site shall be confirmed and documented utilizing a Ballot Accounting Form provided for that purpose. The Ballot Accounting Form shall document the quantity of ballots provided to each polling site, the beginning and ending ballot stub numbers of the ballots provided and spaces to record the beginning and ending ballot stub numbers of ballots used at the polling site, the first and last ballot stub numbers of the ballots being returned to the Election Commission as well as a space to record the quantity of ballots that were spoiled at the polling site. The Ballot Accounting Form shall have spaces for signature of polling officials to acknowledge receipt of ballots from the Election Commission as well as spaces for signature of the Election Commission to acknowledge the return of the unused ballots.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|8." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|8" type="History"/>
       </annotations>
     </section>
     <section>
       <num>1.03.090</num>
       <heading>Manner of Requesting and Issuing Absentee Ballots</heading>
-      <text>Upon receipt of a valid Voter Information/ Registration Form, the Election Commission shall cause to be issued an Absentee Ballot Packet containing the materials prescribed in <cite path="|1.03.070|(a)">Section 1.03.070(a)</cite>below. The Election Commission shall cause to be maintained an Absentee Voter Register or its equivalent to document the mailing, return, and disposition of each Absentee Ballot. This Absentee Voter Register or equivalent system shall be utilized to ensure that there is an audit trail available for each Absentee Ballot transaction.</text>
+      <text>Upon receipt of a valid Voter Information/ Registration Form, the Election Commission shall cause to be issued an Absentee Ballot Packet containing the materials prescribed in <cite path="|1.03.070|(a)">Section 1.03.070(a)</cite> below. The Election Commission shall cause to be maintained an Absentee Voter Register or its equivalent to document the mailing, return, and disposition of each Absentee Ballot. This Absentee Voter Register or equivalent system shall be utilized to ensure that there is an audit trail available for each Absentee Ballot transaction.</text>
       <para>
         <num>(a)</num>
         <heading>Form of Absentee Ballot and Absentee Ballot Packet</heading>
@@ -1378,20 +1378,20 @@
         <text>If a portion of a ballot is improperly marked, it shall not cause the entire ballot to be voided. Any ballot on which the intent of the voter cannot be determined on the entirety of the ballot shall be marked as "REJECTED" and secured with the other Ballot Packet materials to become part of the permanent record of the election.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|9." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|9" type="History"/>
       </annotations>
     </section>
     <section>
       <num>1.03.100</num>
       <heading>Duties of Poll Officials and Voters</heading>
-      <text>There shall be not less than two (2) poll officials assigned to each polling site. The poll officials will be responsible for all arrangements including availability of ballots and other election materials necessary to conduct balloting at their designated polling place. They shall also provide sufficient private booths or other places for the voters to mark their ballots in secrecy. The polling site election officials shall be present at the designated polling place on election day in time to permit voting to begin when the polls open and shall remain until the polls close, all ballots have been counted, the tally properly recorded and reported, and the ballot boxes and the ballots turned over for delivery to the Election Commission as provided in this ordinance.</text>
+      <text>There shall be not less than two (2) poll officials assigned to each polling site. The poll officials will be responsible for all arrangements including availability of ballots and other election materials necessary to conduct balloting at their designated polling place. They shall also provide sufficient private booths or other places for the voters to mark their ballots in secrecy. The polling site election officials shall be present at the designated polling place on election day in time to permit voting to begin when the polls open and shall remain until the polls close, all ballots have been counted, the tally properly recorded and reported, and the ballot boxes and the ballots turned over for delivery to the Election Commission as provided in this Chapter.</text>
       <text>All elections shall be held on Saturday, and polls shall be open between the hours of 9:00 a.m. and 5:00 p.m.</text>
       <text>Before the balloting begins, the poll officials shall open and inspect the ballot box to determine that it is empty.</text>
       <text>The ballot box shall then be locked and shall remain locked until time to count the ballots.</text>
       <text>After opening of the polling site, each voter, upon presenting themselves to vote, shall announce to the polling officials their name and address, and present valid photo identification. The Poll Officials shall determine if the Voters Name appears on the Signature Roster and that the Voters Status is indicated as "REGISTERED". If the Voters status is indicated as "REGISTERED", the Voter shall sign the Signature Roster next to their printed name. In the case of a voter who signs with an "X" or a thumb print, that Voter shall have their mark witnessed by two election officials. After the Voter has signed the Signature Roster, the Poll Officials shall issue the Voter a ballot. <strong>EACH VOTER MUST SIGN THE SIGNATURE ROSTER BEFORE THEY RECEIVE A BALLOT</strong>.</text>
       <text>If a Voters status is found to be "NOT REGISTERED" the Voter must complete a Voter Information/ Registration form before being allowed to sign the Signature Roster and being issued a ballot.</text>
       <text>Upon receipt of a ballot, the voter shall proceed to one of the private voting booths or other designated area to mark their ballot.</text>
-      <text>Only one person shall occupy a voting booth at one time except as provided elsewhere in this Ordinance.</text>
+      <text>Only one person shall occupy a voting booth at one time except as provided elsewhere in this Chapter.</text>
       <text>The voter must mark and deposit the ballot in the designated receptacle before leaving the voting area. The voter shall mark their ballot according to the instructions provided.</text>
       <text>In the event a voter appears at the polls to vote, and finds that their name does not appear on the Signature Roster for that election, the Poll Officials shall contact the Election Commission office to determine the eligibility of the Voter. The Election Commission's decision as to Voter eligibility shall be final.</text>
       <text>When any Voter presents themselves to vote and states that, because of physical disability or infirmity, they are unable to mark their ballot, the Polling Officials to complete the Affidavit of Assistance provided for that purpose.</text>
@@ -1399,7 +1399,7 @@
       <text>Any voter needing an interpreter shall furnish their own.</text>
       <text>Any persons waiting in line to vote at closing time shall be permitted to vote, but those presenting themselves after the closing of the polls shall not be permitted to vote.</text>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|10." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|10" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1416,7 +1416,7 @@
         <text>No person shall be allowed to campaign or electioneer within 100 feet of the building where and when an election is in progress. Neither will any loitering be permitted in the polling place during voting hours. It shall be the duty of the Poll Officials at the polling site to obtain such assistance as may be required to maintain order during the progress of the election.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|11." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|11" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1456,7 +1456,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>General Election - In the event of a tie, the winning candidate will be determined by lottery, in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 11 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+          <text>General Election - In the event of a tie, the winning candidate will be determined by lottery, in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 11 of the Constitution of the Kiowa Tribe</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1471,7 +1471,7 @@
         <text>The Official Election Results shall be posted in public places as determined by the Election Commission, as well the web site of the Tribe and any other social media and information outlets as to be determined.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|12." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|12" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1481,29 +1481,29 @@
         <num>(a)</num>
         <heading>Requests for Recounts</heading>
         <text>Within 72 hours of the posting of the Unofficial Results, any Registered Voter of the Tribe may request a recount of the ballots be conducted by the Election Commission. The request shall specify the candidate or position on behalf of which the request is being filed. The request for a recount must be in writing, signed, and must be accompanied by a $500.00 recount fee to be submitted by Cashier's Check or Money Order. Personal checks or cash will not be accepted.</text>
-        <text>Upon receipt of the written request for recount and the recount fee, the Election Commission shall proceed to conduct a recount of the votes in the challenged contest. No request for a recount shall be considered that is not made within the time period provided in this Ordinance.</text>
+        <text>Upon receipt of the written request for recount and the recount fee, the Election Commission shall proceed to conduct a recount of the votes in the challenged contest. No request for a recount shall be considered that is not made within the time period provided in this Chapter.</text>
         <text>If the Requestor is successful in the recount, i.e. the candidate or position on behalf of which the request was filed is determined to be the winner at the end of the recount, the Requestor shall have returned to them any amount above the actual costs involved in the conduct of the recount. If the recount is unsuccessful, i.e. the candidate or position on behalf of which the request was filed is not determined to be the winner at the end of the recount, the Requestor shall forfeit the entire fee.</text>
       </para>
       <para>
         <num>(b)</num>
         <heading>Protest Alleging Fraud or Other Irregularities</heading>
         <text>Within 72 hours of the posting of the Unofficial Results, any Registered Voter of the Tribe may file a written protest alleging fraud, the correctness of announced results, or other irregularities. The written protest must be accompanied by a Cashier's Check or Money Order in the amount of $500.00. Personal checks or cash will not be accepted. In such a protest, the Challenger must allege that fraud, or irregularities occurred in the voting process and that results of the election were materially affected by such fraud or irregularities. The Challenger must further allege where such fraudulent or irregular incidents or activities occurred, the specific act constituting such alleged fraud or irregularities and the names of the alleged perpetrators of such fraud or irregularities. If such allegations are not made with supporting information or if proper filing and submittal procedures are not followed, the protest shall be deemed frivolous by the Election Commission and shall be dismissed.</text>
-        <text>If such protest is filed in the manner herein provided, the Election Commission shall hear and determine said issue not later than forty-eight (48) hours following the closing of the protest period. The Election Commission shall render a final determination in writing on any protest or challenge within forty-eight (48) hours of the hearing. If the Election Commission fails to render a final determination on any protest or challenge within forty-eight hours, the original certification of the election results shall be deemed final for purpose of judicial review in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 14 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+        <text>If such protest is filed in the manner herein provided, the Election Commission shall hear and determine said issue not later than forty-eight (48) hours following the closing of the protest period. The Election Commission shall render a final determination in writing on any protest or challenge within forty-eight (48) hours of the hearing. If the Election Commission fails to render a final determination on any protest or challenge within forty-eight hours, the original certification of the election results shall be deemed final for purpose of judicial review in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 14 of the Constitution of the Kiowa Tribe</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
         <heading>Appeals</heading>
-        <text>An appeal of a final determination made by the Election Commission on any protest or challenge to the results of the election may be filed directly with the Supreme Court of the Kiowa Tribe; provided, that a non-refundable fee of one thousand dollars ($1,000.00) in the form of a Cashier's Check or Money Order is filed with the appeal. Personal checks or cash will not be accepted. The Supreme Court of the Kiowa Tribe shall hear and decide all election appeals within thirty (30) calendar days: provided that if the Supreme Court of the Kiowa Tribe fails to decide such appeals within thirty (30) calendar days, then the decision of the Election Commission shall be final and no subsequent judicial review shall be permitted in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 14 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>. In any case where fraud is proven on the part of any candidate for office, that individual shall be declared ineligible for the office for which they were a candidate in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 14 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+        <text>An appeal of a final determination made by the Election Commission on any protest or challenge to the results of the election may be filed directly with the Supreme Court of the Kiowa Tribe; provided, that a non-refundable fee of one thousand dollars ($1,000.00) in the form of a Cashier's Check or Money Order is filed with the appeal. Personal checks or cash will not be accepted. The Supreme Court of the Kiowa Tribe shall hear and decide all election appeals within thirty (30) calendar days: provided that if the Supreme Court of the Kiowa Tribe fails to decide such appeals within thirty (30) calendar days, then the decision of the Election Commission shall be final and no subsequent judicial review shall be permitted in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 14 of the Constitution of the Kiowa Tribe</cite>. In any case where fraud is proven on the part of any candidate for office, that individual shall be declared ineligible for the office for which they were a candidate in accordance with <cite doc="Constitution of the Kiowa Tribe">Article IX Section 14 of the Constitution of the Kiowa Tribe</cite>.</text>
       </para>
       <annotations>
-        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|13." type="History"/>
+        <annotation app="2022-11-15" doc="Kiowa Tribe Res. No. KL-CY-2022-020" eff="2022-11-15" path="attachments|law|13" type="History"/>
       </annotations>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>1.04</num>
-    <heading>Kiowa Tribe Annual Budget Transparency Act of 2023</heading>
+    <heading>Kiowa Tribe Annual Budget Transparency Act</heading>
     <section>
       <num>1.04.010</num>
       <heading>Short Title</heading>
@@ -1530,7 +1530,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The Executive Branch will publish and distribute the budget in accordance with the Kiowa Tribe Constitution, <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6, Powers, (ii)</cite> The annual budget shall include appropriation of operating funds for the Council, the Legislature, the Executive Branch, and the Judicial Branch. The annual budget shall include all revenue and funds controlled by the Tribe including government funding, grants, business revenue, gaming revenue, and all revenue and funds received by the Tribe from all sources.</text>
+        <text>The Executive Branch will publish and distribute the budget in accordance with <cite doc="Constitution of the Kiowa Tribe">the Kiowa Tribe Constitution, Article VI, Section 6, Powers, (ii)</cite> The annual budget shall include appropriation of operating funds for the Council, the Legislature, the Executive Branch, and the Judicial Branch. The annual budget shall include all revenue and funds controlled by the Tribe including government funding, grants, business revenue, gaming revenue, and all revenue and funds received by the Tribe from all sources.</text>
       </para>
       <annotations>
         <annotation app="2023-10-19" doc="Kiowa Tribe Res. No. KL-CY-2023-015" eff="2023-10-19" path="attachments|law|1.3" type="History"/>

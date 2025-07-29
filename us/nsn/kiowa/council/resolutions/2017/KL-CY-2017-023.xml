@@ -607,7 +607,7 @@
       </para>
     </section>
     <section>
-      <codify:insert codified:doc="Kiowa Code of Law" codified:path="|1.02.120"/>
+      <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|1.02.120"/>
       <num codify:value="1.02.120">00.124</num>
       <heading>ADOPTION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT OF 1996.</heading>
       <para>

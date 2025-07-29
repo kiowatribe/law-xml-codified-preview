@@ -797,6 +797,7 @@
         <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|7.01.040"/>
         <prefix codify:value="">Article</prefix>
         <num codify:value="7.01.040">4</num>
+        <heading>CORPORATIONS (NON-PROFIT)</heading>
         <section codify:tag="para">
           <num>4.1</num>
           <heading>Purpose of incorporation and incorporators.</heading>

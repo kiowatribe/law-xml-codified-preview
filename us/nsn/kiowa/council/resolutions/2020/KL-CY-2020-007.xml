@@ -303,7 +303,7 @@
           <heading>JUDICIAL COMMISSION.</heading>
           <para>
             <num>(a)</num>
-            <text>There shall be a Judicial Commission comprised of five Members of the Tribe nominated by the Chairman subject to confirmation by the Legislature in accordance with <cite doc="Constitution of the Kiowa Tribe">the constitutional</cite> requirements outlined in Art. VIII Sec. 9 (a) of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>. No person who has been convicted of a felony may serve as a Judicial Commission Member. Judicial Commission members shall serve four (4) year staggered terms.</text>
+            <text>There shall be a Judicial Commission comprised of five Members of the Tribe nominated by the Chairman subject to confirmation by the Legislature in accordance with <cite doc="Constitution of the Kiowa Tribe">the constitutional</cite> requirements outlined in <cite doc="Constitution of the Kiowa Tribe">Art. VIII Sec. 9 (a) of the Constitution</cite>. No person who has been convicted of a felony may serve as a Judicial Commission Member. Judicial Commission members shall serve four (4) year staggered terms.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -422,7 +422,7 @@
         <para>
           <num>1.3.8</num>
           <heading>EXISTING TERMS OF OFFICE.</heading>
-          <text>Upon the adoption of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, the Judges currently serving shall remain in office with the full judicial authority to act, in accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, and pursuant to their employment or contractual terms.</text>
+          <text>Upon the adoption of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, the Judges currently serving shall remain in office with the full judicial authority to act, in accordance with <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, and pursuant to their employment or contractual terms.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -433,7 +433,7 @@
         <para>
           <num>1.4.1</num>
           <heading>CRIMINAL JURISDICTION.</heading>
-          <text>The Trial Court has original jurisdiction over all offenses committed in violation of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, the Kiowa Sex Offender Registration Code (SORNA), and any ordinances or laws of the Tribe when committed by an Indian, within any lands held in trust for, or owned by the Tribe, or held by the United States for the benefit of the Tribe or the people, including any rights of way existing now or in the future (the "Territory").</text>
+          <text>The Trial Court has original jurisdiction over all offenses committed in violation of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, the Kiowa Sex Offender Registration Code (SORNA), and any ordinances or laws of the Tribe when committed by an Indian, within any lands held in trust for, or owned by the Tribe, or held by the United States for the benefit of the Tribe or the people, including any rights of way existing now or in the future (the "Territory").</text>
         </para>
         <para>
           <num>1.4.2</num>
@@ -501,7 +501,7 @@
         <para>
           <num>1.5.3</num>
           <heading>RULES OF COURT.</heading>
-          <text>The time and place of Court sessions of both the Trial and Appellate Courts and all other details of judicial procedure not prescribed in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall be established by the Chief Justice or Chief Judge of each Court respectively, subject to the authority of the Judicial Commission and/or Legislature to modify such rules.</text>
+          <text>The time and place of Court sessions of both the Trial and Appellate Courts and all other details of judicial procedure not prescribed in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall be established by the Chief Justice or Chief Judge of each Court respectively, subject to the authority of the Judicial Commission and/or Legislature to modify such rules.</text>
         </para>
         <para>
           <num>1.5.4</num>
@@ -633,7 +633,7 @@
         <para>
           <num>1.6.2</num>
           <heading>AUTHORITY OF PROSECUTOR APPOINTED BY TRIBE.</heading>
-          <text>In any and all criminal proceedings in any and all Courts, the Chairman shall appoint a person to act as prosecutor who shall have power and authority to sign, file, and present any and all complaints, subpoenas, affidavits, motions, processes, and papers of any kind and to appear before all Courts, Commissions, or Tribunals in criminal proceedings; provided, that if the Chairman fails to appoint a prosecutor within sixty (60) days of the effective date of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, then the Judicial Commission, or any member of the Judicial Commission, shall select a prosecutor.</text>
+          <text>In any and all criminal proceedings in any and all Courts, the Chairman shall appoint a person to act as prosecutor who shall have power and authority to sign, file, and present any and all complaints, subpoenas, affidavits, motions, processes, and papers of any kind and to appear before all Courts, Commissions, or Tribunals in criminal proceedings; provided, that if the Chairman fails to appoint a prosecutor within sixty (60) days of the effective date of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, then the Judicial Commission, or any member of the Judicial Commission, shall select a prosecutor.</text>
         </para>
         <para>
           <num>1.6.3</num>
@@ -658,7 +658,7 @@
               <text>Upon order of the court, defend, advise, and counsel without expense to the defendant, any person who is not financially able to employ counsel in the following proceedings and circumstances:</text>
               <para>
                 <num>a.</num>
-                <text>Offenses triable in the Trial Court at all stages of the proceedings, including the preliminary examination, but only for those offenses defined under <code-cite path="attachments|law|III|4|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">3.4.1 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+                <text>Offenses triable in the Trial Court at all stages of the proceedings, including the preliminary examination, but only for those offenses defined under <code-cite path="attachments|law|III|4|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">3.4.1</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
               </para>
               <para>
                 <num>b.</num>
@@ -687,7 +687,7 @@
             </para>
             <para>
               <num>3.</num>
-              <text>By December 1 of each year, file with the Chief Judge and Legislature an annual report on the average cost of defending a major offense. For the purpose of <code-cite path="attachments|law|I|6|1.6.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this section</code-cite>, a major offense shall mean an offense, serious offense or dangerous offense as defined in <code-cite path="attachments|law|III|4|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 3.4.1 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+              <text>By December 1 of each year, file with the Chief Judge and Legislature an annual report on the average cost of defending a major offense. For the purpose of <code-cite path="attachments|law|I|6|1.6.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this section</code-cite>, a major offense shall mean an offense, serious offense or dangerous offense as defined in <code-cite path="attachments|law|III|4|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 3.4.1</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
             </para>
             <para>
               <num>4.</num>
@@ -752,12 +752,12 @@
         <para>
           <num>2.1.2</num>
           <heading>WORDS USED IN PRESENT TENSE.</heading>
-          <text>Unless otherwise provided, words used in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> in the present tense include the future as well as the present. Words used in the masculine include the feminine and the neuter, and plural includes the singular and vice-versa. The term "writing" includes the printing. The term "oath" includes affirmation.</text>
+          <text>Unless otherwise provided, words used in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> in the present tense include the future as well as the present. Words used in the masculine include the feminine and the neuter, and plural includes the singular and vice-versa. The term "writing" includes the printing. The term "oath" includes affirmation.</text>
         </para>
         <para>
           <num>2.1.3</num>
           <heading>SPECIAL PROVISIONS CONTROL GENERAL PROVISIONS.</heading>
-          <text>In construing <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, each general provision shall be controlled by any special provision on the same subject if a conflict exists.</text>
+          <text>In construing <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, each general provision shall be controlled by any special provision on the same subject if a conflict exists.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -795,7 +795,7 @@
         <para>
           <num>2.2.4</num>
           <heading>ASSIGNMENT OF CRIMINAL ACTIONS.</heading>
-          <text>Criminal Actions that include allegations of an offense or offenses, which could result in a sentence of incarceration for more than one (1) year as defined in <code-cite path="attachments|law|III|4|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 3.4.1 </code-cite>in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, shall only be heard by the Chief Judge, Senior Associate Judge, or a Pro-Tem Judge.</text>
+          <text>Criminal Actions that include allegations of an offense or offenses, which could result in a sentence of incarceration for more than one (1) year as defined in <code-cite path="attachments|law|III|4|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 3.4.1</code-cite> in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, shall only be heard by the Chief Judge, Senior Associate Judge, or a Pro-Tem Judge.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -809,11 +809,11 @@
           <text>Arrest is the taking of any person subject to the jurisdiction of the Kiowa Tribal Courts in custody and held to answer for a Tribal offense. An arrest may be made by:</text>
           <para>
             <num>1.</num>
-            <text>A duly authorized police officer under a warrant as provided in <code-cite path="attachments|law|II|3|2.3.2" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.3.2 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+            <text>A duly authorized police officer under a warrant as provided in <code-cite path="attachments|law|II|3|2.3.2" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.3.2</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
           </para>
           <para>
             <num>2.</num>
-            <text>A duly authorized police officer without a warrant as provided in <code-cite path="attachments|law|II|3|2.3.5" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.3.5 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+            <text>A duly authorized police officer without a warrant as provided in <code-cite path="attachments|law|II|3|2.3.5" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.3.5</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
           </para>
           <para>
             <num>3.</num>
@@ -824,12 +824,12 @@
         <para>
           <num>2.3.2</num>
           <heading>WARRANT OF ARREST.</heading>
-          <text>A Warrant of Arrest is a written order signed by a Trial Court judge commanding the arrest of any person subject to the jurisdiction of the Kiowa Tribal Courts. The warrant must specify the name of the person, or a description by which the person can be identified with reasonable certainty, if the name of the person is not known. It must also state the offense or offenses charged and the date it was issued. A Warrant of Arrest shall not be valid outside the limits of the Kiowa Tribe's jurisdiction as defined in <code-cite path="attachments|law|I|4|1.4.1" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 1.4.1 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> but shall be subject to extradition as agreed upon between the Tribe and the various foreign jurisdictions.</text>
+          <text>A Warrant of Arrest is a written order signed by a Trial Court judge commanding the arrest of any person subject to the jurisdiction of the Kiowa Tribal Courts. The warrant must specify the name of the person, or a description by which the person can be identified with reasonable certainty, if the name of the person is not known. It must also state the offense or offenses charged and the date it was issued. A Warrant of Arrest shall not be valid outside the limits of the Kiowa Tribe's jurisdiction as defined in <code-cite path="attachments|law|I|4|1.4.1" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 1.4.1</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> but shall be subject to extradition as agreed upon between the Tribe and the various foreign jurisdictions.</text>
         </para>
         <para>
           <num>2.3.3</num>
           <heading>DIRECTION TO PEACE OFFICER; EXECUTION.</heading>
-          <text>The Warrant may be directed to any law enforcement officer as defined in <code-cite path="attachments|law|I|6|1.6.1" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 1.6.1 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> and shall be executed by any qualified law officer to whom it may be delivered.</text>
+          <text>The Warrant may be directed to any law enforcement officer as defined in <code-cite path="attachments|law|I|6|1.6.1" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 1.6.1</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> and shall be executed by any qualified law officer to whom it may be delivered.</text>
         </para>
         <para>
           <num>2.3.4</num>
@@ -1046,7 +1046,7 @@
         <para>
           <num>2.3.10</num>
           <heading>HOT PURSUIT DEFINED.</heading>
-          <text>For the purpose of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, the term "hot pursuit" shall mean the act of chasing or following a person by a law enforcement officer who has reason to believe the person has committed a violation of the laws of the Kiowa Tribe, beyond the boundaries of the Trial Court's jurisdiction with the intent to arrest the person for such violation. The term shall include and be limited to immediate and uninterrupted pursuit. Any law enforcement officer as defined in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall have the authority to engage in hot pursuit to apprehend and return to this jurisdiction and to incarcerate and charge such person with a violation of the Kiowa Criminal Code.</text>
+          <text>For the purpose of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, the term "hot pursuit" shall mean the act of chasing or following a person by a law enforcement officer who has reason to believe the person has committed a violation of the laws of the Kiowa Tribe, beyond the boundaries of the Trial Court's jurisdiction with the intent to arrest the person for such violation. The term shall include and be limited to immediate and uninterrupted pursuit. Any law enforcement officer as defined in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall have the authority to engage in hot pursuit to apprehend and return to this jurisdiction and to incarcerate and charge such person with a violation of the Kiowa Criminal Code.</text>
         </para>
       </container>
       <container codify:tag="section">
@@ -1057,7 +1057,7 @@
         <para>
           <num>2.4.1</num>
           <heading>SEARCH WARRANT DEFINED.</heading>
-          <text>A search warrant is a written Order signed by a Trial Court judge, directing any enforcement officer, as designated by <code-cite path="attachments|law|I|6|1.6.1|(d)" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 1.6.1(d)</code-cite> of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, to search for items or articles designated in the warrant and to bring them before the Trial Court.</text>
+          <text>A search warrant is a written Order signed by a Trial Court judge, directing any enforcement officer, as designated by <code-cite path="attachments|law|I|6|1.6.1|(d)" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 1.6.1(d)</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, to search for items or articles designated in the warrant and to bring them before the Trial Court.</text>
         </para>
         <para>
           <num>2.4.2</num>
@@ -1077,7 +1077,7 @@
         <para>
           <num>2.4.5</num>
           <heading>INVENTORY.</heading>
-          <text>The officer must immediately return the warrant to the Trial Court judge, as set forth in <code-cite path="attachments|law|II|4|2.4.4" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.4.4 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, together with a complete inventory of the items or articles taken. The inventory must be made before witnesses or in the presence of the person from whose possession it was taken. The Trial Court shall deliver a copy of the inventory to the person from whose possession the items or articles were taken.</text>
+          <text>The officer must immediately return the warrant to the Trial Court judge, as set forth in <code-cite path="attachments|law|II|4|2.4.4" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.4.4</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, together with a complete inventory of the items or articles taken. The inventory must be made before witnesses or in the presence of the person from whose possession it was taken. The Trial Court shall deliver a copy of the inventory to the person from whose possession the items or articles were taken.</text>
         </para>
         <para>
           <num>2.4.6</num>
@@ -1223,7 +1223,7 @@
           <text>The complaint must be set aside by the Tribal Court upon the defendant's motion, prior to a plea, in the following cases:</text>
           <para>
             <num>a.</num>
-            <text>Where it is found not to comply with the requirements of <code-cite path="attachments|law|II|2|2.2.2" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.2.2 </code-cite>of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+            <text>Where it is found not to comply with the requirements of <code-cite path="attachments|law|II|2|2.2.2" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 2.2.2</code-cite> of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
           </para>
           <para>
             <num>b.</num>
@@ -1646,7 +1646,7 @@
         <para>
           <num>2.12.2</num>
           <heading>SENTENCING:</heading>
-          <text><u>IMPRISONMENT</u>. When sentence of imprisonment is entered, a signed copy thereof must be delivered to the law enforcement officer as defined in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, or other officer.</text>
+          <text><u>IMPRISONMENT</u>. When sentence of imprisonment is entered, a signed copy thereof must be delivered to the law enforcement officer as defined in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, or other officer.</text>
         </para>
         <para>
           <num>2.12.3</num>
@@ -2008,7 +2008,7 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.020"/>
           <num codify:value="13.01.020">3.1.2</num>
           <heading>PURPOSE.</heading>
-          <text>The public policy of the Kiowa Tribe and the general purposes of the provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> are:</text>
+          <text>The public policy of the Kiowa Tribe and the general purposes of the provisions of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> are:</text>
           <para>
             <num>1.</num>
             <text>To define conduct that unjustifiably and inexcusably causes or threatens substantial harm to individual, public, or tribal interests;</text>
@@ -2046,12 +2046,12 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.030"/>
           <num codify:value="13.01.030">3.1.3</num>
           <heading>EFFECTIVE DATE.</heading>
-          <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall become effective upon its adoption into law.</text>
+          <text><span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall become effective upon its adoption into law.</text>
         </para>
         <para codify:tag="section">
           <num codify:value="13.01.040">3.1.4</num>
           <heading>SEVERABILITY.</heading>
-          <text>If any portion of <cite path="attachments|law">this Code</cite> is held invalid by a court of law, that portion shall be stricken and shall cease to be operative, while the remainder of <cite path="attachments|law">this Code</cite> shall survive and remain in full force and effect.</text>
+          <text>If any portion of <span codify:value="this Code"><cite path="attachments|law">this Code</cite></span> is held invalid by a court of law, that portion shall be stricken and shall cease to be operative, while the remainder of <span codify:value="this Code"><cite path="attachments|law">this Code</cite></span> shall survive and remain in full force and effect.</text>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.050"/>
@@ -2059,19 +2059,19 @@
           <heading>APPLICABILITY OF CODE.</heading>
           <para>
             <num>A.</num>
-            <text>The provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall not apply or extend to any offense committed prior to the effective date of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>. The provisions of law in force prior to the enactment of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall remain in full force and effect in regard to an offense committed prior to the effective date of the adoption of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+            <text>The provisions of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall not apply or extend to any offense committed prior to the effective date of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>. The provisions of law in force prior to the enactment of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall remain in full force and effect in regard to an offense committed prior to the effective date of the adoption of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Except as otherwise provided by law, the procedure governing accusation, prosecution, conviction and punishment of offenders and offenses is not regulated by <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> but by the rules of criminal procedure.</text>
+            <text>Except as otherwise provided by law, the procedure governing accusation, prosecution, conviction and punishment of offenders and offenses is not regulated by <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> but by the rules of criminal procedure.</text>
           </para>
           <para>
             <num>C.</num>
-            <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> does not affect any power conferred by law upon a court martial or other military authority or officer, or conferred upon the United States Department of Justice, to prosecute or punish conduct and offenders violating military codes or laws, or U.S. federal laws, nor any power conferred by law to impose or inflict punishment for contempt.</text>
+            <text><span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> does not affect any power conferred by law upon a court martial or other military authority or officer, or conferred upon the United States Department of Justice, to prosecute or punish conduct and offenders violating military codes or laws, or U.S. federal laws, nor any power conferred by law to impose or inflict punishment for contempt.</text>
           </para>
           <para>
             <num>D.</num>
-            <text><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> does not bar, suspend or otherwise affect any right or liability for damages, penalty, forfeiture or other remedy authorized by law to be recovered or enforced in a civil action regardless of whether the conduct involved in the proceeding constitutes an offense defined in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+            <text><span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> does not bar, suspend or otherwise affect any right or liability for damages, penalty, forfeiture or other remedy authorized by law to be recovered or enforced in a civil action regardless of whether the conduct involved in the proceeding constitutes an offense defined in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
           </para>
           <para>
             <num>E.</num>
@@ -2082,7 +2082,7 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.060"/>
           <num codify:value="13.01.060">3.1.6</num>
           <heading>RULE OF CONSTRUCTION.</heading>
-          <text>The general rule that a penal statute is to be strictly construed does not apply to <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, but the provisions herein must be construed according to the fair meaning of their terms to promote justice and effect the objects of law, including the purpose stated in <code-cite path="attachments|law|III|1|3.1.2" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 3.1.2</code-cite>.</text>
+          <text>The general rule that a penal statute is to be strictly construed does not apply to <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, but the provisions herein must be construed according to the fair meaning of their terms to promote justice and effect the objects of law, including the purpose stated in <code-cite path="attachments|law|III|1|3.1.2" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 3.1.2</code-cite>.</text>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.070"/>
@@ -2106,20 +2106,20 @@
           </para>
           <para>
             <num>B.</num>
-            <text>The Kiowa Tribe reserves the right to prosecute a person for any violation of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, regardless of whether the person has previously been prosecuted for the same conduct, or is concurrently being prosecuted for the same conduct, in a court of the United States, a court of any State, or a court of any other tribal jurisdiction.</text>
+            <text>The Kiowa Tribe reserves the right to prosecute a person for any violation of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, regardless of whether the person has previously been prosecuted for the same conduct, or is concurrently being prosecuted for the same conduct, in a court of the United States, a court of any State, or a court of any other tribal jurisdiction.</text>
           </para>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.080"/>
           <num codify:value="13.01.080">3.1.8</num>
           <heading>SOVEREIGN IMMUNITY.</heading>
-          <text>Nothing in <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall be construed as a waiver, in whole or in part, of the sovereign immunity of the Kiowa Tribe.</text>
+          <text>Nothing in <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall be construed as a waiver, in whole or in part, of the sovereign immunity of the Kiowa Tribe.</text>
         </para>
         <para codify:tag="section">
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.01.090"/>
           <num codify:value="13.01.090">3.1.9</num>
           <heading>DEFINITION OF TERMS.</heading>
-          <text>In <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, unless the context or subject matter otherwise requires:</text>
+          <text>In <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, unless the context or subject matter otherwise requires:</text>
           <para>
             <num>2.</num>
             <text>"Act" means a bodily movement.</text>
@@ -2194,7 +2194,7 @@
           </para>
           <para>
             <num>20.</num>
-            <text>"Indian" for the purposes of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> is any person who is an enrolled member of any Federally recognized tribe or who has Indian blood and is regarded as an Indian by the society of Indians among whom he lives.</text>
+            <text>"Indian" for the purposes of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> is any person who is an enrolled member of any Federally recognized tribe or who has Indian blood and is regarded as an Indian by the society of Indians among whom he lives.</text>
           </para>
           <para>
             <num>21.</num>
@@ -2296,7 +2296,7 @@
           <heading>TIME LIMITATIONS.</heading>
           <para>
             <num>A.</num>
-            <text>A prosecution for any homicide, any offense that is listed in §§<code-cite path="attachments|law|III|10|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">3.10.01 </code-cite>- 3.10.03 of <code-cite path="attachments|law|III" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this title</code-cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
+            <text>A prosecution for any homicide, any offense that is listed in §§<code-cite path="attachments|law|III|10|1." doc="Kiowa Tribe Res. No. KL-CY-2020-007">3.10.01</code-cite> - <code-cite path="attachments|law|III|10|3." doc="Kiowa Tribe Res. No. KL-CY-2020-007">3.10.03</code-cite> of <code-cite path="attachments|law|III" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this title</code-cite>, any misuse of public monies or an offense involving falsification of public records or any attempt to commit an offense listed in this subsection may be commenced at any time.</text>
           </para>
           <para>
             <num>B.</num>
@@ -2361,7 +2361,7 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.02.020"/>
           <num codify:value="13.02.020">3.2.2</num>
           <heading>APPLICABLE MENTAL STATES.</heading>
-          <text>In <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, unless the context or subject matter otherwise requires:</text>
+          <text>In <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, unless the context or subject matter otherwise requires:</text>
           <para>
             <num>A.</num>
             <text>"Intentionally" or "with the intent to" means that a person's objective is to cause something to occur or to engage in certain conduct.</text>
@@ -2447,7 +2447,7 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.03.050"/>
           <num codify:value="13.03.050">3.3.5</num>
           <heading>FORMER JEOPARDY OR ACQUITTAL.</heading>
-          <text>Where a defendant is convicted or acquitted or has once been placed in jeopardy in the Trial Court, the conviction, acquittal or jeopardy is a bar to another indictment or information for the same offense under <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+          <text>Where a defendant is convicted or acquitted or has once been placed in jeopardy in the Trial Court, the conviction, acquittal or jeopardy is a bar to another indictment or information for the same offense under <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
         </para>
       </container>
       <container>
@@ -2459,7 +2459,7 @@
           <codify:insert renumber-paras="true" codified:doc="Kiowa Code of Law" codified:path="|13.04.010"/>
           <num codify:value="13.04.010">1.</num>
           <heading>IMPRISONMENT AND FINES.</heading>
-          <text>The Court may impose the following criminal penalties against a person who is convicted for violating <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>:</text>
+          <text>The Court may impose the following criminal penalties against a person who is convicted for violating <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>:</text>
           <para>
             <num>A.</num>
             <text>A maximum of three years in custody and/or a fine of up to $15,000.00 upon conviction for a single offense that would be classified as a felony under state law;</text>
@@ -2498,7 +2498,7 @@
           <heading>CIVIL DAMAGES.</heading>
           <para>
             <num>A.</num>
-            <text>Any person subject to the civil jurisdiction of the Kiowa Tribe, but not subject to the criminal jurisdiction of the Kiowa Tribe, who engages in conduct in the Territory that constitutes a violation of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> shall be liable to the Kiowa Tribe for the following civil damages:</text>
+            <text>Any person subject to the civil jurisdiction of the Kiowa Tribe, but not subject to the criminal jurisdiction of the Kiowa Tribe, who engages in conduct in the Territory that constitutes a violation of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> shall be liable to the Kiowa Tribe for the following civil damages:</text>
             <para>
               <num>1.</num>
               <text>Civil damages not to exceed $15,000.00 upon a finding by the Court that the person engaged in a single criminal offense under state law;</text>
@@ -3049,7 +3049,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>A report is not required under <code-cite path="attachments|law|III|10|6." doc="Kiowa Tribe Res. No. KL-CY-2020-007">this section</code-cite> for conduct prescribed by sections 3.10.3 if the conduct involves only minors who are sixteen or seventeen years of age and there is nothing to indicate that the conduct is other than consensual.</text>
+            <text>A report is not required under <code-cite path="attachments|law|III|10|6." doc="Kiowa Tribe Res. No. KL-CY-2020-007">this section</code-cite> for conduct prescribed by <code-cite path="attachments|law|III|10|3." doc="Kiowa Tribe Res. No. KL-CY-2020-007">sections 3.10.3</code-cite> if the conduct involves only minors who are sixteen or seventeen years of age and there is nothing to indicate that the conduct is other than consensual.</text>
           </para>
           <para>
             <num>C.</num>
@@ -3092,7 +3092,7 @@
             </para>
             <para>
               <num>4.</num>
-              <text>"Sexual conduct with a minor" shall have the same meaning as in 3.10.3.</text>
+              <text>"Sexual conduct with a minor" shall have the same meaning as in <code-cite path="attachments|law|III|10|3." doc="Kiowa Tribe Res. No. KL-CY-2020-007">3.10.3</code-cite>.</text>
             </para>
           </para>
           <para>
@@ -3125,7 +3125,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>In addition to such other penalties prescribed by <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>, the firearm may be immediately seized as a civil forfeiture.</text>
+            <text>In addition to such other penalties prescribed by <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>, the firearm may be immediately seized as a civil forfeiture.</text>
           </para>
         </para>
       </container>
@@ -3836,11 +3836,11 @@
           <heading>CIVIL ASSESSMENT FEE.</heading>
           <para>
             <num>A.</num>
-            <text>Except as otherwise indicated, it shall be a civil infraction for any person to violate the provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite>.</text>
+            <text>Except as otherwise indicated, it shall be a civil infraction for any person to violate the provisions of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span>.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Except as otherwise indicated, any person violating the provisions of <cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite> within the territorial jurisdiction of the Tribe shall be subject to civil assessment fees of not less than thirty-seven dollars and fifty cents ($37.50), or more than five hundred dollars ($500.00), and/or possible civil forfeiture.</text>
+            <text>Except as otherwise indicated, any person violating the provisions of <span codify:value="this Code"><cite path="attachments|law" doc="Kiowa Tribe Res. No. KL-CY-2020-007">this Code</cite></span> within the territorial jurisdiction of the Tribe shall be subject to civil assessment fees of not less than thirty-seven dollars and fifty cents ($37.50), or more than five hundred dollars ($500.00), and/or possible civil forfeiture.</text>
           </para>
           <para>
             <num>C.</num>
@@ -5496,11 +5496,11 @@
           <text>A person is guilty of aggravated driving or actual physical control while under the influence of intoxicating liquor or drugs, an offense, if the person does any of the following:</text>
           <para>
             <num>A.</num>
-            <text>Commits a violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 4.15.3 </code-cite>while the person's driver license or privilege to drive is suspended, canceled, revoked or refused or while a restriction is placed on the person's driver license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
+            <text>Commits a violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 4.15.3</code-cite> while the person's driver license or privilege to drive is suspended, canceled, revoked or refused or while a restriction is placed on the person's driver license or privilege to drive by the Kiowa Court, any tribal court, or any state court.</text>
           </para>
           <para>
             <num>B.</num>
-            <text>Commits a violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 4.15.3 </code-cite>while a person under twelve years of age is in the vehicle.</text>
+            <text>Commits a violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 4.15.3</code-cite> while a person under twelve years of age is in the vehicle.</text>
           </para>
         </para>
         <para>
@@ -5615,7 +5615,7 @@
         <para>
           <num>4.15.10</num>
           <heading>RECORDS OR DISPOSITION.</heading>
-          <text>All records regarding the disposition of cases in which a person is charged with a violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 4.15.3 </code-cite>shall be maintained by the court and made accessible to the general public. The court shall include in these records an explanation of its reasons for accepting any plea agreement or dismissing any charge in violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 4.15.3</code-cite>. 4.15.11 THROWING OR DROPPING OBJECTS AT MOVING VEHICLES. It is an offense for any person to intentionally or recklessly throw, or otherwise propel any object at a motor vehicle in operation. The Court shall consider the age of the violator, the extent of damage, as well as any injuries and may, in its discretion, reduce the classification or sentence.</text>
+          <text>All records regarding the disposition of cases in which a person is charged with a violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 4.15.3</code-cite> shall be maintained by the court and made accessible to the general public. The court shall include in these records an explanation of its reasons for accepting any plea agreement or dismissing any charge in violation of <code-cite path="attachments|law|IV|15|4.15.3" doc="Kiowa Tribe Res. No. KL-CY-2020-007">Section 4.15.3</code-cite>. 4.15.11 THROWING OR DROPPING OBJECTS AT MOVING VEHICLES. It is an offense for any person to intentionally or recklessly throw, or otherwise propel any object at a motor vehicle in operation. The Court shall consider the age of the violator, the extent of damage, as well as any injuries and may, in its discretion, reduce the classification or sentence.</text>
         </para>
         <para>
           <num>4.15.12</num>
@@ -5656,7 +5656,7 @@
           <heading>VIOLATION OF PROMISE TO APPEAR.</heading>
           <para>
             <num>A.</num>
-            <text>Any person knowingly violating his written promise to appear in court, given as provided in <code-cite path="attachments|law|IV|16|4.16.1" doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 4.16.1 </code-cite>above, is guilty of a offense, regardless of the disposition or the charge upon which he was originally arrested.</text>
+            <text>Any person knowingly violating his written promise to appear in court, given as provided in <code-cite path="attachments|law|IV|16|4.16.1" doc="Kiowa Tribe Res. No. KL-CY-2020-007">section 4.16.1</code-cite> above, is guilty of a offense, regardless of the disposition or the charge upon which he was originally arrested.</text>
           </para>
           <para>
             <num>B.</num>
