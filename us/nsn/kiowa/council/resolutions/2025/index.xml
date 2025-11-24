@@ -2,6 +2,30 @@
 <collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2025">
   <heading>2025 Resolutions</heading>
   <subheading>Effective Resolutions</subheading>
+  <xi:include href="./KLO-CY-2025-038.xml"/>
+  <xi:include href="./KLO-CY-2025-037.xml"/>
+  <xi:include href="./KLO-CY-2025-029.xml"/>
+  <xi:include href="./KLO-CY-2025-028.xml"/>
+  <xi:include href="./KLO-CY-2025-027.xml"/>
+  <xi:include href="./KL-CY-2025-027.xml"/>
+  <xi:include href="./KLO-CY-2025-026.xml"/>
+  <xi:include href="./KL-CY-2025-026.xml"/>
+  <xi:include href="./KL-CY-2025-025.xml"/>
+  <xi:include href="./KL-CY-2025-024.xml"/>
+  <xi:include href="./KL-CY-2025-023.xml"/>
+  <xi:include href="./KL-CY-2025-022.xml"/>
+  <xi:include href="./KL-CY-2025-021.xml"/>
+  <xi:include href="./KL-CY-2025-020.xml"/>
+  <xi:include href="./KL-CY-2025-019.xml"/>
+  <xi:include href="./KL-CY-2025-018.xml"/>
+  <xi:include href="./KL-CY-2025-017.xml"/>
+  <xi:include href="./KL-CY-2025-016.xml"/>
+  <xi:include href="./KL-CY-2025-015.xml"/>
+  <xi:include href="./KL-CY-2025-014.xml"/>
+  <xi:include href="./KL-CY-2025-013.xml"/>
+  <xi:include href="./KL-CY-2025-012.xml"/>
+  <xi:include href="./KL-CY-2025-011.xml"/>
+  <xi:include href="./KL-CY-2025-010.xml"/>
   <xi:include href="./KL-CY-2025-009.xml"/>
   <xi:include href="./KL-CY-2025-007.xml"/>
   <xi:include href="./KL-CY-2025-006.xml"/>
