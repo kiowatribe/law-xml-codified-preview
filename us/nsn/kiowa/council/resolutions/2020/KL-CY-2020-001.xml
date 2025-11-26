@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2020-001">
   <num>KL-CY-2020-001</num>
-  <heading>Road Inventory and Repair Authorization Act of 2020</heading>
+  <heading>Road Inventory and Repair Authorzation Act of 2020</heading>
   <meta>
-    <stub/>
-    <effective>2020-04-04</effective>
+    <effective>2020-03-24</effective>
     <history>
       <adopted>2020-03-14</adopted>
     </history>
@@ -12,4 +11,407 @@
       <citation type="res" url="./adopted/KL-CY-2020-001.pdf">Kiowa Tribe Res. No. KL-CY-2020-001</citation>
     </citations>
   </meta>
+  <text>At a duly called Session of the Legislature of the Kiowa Tribe held on this 8th day of February 2020, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>	 the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite> ("Constitution"); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> 	the Legislature supports and encourages the Chairman and Executive Branch to seek funds for road repairs for the benefit of the Tribe; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> 	the Legislature finds it in the best interest of the Tribe to for the Chairman and Executive Branch to set a priority list of roads to be included as high priorities for road maintenance and repair; and,</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text> that the Kiowa Legislature hereby enacts the attached law entitled, "Road Inventory and Repair Priority Act" of 2020, authorizing the Chairman to modify the Kiowa Tribe's TIP and to design and construct roads within our Tribal Jurisdictional Area.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2020-0001, was duly voted upon by the Kiowa Tribe Legislature at a duly called Regular Session XXXV, March 14, 2020, with a vote of ( 6 ) in favor and ( 0 ) opposed, ( 0 ) abstaining, and ( 1 ) absent, pursuant Tribe Legislature at a to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Anita Johnson, District #5 Legislator</strong>
+    </text>
+    <text>
+      <strong>Secretary of the Legislature</strong>
+    </text>
+    <text>
+      <strong>LEGISLATURE-RESOLUTION NUMBER: KL-CY-2020-0001</strong>
+    </text>
+    <text><strong>SPONSER:</strong> Michael Primus, District #2 of the Kiowa Tribe Legislature.</text>
+    <text>
+      <strong>CO-SPONSER(S):</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Angela McCarthy</p>
+              <p>District #1</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Marilyn Bread</p>
+              <p>District #3</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Jesse Stivak</p>
+              <p>District #4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <th>x</th>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Modina Waters</p>
+              <p>District #7</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2020-0001, was presented to the Chairman of the Kiowa Tribe on the 30th day of March, 2020, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Anita Johnson, District #5</text>
+    <text>Secretary of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ___4_______ day of ___April____________, 2020.</text>
+    <text>
+      <strong>Matthew M. Komalty,</strong>
+    </text>
+    <text>
+      <strong>Chairman of the Kiowa Tribe</strong>
+    </text>
+    <text>Presented by the Chairman to the Legislature on the __________ day of _______________, 2020.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ] 	NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Angela McCarthy</p>
+              <p>District #1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Marilyn Bread</p>
+              <p>District #3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Jesse Stivak</p>
+              <p>District #4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Modina Waters</p>
+              <p>District #7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing <strong><em>Resolution KL-CY-2020-0001</em></strong>, was duly voted upon by the <strong><em>Kiowa Tribe Legislature</em></strong> at a duly called <strong><em>Working Session, __________________, 2020</em></strong>, with a vote of (  ) in favor and (  ) opposed, (  ) abstaining, and (  ) absent, pursuant Tribe Legislature at a to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Anita Johnson, District #5</text>
+    <text>Legislator Secretary of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "Road Inventory and Repair Priority Act of 2020" ("Act")</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of <cite path="">this act</cite> is to establish a priority list for road maintenance and repairs.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature supports the efforts of the Tribe's Transportation Department to seek funds for road maintenance and repairs and related matters that benefit Members of the Tribe,</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The legislature has determined that it is in the best interests of the tribe to set a priority list of roads and streets to be included as high priorities for road maintenance and repair,</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Legislature has determined that these following described roads need maintenance and repair and will serve several Members of the Tribe.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Road Inventory and Priorities</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Transportation Department shall include the following roads and streets on the IRR list of roads and shall take all steps necessary to prioritize the maintenance and repair of such roads and streets:</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td proof="needed">
+                <p>CR 1320</p>
+                <p>CS 2500</p>
+              </td>
+              <td>Kiowa Route 6821 East 3 miles to CS500 and Kiowa Route 6740 South 2 miles to CR 1380 (past Botone Church). This route is adjacent to multiple Kiowa trust lands and homes.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>CR 1370</p>
+                <p>HWY. 58</p>
+              </td>
+              <td>Kiowa Route 6705 East 3 miles to CR 2490. This route is adjacent to multiple Kiowa trust lands and homes.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>CS 2570</p>
+                <p>HWY. 9</p>
+              </td>
+              <td>Kiowa Route 7636 South less than a mile to E1350 Rd. 1350 is Apache Route 6603 which is adjacent to multiple Kiowa homes.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>100 Kiowa</p>
+                <p>Wildcat Way</p>
+              </td>
+              <td>Kiowa Complex and Carnegie High School including Headstart/Campground entrance.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Bridge #329A</p>
+                <p>NBI 0908</p>
+              </td>
+              <td>Bridge on Kiowa Route 7464 south of Road 1330 near Apache Blackfeet Grounds.</td>
+              <td>Bridge</td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>CR1430/</p>
+                <p>HWY 19</p>
+              </td>
+              <td>CR 1430 South 3 miles to HWY 19 on Kiowa Route 6824. This route is adjacent to multiple Kiowa trust lands and homes.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>CR1400/</p>
+                <p>N2160</p>
+              </td>
+              <td>Kiowa Route 6789 East 2 miles to CR2180. Severe washout of multiple Kiowa homes.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>E1340/</p>
+                <p>N2490/ E1350</p>
+              </td>
+              <td>Kiowa Route 7446 1mile south from E1340 on N2490 then West on Kiowa Route 6668 for .5 Miles.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Hwy 62/</p>
+                <p>CR1380 to CS2620</p>
+              </td>
+              <td>East from HWY 62 on Kiowa Route 6832 3miles to Kiowa Route 6831 then N 1 mile to HWY 9.</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <td>Kiowa Route 6708 (Verden Casino)</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <td>Kiowa Route 6705 (South 40)</td>
+              <td proof="needed">
+                <p>Asphalt</p>
+                <p>Concrete</p>
+                <p>Overlay</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+  </section>
 </document>

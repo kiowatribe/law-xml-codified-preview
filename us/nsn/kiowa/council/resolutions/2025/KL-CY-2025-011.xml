@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-011">
+  <num>KL-CY-2025-011</num>
+  <heading>2025 Tribal Employment Rights Office Ordinance Act</heading>
   <meta>
     <effective>2025-08-19</effective>
     <history>
@@ -9,6 +11,283 @@
       <citation type="res" url="./adopted/KL-CY-2025-011.pdf">Kiowa Tribe Res. No. KL-CY-2025-011</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-011</num>
-  <heading>2025 Tribal Employment Rights Office Ordinance Act</heading>
+  <text>At a duly called Session of the Legislature of the Kiowa Tribe held this 9th day of August, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Tribe passed a Tribal Employment Rights Ordinance ("TERO") in 1997, and the Tribe currently operates a TERO office and as a guide to the interpretation and application of this Ordinance, the public policy of the Kiowa Tribe; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text> TERO Ordinances require that all employers engaged in business on reservations give preference to qualified Indians in all aspects of employment, contracting, and all other business or economic development activities.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>  the Kiowa Tribe TERO will promote The Commission has the full power, jurisdiction, and authority to  take all actions necessary and appropriate to implement the provisions of this Ordinance to formulate, adopt, amend; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature has determined that it is in the best interests of the Tribe to pass the TERO Ordinance Act to reaffirm TERO and to bring it into compliance with <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Tribe</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE IT RESOLVED;</conjunction>
+      <text> that the Legislature hereby enacts the attached law entitled, "2025 Tribal Employment Rights Office Ordinance Act".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution KL-CY-2025-011, was duly voted upon and by the Kiowa Legislature on, August 09, 2025, at a Legislative Regular Session C-(100) with a vote of (7) in favor and (0) opposed, (0) abstaining, and (0) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>LEGISLATURE - RESOLUTION NO. KL-CY-2025-011:</text>
+    <text>SPONSOR: Warren Queton, District 7</text>
+    <text>CO-SPONSOR(S):</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-011, was presented to the Chairman of the Kiowa Tribe on the 12th  day of August, 2025, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>_____________________________									Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</text>
+    <text>On this ____ day of ________, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution KLO-CY-2025-00X, was duly overridden and voted upon by the Kiowa Legislature on __________________, 2025, at a Working Session with a vote of ______ in favor and _____ opposed, _____ abstaining, and _____ absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "2025 Tribal Employment Rights Office (TERO) Ordinance 	Act" ("TERO Act").</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of the "2025 TERO Ordinance Act" is to re-establish a TERO office to implement the 	TERO Act to ensure Indian Preference in employment and contracting, and to establish fees for 	doing business within the jurisdiction of the Tribe.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <para>
+      <num>(a)</num>
+      <text>. 	The Tribe passed a Tribal Employment Rights Ordinance ("TERO") in 1997, and the Tribe 		currently operates a TERO office; and,</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>. 	 The Legislature has determined that it is in the best interests of the Tribe to pass the TERO 		Act. <cite path="">This act</cite>ion is intended to reaffirm the 2025 Tribal Employment Rights Office 			Ordinance (TERO) and to ensure that it is fully compliant with <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> of the 			Tribe.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>.	The Kiowa Tribe Legislature has an ongoing commitment to uphold the rights and 			opportunities for our Kiowa Tribal members and community, by aligning the TERO with 			our Kiowa  Constitution. This will further strengthen our governance and support our future 		economic development goals.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>TERO Law</heading>
+    <para>
+      <num>(a)</num>
+      <text>. 	The Legislature hereby reaffirms the TERO law attached hereto.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>. 	The outdated references to the prior "Business Committee" that appear in TERO shall be 			modified to say, "Chairman and Legislature".</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>. 	The TERO fee schedules that appear in <cite>Section 11 </cite>of the TERO Act may be modified by 			the Commission in accordance with the "2025 TERO Ordinance Act".</text>
+    </para>
+  </section>
 </document>

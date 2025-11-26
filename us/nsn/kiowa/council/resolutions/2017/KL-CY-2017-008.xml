@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2017-008">
   <num>KL-CY-2017-008</num>
-  <heading>Kiowa Rules of Civil Procedure</heading>
+  <heading>Kiowa Tribe Rules of Civil Procedure</heading>
   <meta>
-    <stub/>
-    <effective>2017-07-23</effective>
+    <effective>2017-07-18</effective>
     <history>
       <adopted>2017-07-08</adopted>
     </history>
@@ -12,4 +11,1096 @@
       <citation type="res" url="./adopted/KL-CY-2017-008.pdf">Kiowa Tribe Res. No. KL-CY-2017-008</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text><cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> established a new Judicial branch for the Tribe including a Tribal Court and Supreme Court; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text> the Legislature has determined that it is in the best interest of the Tribe enact Rules of Civil Procedures to provide access to the Judicial branch for members of the Tribe and others.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text> that the Legislature enacts the attached Kiowa Rules of Civil Procedure.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution No. KL-CY-2017-008 was duly voted upon at a duly called Session III of the Legislature of the Kiowa Tribe held this 8th day of July 2017, the following Resolution and Law were adopted, with a vote of ( 5 ) in favor, and ( 0 ) opposed, ( 0 ) abstaining, and ( 0 ) absent, pursuant to the authority vested in the Kiowa Tribe Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite></text>
+    <text>
+      <strong>Rhonda J. Ahhaitty Secretary</strong>
+    </text>
+    <text>
+      <strong>of the Kiowa Tribe Legislature</strong>
+    </text>
+    <text>
+      <strong>RESOLUTION NO KL-CY-2017-008</strong>
+    </text>
+    <text>
+      <strong>SPONSOR: RENEE M. PLATA, SPEAKER OF THE KIOWA TRIBE LEGISLATURE</strong>
+    </text>
+    <text>
+      <strong>CO-SPONSOR(S): RHONDA J. AHHAITTY, SECRETARY OF THE KIOWA LEGISLATURE; ANITA ONCO-JOHNSON, LEGISLATOR; DAVE GEIMAUSADDLE, LEGISLATOR; RONALD C. POOLAW, LEGISLATOR LEGISLATORS</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Rhonda J. Ahhaitty, Secretary</td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Renee M. Plata, Speaker</td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Ronald C. Poolaw, Sr.</td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Dave Geimausaddle</td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Anita L. Onco-Johnson</td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. <strong>KL-CY-2017-08</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>13</strong><sup><strong>th</strong></sup> day of <strong>July 2017</strong>, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)</cite> (IV) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>
+      <strong>Rhonda J. Ahhaitty, Secretary</strong>
+    </text>
+    <text>
+      <strong>of the Kiowa Tribe Legislature</strong>
+    </text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this _________ day of ________________, 2017.</text>
+    <text>
+      <strong>Matthew Komalty, Chairman</strong>
+    </text>
+    <text>
+      <strong>of the Kiowa Tribe</strong>
+    </text>
+    <text>Presented by the Chairman to the Legislature on the _________ day of ________________, 2017.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ] 	NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Rhonda J. Ahhaitty, Secretary</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Renee M. Plata, Speaker</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Ronald C. Poolaw, Sr.</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Dave Geimausaddle</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Anita L. Onco-Johnson</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution No. <strong>KL-CY-2017-008</strong> was duly voted upon at a duly called <strong>Session III</strong> of the Legislature of the Kiowa Tribe held this <strong>8</strong><sup><strong>th</strong></sup> day of <strong>July 2017</strong>, the following Resolution and Law were adopted, with a vote of <strong>( 5 ) </strong>in favor, and <strong>( 0 )</strong> opposed, <strong>( 0 )</strong> abstaining, and <strong>( 0 )</strong> absent, pursuant to the authority vested in the Kiowa Tribe Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Rhonda J. Ahhaitty, Secretary</strong>
+    </text>
+    <text>
+      <strong>of the Kiowa Tribe Legislature</strong>
+    </text>
+  </procedural-data>
+  <text>KIOWA RULES OF CIVIL PROCEDURE</text>
+  <section>
+    <num>I</num>
+    <heading>GENERAL PROVISIONS.</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>1</num>
+      <heading>SCOPE OF RULES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Scope. Except when different rules prescribed in <cite path="">this Code</cite> specifically apply, these rules shall govern the procedure in the Trial and Supreme Courts of the Kiowa Tribe in all actions, suits, and proceedings of a civil nature and in all special proceedings established by law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Construction. These rules shall be liberally construed to secure a just, speedy, and inexpensive determination of every action.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>One Form of Action. There shall be one form of action known, except in criminal cases, as a "civil action".</text>
+      </para>
+    </container>
+  </section>
+  <section>
+    <num>II</num>
+    <heading>COMMENCEMENT OF ACTION AND PRELIMINARY MATTERS.</heading>
+    <container>
+      <prefix>Rule</prefix>
+      <num>2</num>
+      <heading>COMMENCEMENT OF ACTION; SERVICE OF PROCESS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Commencement of Action. A civil action is commenced by filing a complaint and serving a copy of such on the defendant or defendants as provided herein. The court shall have jurisdiction from such time as both the complaint is filed and properly served upon the defendant and a return of service is filed with the clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Service of Process. Service of process shall consist of delivering to the party served a copy of the complaint along with a summons, which need not be issued by the judge or clerk, which advises the defendant that he is required to answer the complaint within 20 days (or in case the Tribe is a defendant, 60 days) or a default judgment will be entered against him.</text>
+        <para>
+          <num>(1)</num>
+          <text>The return of service shall be endorsed with the na.me of the person serving and the date, time, and place of service and shall be filed with the clerk.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Service may be made on a party by delivering the required papers to the party himself or upon some person of suitable. age and discretion over 14 years old at the party's home or principal place of business, or on an officer, managing agent or employee, or partner of a. non individual party.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Service by publication may be made upon order of the court for good cause shown by publishing the contents of the summons in a local newspaper of general circulation at least once per week for four weeks and by leaving an extra copy of the complaint or paper with the court for the party.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Service may be made by any law enforcement officer or other person, not a party, 18 years of age or older.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Service upon a person otherwise subject to the jurisdiction of the Kiowa Trial Court may be made anywhere in the State of Oklahoma; otherwise, service shall be made within any and all lands which are held by, .and any additional lands acquired by, the Tribe, and any lands held by the United States for the benefit of the Tribe or the People.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>If a person personally refuses to accept service, service shall be deemed performed if the person is informed of the purpose of the service and offered copies of the papers served.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>All papers required to be filed shall be served as under <cite path="II|2">this rule</cite> or, except for the complaint, may be served on the counselor or attorney of record for a party. Service of all papers except the complaint may be made by mail, first class postage prepaid and properly addressed.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>3</num>
+      <heading>TIME.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Computation. In computing any period of time set forth herein, the day that the period is to commence from shall not be counted and the last day of the period shall be counted; provided, however, that any time period under 7 days will not include intermediate Saturdays, Sundays, or legal holidays in the period and any period which would otherwise end on a Saturday, Sunday, or legal holiday will be deemed to end on the next day which is not a Saturday, Sunday, or legal holiday.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Enlargement. The Court for good cause shown may enlarge the prescribed period of time within which any required act may be done.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Notice of Motions. Written motions and notices of hearing thereon, other than ones that may be heard ex parte, shall be served not later than 5 days (or where the Tribe is a party upon whom notice is served, 20 days) prior to the time specified for hearing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Service by Mail. Whenever service is accomplished by mail, three days shall be added to the prescribed period of time, but such additional shall not cause Saturdays, Sundays, or legal holidays to be counted in the time period if they would not otherwise have been counted.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>4</num>
+      <heading>PLEADINGS, MOTIONS, AND ORDERS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Pleadings. There shall be a complaint and an answer; plus, a responsive pleading shall be allowed whenever, by cross claim, counterclaim or otherwise, a party is first claimed against unless the court shall otherwise order. The court may grant additional leave to plead in the interest of narrowing and defining issues or as justice may require. b) Motions and Orders.</text>
+        <para>
+          <num>(1)</num>
+          <text>Motions. An application to the court for an order shall be by motion and shall be in writing, unless made during a hearing or trial, and shall set forth the relief or order sought, and the grounds therefore stated with particularity. A motion and notice of motion may be set forth together.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Orders. An order includes every directive of the court whether included in a judgment or not and may be made with or without notice to adverse parties and may be vacated or modified with or without notice.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hearings on Motions and Orders. A motion or hearing on an order shall be automatically continued if the judge before whom it was to be heard is unable to hear it on the day specified and no other judge is available to hear it.</text>
+        </para>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>5</num>
+      <heading>GENERAL RULES OF PLEADING.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Claims for Relief. A pleading that sets forth a claim, for affirmative relief shall contain:</text>
+        <para>
+          <num>(1)</num>
+          <text>A short plain statement of the grounds upon which the court's jurisdiction depends, unless the court already has jurisdiction over the matter;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>a short, plain statement of the claim showing that the pleader is entitled to relief; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>a demand for judgment for the relief to which the pleader considers himself entitled. Such claim for relief can be in the alternative or for several types of relief.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Defenses and Denials. A party shall state in plain, concise terms the grounds upon which he bases his defense to claims pleaded against him and shall admit or deny the claims and statements upon which the adverse party relies. If he is without information or knowledge regarding a statement or claim, he shall so state and such shall be deemed to be a denial. Denials shall fairly meet the substance of the claims or statements denied and may be made as to specific parts but not all of a claim, statement, or averment. A general denial shall not be made unless the party could in good faith deny each and every claim covered thereby. A claim to which a responsive pleading is required, except for amount of damages, shall be deemed admitted unless denied; if no responsive pleading is allowed the claims of the adverse party shall be deemed denied.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>General Content of Claims and Defenses. Claims and defenses shall be simply, concisely, and directly stated, but may be in alternative or hypothetical form, one or several counts or defenses, need not be consistent with one another, and may be based on legal or equitable grounds or both.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Affirmative Defenses. Matters constituting an affirmative defense or avoidance shall be affirmatively set forth. When a party has mistakenly designated a defense as a counterclaim or vice versa, the court may treat the pleading as if it had been properly designated if justice so requires.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Construction of Pleadings. All pleadings shall be so construed as to do substantial justice.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>6</num>
+      <heading>FORM OF PLEADINGS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Caption. Every pleading shall contain a caption containing the name of the court, the title of the action, the court file number (if known) and a designation as to what kind of pleading it is. All pleadings shall contain the names of the parties except the name of the first party on each side may be used on all pleadings except the complaint.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Paragraphs. All averments of claim or defense shall be set forth in separate numbered paragraphs each of which is limited, as nearly as possible, to a single circumstance. Claims or defenses founded upon separate transaction or occurrences should be set forth in separate counts or defenses.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Exhibits; Adoption by Reference. Statements in a pleading may be adopted by reference in a different part of the same pleading or in another pleading or in any motion. A copy of a written instrument that is an exhibit to a pleading is a part thereof for all purposes.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Paper Used in Pleadings. Insofar as is possible, pleadings and other papers filed in any action shall be on letter size paper, double spaced, except for matters customarily single spaced, contain at least a 2-inch top margin and a 1-inch left side margin, and contain the court file number on the first page thereof. Substantial compliance with <cite path="II|6">this rule</cite> will be sufficient for all parties not represented by a professional attorney.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>7</num>
+      <heading>DEFENSES AND OBJECTIONS</heading>
+      <para>
+        <num>(a)</num>
+        <text>When Presented. A defendant or other party against whom a claim has been made or affirmative relief shall have 20 days (or in the case of the Tribe, 60 days) from the date of service upon him to answer or respond to the claim.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Motions. Motions to dismiss or to make the opposing parties' pleadings more definite may be made prior to answering a claim and an answer will not be due until 10 days after the disposition of the motion by the Court.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>8</num>
+      <heading>COUNTERCLAIM OR CROSSCLAIM</heading>
+      <para>
+        <num>(a)</num>
+        <text>Counterclaim. A party against whom a claim is made may assert in his answer any claims he has against the party claiming against him and both claims shall be resolved at trial.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Crossclaim. A party against whom a claim is made may assert any claim he has against a co-party and have such claim resolved at trial.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Third Party Claim. A party against whom a claim is made may complain against a third party who is or may be liable for payment for performance of the claim of the opposing party and have such complaint resolved at trial.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>9</num>
+      <heading>AMENDMENT OF PLEADINGS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Amendment Before Trial. A party may amend his pleadings once before the opposing party has replied or if no reply is required, not less than 20 days before the case is scheduled for trial. The opposing party may respond if appropriate and the trial date be delayed if necessary. Other amendments shall be allowed only upon motion and order of the Court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>At Trial. When issues or evidence not raised in the pleadings are heard at trial, the judgment may conform to such issues or evidence without the necessity of amending the pleadings.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>10</num>
+      <heading>PARTIES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Real Party in Interest. Every action shall be prosecuted in the name of the real party in interest, except a personal representative or other person in a fiduciary position can sue in his own name without joining the party for whose benefit the action is maintained.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Guardian Ad Litem. When an infant, or insane, or incompetent person who has not had a general guardian appointed is a party, the Court shall appoint a guardian ad litem to represent such person in the suit or action.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Joinder of Parties. To the greatest extent possible given the limited jurisdiction of the Kiowa Trial Court, all persons or parties interested in a particular action may be jointed in the action, but failure to join a party over whom the Court has no jurisdiction will not require dismissal of the action unless it would be impossible to reach a just result without such party; otherwise, the failure to Join a party maybe taken into account to assure that justice is done.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>11</num>
+      <heading>INTERVENTION.</heading>
+      <text>A person may intervene and be treated in all respects as a party to an action in cases in which property in which he has an interest may be affected or a question of law or fact common to a claim of his may be litigated.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>12</num>
+      <heading>SUBSTITUTION OF PARTIES.</heading>
+      <text>If a party dies or becomes incompetent or transfers his interest or separates from some official capacity, a substitute party may be jointed or substituted as justice requires.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>13</num>
+      <heading>DISCOVERY.</heading>
+      <text>Reasonable discovery shall be permitted.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>14</num>
+      <heading>JURY TRIALS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>When Allowed. Trials of all civil actions shall be to the Court without a jury unless a party to the action files a request for a jury trial and plays a fee of $5,000 not less than 25 days prior to the scheduled date of trial. A judge may, upon good cause shown, waive payment of the required fee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Issues Triable. Unless the requesting party specifies otherwise, all factual issues properly triable by a jury shall be decided by the jury at trial. A party requesting a jury trial may specify only those issues he wants tried to the jury, and any other party may specify, nor less than 5 days before the date scheduled for trial, any other issues he wishes to be so tried. Once any or all issues of a case have been requested for a jury trial, such request may not be withdrawn Without the consent of all the parties.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Designation by Judge.</text>
+        <para>
+          <num>(1)</num>
+          <text>A judge may, upon his own motion, order the trial by a jury of any or all of the factual issues of a case regardless of whether or not the parties have requested such.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A judge may, upon motion of any party or on its own initiative, find that some or all of the issues designated for jury trial are not properly triable to a jury, and order that no jury trial be held on such issues.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A judge may hear and decide an issue or issues without a jury if either party to an issue fails to appear at trial, regardless of any request made for a jury trial on such issues.</text>
+        </para>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>15</num>
+      <heading>ASSIGNING CASES FOR TRIAL.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Assignment of Judge and Date. The Chief Judge shall determine which judge shall hear a case and shall provide by rule for the placing of cases on the court calendar with or without the request of any party provided all parties are given adequate notice of trial dates.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Postponement. Upon motion of a party, the court may in its discretion, an upon such terms as it deems just, including the payment of any cost occasioned by such postponement, postpone a trial or proceeding upon good cause shown.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>16</num>
+      <heading>DISMISSAL OF ACTION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Voluntary Dismissal. Prior to the responsive pleading of a party against whom a claim has been made or motion to dismiss or for summary judgment on such claim, the party making the claim may file a notice of dismissal and his claims shall be deemed dismissed without prejudice. In all other circumstances a party may move the court to dismiss his own clam and the court shall do so either with or without prejudice as is just and proper given the stage of the proceedings, provided, however, if a cross or counterclaim has been filed against the moving party, the judge shall dismiss the claim only when the consent of the adverse party or only if it appears that the other party can prosecute his claim independently without undue additional hardship.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Involuntary Dismissal. A party against whom a claim has been made may move the court to dismiss the claim of the adverse party upon any of the following grounds:</text>
+        <para>
+          <num>(1)</num>
+          <text>failure of the adverse party to pursue prosecution of his claim; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Failure of the adverse party to comply substantially with these rules; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>failure of the adverse party to comply with an order of the court; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>at the close of the presentation of the other party's evidence and without prejudicing his own right to present evidence, failure of the opposing party to establishing a right to relief based on the facts and law presented.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>whenever dismissal appears proper based upon a failure to provide a claim.</text>
+        </para>
+      </para>
+      <text>Such dismissal shall be deemed an adjudication of the merits of the issue dismissed unless the court shall, for good cause shown order otherwise. The court may postpone ruling on a motion to dismiss for failure to establish a right to any relief until the close of all the evidence.</text>
+      <para>
+        <num>(c)</num>
+        <text>The court may order a party moving to dismiss his own claim to pay the costs of the adverse party if the proceeding has progressed beyond the pleading stage and may order payment of costs in other circumstances where such is deemed appropriate.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>17</num>
+      <heading>CONSOLIDATION; SEPARATE TRIALS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Consolidation. The court may, upon motion of any party or its own motion, order some or all of the issues of separate actions tried together when there is a common issue of fact or law relating the actions or if such will tend to avoid unnecessary cost or delay. b) Separate Trials. The court may, to avoid prejudice or in furtherance of convenience, order a separate trial of a claim or issue.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>18</num>
+      <heading>EVIDENCE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Form and Admissibility. At all hearings and trials, the testimony of witnesses shall be taken orally under oath, unless otherwise provided in these rules. All evidence admissible under general rules of evidence or as specified elsewhere in tribal ordinances shall be admissible and the competency of witnesses to testify shall be similarly determined.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Examination and Cross Examination.</text>
+        <para>
+          <num>(1)</num>
+          <text>A party may use leading questions against an adverse party or hostile witness or whenever such appears reasonably necessary to elicit testimony from witnesses of tender years or poor ability to communicate.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A party may call any person to a witness and examine any witness so called on any matter relevant to the action. A party may impeach his own witness.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Cross examination shall be limited to the general scope of direct examination, provided, however, that full examination of all witnesses shall be allowed on direct or cross examination to assure complete development of all relevant facts.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Physical Evidence. Written documents and other physical evidence shall be received upon being identified and a showing of relevance to the action.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Official Documents. Official documents or an official law record or copy thereof may be admitted into evidence upon the testimony of an official having custody or official knowledge thereof or without such testimony if the document or record or copy thereof is accompanied by a certificate identifying such thing and stating that it is a true and correct representation of what it purports to be.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Record of Excluded Evidence. In an action tried to a jury, excluded evidence may upon request be included in the record for purposes of appeal and excluded oral testimony shall be put into evidence by means of an offer of proof made out of the hearing of the jury. In an action tried only to the court, the judge may receive such, excluded testimony into the record.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>19</num>
+      <heading>SUBPOENAS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Issuance. Subpoenas for attendance of witnesses or production of documents or things shall be issued by the clerk of the Trial Court and served by any police officer or other persons not a party over 18 years of age.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Failure to Appear. A person who has been properly served with a subpoena and fails to appear or produce may be deemed in contempt of court and/or the Court may order his arrest for the offense of Failure to Obey a Lawful Order of the Court.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>20</num>
+      <heading>JURORS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Number of Jurors; Alternate. There shall be six jurors chosen to hear a case plus the Court may allow one additional juror to be chosen as an alternate juror. In the event that an alternate juror is chosen and hears the case, he shall be dismissed prior to the jury's deliberation if not needed and treated like a regular juror if needed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Examination of Jurors. The court shall permit the parties or the attorneys to conduct the examination of prospective jurors and may itself examine the jurors.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Challenges.</text>
+        <para>
+          <num>(1)</num>
+          <text>A challenge is an objection made to a potential trial juror. Either party may challenge jurors but where there are several parties on each side, they must agree to join in a challenge before it can be made.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Challenges to jurors are either peremptory or for cause. Each party or side shall be entitled to three peremptory challenges.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Challenges for cause shall be made against a potential juror on the grounds that he is not entitled or qualified to be a juror, he is familiar with the case or has formed an opinion regarding the case, or if for any other reason it appears likely or reasonably possible that a juror will not be able to render a fair, impartial verdict. The judge may take evidence relative to a challenge for cause and shall in any event render a decision thereon.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Selection of Jury. The Clerk shall draw lots to determine potential jurors and shall replace jurors for whom a challenge is sustained until a full panel is completed. Upon completion, the clerk shall administer the oath to the jurors, the form of which shall be prescribed by rule of the Court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Discharge of Juror. If, after the proceedings begin and before a verdict is reached, a juror becomes unable or disqualified to perform his duty, the alternate juror shall take his place; if there is no alternate juror, the parties may agree to complete the action with the other jurors. If no agreement can be reached, the judge shall discharge the jury and the case shall be tried with a new jury.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>View of Jury. The Court may, for good cause shown allow the jury to view the property or place of occurrence of a disputed or otherwise relevant event.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Separation of the Jury. Any time prior to their verdict when the jurors are allowed to leave the courtroom, the judge shall admonish them not to converse with or listen to any other person on the subject of the trial and further admonish them not to form or express an opinion on the case until the case is submitted to the jury for their decision.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Deliberation. Once the case is submitted to them, the jury shall retire to deliberate in private under the charge of an officer of the court who will refrain from communicating with them except to inquire whether they have reached a verdict, and he shall prevent others from improperly communicating with the jury.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Things Taken by Jury. The jury may take with them when deliberating any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>the Court's instructions.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>papers or things received in evidence as exhibits.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>notes taken by the jurors themselves, but not notes taken by a non-juror.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Additional Instructions. If after the jury retires, there is some question on an instruction or other point of law or disagreement regarding the testimony, the jury may request additional instructions from the Court, such to be given on the record after notice to the parties or their counsel.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>. 	No Verdict. If the jury is discharged before rendering their verdict or for any reason prevented from giving a verdict, the action shall be retried.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Declaration of the Verdict. When at least five all or of the six jury members agree on a verdict, they shall so inform the officer who shall notify the Court. A unanimous verdict shall be required in criminal trial. The jury shall be conducted into the courtroom, the clerk shall call the jury roll; the verdict shall be given in writing to the clerk and then read by the clerk to the court; inquiry shall be made by the court to the jury foreman as to whether such is their verdict. Either party may have the jury polled individually to determine if such is, in fact, their verdict. If insufficient jurors agree with the verdict, the jury shall be sent out again to reconsider; otherwise, the verdict is complete and the jury shall be dismissed. If the verdict is read or recorded incorrectly by the clerk or foreman, the jury shall retire to correct the verdict.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>21</num>
+      <heading>SPECIAL VERDICTS AND INTERROGATORIES.</heading>
+      <text>The court may require the jury to return their verdict in the form of specific findings on specified issues or may require the jury to return a general verdict accompanied by answers to questions related to the issue under consideration.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>22</num>
+      <heading>INSTRUCTIONS TO THE JURY; ARGUMENTS,</heading>
+      <para>
+        <num>(a)</num>
+        <text>Instructions. At the close of the evidence or at such earlier time as the Court may direct, any party may file written requested instructions for the court to give the jury. The court shall inform the parties or their counsel of the instructions It intends to give and hear argument thereon out of the hearing of the jury.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Arguments. Final arguments for the parties shall be made after the jury has been instructed. The court shall not comment on the evidence of the case and, if it should restate any of the evidence, it shall inform the jury that they are the sole judges of the facts.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>23</num>
+      <heading>MOTIONS FOR DIRECTED VERDICT AND FOR JUDGMENT NOTWITHSTANDING THE VERDICT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Motion for a Directed Verdict. A party who moves for a directed verdict at the close of the evidence offered by the opposing side may offer evidence as if no motion had been made in the event that the motion is denied. A motion for directed verdict shall state the grounds therefore and may be granted by the court without the assent of the jury.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Motion for Judgment Notwithstanding the Verdict. A party who has made a motion or a directed verdict at the close of all the evidence, which motion has been denied or not granted, may, within 10 days after entry of judgment move to have the verdict and any judgment entered thereon set aside and entered according to his motion for directed verdict; or if there has been verdict, the party may so move within 10 days after the jury has been discharged. A motion for a new trial may be made in the alternative. The court shall enter judgment or make any orders consistent with his decision on the motion.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>24</num>
+      <heading>FINDINGS BY THE COURT.</heading>
+      <text>In cases tried without a jury, and except in cases where a party defaults, fails to appear or otherwise waives such, findings of fact and conclusions of law shall be made by the court in support of all final judgments. Upon its own motion or the motion of any party within ten days of the entry of judgment, findings may be amended or added to and the judgment may be amended accordingly.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>25</num>
+      <heading>JUDGMENT: COSTS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Definition. A judgment includes any final order from which an appeal is available and no special form of judgment is required.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Judgment on Multiple Claims. When more than one claim for relief is presented in an action, however designated, a final judgment may be entered on less than all of such claims only upon the Court's specifically finding that such is justified. Absent such a finding, an order or decision will not terminate the action as to any of the claims until all claims are finally decided, nor will the appeal period commence to run.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Demand for Judgment.</text>
+        <para>
+          <num>(1)</num>
+          <text>Generally. Except in the case of a default judgment, every final judgment shall grant the relief to which the party in whose favor it is rendered is entitled, even if such relief is not demanded in the pleadings. It may be given for or against one or more of several claimants; and it may, if justice so requires, determine the ultimate rights of the parties on each side as between or among themselves.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Judgment by Default. A judgment by default shall not be different in kind from, or exceed in amount, that specifically prayed for in the demand for judgment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Costs. Unless the court shall otherwise direct, the court shall allow necessary costs and disbursements to the prevailing party or parties as a matter of course. Such prevailing party shall file with the court a verified memorandum of his costs and necessary disbursements within five (5) days of the entry of judgment and serve a copy of such on the opposing party, and if such are not objected to within 10 days, they shall be deemed to be a part of and included in the judgment rendered. The Supreme Court may award costs in a like manner. Costs shall not be awarded against the Kiowa Tribe by either the trial or Supreme Court without the consent of the Tribe.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Attorney Fees. The court shall not award attorney fees in a case unless such have been specifically provided for by a contract or agreement of the parties under dispute, or unless it reasonably appears that the case has been prosecuted for purposes of harassment only, or that there was no reasonable expectation of success on the part of the affirmatively claiming party.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>26</num>
+      <heading>DEFAULT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Entry of Default. When a party against whom a judgment for affirmative relief is sought has failed to plead or otherwise defend as provided by these rules, his default may be entered by the clerk and judgment by default granted. Once the default is entered no further notice to the defaulting party of any action taken or to be taken need be given.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Judgment by Default. Judgment by default may be entered by the clerk if a party's claim against the opposing party is for a sum of money which is or can by computation be made certain, and if the opposing party has been personally served on the reservation. Otherwise, judgment by default can be entered only by the court upon receipt of whatever evidence the court deems necessary to establish the claim. No judgment by default shall be entered against the Kiowa Tribe.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Setting Aside Default. The court may, for good cause shown set aside either an entry of default improperly entered or entered against the Kiowa Tribe.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>27</num>
+      <heading>SUMMARY JUDGMENT.</heading>
+      <text>Anytime 20 days after commencement of an action, any party may move the court for summary judgment as to any or all of the issues presented in the case and such shall be granted by the court if it appears that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law.</text>
+      <text>Such motions, which shall be served not less than 10 days prior to the hearing on said motion, may be supported by affidavits, discovery, or memoranda, all of which must be made available to opposing parties at least two days prior to the hearing.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>28</num>
+      <heading>ENTRY OF JUDGMENT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Judgment. Judgment upon verdict of a jury shall be signed by the clerk and filed. All other judgments shall be signed by the judge and filed with the clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Effectiveness; Recordation. A judgment is complete and shall be deemed entered for all purposes when it is signed and filed as provided herein. The clerk shall immediately make a notation of the judgment in the register of actions and the judgment docket.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Death of a party. If a party dies after a verdict or decision upon any issue of fact and before judgment, judgment may nevertheless be entered thereon.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Satisfaction of Judgment. A judgment may be satisfied, in whole or in part, as to any or all of the judgment debtors by the owner thereof or his attorney of record executing under oath and filing an acknowledgment of satisfaction specifying the amount paid and whether such is a full or partial satisfaction. A judge may order the entry of satisfaction upon proof of payment and failure of the judgment creditor to file a satisfaction. The clerk shall file all satisfactions of judgment and note the amount thereof in the register of actions and the judgment docket.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Effect of Satisfaction; Limitation. A judgment satisfied in whole, with such act being entered in the judgment docket, shall cease to operate as such. A partially satisfied judgment or unsatisfied judgment shall continue in effect for eight (8) years or until satisfied. An action to renew the judgment remaining unsatisfied may be maintained any time prior to the expiration of eight (8) years and will extend the period of limitations an additional 8 years and may be thereafter further extended by the same procedure.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>29</num>
+      <heading>NEW TRIALS: AMENDMENTS OF JUDGMENT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Grounds; Time. Any party may petition for a new trial on any or all of the issues presented by serving a motion not later than 10 days after the entry of judgment for any of the following causes:</text>
+        <para>
+          <num>(1)</num>
+          <text>error or irregularity which prevented any party from receiving a fair trial; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>misconduct of the jury or jury members; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>accident or surprise, or newly discovered evidence which ordinary prudence could not have guarded against or produced at trial; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>damages so excessive or inadequate that they appear to have been</text>
+          <text>given under influence of passion or prejudice; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>insufficiency of the evidence to justify the verdict or other decision, or that it is against the law; or</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>error in law.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Harmless Error. A new trial shall not be granted on the basis of error irregularity that was harmless in that It did not affect substantial justice.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Support for Motion. Parties may include memoranda or affidavits in support of their motions to which reply memoranda and affidavits shall be allowed if desired.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Court Initiative. The court may, on its own initiative, not later than 10 days after entry of judgment, order a new trial on any grounds assertible by a party to the action, and shall specify the reasons for so ordering.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Motion to Alter or Amend Judgment. A motion to alter or amend a judgment shall be served not later than 10 days after entry of the judgment.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>30</num>
+      <heading>RELIEF FROM JUDGMENT OR ORDER.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Clerical Mistakes. Clerical mistakes in judgments, orders or other parts of the record and errors herein arising from oversight or omission may be corrected by the court at any time of its own initiative or on the motion of any party and after such notice as the court may direct; mistakes may be corrected before an appeal is docketed in the Supreme Court, and thereafter while the appeal is pending may be corrected with leave of the Supreme Court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Mistakes; Inadvertence; Excusable Neglect; Newly Discovered Evidence; Fraud, etc. On motion and upon such terms as are just, the court may, in the furtherance of justice, relieve a party or his legal representative from a final. judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under <cite path="II|30">Rule 29(a)</cite>; (3) fraud, misrepresentation or other misconduct of an adverse party; (4) when, for any cause, the summons in an action has not been personally served upon the defendant and the defendant has failed to appear in said action; (5) the judgment is void; (6) the judgment has been satisfied, released, or discharged, or a judgment upon which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (7) any other reason justifying relief from the operation of the judgment. The motion shall be made with a reasonable time and for reasons (1), (2), (3), or (4), not more than 3 months after the judgment, order, or proceeding was entered or taken. A motion under this subdivision (b) does not affect the finality of a judgment or suspend its operation. <cite path="II|30">This rule</cite> does not limit the power of a court to entertain an independent action to relieve a party from a judgment, order or proceeding or to set aside a judgment for fraud upon the court. The procedure for obtaining any relief from a judgment shall be by motion as prescribed in these rules or by an independent action.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>31</num>
+      <heading>HARMLESS ERROR.</heading>
+      <text>No error in either the admission or the exclusion of evidence, and no error or defect in any ruling or order or in anything done or omitted by the court or by any of the parties, is ground for granting a new trial or otherwise disturbing a judgment or order, unless refusal to take such action appears to the court inconsistent with substantial justice. The court at every stage of the proceeding shall disregard any error or defect in the proceeding that does not affect the substantial rights of the parties.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>32</num>
+      <heading>STAY OF PROCEEDINGS TO ENFORCE A JUDGMENT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Stay Upon Entry of Judgment. Proceedings to enforce a judgment may issue immediately upon the entry of the judgment, unless the court in its discretion and on such conditions for the security of the adverse party as are proper, otherwise directs.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Stay on Motion for New Trial or for Judgment. In its discretion and on such conditions for the security of the adverse party as are proper, the court may stay the execution of, or any proceedings to enforce, a judgment pending the disposition of a motion for a new trial or to alter or amend a judgment or of a motion for relief from a judgment or order, or of a motion for judgment in accordance with a motion for a directed verdict, or of a motion for amendment to the findings or for additional findings.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Injunction Pending Appeal. When an appeal is taken from an interlocutory or final judgment granting, dissolving, or denying an injunction, the court in its discretion may suspend, modify, restore, or grant an injunction during the pendency of the appeal upon such conditions as it considers proper for the security of the rights of the adverse party.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Stay Upon Appeal. When an appeal is taken the appellant by giving a supersedeas bond in an amount set by the court may obtain a stay, unless such a stay is otherwise required or prohibited by law or by these rules. The bond may be given at or within 10 days after the time of filing the notice of appeal. The stay is effective when the bond is paid to the court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Stay in Favor or the Tribe, or Agency Thereof. When an appeal is taken by the Tribe, or an officer or agency of the Tribe in an official capacity, the operation or enforcement of the judgment is automatically stayed, and no bond, obligation, or other security shall be required from the appellant.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Power of Supreme Court Not Limited. The provisions in <cite path="II|32">this rule</cite> do not limit any power of the Supreme Court or of a judge or justice thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Stay of Judgment upon Multiple Claims. When a court has ordered a final judgment on some but not all of the claims presented in the action under the conditions stated in Rule 25, the court may stay enforcement of that judgment until the entering of a subsequent judgment or judgments and may prescribe such conditions as are necessary to secure the benefit thereof to the party in whose favor the judgment is entered.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Waiver of Undertaking. In all cases, the parties may, by written stipulation, waive the requirements of <cite path="II|32">this rule</cite> with respect to the filing of a bond or undertaking. In all cases where an undertaking is required by these rules a deposit in court in the amount of such undertaking, or such lesser amount as the court may order, is equivalent to the filing of the undertaking.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>33</num>
+      <heading>DISABILITY OR DISQUALIFICATION OF A JUDGE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Disability. If by reason of death, sickness, or other disability, a judge before whom an action has been tried is unable to perform the duties to be performed by the court under these rules after a verdict is returned or findings of fact and conclusions of law are filed, then any other judge regularly sitting in or assigned to the court may perform those duties; but if such other judge is satisfied that he cannot perform those duties because he did not preside at the trial or for any other reason, he may in his discretion grant a new trial.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Disqualification. Whenever a party to any action or proceedings, civil or criminal, or his attorney shall make and file an affidavit that the judge before whom such action or proceeding is to be tried or hear has a bias or prejudice, either against such party or his attorney or in favor of any opposite party to the suit, such judge shall proceed no further therein, except to call in another judge to hear and determine the matter.</text>
+        <text>Every such affidavit shall state the facts and the reasons for the belief that such bias or prejudice exists and shall be filed as soon as practicable after the case has been assigned or such bias or prejudice is known. If the judge against whom the affidavit is directed questions the sufficiency of the affidavit, he shall enter an order directing that a copy thereof be forthwith certified to another judge (naming him), which judge shall then pass upon the legal sufficiency of the affidavit. If the judge against whom the affidavit is directed does not question the legal sufficiency of the affidavit, or if the judge to whom the affidavit is certified finds that it is legally sufficient, another judge must be called in to try the case or to determine the matter in question. No party shall be entitled in any case to file more than one affidavit; and no such affidavit shall be filed unless accompanied by a certificate of counsel of record that such affidavit and application are made in good faith.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>34</num>
+      <heading>INJUNCTIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Preliminary Injunction; Notices. No preliminary injunction shall be issue without notice to the adverse party.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Temporary Restraining Order; Notice; Rehearing; Duration. No temporary restraining order shall be granted without notice to the adverse party unless it clearly appears from specific facts shown by affidavit or by the verified complaint that immediate and irreparable injury, loss, or damage will result to the applicant before notice can be served and a hearing had thereon. Every temporary restraining order granted without notice shall be endorsed with the date and hour of issuance; and shall be filed forthwith in the clerk's office and entered of record; shall define the injury and state why it is irreparable and why the order was granted without notice; and shall expire by its terms within such time after entry, not to exceed 15 days, as the court fixes, unless within the time so fixed the order, for good cause shown, is extended for a like period or unless the party against whom the order is directed consents that it may be extended for a longer period. The reasons for the extension shall be entered of record. In case a temporary restraining order is granted without notice, the motion for a preliminary injunction shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character; and when the motion comes on for hearing the party who obtained the temporary restraining order shall proceed with the application for a preliminary injunction and, if he does not do so, the court shall dissolve the temporary restraining order. On 2 days notice to the party who obtained the temporary restraining order without notice or on such shorter notice to that party as the court may prescribe, the adverse party may appear and move its dissolution or modification and in that event the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Security. Except as otherwise provided by law, no restraining order or preliminary injunction shall issue except upon the giving of security by the applicant, in such sum as the court deems proper, for the payment of such costs and damages as may be incurred or suffered by any party who is found to have been wrongfully enjoined or restrained. No such security shall be required of the United States, the Kiowa Tribe, or of an officer, or agency, of either acting in an official capacity; nor shall it be required of a married person in a suit against the other party to the marriage contract.</text>
+        <text>A surety upon a bond or undertaking under <cite path="II|34">this rule</cite> submits himself to the jurisdiction of the court and irrevocably appoints the clerk of the court as his agent upon whom any papers affecting his liability on the bond or undertaking may be served. His liability may be enforced on motion without the necessity of an independent action. The motion and such notice of the motion as the court prescribes may be served on the clerk of the court who shall forthwith mail copies to the persons giving the security if their addresses are known.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Form and Scope of Injunction or Restraining Order; Service. Every order granting an injunction and every restraining order shall be specific in terms; shall describe in reasonable detail, and not by reference to the complaint or other document, the act or acts sought to be restrained; and is binding only upon the parties to the action, their officers, agents, servants, employees, and attorneys, and upon those persons in active concert or participation with them who receive actual notice of the order by personal service or otherwise.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Grounds for Injunction. An injunction may be granted:</text>
+        <para>
+          <num>(1)</num>
+          <text>When it appears by the pleadings on file that a party is entitled to the relief demanded, and such relief, or any part thereof, consists in restraining the commission or continuance of some act complained of, either for a limited period or perpetually.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When it appears from the pleadings or by affidavit that the commission or continuance of some act during the litigation would produce great or irreparable injury to the party seeking injunctive relief.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When it appears during the litigation that either party is doing or threatens, or is about to do, or is procuring or suffering to be done, some act of violation of the rights of another party respecting the subject matter of the action, and tending to render the judgment ineffectual.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In all other cases where an injunction would be proper in equity. Rule</text>
+        </para>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>35</num>
+      <heading>EXTRAORDINARY WRITS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Grounds for Relief. Where no other plain, speedy and adequate remedy exists, relief may be obtained by obtaining an extraordinary writ that may be granted for any one of the following grounds:</text>
+        <para>
+          <num>(1)</num>
+          <text>Where any person usurps, intrudes into, or unlawfully holds or exercises a public office or does or permits to be done any act which by law works a forfeiture of his office; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Where an inferior tribunal, board or officer exercising judicial functions has exceeded its jurisdiction or abused its discretion; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Where the relief sought is to compel any inferior tribunal, board or person to perform an act which the law specially enjoins as a duty resulting from an office, trust or station; or to compel the admission of a party to the use and enjoyment of a right or office to which he is entitled and from which he is excluded by such inferior tribunal, board or person; or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Where the relief sought is to arrest the proceedings of any tribunal, board or person, whether exercising functions judicial or ministerial, when such proceedings are without or in excess of the jurisdiction of such tribunal, board, or person.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Habeas Corpus. Appropriate relief by habeas corpus proceedings shall be granted whenever it appears to the court that any person is unjustly imprisoned or otherwise unjustly restrained of his liberty. Upon the filing of the complaint the court shall, unless it appears from such complaint or the showing of the plaintiff that he is not entitled to any relief, issue a writ directed to the defendant commanding him to bring the person alleged to be restrained before the court at a time and place therein specified, at which time the Court shall proceed in a summary manner to hear the matter and render judgment accordingly. If the writ is not issued, the court shall state its reasons in writing and file the same with the complaint and shall deliver a copy thereof to the plaintiff. If the defendant cannot be found, or if he does not have such person in custody, the writ (and any other process issued) may be served upon any one having such person in custody, in the manner and with the same effect as if he had been made defendant. in the action.</text>
+        <text>The defendant shall appear at the proper time and place with the person designated or show good cause for not doing so and must answer the complaint within the time allowed. The answer must state plainly and unequivocally whether he then has, or at any time has had the person designated under this control and restraint, and if so, the cause thereof. If such person has been transferred, the defendant must state that fact, and to whom, when the transfer was made, and the reason or authority therefor. The writ shall not be disobeyed for any defect of form or mis-description of the person restrained or the defendant, if enough is stated to show the meaning and intent thereof.</text>
+        <text>The person restrained may waive his right to be present at the hearing, in which case the writ shall be modified accordingly. Pending a determination of the matter the court may place such person in the custody of such individual or individuals as may be deemed proper.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Habeas Corpus; Decision. In each case, the court, upon determining the case, shall enter specific findings of fact and conclusions of law and judgment, in writing, and the same shall be made a part of the record in the case. If the court finds in favor of the complainant, it shall enter an appropriate order with respect to judgment or sentence in the former proceedings and such further orders with respect to re- arraignment, retrial, custody, bail, or discharge as the court may deem just and proper in the case.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Habeas Corpus Availability. Except in cases of extraordinary injustice, habeas corpus relief shall not be available to a person incarcerated as a result of a criminal conviction where the alleged grounds for relief have been or could have been raised by an appeal following the conviction.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>36</num>
+      <heading>EXECUTION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Time. If within 60 days after entry of a judgment awarding money damages and/or costs against a party, or within 60 days after final resolution of an appeal to the Supreme Court from such a judgment, it is made to appear to the court that the judgment debtor has not paid the judgment amount in full or commenced making installment payments in a manner agreed to by the parties, or is not current in such payments, the Court shall upon motion of the judgment creditor heard ex parte, order the Kiowa Tribal Police to execute on the personal property of the judgment debtor as provided herein.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Procedure. The court shall order the judgment debtor to appear before it and answer under oath regarding all his personal property. The court shall then determine what property of the judgment debtor is available for execution and order the Kiowa Tribal Police to seize as much of such property as reasonably appears necessary to pay the judgment amount. Failure of the judgment debtor to appear may be deemed a contempt of court and the court may proceed without such appearance. Sale of the seized property shall be at public auction conducted by the Kiowa Tribal Police after giving at least 10 days public notice posted in at least three conspicuous places within the Territory of the Tribe. Property shall be sold to the highest bidder who shall make payment for the property at the time of sale. The person conducting the auction may postpone such in his discretion if there is inadequate response to the action or the bidding and may reschedule such upon giving the required notice.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Exemption from Execution. The Court shall only order seizure and sale of such property of the judgment debtor to satisfy a money judgment the loss of which will not impose an immediate substantial hardship on the immediate family of the judgment debtor. Only property of the judgment debtor himself may be subject to execution and not property of his family.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Redemption from Sale. At any time within 6 months after sale under <cite path="II|36">this Rule</cite>, the judgment debtor may redeem his property from the purchases thereof by paying the amount such purchaser paid for the property plus 8 percent interest, plus any expense actually incurred by the purchaser, such as taxes and insurance, to maintain the property.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>37</num>
+      <heading>APPEAL.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Supreme Court. All appeals from the Kiowa Trial Court shall be heard by the Kiowa Supreme Court.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Right to Appeal. Any party who is aggrieved by any final order, commitment or judgment of the trial court may appeal in the manner prescribed by <cite path="II|37">this Rule</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Time; Notice of Appeal. Within 20 days from the entry of the order of judgment appealed from the party taking the appeal must file with the trial court a written notice of appeal specifying the parties to the appeal, the order or judgment appealed from, and a short statement of the reason or grounds for the appeal. The clerk shall file the notice and mail copies, to be provided by the appealing party, to all other parties to the appeal at their last known address.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Parties. The party taking the appeal shall be referred to as the appellant; all other parties shall be referred to as the respondent. The name of the case shall be the same as that used in the trial court.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Bond on Appeal. At the time of filing the Notice of Appeal, the appellant shall also file cash or a surety bond in an amount set by the trial court sufficient to guarantee performance of the judgment if such performance is stayed on appeal plus, in any event, sufficient to guarantee payment of such costs or interest as the Supreme Court may award.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Stay Pending Appeal. In any case in which an appeal is perfected as required by <cite path="II|37">this Rule</cite>, the appellant may petition the trial court for an order staying the order, commitment or judgment rendered conditioned upon execution of a bond to guarantee performance of the judgment, order or commitment. A stay shall begranted in all cases in which it is requested unless manifest injustice would result therefrom.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Clerk. The Clerk of the Trial Court shall also serve as the Clerk of the Supreme Court. Within 5 days after a Notice or Appeal is filed, the Clerk shall prepare, certify and file with the Supreme Court all papers comprising the record of the case appealed. A separate docket shall be maintained for the Supreme Court in which shall be recorded each stage of the proceedings on each case appealed.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Subpoenas. The presiding judge of the Supreme Court shall, when hearing a case, have authority by subpoena to compel a witness to attend and testify or compel the production of documents where such is deemed necessary to the rendition of the court's opinion. There shall not, however, be a new trial in the appellate court, and, except in cases where the findings of fact of the trial court are clearly erroneous, there will be no review of the factual findings of the trial court.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Briefs and Memoranda. Within 30 days of the filing of the Notice of Appeal or within such longer time as the Supreme Court shall allow, the appellant shall file a written brief, memorandum, or statement in support of his appeal. An original and two copies shall be filed with the clerk and one additional copy shall be served upon or mailed to each other party or his attorney. The respondent shall have 20 days after receipt of the appellant's brief, memorandum or statement and shall file and serve such in the same manner as the appellant's brief, memorandum, or statement. No further response shall be allowed either party without leave of court.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Argument. The Supreme Court shall decide all cases upon the briefs, memoranda and statements filed plus the record of the trial court without oral argument unless either party requests oral argument and shows to the court that such will be likely to aid the court's decision, or unless the court decides on its own motion to hear oral argument.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Decision. The Supreme Court shall issue a written decision and all judgments on appeal which shall be final unless federal law or regulations provide for further extra- Tribal remedies.</text>
+      </para>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>38</num>
+      <heading>CITATION.</heading>
+      <text>These Rules shall be known as the Kiowa Rules of Civil Procedure and may be abbreviated K.R.C.P.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>39</num>
+      <heading>FEES.</heading>
+      <text>The Chief Judge of the Trial Court, under recommendation of the Clerk of the Court, shall, from time to time, set a schedule of fees. Under no circumstances may the fee for an Order of Protection be more than ten dollars ($10). Thirty days prior to the fee schedule going into effect, the Chief Judge shall give notice to the Tribal Legislature and Council that a new schedule is going into effect and provide a copy of the schedule.</text>
+    </container>
+    <container>
+      <prefix>Rule</prefix>
+      <num>40</num>
+      <heading>USE AND APPLICATION OF FEDERAL AND STATE RULES.</heading>
+      <text>To the extent that it is found that certain necessary court procedures and laws have not been adequately addressed in the Kiowa Tribal District Court Rules, the Kiowa Tribal Code of Civil Procedure or by the Kiowa Tribal Law &amp; Order Code, the Kiowa Judiciary may draw upon the Federal Rules of Civil and Criminal Procedure, as well as the Local Court Rules of the United States District Court for the Western District of Oklahoma for guidance and application as in the discretion of the Kiowa Judiciary will best serve the efficient and timely dispensing of justice. Only upon a finding that a such void in the Kiowa Codes and Rules is not adequately addressed by the federal rules, may the Kiowa Judiciary then look to employ the Oklahoma Criminal, Civil and Appellate Procedures.</text>
+    </container>
+  </section>
 </document>

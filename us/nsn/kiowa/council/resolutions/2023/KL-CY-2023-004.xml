@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-004">
   <num>KL-CY-2023-004</num>
-  <heading>Kiowa Tirbal Youth Council Act</heading>
+  <heading>Kiowa Tribal Youth Council Act</heading>
   <meta>
-    <stub/>
     <effective>2023-01-19</effective>
     <history>
       <adopted>2023-01-14</adopted>
@@ -12,4 +11,314 @@
       <citation type="res" url="./adopted/KL-CY-2023-004.pdf">Kiowa Tribe Res. No. KL-CY-2023-004</citation>
     </citations>
   </meta>
+  <text>At a duly called session of the Legislature of the Kiowa Tribe held this 14th day of January, 2023, the following resolution and law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe adopted <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite> ("Constitution") on April 17, 2017 through a Secretarial Election conducted by the BIA; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe supports and promotes endeavors that seek to empower tribal citizens, especially its youth, to attain the highest qualities of character and virtue to become strong leaders among its people; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe supports leadership development for our tribal youth and promotes their involvement in learning about its tribal government system functions; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the future of the Kiowa Tribe depends on the quality of its youth leadership; and.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature joins in efforts to teach our young people about their Tribe and its system of governance so that they will be prepared to assume leadership whenever they are called upon to lead; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature supports continuous leadership development among its Native young people; and,</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text> that the Legislature hereby enacts the attached "KIOWA INDIAN YOUTH COUNCIL ACT"</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2023-004 was duly voted upon by the Legislature on January 14, 2023, at a Legislative Regular Session LXIX (69) with a vote of (6)-Yes, (0)-No, (0)-Abstain, and (1)-Absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Anita Johnson</text>
+    <text>Secretary of the Legislature</text>
+    <text>
+      <strong>LEGISLATURE RESOLUTION NO. KL-CY-2023-004:</strong>
+    </text>
+    <text><strong>SPONSOR:</strong> Ben Wolf, District #6</text>
+    <text><strong>CO-SPONSOR(S):</strong> Warren Queton, District #7</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District #1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed">
+              <p>X</p>
+              <p>Out of District</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District #3</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Alana Quetone</p>
+              <p>District #4</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District #7</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2023-004 was presented to the Chairman of the Kiowa Tribe on the _____ day of January, 2023, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Anita Johnson</text>
+    <text>Secretary of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[ X ] 	APPROVED</text>
+    <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this <u>19</u><sup><u>th</u></sup> day of <u>January</u>, 2023.</text>
+    <text>Lawrence Spottedbird,</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the __________ day of _______________, 2023.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ] 	NO</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District #1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District #3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Alana Quetone</p>
+              <p>District #4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District #7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on ______________________2023, at a Legislative Override Order Session with a vote of ______ In favor and _________ opposed, and __________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Anita Johnson</text>
+    <text>Secretary of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the Kiowa Indian Youth Council Act of 2023.</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Definitions</heading>
+    <para>
+      <num>(a)</num>
+      <text>KIYC - Kiowa Indian Youth Council</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>KTEA - Kiowa Tribal Education Agency</text>
+    </para>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Purpose</heading>
+    <text>The purpose of <cite path="">this Act</cite> is to implement a Kiowa Indian Youth Council to promote leadership development and character building.</text>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Findings.</heading>
+    <text>The Legislature hereby finds and declares that:</text>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature shall pass laws that promote improvements in its government system and,</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Executive Branch shall develop programs to support leadership development and character building among it tribal young people;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Legislature shall support the Executive Branch it its desire to develop programs designed to assist in the development of positive programs to support leadership development among its tribal young people;</text>
+    </para>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Approval of the Kiowa Indian Youth Council of 2023</heading>
+    <text><cite path="">This Act</cite> establishes a Kiowa Indian Youth Council under the Executive Branch which henceforth shall function on a regular basis to support leadership development of its tribal youth:</text>
+    <para>
+      <num>(a)</num>
+      <text>Two members of the Youth Council (grades 7-12) shall be appointed from each of the 7 Legislative Districts;</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The KIYC shall meet once a month each year at the Kiowa Tribal Headquarters</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The KIYC shall function under the auspices of the Kiowa Tribal Education Agency and under the guidance of its Executive Director or his/her designee.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The annual budget of the KIYC shall be $10,000 to be utilized for travel and conference registration.</text>
+    </para>
+  </section>
 </document>

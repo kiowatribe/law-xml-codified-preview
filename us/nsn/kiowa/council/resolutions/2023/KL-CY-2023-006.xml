@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2023-006">
   <num>KL-CY-2023-006</num>
-  <heading>Resolution of the Kiowa Tribe Legislature Authorizing the Bureau of Indian Affairs Anadarko Agency and the Chairman of the Tribe to Execute Leases Where they Have Interest, for Farming and Grazing, Oil and Gas Leases, and Right-of-Way Encumbrances under the American Indian Probate Reform Act (AIPRA)</heading>
+  <heading>Resolution of the Kiowa Tribe Legislature Authorizing the Bureau of Indian Affairs Anadarko Agency and the Chairman of the Tribe to Execute Leases Where They Have Interest, for Farming and Grazing, Oil and Gas Leases, and Right-of- Way Encumbrances Under the American Indian Probate Reform Act (Aipra).</heading>
   <meta>
-    <stub/>
     <effective>2023-01-19</effective>
     <history>
       <adopted>2023-01-14</adopted>
@@ -15,33 +14,32 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Kiowa Tribe is a federally recognized Indian Tribe with a constitution approved by the Secretary of the Interior, and designed to safeguard tribal rights, powers, privileges to improve the economic, moral, educational, and health status of its members; and</text>
+      <text> 	the Kiowa Tribe is a federally recognized Indian Tribe with a constitution approved by the Secretary of the Interior, and designed to safeguard tribal rights, powers, privileges to improve the economic, moral, educational, and health status of its members; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Legislature is vested with the authority to pass laws and resolutions pursuant to Article VI, Section 6(a) of the Constitution of the Kiowa Tribe; and</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>the Kiowa Tribe receives fractionated land through probate under the American Indian Probate Reform Act, and the Kiowa Tribe Legislature hereby finds it acceptable for the Anadarko Agency to proceed with profitable oil and gas leases, farming and grazing leases, and right-of-ways encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an undivided interest through AIPRA probates; and</text>
+      <text> 	the Kiowa Tribe receives fractionated land through probate under the American Indian Probate Reform Act, and the Kiowa Tribe Legislature hereby finds it acceptable for the Anadarko Agency to proceed with profitable oil and gas leases, farming and grazing leases, and right-of-ways encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an undivided interest through AIPRA probates; and</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
-      <text>that the Kiowa Tribe Legislature hereby allows the Bureau of Indian Affairs to execute leases for farming and grazing, oil and gas leases, and right of way encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an aggregate or less interest through (AIPRA) American Indian Probate Reform Act and hereby gives the Kiowa Tribal Chairman the authority to sign all farming and grazing, oil and gas, and right-of-ways leases, where they have interest, that are held at the Bureau of Indian Affairs Anadarko Agency.</text>
+      <text> that the Kiowa Tribe Legislature hereby allows the Bureau of Indian Affairs to execute leases for farming and grazing, oil and gas leases, and right of way encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an aggregate or less interest through (AIPRA) American Indian Probate Reform Act and hereby gives the Kiowa Tribal Chairman the authority to sign all farming and grazing, oil and gas, and right-of-ways leases, where they have interest, that are held at the Bureau of Indian Affairs Anadarko Agency.</text>
     </recital>
     <recital>
       <conjunction>BE IT FURTHER RESOLVED</conjunction>
-      <text>that the Legislature hereby enacts the attached law entitled, "Resolution of the Kiowa Tribe Legislature authorizing the Bureau of Indian Affairs Anadarko Agency and the Chairman of the Tribe of execute leases for farming and grazing, oil and gas leases, and right-of-way encumbrances, where they have interest, under the American Indian Probate Reform Act (AIPRA)".</text>
+      <text> that the Legislature hereby enacts the attached law entitled, "Resolution of the Kiowa Tribe Legislature authorizing the Bureau of Indian Affairs Anadarko Agency and the Chairman of the Tribe of execute leases for farming and grazing, oil and gas leases, and right-of-way encumbrances, where they have interest, under the American Indian Probate Reform Act (AIPRA)".</text>
     </recital>
   </recitals>
   <procedural-data>
-    <text class="center">
-      <strong>
-        <u>CERTIFICATION</u>
-      </strong>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
     </text>
-    <text>The foregoing <em>Resolution KL-CY-2023-006</em>, was duly voted upon by the <em>Kiowa Tribe Legislature</em> at a duly called <em>Regular Session, LXIX (69), January 14, 2023,</em> with a vote of (6)-Yes, (0)-No, (0)- Abstain, and (1)-Absent, pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>Anita Johnson, Secretary of the Legislature</text>
+    <text>The foregoing Resolution KL-CY-2023-006, was duly voted upon by the Kiowa Tribe Legislature at a duly called Regular Session, LXIX, January 14, 2023, with a vote of (6)-Yes, (0)-No, (0)- Abstain, and (1)-Absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Anita Johnson,</text>
+    <text>Secretary of the Legislature</text>
     <text>
       <strong>LEGISLATURE - RESOLUTION NO. KL-CY-2023-006:</strong>
     </text>
@@ -60,78 +58,104 @@
         </thead>
         <tbody>
           <tr>
-            <td>Kyle Ataddlety<br/>District #1</td>
-            <td/>
-            <td/>
-            <td/>
-            <td class="center">X<br/>Out of District</td>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District #1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed">
+              <p>X</p>
+              <p>Out of District</p>
+            </td>
           </tr>
           <tr>
-            <td>Michael Primus<br/>District #2</td>
-            <td>X</td>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Timothy Satepauhoodle<br/>District #3</td>
-            <td>X</td>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District #3</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Alana Quetone<br/>District #4</td>
-            <td>X</td>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Alana Quetone</p>
+              <p>District #4</p>
+            </td>
+            <th>X</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Anita Johnson<br/>District #5</td>
-            <td>X</td>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Ben Wolf<br/>District #6</td>
-            <td>X</td>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Warren Queton<br/>District #7</td>
-            <td>X</td>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District #7</p>
+            </td>
+            <th>x</th>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
         </tbody>
       </table>
     </text>
     <text>
-      <strong>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</strong>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
     </text>
-    <text>Resolution No. KL-CY-2023-006 was presented to the Chairman of the Kiowa Tribe on the ______ day of January, 2023, pursuant to the Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
-    <text>Anita Johnson, Secretary of the Legislature</text>
+    <text>Resolution No. KL-CY-2023-006 was presented to the Chairman of the Kiowa Tribe on the ______ day of January, 2023, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Anita Johnson,</text>
+    <text>Secretary of the Legislature</text>
     <text>
       <strong>CHAIRMAN'S ACTION:</strong>
     </text>
-    <text>{ X } APPROVED</text>
-    <text>{   } VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
-    <text>On this <u>19</u><sup><u>th</u></sup> day of <u>January</u> , 2023.</text>
-    <text>Lawrence Spottedbird, Chairman of the Kiowa Tribe</text>
-    <text>Presented by the Chairman to the Legislature on the _______ day of ________________, 2023.</text>
+    <text>[ X ] 	APPROVED</text>
+    <text>[    ] 	VETO	-	RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this <u>19</u><sup><u>th</u></sup> day of <u>January</u>, 2023.</text>
+    <text>Lawrence Spottedbird,</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the __________ day of _______________, 2023.</text>
     <text>
-      <strong>LEGISLATURE'S ACTION:</strong>
+      <b>LEGISLATURE'S ACTION:</b>
     </text>
     <text>
       <strong>Override of Chairman's veto:</strong>
     </text>
-    <text>{   } YES</text>
-    <text>{   } NO</text>
+    <text>[    ] 	YES</text>
+    <text>[    ] 	NO</text>
     <text>
       <strong>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2023-0XX</strong>
     </text>
@@ -148,91 +172,108 @@
         </thead>
         <tbody>
           <tr>
-            <td>Kyle Ataddlety<br/>District #1</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District #1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Michael Primus<br/>District #2</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District #2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Timothy Satepauhoodle<br/>District #3</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District #3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Alana Quetone<br/>District #4</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Alana Quetone</p>
+              <p>District #4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Anita Johnson<br/>District #5</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Anita Johnson</p>
+              <p>District #5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Ben Wolf<br/>District #6</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District #6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td>Warren Queton<br/>District #7</td>
-            <td/>
-            <td/>
-            <td/>
-            <td/>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District #7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
         </tbody>
       </table>
     </text>
-    <text class="center">
-      <strong>
-        <u>CERTIFICATION</u>
-      </strong>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
     </text>
-    <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on _________________ 2023, at a Legislative Override Order Session with a vote of ________ in favor and __________ opposed, and ___________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by the Constitution of the Kiowa Tribe.</text>
-    <text>Anita Johnson, Secretary of the Legislature</text>
+    <text>The foregoing Legislative Order, KL-CY-2023-XXX was duly voted upon by the Legislature on _________________ 2023, at a Legislative Override Order Session with a vote of ________ in favor and __________ opposed, and ___________ abstaining, _________ Absent. Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Anita Johnson,</text>
+    <text>Secretary of the Legislature</text>
   </procedural-data>
-  <attachment id="law">
-    <heading type="law">Oil and Gas Leasing Act</heading>
-    <section>
-      <num>1.1</num>
-      <heading>Title</heading>
-      <text>This enactment shall be known as the, "RESOLUTION OF THE KIOWA TRIBE LEGISLATURE AUTHORIZING THE BUREAU OF INDIAN AFFAIRS ANADARKO AGENCY AND THE CHAIRMAN OF THE TRIBE TO EXECUTE LEASES FOR FARMING AND GRAZING, OIL AND GAS LEASES, AND RIGHT- OF-WAY ENCUMBRANCES, WHERE THEY HAVE INTEREST, UNDER THE AMERICAN INDIAN PROBATE REFORM ACT (AIPRA)" ("Oil and Gas Leasing Act").</text>
-    </section>
-    <section>
-      <num>1.2</num>
-      <heading>Findings</heading>
-      <text>The Kiowa Tribe receives fractionated land through probate under the American Indian Probate Reform Act, and the Kiowa Tribe Legislature hereby finds it acceptable for the Anadarko Agency to proceed with profitable oil and gas leases, farming and grazing leases, and right-of- ways encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an undivided interest through AIPRA probates.</text>
-    </section>
-    <section>
-      <num>1.3</num>
-      <heading>Authorization to Negotiate and Execute Leases</heading>
-      <text>The Legislature hereby authorizes and allows the Bureau of Indian Affairs to execute leases for farming and grazing, oil and gas leases, and right of way encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an aggregate or less interest through (AIPRA) American Indian Probate Reform Act and hereby gives the Kiowa Tribal Chairman the authority to sign all farming and grazing, oil and gas, and right-of-ways leases, where they have interest, that are held at the Bureau of Indian Affairs Anadarko Agency.</text>
-    </section>
-    <section>
-      <num>1.4</num>
-      <heading>Expiration of Authorization</heading>
-      <text>The authority granted to the Office of Chairman pursuant to this Oil and Gas Leasing Act shall not expire.</text>
-    </section>
-    <section>
-      <num>1.5</num>
-      <heading>Short Title</heading>
-      <text>The Chairman or his designee shall provide the Legislature with a copy of each lease executed on behalf of the Tribe pursuant to the authority granted in this Oil and Gas Leasing Act within thirty (30) days of execution.</text>
-    </section>
-  </attachment>
+  <section>
+    <num>1.1</num>
+    <heading>Title.</heading>
+    <text><cite path="">This enactment</cite> shall be known as the, "RESOLUTION OF THE KIOWA TRIBE LEGISLATURE AUTHORIZING THE BUREAU OF INDIAN AFFAIRS ANADARKO AGENCY AND THE CHAIRMAN OF THE TRIBE TO EXECUTE LEASES FOR FARMING AND GRAZING, OIL AND GAS LEASES, AND RIGHT- OF-WAY ENCUMBRANCES, WHERE THEY HAVE INTEREST, UNDER THE AMERICAN INDIAN PROBATE REFORM ACT (AIPRA)" ("Oil and Gas Leasing Act").</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Findings.</heading>
+    <text>The Kiowa Tribe receives fractionated land through probate under the American Indian Probate Reform Act, and the Kiowa Tribe Legislature hereby finds it acceptable for the Anadarko Agency to proceed with profitable oil and gas leases, farming and grazing leases, and right-of- ways encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an undivided interest through AIPRA probates.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Authorization to Negotiate and Execute Leases.</heading>
+    <text>The Legislature hereby authorizes and allows the Bureau of Indian Affairs to execute leases for farming and grazing, oil and gas leases, and right of way encumbrances on individual allotted trust properties where the Kiowa Tribe inherited less than or equal to an aggregate or less interest through (AIPRA) American Indian Probate Reform Act and hereby gives the Kiowa Tribal Chairman the authority to sign all farming and grazing, oil and gas, and right-of-ways leases, where they have interest, that are held at the Bureau of Indian Affairs Anadarko Agency.</text>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Expiration of Authorization.</heading>
+    <text>The authority granted to the Office of Chairman pursuant to this Oil and Gas Leasing Act shall not expire.</text>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Reporting.</heading>
+    <text>The Chairman or his designee shall provide the Legislature with a copy of each lease executed on behalf of the Tribe pursuant to the authority granted in this Oil and Gas Leasing Act within thirty (30) days of execution.</text>
+  </section>
 </document>

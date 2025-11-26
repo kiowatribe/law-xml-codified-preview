@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-013">
+  <num>KL-CY-2025-013</num>
+  <heading>First Amendment to the Law-Making and the Production of Documents and Testimony Act of 2017.</heading>
   <meta>
     <effective>2025-08-19</effective>
     <history>
@@ -9,6 +11,383 @@
       <citation type="res" url="./adopted/KL-CY-2025-013.pdf">Kiowa Tribe Res. No. KL-CY-2025-013</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-013</num>
-  <heading>First Amendment to the Law-Making and the Production of Documents and Testimony Act of 2017.</heading>
+  <text>At a duly called Session of the Legislature of the Kiowa Tribe held this 9th day of August 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	The Legislature has identified the need to clarify the process to request and obtain information, documentation, and testimony from Executive branch Departments and personnel, which is necessary to assist the Legislature, who serve as the Peoples' representatives, with the development of new and amended laws and budgets, while at the same time protecting any confidential information that the Tribe may maintain in the course of its governmental operations.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE IT RESOLVED;</conjunction>
+      <text> that the Legislature hereby enacts the attached law entitled, "FIRST AMENDMENT TO THE LAW-MAKING AND THE PRODUCTION OF DOCUMENTS AND TESTIMONY ACT OF 2017".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2025-013 was duly voted upon by the Legislature on August 9th, 2025, at a Legislative Regular Session C-(100), with a vote of (7) in favor and (0) opposed, (0) abstaining, and (0) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>LEGISLATIVE RESOLUTION – KL-CY-2025-013</strong>
+    </text>
+    <text><strong>Sponsors:</strong> Cole DeLaune, District 4.</text>
+    <text>
+      <strong>Co-Sponsors:</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-013 was presented to the Chairman of the Kiowa Tribe on the 12<sup>th</sup>  day of August, 2025, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ____ day of _________, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>
+      <strong>
+        <u>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2025-0XX</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2025-00X was duly voted upon by the Legislature on __________________, 2025, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as, the "FIRST AMENDMENT TO THE LAW-MAKING AND THE PRODUCTION OF DOCUMENTS AND TESTIMONY ACT OF 2017", or in the abbreviated form, the "LAW-MAKING ACT".</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>(a)</num>
+      <text>"Constitution" means <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite> approved by the U.S. Bureau of Indian Affairs on May 5, 2017.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>"Department" means a Department and its subdivisions within the executive branch of government under the authority of the Chairman, including any tribally owned enterprises or corporations, or any Boards or Commissions located within same executive branch.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>"Legislature" means the Legislature of the Kiowa Tribe.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>"Tribe" means the Kiowa Tribe.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of <cite path="">this Act</cite> is to ensure that the Legislature, who serve as the Peoples' representatives, has all the information and data to make laws and approve budgets that address the needs of the People and the Tribe.</text>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Findings.</heading>
+    <text>The Legislature hereby finds and declares that:</text>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> establishes a separation of government powers between the Legislature, which is vested with law-making and budgeting powers, and the Chairman and Departments, which are vested with executive powers to carry-out and administer the laws and approved budgets; and,</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The executive branch of the government includes all the Departments and day-to-day functions of the government, and that the Departments and executive branch personnel maintain critical data and information on the Tribe and the operations of government including expenditures; and,</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In exercising its law-making and budgeting powers and while serving as the Peoples' representatives, it is important that the Legislature has the necessary information and data, including documents and testimony, to draft laws and approve budgets in a well-informed manner so that the laws and budgets address critical issues within the Tribe and to protect government funds and resources; and,</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Legislature finds it in the best interests of the government of the Tribe to promote the free-flow of information and ideas, including open communication, between the branches of government; and,</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Legislature recognizes that requests for information, documentation, and testimony will require staff time from executive branch personnel to address; however, the Legislature considers the task of keeping the elected officials of the Legislature properly informed of the operations of the government to be included in the scope of work of all employees of the Executive branch and a necessary component of drafting and approving laws and budgets in the best interests of the Tribe; and,</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>The Legislature has identified the need to clarify the process to request and obtain information, documentation, and testimony from executive branch Departments and personnel, which is necessary to assist with the development of new and amended laws and budgets, while at the same time protecting any confidential information that the Tribe may maintain in the course of its governmental operations.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Legislature Requests for Information and Testimony.</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature or a Legislative Committee may request any information, documentation, and testimony from executive branch personnel that it reasonably believes will advance the formulation and development of Resolutions, laws, and budgets in the best interests of the Tribe.  Any decision by a Legislative Committee to request information, documentation, or testimony from executive branch personnel shall be made by majority vote of the members of the Committee.  Any request for information, documentation, or testimony shall be made in writing to the Chairman, with a copy to be delivered to the executive branch department or personnel.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chairman or his designee, or the executive branch Department or personnel, shall respond to each request for information, documentation, and/testimony in a timely manner.  If the Chairman or his designee, or executive branch department or personnel, cannot meet a deadline set by the Legislature or Legislative Committee for the production of information or documents, or if the executive branch employee is not available to provide testimony on the date requested, then the Chairman or executive branch Department or personnel shall notify the Speaker of the Legislature or the appropriate Legislative Committee, including when such information or documentation will be produced, or when the employee will be available to present testimony to the Legislature or Legislative Committee.  An executive branch employee shall not be subject to any disciplinary action for responding to a request from the Legislature or a Legislative Committee for documents or testimony.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.6</num>
+    <heading>Confidentiality of Documents and Testimony.</heading>
+    <para>
+      <num>(a)</num>
+      <text><u>Documents</u>.  If the Chairman or a Department employee reasonably believes that the information or documentation requested by the Legislature or Legislative Committee contains confidential information, then the Chairman or his designee, or the Department employee, shall inform the Legislature or Legislative Committee, shall redact the alleged confidential information, and shall produce the remaining information to the Legislature or Legislative Committee.  If the Legislature or Legislative Committee continues to assert the need for all the information or documentation including the alleged confidential information, then the Chairman or Department employee shall produce and deliver all of the requested information and documentation without redactions to the Legislature or Legislative Committee in a sealed envelope marked "CONFIDENTIAL INFORMATION", and any subsequent disclosure of the alleged confidential information received by the Legislature or Legislative Committee shall not be the responsibility of the Chairman or executive branch employee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><u>Testimony</u>.  If the Chairman or a Department employee reasonably believes that the testimony requested by the Legislature or Legislative Committee contains confidential information, then the Chairman or his designee, or the Department employee, shall inform the Legislature or Legislative Committee, and the Legislature or Legislative Committee shall receive such testimony in an executive session, and any subsequent disclosure of the alleged confidential information received by the Legislature or Legislative Committee from such testimony shall not be the responsibility of the Chairman or Department employee.</text>
+    </para>
+    <para>
+      <num>1.7</num>
+      <heading>Authority to Issue a Subpoena.</heading>
+      <text>The Legislature or a Legislative Committee may issue a subpoena <em>duces tecum</em> or a subpoena for testimony to any person (including, without limitation, a past or present  Chairman, a past or present Member of a Board or Commission within the executive branch as established in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> or by law, a past or present Department employee, or a past or present Contractor), in writing, identifying the documents, information, and/or testimony requested, the date to comply with the request, and any other pertinent information, which shall be served in-person by any person over the age of eighteen.  Failure to comply with a subpoena issued by the Legislature shall constitute a violation, and upon the request of the Legislature, the Chief Judge of the Trial Court shall hold a hearing expeditiously to determine whether the individual shall be held in contempt, ordered to comply with the subpoena, and/or subject to imprisonment not to exceed thirty days and/or a fine of up to $5,000.</text>
+    </para>
+    <para>
+      <num>1.8</num>
+      <heading>Informal Discussions.</heading>
+      <text>Nothing in this Law-Making Act shall prevent informal discussions between the Legislature or individual Legislators and the Chairman and Department employees.</text>
+    </para>
+    <para>
+      <num>1.9</num>
+      <heading>Tribal Contractors.</heading>
+      <para>
+        <num>(a)</num>
+        <text>After September 1, 2025, any contract entered into between the Tribe, including any Department, and another entity (the "Contracting Party") shall include a provision stating that the Contracting Party consents to the subpoena power of the Legislature under <cite path="">this Act</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any Person or entity who contracts with the Tribe, including any Department, whether verbally or in writing, shall be subject to the subpoena power of the Legislature as a Contracting Party under <cite path="">this Act</cite>.  Any Indian, or Indian-Owned Business, who receives a discretionary disbursement from the Tribe shall be considered a Contracting Party for the purposes of <cite path="">this Act</cite>, whether or not they have consented to the subpoena power of the Legislature under <cite path="">this Act</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>
+          <u>Legislature Requests for Information or Testimony.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text>The Legislature or a Legislative Committee may request any information, documentation, and testimony from Contracting Parties that it reasonably believes will advance the formulation and development of Resolutions, laws, and budgets in the best interests of the Tribe.  Such information, documentation, or testimony must be related to the contract between the Contracting Party and the Tribe.  Any decision by a Legislative Committee to request information, documentation, or testimony from a Contracting Party shall be made by majority vote of the members of the Committee.  Any request for information, documentation, or testimony shall be made in writing to the Contracting Party, with a copy to be delivered to the Chairman.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Contracting Party shall respond to each request for information, documentation, and/testimony in a timely manner.  If the Contracting Party cannot meet a deadline set by the Legislature or Legislative Committee for the production of information or documents, or if the Contracting Party is not available to provide testimony on the date requested, then the Contracting Party shall notify the Speaker of the Legislature or the appropriate Legislative Committee, including when such information or documentation will be produced, or when the Contracting Party will be available to present testimony to the Legislature or Legislative Committee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(a)</num>
+        <text>
+          <u>Confidentiality of Documents and Testimony.</u>
+        </text>
+        <para>
+          <num>(1)</num>
+          <text><u>Documents.</u>	If the Contracting Party reasonably believes that the relevant responsive information or documentation requested by the Legislature or Legislative Committee contains confidential information, then the Contracting Party shall inform the Legislature or Legislative Committee, shall redact the alleged confidential information, and shall produce the remaining information to the Legislature or Legislative Committee.  If the Legislature or Legislative Committee continues to assert the need for all the information or documentation including the alleged confidential information, then the Contracting Party shall produce and deliver all of the requested information and documentation without redactions to the Legislature or Legislative Committee in a sealed envelope marked "CONFIDENTIAL INFORMATION", and any subsequent disclosure of the alleged confidential information received by the Legislature or Legislative Committee shall not be the responsibility of the Contracting Party.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text><u>Testimony.</u>	If the Contracting Party reasonably believes that relevant responsive testimony requested by the Legislature or Legislative Committee contains confidential information, then the Contracting Party shall inform the Legislature or Legislative Committee, and the Legislature or Legislative Committee shall receive such testimony in an executive session, and any subsequent disclosure of the alleged confidential information received by the Legislature or Legislative Committee from such testimony shall not be the responsibility of the Contracting Party.</text>
+        </para>
+      </para>
+    </para>
+  </section>
 </document>

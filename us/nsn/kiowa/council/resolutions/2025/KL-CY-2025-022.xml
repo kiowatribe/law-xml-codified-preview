@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-022">
+  <num>KL-CY-2025-022</num>
+  <heading>First Amendment to the Audit Authorization, Acceptance, and Responsibility Act</heading>
   <meta>
     <effective>2025-10-21</effective>
     <history>
@@ -9,6 +11,345 @@
       <citation type="res" url="./adopted/KL-CY-2025-022.pdf">Kiowa Tribe Res. No. KL-CY-2025-022</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-022</num>
-  <heading>First Amendment to the Audit Authorization, Acceptance, and Responsibility Act</heading>
+  <text>At a duly called Session of the Legislature of the Kiowa Tribe held this 11th day of October, 2025. The following resolution and law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe (the "Tribe") is organized under a constitution, duly adopted and approved by the voters of the Tribe on April 17, 2017 and approved by the U.S. Secretary of the Interior ("Secretary")(the "Constitution"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Constitution pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6 (a)</cite> The Legislature shall have the power to make laws and resolutions in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.  All legislative actions by the Legislature shall be embodied in a written law or resolution.  All actions by the Legislature shall be made by a majority vote of the Legislature present, unless otherwise specified in this Constitution.  Laws and resolutions which have been enacted shall remain valid until amended or repealed; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a sovereign nation and has been so since time immemorial; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Tribe exercises full enjoyment of the inherent powers of government, including self-determination and autonomy over internal affairs encompassing Tribe citizens, lands, and resources; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on April 17, 2017, qualified voters of the Tribe ratified the Kiowa Constitution as "the supreme law of the land"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Legislature is vested with the agency to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a)</cite> of same Constitution; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on June 21, 2024, the Legislature enacted the AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT by Resolution KL-CY-2024-009; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature has determined that additional clarifications are necessary to bolster fiscal transparency and accountability within the Tribe government;</text>
+      <text><strong>NOW, THEREFORE, BE IT RESOLVED</strong> that the Legislature hereby adopts the FIRST AMENDMENT TO THE AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2025-022 was duly voted upon by the Legislature on October 11, 2025, at a Legislative Regular Session CII-(102), with a vote of (6) in favor and (0) opposed, (0) abstaining, and (1) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>LEGISLATIVE RESOLUTION – KL-CY-2025-00X</text>
+    <text>Sponsors: Cole DeLaune, District 4</text>
+    <text>Co-Sponsors:</text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>LEGISLATORS</td>
+            <td proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </td>
+            <td proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </td>
+            <td proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </td>
+            <td proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-00X was presented to the Chairman of the Kiowa Tribe on the __th day of ________, 2025, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION: _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________</text>
+    <text>On this ____ day of ________, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2025-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KLO-CY-2025-00X was duly voted upon by the Legislature on __________________, 2025, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the FIRST AMENDMENT TO THE AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT.</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of this Amendment is to reinforce and bolster the architectural framework of the AUDIT AUTHORIZATION, ACCEPTANCE, AND RESPONSIBILITY ACT of 2024 by implementing additional mechanisms to maximize fiscal transparency and accountability within Tribe government and/or any Tribe-affiliated entity.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <text>The Legislature hereby finds that:</text>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> requires the Tribe to conduct an annual financial audit by an independent auditor; and</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>the annual audit is an important indicator of the Tribe's accounting practices and financial health, and is a valuable tool to safeguard the financial assets of the Tribe; and</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>the Chairman of the Tribe oversees and directs the Finance Department personnel, engages the independent auditor, and is vested with the executive authority and responsibility to ensure</text>
+      <text>that the annual audit is conducted and accepted by the Tribe and that a plan to address all audit findings is developed and implemented.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>At any time, the Chairman may conduct an Executive Inquiry into any tribal department, program or commission. Should be inquiry findings warrant a deeper investigation through an audit, the Chairman may initiate an internal, external, or forensic audit. The Chairman would need to work with the Kiowa Legislature to allocate funding support within the tribal budget.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>the Legislature may initiate a Legislative Inquiry through a legislative order that initiates a document request from any tribal department, program or commission. All requested information would be sent to the Kiowa Legislative Administrator and Legislative Clerk.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>following the Legislative Inquiry and document request, the Legislature may direct the Chairman to conduct an internal, external, or forensic audit if warranted by the outcome of the Legislative Inquiry findings, subject to budgetary requirements</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>If requested information is not provided in response to an information request in a legislative inquiry, or if audit findings merit, in the opinion of a majority of the legislature, the need for more information, the legislature may authorize the Speaker of the Legislature to petition the Trial Court for the issuance of a subpoena, seeking specific information or the attendance of a person to provide testimony at a Legislative Hearing.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>At any time, the Legislature through legislative order may initiate a public Legislative Hearing where tribal employees shall have the right to protest and defend the allegations against him or her, including the right to cross-examine any witnesses who testify against him or her, and shall have the right to be represented by an attorney or other advocate licensed to practice law before the Kiowa Tribe's courts; all findings and recommendations of the legislative hearing will be released as public records, with redacted information which may be protected as private under any federal or tribal law.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Contract Authorization for Independent Auditors</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chairman is hereby authorized to negotiate and execute a contract with external and independent qualified auditors to conduct and complete an annual financial audit for the Tribe in accordance with the requirements of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chairman shall provide a copy of the annual audit report to the Legislature prior to the Chairman's acceptance of the audit and shall direct the auditor to make an in-person presentation to the Legislature regarding the annual audit.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Chairman is authorized to accept an audit on behalf of the Tribe.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Amendment</heading>
+    <text>The Legislature hereby amends the Audit, Authorization, Acceptance, and Responsibility Act of 2024 by adding the following:</text>
+  </section>
+  <section>
+    <num>1.6</num>
+    <heading>Legislative Authority</heading>
+    <text>The Legislature may engage a financial professional for advice concerning the finances and assets of Tribe, any tribal businesses, and/or any tribally owned or affiliated entities.  Such advice may include, but is not limited to, determining accurate balances, performing valuations, reviewing business plans, reviewing profit and loss statements, reviewing audits, performing partial audits, performing forensic reviews, including audits and forensic audits, collecting documents and information, interviewing persons and investigating financial management.  Such as list is not exhaustive, and the Legislature may engage a financial professional for any reason it deems necessary.</text>
+  </section>
+  <section>
+    <num>1.7</num>
+    <heading>Payment Obligations</heading>
+    <text>When the Legislature engages a financial professional to provide advice or other services concerning any tribal business or any Tribally owned or affiliated entity, the fees and costs for such advice and services shall be paid by the business or entity for which financial services were obtained by the legislature.  When the Legislature engages a financial professional to provide advice or other services concerning the Tribal government itself, the cost for such services shall be paid out of funds appropriated to the Legislature in the Tribe's annual budget.  However, in every instance the financial professional shall only owe a fiduciary duty to the Legislature and not to any entity who may make payments for their services.</text>
+  </section>
+  <section>
+    <num>1.8</num>
+    <heading>Information</heading>
+    <text>When the Legislature engages a financial professional to provide advice or other services, the information obtained by the professional shall be held in strict confidence.  The financial professional's only client in the matter will be the Legislature, and any and all documents, communications and information obtained shall be held in accordance with the accountant-client privilege.  Each legislator, legislative staff and legislative attorneys may access such information as needed.  Information obtained by the financial advisor may only be released to the members of the Tribe or to the public upon a majority vote of all Legislators (present or absent) to release the information (4 or more votes).</text>
+  </section>
 </document>
