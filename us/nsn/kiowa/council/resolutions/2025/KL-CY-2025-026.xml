@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-026">
+  <num>KL-CY-2025-026</num>
+  <heading>The Nomination and Confirmation of Appointees Act of 2025</heading>
   <meta>
     <history>
       <adopted>2025-10-11</adopted>
@@ -8,6 +10,434 @@
       <citation type="res" url="./adopted/KL-CY-2025-026.pdf">Kiowa Tribe Res. No. KL-CY-2025-026</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-026</num>
-  <heading>The Nomination and Confirmation of Appointees Act of 2025</heading>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a sovereign nation and has been so since time immemorial; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Tribe exercises full enjoyment of the inherent powers of government, including self-determination and autonomy over internal affairs encompassing Tribe citizens, lands, and resources; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on April 17, 2017, qualified voters of the Tribe ratified the Kiowa Constitution as "the supreme law of the land"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Legislature's duties include monitoring the actions of the government, assessing the needs of the People, and making laws toward better government to address the needs of the People under <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 1 </cite>of the Kiowa Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a)</cite> of same Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on December 9, 2023, the Legislature adopted Resolution KL CY-2023-016, cited in its short title as "The Nomination and Confirmation of Appointees Act of 2023," and which operated as the First Amendment to The Nomination and Confirmation of Appointees Ac of 2017; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> consistent with the separation of powers enshrined in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, the Legislature has identified the need to clarify its oversight authorities vis-à-vis delineated protocols for appointments by the Chairman to positions within the Tribe that require legislative confirmation;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text> that the Legislature hereby adopts The Nomination and Confirmation of Appointees Act of 2025 as the Second Amendment to The Nomination and Confirmation of Appointees Act of 2017.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2025-026 was duly voted upon by the Legislature on October 11, 2025, at a Legislative Regular Session CII-(102), with a vote of (6) in favor and (0) opposed, (0) abstaining, and (1) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>LEGISLATIVE RESOLUTION – KL-CY-2025-00X</text>
+    <text>Sponsors: Cole DeLaune, District 4.</text>
+    <text>Co-Sponsors:</text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>LEGISLATORS</td>
+            <td proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </td>
+            <td proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </td>
+            <td proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </td>
+            <td proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-00X was presented to the Chairman of the Kiowa Tribe on the ____ day of _____, 202__, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ____ day of _________, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2025-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2025-00X was duly voted upon by the Legislature on __________________, 2025, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be cited as The Nomination and Confirmation of Appointees Act of 2025.</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text><cite path="">This enactment</cite> shall clarify the process for the Chairman to nominate candidates for appointments to select offices and for the Legislature to exercise confirmation powers regarding the nominee. Same enactment shall delineate the specific limitations on the Chairman's ability to name appointees to offices in "acting" capacities.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>List of Positions Requiring Nomination and Confirmation</heading>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> enumerates important governmental positions requiring the person serving to have been nominated by the Chairman and confirmed by the Legislature as well as unique circumstances mandating anomalous exercises of those powers including:</text>
+      <para>
+        <num>(1)</num>
+        <text>Enrollment Officer (See, Const, Art. IV, Sec. 7)</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Members of Commissions (See, Const., Art. VI, Sec. 6(h))</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Members of Executive Boards (See, Const., Art. VI, Sec 6(i))</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Executive Directors of Divisions (See, Const., Art. VII, Sect. 1(c))</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Treasurer (See, Const., Art. VI, Sec 4(d))</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Judges and Justices (See, Const., Art. VIII, Sec. 2)</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Judicial Commission Members (See, Const., Art. VIII, Sec. 9)</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Election Commission Members (See, Const., Art. IX, Sec 3(b))</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Vacancy in the Office of Legislator (See, Const., Art. XII, Sec. 7)</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Vacancy in the Office of Election Commissioner (Const., Art. XII, Sec. 11)</text>
+      </para>
+    </para>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature has identified the imperative for legislative consultation and confirmation regarding appointments to three key positions within the Executive Branch that encompass service to and frequent engagement with Members of the Tribe. Each of the following positions shall be subject to legislative reconfirmation by the first working day of September in even-numbered calendar years, provided that such timeline shall not be construed to effect of diminish the authority of the Chairman and his subordinate Executive Branch chain of command to make determinations regarding removals and/or reassignments from same roles:</text>
+      <para>
+        <num>(1)</num>
+        <text>Director of Social Services</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Director, Kiowa Tribe Housing Authority</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Housing Manager</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Minimum Requirements for Nomination and Confirmation</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Chairman shall submit all nominations to the Legislature in writing. The Chairman should include as much information and documentation as necessary to provide the Legislature with a thorough understanding of the qualifications of a nominee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Office of the Chairman shall submit a nomination letter along with a background check, résumé, and detailed job description of the role to be filled by appointment for all nominees submitted for consideration to the Legislature.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>No person may serve in a nominated and appointed position unless that person is properly nominated by the Chairman, confirmed by a minimum of four affirmative votes to confirm on the Legislature, and sworn into office by administration of an Oath to the Kiowa Constitution by a Justice of the Kiowa Supreme Court.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No person may serve as a Judge or Justice in an acting capacity at any time.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No person may serve as a Member of any Commission or Executive Board in an acting capacity at any time.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>No person may serve as Treasurer in an acting capacity at any time.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>A person may serve in an "acting" or "interim" capacity as the Executive Director of a Division or as Enrollment Officer if they meet the minimum requirements for eligibility as outlined in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, as codified in Tribe statute, and as delineated in any job description produced by the Office of the Chairman.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A person shall not serve in an "acting" or "interim" appointment for more than 60 days.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>No person may be re-appointed to serve in an "acting" or "interim" capacity upon expiration of their respective 60-day term.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>No person shall serve in any of the offices enumerated herein if they have been convicted of a felony or a crime of moral turpitude.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>Vested with vital responsibilities pursuant to Membership and enrollment decisions of the Tribe, the Enrollment Officer shall be an enrolled Member of the Tribe. The Enrollment Officer shall execute and administer the laws of the Tribe governing Membership.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.6</num>
+    <heading>Minimum Requirements for Nomination and Confirmation</heading>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> establishes an Enrollment Office for the Tribe. <cite doc="Constitution of the Kiowa Tribe">The Constitution</cite> also includes an Enrollment Officer who plays a vital role in the Membership and enrollment decisions of the Tribe.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chairman shall submit all nominations to the Legislature in writing. The Chairman should include as much information and documentation as necessary to provide the Legislature with a thorough understanding of the qualifications of a nominee.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Office of the Chairman shall submit a nomination letter along with a background check, résumé, and detailed job description of the role to be filled by appointment for all nominees submitted for consideration to the Legislature.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>No person may serve in a nominated and appointed position unless that person is properly nominated by the Chairman, confirmed by a minimum of four affirmative votes to confirm on the Legislature, and sworn into office by administration of an Oath to the Kiowa Constitution by a Justice of the Kiowa Supreme Court.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>No person may serve as a Judge or Justice in an acting capacity at any time.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>No person may serve as a Member of any Commission or Executive Board in an acting capacity at any time.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>No person may serve as Treasurer in an acting capacity at any time.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>A person may serve in an "acting" or "interim" capacity as the Executive Director of a Division or as Enrollment Officer if they meet the minimum requirements for eligibility as outlined in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, as codified in Tribe statute, and as delineated in any job description produced by the Office of the Chairman.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>A person shall not serve in an "acting" or "interim" appointment for more than 60 days.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>No person may be re-appointed to serve in an "acting" or "interim" capacity upon expiration of their respective 60-day term.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>No person shall serve in any of the offices enumerated herein if they have been convicted of a felony or a crime of moral turpitude.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.7</num>
+    <heading>Effective Date</heading>
+    <text><cite path="">This enactment</cite> shall become effective upon signature of the Chairman or upon veto override by the Legislature. The Chairman shall submit nominees for offices enumerated in <cite path="1.3|(b)">Section 1.3(b)</cite> of <cite path="">this Act</cite> within 45 calendar days of its effective date.</text>
+  </section>
 </document>

@@ -57,19 +57,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -77,74 +77,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
             <th>X</th>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
             <th>X</th>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
         </tbody>
       </table>
@@ -191,19 +191,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -211,74 +211,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
         </tbody>
       </table>
@@ -308,7 +308,7 @@
     </para>
     <para>
       <num>(c)</num>
-      <text>The Kiowa Legislature approves placing the real property identified in Exhibit "A" into trust. The Southwest Quarter of the Northeast Quarter (SW/4 NE/4) of Section Twenty-three (23), Township Seven (7) North, Range Ten (10) West, I.M., Caddo County, Oklahoma, LESS AND EXCEPT a tract of land described as beginning at the Northeast corner of the Southwest Quarter of the Northeast Quarter (SW/4 NE/4), thence South 15.00 feet; thence North 89° 45' 34" West 657.90 feet; thence North 15.00 feet; thence South 89°45'34" East 657.90 feet to the point of beginning.</text>
+      <text>The Kiowa Legislature approves placing the real property identified in Exhibit "A" into trust. The Southwest Quarter of the Northeast Quarter (SW/4 NE/4) of Section Twenty-three (23), Township Seven (7) North, Range Ten (10) West, I.M., Caddo County, Oklahoma, LESS AND EXCEPT a tract of land described as beginning at the Northeast corner of the Southwest Quarter of the Northeast Quarter (SW/4 NE/4), thence South <cite>15.00 </cite>feet; thence North 89° 45' 34" West <cite>657.90 </cite>feet; thence North <cite>15.00 </cite>feet; thence South 89°45'34" East <cite>657.90 </cite>feet to the point of beginning.</text>
     </para>
   </section>
 </document>

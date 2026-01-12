@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-010">
+  <num>KL-CY-2025-010</num>
+  <heading>First Amendment to the Leasing Code of the Kiowa Tribe – Hearth Act of 2024.</heading>
   <meta>
     <effective>2025-07-23</effective>
     <history>
@@ -9,6 +11,297 @@
       <citation type="res" url="./adopted/KL-CY-2025-010.pdf">Kiowa Tribe Res. No. KL-CY-2025-010</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-010</num>
-  <heading>First Amendment to the Leasing Code of the Kiowa Tribe – Hearth Act of 2024.</heading>
+  <text>At a duly called Session of the Legislature of the Kiowa Tribe held this 22nd day of July, 2025, the following Resolution and Law were adopted.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a) of the Constitution of the Kiowa Tribe</cite>; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature and enacts the "First Amendment to the Leasing Code of the Kiowa Tribe", also known as the Hearth Act of 2024; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>	the Legislature has determined that it is in the best interests of the Tribe to provide a system for the Tribe to offer long term leasing options on trust land for members of the Tribe and other individuals and entities that no longer requires the Secretary of Interior approval and restores inherent tribal sovereignty; and,</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE IT RESOLVED;</conjunction>
+      <text> that the Legislature hereby enacts the attached law entitled, "First Amendment to the Leasing Code of the Kiowa Tribe – Hearth Act of 2024".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution KL-CY-2025-010, was duly voted upon by the Kiowa Legislature on July 22, 2025, at a Special Session I (1) with a vote of (5) in favor and (0) opposed, (0) abstain, and (2) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>LEGISLATURE - RESOLUTION NO. KL-CY-2025-010:</text>
+    <text>SPONSOR: Michael Primus, District 2</text>
+    <text>CO-SPONSOR(S):</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed">
+              <p>X</p>
+              <p>Out of District</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed">
+              <p>X</p>
+              <p>Out of District</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-010 was presented to the Chairman of the Kiowa Tribe on the 22nd day of July, 2025, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite> and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this <strong>___</strong> day of <strong>_________</strong>, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Vice-Chairman to the Legislature on the <strong>____</strong> day of <strong>_______</strong>, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution KL-CY-2025-XXX was duly voted upon by the Legislature on __________________, 2025, at a Legislative Order Session with a vote of ______ in favor and ______opposed, and _____ abstaining, and _____absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "First Amendment to the Leasing Code of the Kiowa Tribe – Hearth Act of 2024".</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text><cite path="">This Code</cite> is enacted pursuant to the inherent sovereign authority of the Kiowa Tribe to provide a system for the Tribe to offer long term leasing options on trust land for the members of the Tribe and other individuals and entities that no longer requires the Secretary of Interior approval and restores inherent tribal sovereignty.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <text>The Legislature hereby finds and declares that:</text>
+    <text>A code governing the leases of trust lands is necessary to govern the leasing of real property</text>
+    <text>held in trust by the United States for the Kiowa Tribe;</text>
+    <para>
+      <num>(b)</num>
+      <text>The Tribe has a crucial role and responsibility to provide Tribal Members with a sustainable, compatible method of leasing the Tribe's trust lands that clarifies the expectations and responsibilities between the lessor and lessee;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Tribe recognizes that the provision of land and improvements play a vital role in the successful function and use of the Tribe's lands; and</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Tribe recognizes the need to exercise its inherent sovereign authority by opting out of the Secretary of Interior approval requirements for tribal leases.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Approval and Enactment</heading>
+    <text>the Legislature hereby enacts the attached law entitled, "First Amendment to the Leasing Code of the Kiowa Tribe – Hearth Act of 2024".</text>
+  </section>
 </document>

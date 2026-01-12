@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KLO-CY-2025-029">
+  <num>KLO-CY-2025-029</num>
+  <heading>Untitled [Overrides Veto of KL-CY-2025-015]</heading>
   <meta>
     <effective>2025-09-13</effective>
     <history>
@@ -9,6 +11,119 @@
       <citation type="res" url="./adopted/KLO-CY-2025-029.pdf">Kiowa Tribe Res. No. KLO-CY-2025-029</citation>
     </citations>
   </meta>
-  <num>KLO-CY-2025-029</num>
-  <heading>Untitled</heading>
+  <text>SUBJECT:	To Override A Veto Issued by the Chairman of a Resolution/Bill KL-CY-2025-015 2025 Moratorium on Funding for Existing Tribally Owned Corporations.</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(c)</cite> and (d) of the Tribe's Constitution grants the Legislature the authority to override a Chairman's veto of a Bill or budget by passing a Legislative Order; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> 	On August 09, 2025, the Legislature passed a Bill entitled, "2025 Moratorium on Funding for Existing Tribally Owned Corporations."  (Resolution KL-CY-2025-015); and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> 	On August 20th, 2025, the Chairman of the Tribe vetoed Resolution KL-CY-2025-015 citing, "reasons for veto by Chairman (see attached statement)"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE RESOLVED,</conjunction>
+      <text>  that the Legislature hereby overrides the Chairman's veto of Resolution KL-CY-2025-015 2025 Moratorium on Funding for Existing Tribally Owned Corporations.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Override Order KLO-CY-2025-029 was duly voted and approved upon by the Legislature on September 13, 2025, at a Legislative Regular Session CI-(101) with a vote of (7) in favor and (0) opposed, (0) abstaining, and (0) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text class="center">
+      <strong>LEGISLATIVE OVERRIDE ORDER - KLO-CY-2025-029</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
 </document>

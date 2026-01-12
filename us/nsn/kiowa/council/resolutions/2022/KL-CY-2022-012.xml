@@ -49,19 +49,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -69,78 +69,78 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>
                 <strong>VACANT</strong>
               </p>
               <p>District #1</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Tim Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>X</th>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>
                 <strong>VACANT</strong>
               </p>
               <p>District #7</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
         </tbody>
       </table>
@@ -179,19 +179,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed" data-text-align="justify">
+            <th proof="needed">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -199,117 +199,115 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>
                 <strong>VACANT</strong>
               </p>
               <p>District #1</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Tim Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>
                 <strong>VACANT</strong>
               </p>
               <p>District #7</p>
             </td>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
-            <td proof="needed" data-text-align="center"/>
-            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
           </tr>
         </tbody>
       </table>
     </text>
   </procedural-data>
-  <attachment id="law">
-    <section>
-      <num>1.1</num>
-      <heading>Short Title</heading>
-      <text><cite path="attachments|law">This enactment</cite> shall be known as the "The Right of Kiowa Voters to Vote by Mail Act of 2022" ("Act").</text>
-    </section>
-    <section>
-      <num>1.2</num>
-      <heading>Purpose</heading>
-      <text>The purpose of <cite path="attachments|law">this Act</cite> is to authorize the Kiowa Election Commission to mail out ballots in all elections to all adult members of the Kiowa Tribe who maintain a current address to the Tribe, notwithstanding any law, ordinance, or resolution of the Tribe to the contrary and/or previously enacted by the Tribe.</text>
-    </section>
-    <section>
-      <num>1.3</num>
-      <heading>Findings</heading>
-      <para>
-        <num>(a)</num>
-        <text>Right of all adult Kiowa Tribal Members to vote is a fundamental component of democracy.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Fair and impartial elections are critical to guarantee the peoples right to choose their representation and to be governed by them.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>In response to a recent BIA/CFR Court Order, the Legislature finds the need to solidify and guarantee the right of all Kiowa Tribal voters to receive a ballot by mail to all elections.</text>
-      </para>
-    </section>
-    <section>
-      <num>1.4</num>
-      <heading>Authorization</heading>
-      <para>
-        <num>(a)</num>
-        <text>The Legislature hereby authorizes and directs the Kiowa Tribe Election Commission to mail out ballots to all adult members of the Kiowa Tribe who maintain a current address with the Tribe in all elections, notwithstanding any law, ordinance, or resolution of the Tribe to the contrary and/or previously enacted by the Tribe.</text>
-      </para>
-    </section>
-  </attachment>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "The Right of Kiowa Voters to Vote by Mail Act of 2022" ("Act").</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of <cite path="">this Act</cite> is to authorize the Kiowa Election Commission to mail out ballots in all elections to all adult members of the Kiowa Tribe who maintain a current address to the Tribe, notwithstanding any law, ordinance, or resolution of the Tribe to the contrary and/or previously enacted by the Tribe.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <para>
+      <num>(a)</num>
+      <text>Right of all adult Kiowa Tribal Members to vote is a fundamental component of democracy.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Fair and impartial elections are critical to guarantee the peoples right to choose their representation and to be governed by them.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In response to a recent BIA/CFR Court Order, the Legislature finds the need to solidify and guarantee the right of all Kiowa Tribal voters to receive a ballot by mail to all elections.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Authorization</heading>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature hereby authorizes and directs the Kiowa Tribe Election Commission to mail out ballots to all adult members of the Kiowa Tribe who maintain a current address with the Tribe in all elections, notwithstanding any law, ordinance, or resolution of the Tribe to the contrary and/or previously enacted by the Tribe.</text>
+    </para>
+  </section>
 </document>

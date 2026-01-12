@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2025-021">
+  <num>KL-CY-2025-021</num>
+  <heading>The Equity in Social Media Access by Government Branches Act of 2025</heading>
   <meta>
     <effective>2025-09-19</effective>
     <history>
@@ -9,6 +11,450 @@
       <citation type="res" url="./adopted/KL-CY-2025-021.pdf">Kiowa Tribe Res. No. KL-CY-2025-021</citation>
     </citations>
   </meta>
-  <num>KL-CY-2025-021</num>
-  <heading>The Equity in Social Media Access by Government Branches Act of 2025</heading>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a sovereign nation and has been so since time immemorial; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Tribe exercises full enjoyment of the inherent powers of government, including self-determination and autonomy over internal affairs encompassing Tribe citizens, lands, and resources; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on April 17, 2017, qualified voters of the Tribe ratified the Kiowa Constitution as "the supreme law of the land"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Legislature is vested with the agency to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a)</cite> of same Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> a Kiowa Tribe Facebook Page account is presently maintained by the Executive Branch, nominally via the Media and Outreach Department; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> same Facebook platform operates as a central point of access for Tribe citizens to obtain information regarding the Tribe government; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Tribe, as a governmental entity, does not consist of the Executive Branch alone but also encompasses the Judicial and Legislative Branches as well as the Kiowa Indian Council; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> transparency is a cardinal component of a healthy democracy; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> at least one legislator has been blocked from the Tribe Facebook page since June 21, 2025; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> such restrictions on any elected representative of a Cauigu constituency reflect an alarming approach on the part of the Executive to limiting free discourse;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE IT BE RESOLVED</conjunction>
+      <text> that each branch of Tribe government shall have password access and authority to post on the existing Kiowa Tribe Facebook page; and,</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED</conjunction>
+      <text> that the Legislature hereby adopts THE EQUITY IN SOCIAL MEDIA ACCESS BY GOVERNMENT BRANCHES ACT OF 2025.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Resolution KL-CY-2025-021 was duly voted upon by the Legislature on September 14, 2025, at a Legislative Regular Session CI-(100), with a vote of (6) in favor and (0) opposed, (1) abstaining, and (0) absent, according to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>LEGISLATIVE RESOLUTION – KL-CY-2025-021</text>
+    <text>Sponsors: Cole DeLaune, District 4.</text>
+    <text>Co-Sponsors:</text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>LEGISLATORS</td>
+            <td proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </td>
+            <td proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </td>
+            <td proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </td>
+            <td proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. KL-CY-2025-021 was presented to the Chairman of the Kiowa Tribe on the 15th day of September, 2025, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite>, and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this ___day of _________, 2025.</text>
+    <text>Lawrence Spottedbird</text>
+    <text>Chairman of the Kiowa Tribe</text>
+    <text>Presented by the Chairman to the Legislature on the ____ day of _________, 2025.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>LEGISLATIVE OVERRIDE ORDER: KLO-CY-2025-0XX</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th>YES</th>
+            <th>NO</th>
+            <th>ABSTAIN</th>
+            <th>ABSENT</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Primus</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing Legislative Order, KL-CY-2025-00X was duly voted upon by the Legislature on __________________, 2025, at a Legislative Override Order Session with a vote of ______ in favor and _____ opposed, and _____ abstaining, _____Absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>Michael Primus</text>
+    <text>Speaker of the Legislature</text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be cited as "The Equity in Social Media Access by Government Branches Act of 2025."</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose and Policy</heading>
+    <text>These provisions are enacted to promote transparency of communication by Tribe government to Kiowa citizens and to delineate the specific mechanics of operational access for all branches of same government to both present and future social media accounts created on behalf of the Kiowa Tribe in aggregate. It shall be the policy of the Tribe to permit persons to publish on Tribe social media platforms identified herein from each of the four branches of government established by the Kiowa Constitution: Kiowa Indian Council, Executive, Legislative, and Judicial. No provisions in <cite path="">this Act</cite> shall be construed to apply to preexisting social media accounts created on behalf of clearly identified individual Tribe Departments, Commissions, or Legislative Districts.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Primacy</heading>
+    <text>To the extent there is a conflict, <cite path="">this Act</cite> supersedes and replaces all prior and existing internal Executive Branch policies, regulations, or rules whether written, verbal, official, or informal.</text>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Definitions</heading>
+    <text><cite path="1.4">This section</cite> shall govern the definitions of the enumerated words and phrases used within this policy. All words not defined herein are applied consistent with standard and quotidian usage.</text>
+    <para>
+      <num>(a)</num>
+      <text>"social media account" shall mean any social networking page, blog, microblog, chat room, message board, discussion group, or platform that serves similar functions including, by way of example and without limitation, Facebook, TikTok, YouTube, Instagram, or X (formerly Twitter).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>"page," "profile," and "account" shall mean a web page accessible to the public or to guests that provides information about the entity which created same social media page, profile, or account.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>"Tribe social media account" shall mean a social media account created, maintained, and/or curated on behalf of the Tribe as a whole.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>"Media and Outreach Department" shall mean the Tribe Department identified by same designation in the Annual Budget for Fiscal Year 2024 – 2025 and under the umbrella of the Tribal Operations Division in organization charts published by the Executive Branch on July 1, 2024; November 1, 2024; and March 1, 2025.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>"Communications Director" shall mean the most senior position delineated within the scope of the Media &amp; Outreach Department in the Annual Budget of the Tribe approved by Kiowa voters for Fiscal Year 2024 – 2025.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Establishment of Regulatory Guidelines for Tribe Social Media Accounts</heading>
+    <text>Management of organizational access to a Tribe social media account shall be the responsibility of the Communications Director and the Media and Outreach Department of the Tribe. Tribe social media accounts already established on the effective date of <cite path="">this Act</cite> – including the Facebook page The Kiowa Tribe – shall be governed by <cite path="">this Act</cite> and its enumerated provisions. Within seven (7) calendar days of same effective date, the Communications Director shall:</text>
+    <para>
+      <num>(a)</num>
+      <text>Update access to The Kiowa Tribe Facebook Page identified as of September 11, 2025, as "The official page of the Kiowa Tribe" by: (i) granting Page access to the Chairman of the Tribe; Speaker of the Legislature and their selected designee; Chief Justice of the Kiowa Supreme Court and their selected designee; and the Kiowa Indian Council Coordinator and (ii) transmitting current passwords, as applicable, for the Page to the Chairman of the Tribe; Speaker of the Legislature and their selected designee; Chief Justice of the Kiowa Supreme Court and their selected designee; and the Kiowa Indian Council Coordinator.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Create and maintain a record of all Media and Outreach Department personnel with The Kiowa Tribe Facebook Page access and/or passwords.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Remove blocks of any present elected/appointed officials or citizens of the Tribe to The Kiowa Tribe Facebook Page.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Transmit to the Legislature and Executive Branch any and all records regarding monetization of The Kiowa Tribe Facebook Page including documentation of any payments rendered via the Page.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Remove existing Page access from any and all accounts belonging to persons who are simultaneously not citizens or employees of the Tribe.</text>
+      <text>Creation of any additional Tribe social media account shall fall within the scope of duties of the Communications Director. Within three (3) days of the creation of any such account, the Communications Director shall:</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Ensure publication and administrative access for the Chairman of the Tribe, Speaker of the Legislature and their designee; Chief Justice of the Kiowa Supreme Court and their designee; and Kiowa Indian Council Coordinator by (i) granting account access and/or (ii) transmitting to the enumerated parties all applicable passwords to the newly established accounts.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Create and maintain a record of all Media and Outreach Department personnel with account access and/or passwords.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>Ensure no monetization functions are implemented nor payments disbursed via the account.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.6</num>
+    <heading>Publication, Administrative, and Oversight Authorities</heading>
+    <text>Persons that may publish or take administrative action on a Tribe social media account include:</text>
+    <para>
+      <num>(a)</num>
+      <text>The Kiowa Communications Director and any Media and Outreach Department personnel invested with same authority by the Director;</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chairman of the Tribe;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Speaker of the Legislature or Interim Speaker, as applicable, or his designee;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Chief Justice of the Supreme Court, or his designee; and</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The Kiowa Indian Council Coordinator.</text>
+      <text>All persons invested with authority to publish or take administrative action on a Tribe social media account shall obey the terms of use and/or the terms of service stipulated by the hosting website providing same social media accounts. The Communications Director shall be responsible for ensuring that all content visible on a Tribe social media account that can be accessed through the social media account is compliant with the terms of use and/or terms of service of the hosting website, <cite path="">this Act</cite>, and any other applicable Tribal, state, or federal laws. Any non-compliant content shall be removed by the Communications Director as soon as it is identified on a Tribe social media account. The Communications Director and Chairman of the Tribe may publish compliant content submitted by Executive Directors or other Executive Branch personnel on Tribe social media accounts. Publication of compliant content from other respective branches of government shall be at the discretion of the Speaker of the Legislature and/or their designee, Chief Justice of the Supreme Court and/or their designee, and the Kiowa Indian Council Coordinator. The Communications Director shall be responsible for reviewing all comments posted to Tribe social media accounts. The Communications Director shall change the password and update access for all applicable Tribe social media accounts each time a person with individual authority is removed, resigns from, or becomes ineligible to discharge the duties of their respective position, or each time subordinate Media and Outreach Department personnel with password access cease to work for same Department. When a Communications Director  ceases to work for the Tribe, or changes positions such that administrating Tribe social media accounts is no longer reasonably related to his or her job requirements, the Media and Outreach Department staff member with successive seniority shall remove same Communications Director from Tribe social media accounts access and transmit updated passwords as applicable to the enumerated officials and employees with publication and administrative authority. Persons who are neither a Member nor an employee of the Tribe shall not have password access to any Tribe social media accounts.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.7</num>
+    <heading>Content of a Tribe Social Media Account and Prohibitions</heading>
+    <text>All content published to a Tribe social media account or that can be accessed through same social media account shall comply with the terms of use and/or terms of service of the hosting website, this policy, and, and any other applicable Tribal, state, or federal laws. The following content shall not be posted to a Tribe social media account:</text>
+    <para>
+      <num>(a)</num>
+      <text>Content that promotes personal gain or objectives, including, by way of example, campaigning activities, endorsements of political candidates, or the solicitation of business opportunities, customers, goods, or money for the personal advancement of any Tribe official.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Content that condones or includes drugs, illegal activity, illegal use of weapons, violence, slurs, obscenity, or nudity.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Content that is copyrighted, patented, or trademarked unless proper authorization to post same content has been documented.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Content that may be reasonably interpreted as an attack on individuals or groups of people on the basis of race, ethnicity, sex, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease.</text>
+      <text>Removal of any content that violates <cite path="">this Act</cite> shall be the responsibility of the Communications Director and any designated Media and Outreach Department personnel. In the instance of any such removal, the Communications Director or their Media and Outreach Department designee shall document the removed content via screenshot and a written record of the provision violated by same content. The Communications Director and Media and Outreach Department shall maintain a digital archive of such removals, documentation pertaining to any of which shall be provided to the Chairman, Legislature, Judicial Branch, or Office of the KIC Coordinator within forty-eight (48) hours of written request.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.8</num>
+    <heading>Comments and Prohibitions</heading>
+    <text>Tribe social media accounts shall permit public comments as functionally possible and permitted by the platform hosting any such account. No comment from a Member of the Tribe shall be removed merely on the basis of voicing criticism or negativity regarding the Tribe, any branch of Tribe government, or any elected or appointed Tribe official. No Member of the Tribe shall be blocked from publishing comment to a Tribe social media account in perpetuity. The Communications Director or designated personnel in the Media and Outreach Department shall remove comments including:</text>
+    <para>
+      <num>(a)</num>
+      <text>Foul language, vulgarity, slurs, or threats.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Comments that are, or appear to be, patently untrue following documented efforts to verify the veracity of the comment.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Comments that condone drugs, illegal activity, illegal use of weapons, violence, or harassment.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Comments that include visual obscenity.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Comments that may be reasonably interpreted as an attack or incitement against individuals or groups of people on the basis of race, ethnicity, sex, national origin, sexual orientation, gender, gender identity, religious affiliation, age, disability, or serious disease.</text>
+      <text>Accounts belonging to Members of the Tribe that repeatedly violate the enumerated prohibitions may be suspended from publishing comments to a Tribe social media account for a period of sixty (60) days provided the Media and Outreach Department has documented at least three (3) violations of these provisions; permission to comment shall be restored on the sixty-first (61st) day following suspension. Suspensions of same length may reoccur upon the documentation of three (3) discrete violations. Upon the documentation of nine (9) violations of these provisions and three (3) suspensions, the Media and Outreach Department may implement pre-approval reviews for violating parties. No anonymous comments shall be permitted to a Tribe social media account. Accounts clearly identified by alias that violate the provisions of <cite path="1.8">this section</cite> may be blocked from Tribe social media accounts.</text>
+      <text>If information is posted but not removed under <cite path="1.8">this section</cite>, and a person who is the subject of the posting believes it should be removed, then the person who is the subject of the posting may petition the Chairman for public correction based on one of the reasons set forth in <cite path="1.8">this Section</cite>.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.9</num>
+    <heading>Referrals to Law Enforcement</heading>
+    <text>The Tribe reserves the right to advise the Kiowa Police Department or any other law enforcement agency of suspected crime documented or referenced on a Tribe social media account. When a credible threat is issued on a Tribe social media account against a specific person, entity, or group of people, the Communications Director shall forward documentation of same threat to the Kiowa Police Department and any other law enforcement agency as applicable.</text>
+  </section>
+  <section>
+    <num>1.10</num>
+    <heading>Contingencies</heading>
+    <para>
+      <num>(a)</num>
+      <text>Should the Communications Director and/or the Media and Outreach Department fail to fulfill the mandates of <cite path="1.5">Section 1.5 </cite>of <cite path="">this Act</cite>, payroll and access to Tribe funds approved for operational costs of the Department in the Annual Budget shall suspend on the fifteenth (15th) day following the conclusion of the timetables established in same Section. The Department shall not be able to access Tribe monies appropriated via Budget or Budget Modification until Page access and passwords, as applicable, are transmitted to the designated officials from each branch of Tribe government.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Should a vacancy occur in the role of the Communications Director at any time following the enactment of these provisions, the duties assigned herein to same role shall be the responsibility of the other Media and Outreach Department employee(s) with the most seniority.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.11</num>
+    <heading>Effective Date</heading>
+    <text><cite path="">This Act</cite> shall be effective upon signature of the Chairman of the Kiowa Tribe or upon signature of the Speaker of the Kiowa Legislature following legislative override of a veto by the Chairman. All timetables established by enactment of this law shall commence with any such signature.</text>
+  </section>
 </document>

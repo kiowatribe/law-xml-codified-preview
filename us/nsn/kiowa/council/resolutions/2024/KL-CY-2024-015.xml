@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2024-015">
   <num>KL-CY-2024-015</num>
-  <heading>Kiowa Tribe Membership to the Inter-Tribal Buffalo Council (ITBC).</heading>
+  <heading>Kiowa Tribe Membership to the Inter-Tribal Buffalo Council (Itbc).</heading>
   <meta>
     <effective>2024-09-24</effective>
     <history>
@@ -113,37 +113,37 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Kyle Ataddlety</p>
               <p>District 1</p>
             </td>
-            <td data-text-align="center">X</td>
+            <td>X</td>
             <td proof="needed"/>
             <td proof="needed"/>
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Michael Primus</p>
               <p>District 2</p>
             </td>
-            <td data-text-align="center">X</td>
+            <td>X</td>
             <td proof="needed"/>
             <td proof="needed"/>
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Timothy Satepauhoodle</p>
               <p>District 3</p>
             </td>
-            <td data-text-align="center">X</td>
+            <td>X</td>
             <td proof="needed"/>
             <td proof="needed"/>
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>VACANT</p>
               <p>District 4</p>
             </td>
@@ -153,31 +153,31 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Tiya Rosario</p>
               <p>District 5</p>
             </td>
-            <td data-text-align="center">X</td>
+            <td>X</td>
             <td proof="needed"/>
             <td proof="needed"/>
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Ben Wolf</p>
               <p>District 6</p>
             </td>
-            <td data-text-align="center">X</td>
+            <td>X</td>
             <td proof="needed"/>
             <td proof="needed"/>
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Warren Queton</p>
               <p>District 7</p>
             </td>
-            <td data-text-align="center">X</td>
+            <td>X</td>
             <td proof="needed"/>
             <td proof="needed"/>
             <td proof="needed"/>
@@ -240,7 +240,7 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Kyle Ataddlety</p>
               <p>District 1</p>
             </td>
@@ -250,7 +250,7 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Michael Primus</p>
               <p>District 2</p>
             </td>
@@ -260,7 +260,7 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Timothy Satepauhoodle</p>
               <p>District 3</p>
             </td>
@@ -270,7 +270,7 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>VACANT</p>
               <p>District 4</p>
             </td>
@@ -280,7 +280,7 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Tiya Rosario</p>
               <p>District 5</p>
             </td>
@@ -290,7 +290,7 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Ben Wolf</p>
               <p>District 6</p>
             </td>
@@ -300,7 +300,7 @@
             <td proof="needed"/>
           </tr>
           <tr>
-            <td proof="needed" data-text-align="justify">
+            <td proof="needed">
               <p>Warren Queton</p>
               <p>District 7</p>
             </td>
