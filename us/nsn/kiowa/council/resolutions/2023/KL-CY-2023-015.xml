@@ -86,19 +86,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -106,74 +106,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -220,19 +220,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -240,74 +240,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>

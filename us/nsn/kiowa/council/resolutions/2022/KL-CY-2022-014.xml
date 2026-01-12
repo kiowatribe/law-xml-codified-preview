@@ -53,19 +53,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -73,74 +73,74 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
@@ -179,19 +179,19 @@
         <thead>
           <tr>
             <th>LEGISLATORS</th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>YES</p>
               <p>Hàu</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>NO</p>
               <p>Hàu:né</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSTAIN</p>
               <p>Háun á</p>
             </th>
-            <th proof="needed">
+            <th proof="needed" data-text-align="justify">
               <p>ABSENT</p>
               <p>Héñgyádàu</p>
             </th>
@@ -199,124 +199,126 @@
         </thead>
         <tbody>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Kyle Ataddlety</p>
               <p>District #1</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Michael Primus</p>
               <p>District #2</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Timothy Satepauhoodle</p>
               <p>District #3</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Alana Quetone</p>
               <p>District #4</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Anita Johnson</p>
               <p>District #5</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Ben Wolf</p>
               <p>District #6</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
           <tr>
-            <td proof="needed">
+            <td proof="needed" data-text-align="justify">
               <p>Warren Queton</p>
               <p>District #7</p>
             </td>
             <th>X</th>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td proof="needed" data-text-align="justify"/>
+            <td proof="needed" data-text-align="center"/>
+            <td proof="needed" data-text-align="justify"/>
           </tr>
         </tbody>
       </table>
     </text>
   </procedural-data>
-  <section>
-    <num>1.1</num>
-    <heading>Short Title</heading>
-    <text><cite path="">This enactment</cite> shall be known as the "Kiowa Casino Operations Authority Board Member Vacancy Act of 2022" (Act)".</text>
-  </section>
-  <section>
-    <num>1.2</num>
-    <heading>Purpose</heading>
-    <text>The purpose of <cite path="">this Act</cite> is to establish a fair and equitable process for interested and qualified members of the Tribe to be considered to serve as a Trustee on the KCOA Board.</text>
-  </section>
-  <section>
-    <num>1.3</num>
-    <heading>Findings</heading>
-    <para>
-      <num>(a)</num>
-      <text>The Tribe established the Kiowa Casino Operations Authority ("KCOA") to operate and manage the Tribe's casino businesses, which generate critical revenue for the operation of the Tribe and to provide services to the People; and,</text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>The KCOA's Sixth Amended and Restated Charter establishes a Board of Trustees ("Board") comprised of five (5) members designated as "Trustees", who serve four-year staggered terms of office, with each Trustee selected upon nomination by the Chairman and subject to confirmation by the Legislature; and,</text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <text>Former Chairman Matthew Komalty arbitrarily removed Trustees of the KCOA Board and failed to nominate qualified replacements for all vacant positions on the KCOA Board; and,</text>
-    </para>
-    <para>
-      <num>(d)</num>
-      <text>The Legislature has identified a need to establish a fair and impartial process for all interested and qualified members to be considered to serve as a Trustee on the KCOA Board.</text>
-    </para>
-  </section>
-  <section>
-    <num>1.4</num>
-    <heading>Nomination and Confirmation of KCOA Trustees</heading>
-    <text>The Legislature hereby established a qualification process for both the nomination and confirmation of Trustees of the KCOA Board as follows:</text>
-    <para>
-      <num>(a)</num>
-      <text>The Chairman shall issue an announcement that a vacancy or vacancies exist on the KCOA Board and shall invite interested persons to apply for a position of Trustee on the KCOA Board;</text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>The Chairman shall consider all qualified applications for Trustee of the KCOA Board and shall nominate a qualified candidate, per the Charter of the Kiowa Casino Operations Authority, in a timely manner, and shall transmit the nomination for confirmation by the Legislature;</text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <text>The Legislature shall consider a nominee for Trustee of the KCOA Board per the Charter of the KCOA, in a timely manner.</text>
-    </para>
-  </section>
+  <attachment id="law">
+    <section>
+      <num>1.1</num>
+      <heading>Short Title</heading>
+      <text><cite path="attachments|law">This enactment</cite> shall be known as the "Kiowa Casino Operations Authority Board Member Vacancy Act of 2022" (Act)".</text>
+    </section>
+    <section>
+      <num>1.2</num>
+      <heading>Purpose</heading>
+      <text>The purpose of <cite path="attachments|law">this Act</cite> is to establish a fair and equitable process for interested and qualified members of the Tribe to be considered to serve as a Trustee on the KCOA Board.</text>
+    </section>
+    <section>
+      <num>1.3</num>
+      <heading>Findings</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe established the Kiowa Casino Operations Authority ("KCOA") to operate and manage the Tribe's casino businesses, which generate critical revenue for the operation of the Tribe and to provide services to the People; and,</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The KCOA's Sixth Amended and Restated Charter establishes a Board of Trustees ("Board") comprised of five (5) members designated as "Trustees", who serve four-year staggered terms of office, with each Trustee selected upon nomination by the Chairman and subject to confirmation by the Legislature; and,</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Former Chairman Matthew Komalty arbitrarily removed Trustees of the KCOA Board and failed to nominate qualified replacements for all vacant positions on the KCOA Board; and,</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Legislature has identified a need to establish a fair and impartial process for all interested and qualified members to be considered to serve as a Trustee on the KCOA Board.</text>
+      </para>
+    </section>
+    <section>
+      <num>1.4</num>
+      <heading>Nomination and Confirmation of KCOA Trustees</heading>
+      <text>The Legislature hereby established a qualification process for both the nomination and confirmation of Trustees of the KCOA Board as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Chairman shall issue an announcement that a vacancy or vacancies exist on the KCOA Board and shall invite interested persons to apply for a position of Trustee on the KCOA Board;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Chairman shall consider all qualified applications for Trustee of the KCOA Board and shall nominate a qualified candidate, per the Charter of the Kiowa Casino Operations Authority, in a timely manner, and shall transmit the nomination for confirmation by the Legislature;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Legislature shall consider a nominee for Trustee of the KCOA Board per the Charter of the KCOA, in a timely manner.</text>
+      </para>
+    </section>
+  </attachment>
 </document>
