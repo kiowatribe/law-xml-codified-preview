@@ -15,16 +15,17 @@
     <history-start>2023-12-12</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="kiowatribe/law-xml" commit="f2992dca86462923e918f48d56097f418d3c6183"/>
+        <repository name="kiowatribe/law-xml" commit="bf3e0e3cde6fbccd8bb3124e91e0d7f0e6157b3f"/>
       </repositories>
-      <platform version="2.18.12" reproducible="false"/>
-      <build-date>2026-02-11</build-date>
-      <codified-date>2025-11-14</codified-date>
+      <platform version="2.18.16" reproducible="false"/>
+      <build-date>2026-03-04</build-date>
+      <codified-date>2026-02-28</codified-date>
     </build>
   </meta>
   <xi:include href="./us/nsn/kiowa/council/constitution/index.xml"/>
   <collection name="us/nsn/kiowa/council/resolutions">
     <heading>Legislative Resolutions/Bills</heading>
+    <xi:include href="./us/nsn/kiowa/council/resolutions/2026/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2025/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/kiowa/council/resolutions/2023/index.xml"/>
