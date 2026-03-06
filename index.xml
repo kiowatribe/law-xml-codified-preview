@@ -18,7 +18,7 @@
         <repository name="kiowatribe/law-xml" commit="bf3e0e3cde6fbccd8bb3124e91e0d7f0e6157b3f"/>
       </repositories>
       <platform version="2.18.16" reproducible="false"/>
-      <build-date>2026-03-04</build-date>
+      <build-date>2026-03-06</build-date>
       <codified-date>2026-02-28</codified-date>
     </build>
   </meta>
