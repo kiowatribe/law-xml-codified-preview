@@ -3,6 +3,7 @@
   <num>KL-CY-2025-026</num>
   <heading>The Nomination and Confirmation of Appointees Act of 2025</heading>
   <meta>
+    <effective>2025-11-14</effective>
     <history>
       <adopted>2025-10-11</adopted>
     </history>
@@ -323,7 +324,7 @@
       </para>
     </para>
     <para>
-      <num>(a)</num>
+      <num>(b)</num>
       <text>The Legislature has identified the imperative for legislative consultation and confirmation regarding appointments to three key positions within the Executive Branch that encompass service to and frequent engagement with Members of the Tribe. Each of the following positions shall be subject to legislative reconfirmation by the first working day of September in even-numbered calendar years, provided that such timeline shall not be construed to effect of diminish the authority of the Chairman and his subordinate Executive Branch chain of command to make determinations regarding removals and/or reassignments from same roles:</text>
       <para>
         <num>(1)</num>
@@ -440,4 +441,123 @@
     <heading>Effective Date</heading>
     <text><cite path="">This enactment</cite> shall become effective upon signature of the Chairman or upon veto override by the Legislature. The Chairman shall submit nominees for offices enumerated in <cite path="1.3|(b)">Section 1.3(b)</cite> of <cite path="">this Act</cite> within 45 calendar days of its effective date.</text>
   </section>
+  <container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="KIOWA TRIBE LEGISLATIVE ORDER KLO-CY-2025-038">
+    <heading>KIOWA TRIBE LEGISLATIVE ORDER KLO-CY-2025-038</heading>
+    <overrides>KL-CY-2025-026</overrides>
+    <text>SUBJECT:	To Override A Veto Issued by the Chairman of a Resolution/Bill KL-CY-2025-026 First Amendment to the Audit Authorization, Acceptance, and Responsibility Act.</text>
+    <recitals>
+      <recital>
+        <conjunction>WHEREAS,</conjunction>
+        <text><cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(c)</cite> and (d) of the Tribe's Constitution grants the Legislature the authority to override a Chairman's veto of a Bill or budget by passing a Legislative Order; and,</text>
+      </recital>
+      <recital>
+        <conjunction>WHEREAS,</conjunction>
+        <text> 	On October 11, 2025, the Legislature passed a Bill entitled, "The Nomination and Confirmation of Appointees Act of 2025."   (Resolution KL-CY-2025-026); and,</text>
+      </recital>
+      <recital>
+        <conjunction>WHEREAS,</conjunction>
+        <text> 	On October 30th, 2025, the Chairman of the Tribe vetoed Resolution KL-CY-2025-022 citing, "reasons for veto by Chairman (see attached statement)"; and,</text>
+      </recital>
+      <recital>
+        <conjunction>NOW THEREFORE IT BE RESOLVED,</conjunction>
+        <text> that the Legislature hereby overrides the Chairman's veto of Resolution KL-CY-2025-026 The Nomination and Confirmation of Appointees Act of 2025.</text>
+      </recital>
+    </recitals>
+    <procedural-data>
+      <text>
+        <b>C E R T I F I C A T I O N</b>
+      </text>
+      <text>The foregoing Legislative Override Order KLO-CY-2025-038 was duly voted and approved upon by the Legislature on November 14, 2025, at a Legislative Order Session XIX-(19) with a vote of (6) in favor and (0) opposed, (0) abstaining, and (1) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+      <text>Michael Primus</text>
+      <text>Speaker of the Legislature</text>
+      <text class="center">
+        <strong>LEGISLATIVE OVERRIDE ORDER - KLO-CY-2025-038</strong>
+      </text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>LEGISLATORS</th>
+              <th>YES</th>
+              <th>NO</th>
+              <th>ABSTAIN</th>
+              <th>ABSENT</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td proof="needed">
+                <p>Kyle Ataddlety</p>
+                <p>District 1</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Michael Primus</p>
+                <p>District 2</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Timothy Satepauhoodle</p>
+                <p>District 3</p>
+              </td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td>X</td>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Cole DeLaune</p>
+                <p>District 4</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Tiya Rosario</p>
+                <p>District 5</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Ben Wolf</p>
+                <p>District 6</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Warren Queton</p>
+                <p>District 7</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </procedural-data>
+  </container>
 </document>

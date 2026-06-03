@@ -3,7 +3,7 @@
   <num>KL-CY-2025-022</num>
   <heading>First Amendment to the Audit Authorization, Acceptance, and Responsibility Act</heading>
   <meta>
-    <effective>2025-10-21</effective>
+    <effective>2025-11-14</effective>
     <history>
       <adopted>2025-10-11</adopted>
     </history>
@@ -352,4 +352,123 @@
     <heading>Information</heading>
     <text>When the Legislature engages a financial professional to provide advice or other services, the information obtained by the professional shall be held in strict confidence.  The financial professional's only client in the matter will be the Legislature, and any and all documents, communications and information obtained shall be held in accordance with the accountant-client privilege.  Each legislator, legislative staff and legislative attorneys may access such information as needed.  Information obtained by the financial advisor may only be released to the members of the Tribe or to the public upon a majority vote of all Legislators (present or absent) to release the information (4 or more votes).</text>
   </section>
+  <container xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="KIOWA TRIBE LEGISLATIVE ORDER KLO-CY-2025-037">
+    <heading>KIOWA TRIBE LEGISLATIVE ORDER KLO-CY-2025-037</heading>
+    <overrides>KL-CY-2025-022</overrides>
+    <text>SUBJECT:	To Override A Veto Issued by the Chairman of a Resolution/Bill KL-CY-2025-022 First Amendment to the Audit Authorization, Acceptance, and Responsibility Act.</text>
+    <recitals>
+      <recital>
+        <conjunction>WHEREAS,</conjunction>
+        <text><cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(c)</cite> and (d) of the Tribe's Constitution grants the Legislature the authority to override a Chairman's veto of a Bill or budget by passing a Legislative Order; and,</text>
+      </recital>
+      <recital>
+        <conjunction>WHEREAS,</conjunction>
+        <text> 	On October 11, 2025, the Legislature passed a Bill entitled, "First Amendment to the Audit Authorization, Acceptance, and Responsibility Act."   (Resolution KL-CY-2025-022); and,</text>
+      </recital>
+      <recital>
+        <conjunction>WHEREAS,</conjunction>
+        <text> 	On October 30th, 2025, the Chairman of the Tribe vetoed Resolution KL-CY-2025-022 citing, "reasons for veto by Chairman (see attached statement)"; and,</text>
+      </recital>
+      <recital>
+        <conjunction>NOW THEREFORE IT BE RESOLVED,</conjunction>
+        <text>  that the Legislature hereby overrides the Chairman's veto of Resolution KL-CY-2025-022 First Amendment to the Audit Authorization, Acceptance, and Responsibility Act.</text>
+      </recital>
+    </recitals>
+    <procedural-data>
+      <text>
+        <b>C E R T I F I C A T I O N</b>
+      </text>
+      <text>The foregoing Legislative Override Order KLO-CY-2025-037 was duly voted and approved upon by the Legislature on November 14, 2025, at a Legislative Order Session XIX-(19) with a vote of (7) in favor and (0) opposed, (0) abstaining, and (0) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+      <text>Michael Primus</text>
+      <text>Speaker of the Legislature</text>
+      <text class="center">
+        <strong>LEGISLATIVE OVERRIDE ORDER - KLO-CY-2025-037</strong>
+      </text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>LEGISLATORS</th>
+              <th>YES</th>
+              <th>NO</th>
+              <th>ABSTAIN</th>
+              <th>ABSENT</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td proof="needed">
+                <p>Kyle Ataddlety</p>
+                <p>District 1</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Michael Primus</p>
+                <p>District 2</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Timothy Satepauhoodle</p>
+                <p>District 3</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Cole DeLaune</p>
+                <p>District 4</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Tiya Rosario</p>
+                <p>District 5</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Ben Wolf</p>
+                <p>District 6</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td proof="needed">
+                <p>Warren Queton</p>
+                <p>District 7</p>
+              </td>
+              <td>X</td>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </procedural-data>
+  </container>
 </document>

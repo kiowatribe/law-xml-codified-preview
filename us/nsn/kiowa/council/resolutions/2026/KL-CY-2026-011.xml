@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2026-011">
+  <num>KL-CY-2026-011</num>
+  <heading>Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027</heading>
+  <meta>
+    <effective>2026-03-30</effective>
+    <history>
+      <adopted>2026-03-26</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/KL-CY-2026-011.pdf">Kiowa Tribe Res. No. KL-CY-2026-011</citation>
+    </citations>
+  </meta>
+  <text>At a duly called session of the Legislature of the Kiowa Tribe held this 26th day of March, 2026, the following resolution and law were adopted:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> The Legislature is vested with the authority to pass an annual budget and budget modification for the Tribe pursuant to the Legislative process, and subject to approval by the voters, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> The Legislature shall have the power to consider any budget proposals presented to the Legislature by the Chairman.  The Legislature shall have the power to accept the budget proposal presented by the Chairman or develop its own budget proposals, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> The Legislature shall have the power to pass an annual budget and budget modifications pursuant to the Legislative process.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED</conjunction>
+      <text>: The Legislature hereby enacts the attached "Kiowa Tribe Annual Budget Appropriation  for Fiscal Year 2026-2027", subject to final approval by the voters.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution KL-CY-2026-011 was duly voted upon by the Legislature on March 26, 2026, at a Legislative Special Session II-(2), with a vote of (4) in favor and (0) opposed, (0) abstain, and (3) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Cole Kickingbird-DeLaune</strong>
+    </text>
+    <text>
+      <strong>Speaker (</strong>
+      <strong>
+        <em>Pro tem)</em>
+      </strong>
+      <strong>of the Legislature</strong>
+    </text>
+    <text>
+      <strong>LEGISLATURE - RESOLUTION NO. KL-CY-2026-011:</strong>
+    </text>
+    <text><strong>SPONSOR: </strong>Michael Primus, District #2 Legislator</text>
+    <text><strong>CO-SPONSOR(S): </strong>Kyle Ataddlety, D1; Timothy Satepauhoodle, D3; Cole Kickingbird-DeLaune, D4; Tiya Rosario, D5; Ben Wolf, D6; Warren Queton, D7.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Q. Primus II</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole Kickingbird-DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td>X</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. <strong>KL-CY-2026-011</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>____</strong> day of <strong>March</strong>, <strong>2026</strong>, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite> and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>
+      <strong>Cole Kickingbird-DeLaune</strong>
+    </text>
+    <text>
+      <strong>Speaker (</strong>
+      <strong>
+        <em>Pro tem)</em>
+      </strong>
+      <strong>of the Legislature</strong>
+    </text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this <strong>____</strong> day of <strong>_________</strong>, 2026.</text>
+    <text>
+      <strong>David B. Sullivan</strong>
+    </text>
+    <text>
+      <strong>Chairman of the Kiowa Tribe</strong>
+    </text>
+    <text>Presented by the Chairman to the Legislature on the_____ day of <strong>_______</strong>, 2026.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution Legislative Override Order KLO-CY-2026-00X was duly voted upon by the Legislature on _____, 2026, at a Legislative Order Session ( ) with a vote of ______ in favor and ______opposed, and _____ abstaining, and _____absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Cole Kickingbird-DeLaune</strong>
+    </text>
+    <text>
+      <strong>Speaker (</strong>
+      <strong>
+        <em>Pro tem)</em>
+      </strong>
+      <strong>of the Legislature</strong>
+    </text>
+    <text>Override Order KLO-CY-2026-00X</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Q. Primus II</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole Kickingbird-DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <section>
+    <num>1.1</num>
+    <heading>Short Title</heading>
+    <text><cite path="">This enactment</cite> shall be known as the "Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027".</text>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose</heading>
+    <text>The purpose of the Act is to approve a "Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027", for the Tribe, subject to final approval by the voters.</text>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Findings</heading>
+    <text>The Legislature hereby finds and declares that:</text>
+    <para>
+      <num>(a)</num>
+      <text>The Legislature is vested with the authority to pass an Annual Budget, and budget modifications, for the Tribe, subject to approval by the voters.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Kiowa Constitution, which requires an annual budget and any budget modifications, to be approved by the Legislature and Chairman, with final approval by the voters.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Legislature has identified the need to enact the "Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027" to include unidentified revenue and expenditures, including newly received funds and to address additional funding needs.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The Tribe shall operate on a fiscal year beginning July 1<sup>st</sup> and ending June 30<sup>th</sup>, <cite doc="Constitution of the Kiowa Tribe">Article 6, Section 6 (v)</cite> The Legislature shall have the power to raise revenue and appropriate funds for expenditure.  Every funding item in an annual budget must have been previously authorized by law.  No monies shall be drawn from the Treasury except by signature of the Chairman and except upon authorization and appropriation by law, (vi) if the Legislature fails to approve an annual budget within sixty days of presentment of a proposed annual budget by the Chairman to the Legislature by February 1<sup>st</sup>, then the annual budget presented by the Chairman shall be deemed approved for the purpose of placing such budget before the voters for approval or disapproval.  If a new annual budget is not approved by the beginning of the fiscal year, then the most recently approved budget shall remain in effect until a new budget is approved. (2026-2027)</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Approval of the Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027.</heading>
+    <text>The Legislature hereby approves the "Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027", subject to final approval by the voters as listed below.</text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <th>Beginning Cash Balance Restricted Trust Funds</th>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Investment Fund Casino Distribution</td>
+            <td>$     25,052,364.24</td>
+          </tr>
+          <tr>
+            <th>Revenue</th>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Oil and Gas Severance Tax</td>
+            <td>$           550,000.00</td>
+          </tr>
+          <tr>
+            <td>State Fuel Tax</td>
+            <td>$           260,440.00</td>
+          </tr>
+          <tr>
+            <td>Vehicle Tax</td>
+            <td>$           394,000.00</td>
+          </tr>
+          <tr>
+            <td>Casino Tax Revenue</td>
+            <td>$           150,000.00</td>
+          </tr>
+          <tr>
+            <td>Casino Operations</td>
+            <td>$     13,000,000.00</td>
+          </tr>
+          <tr>
+            <td>KGC Licensing and Vendor Fees</td>
+            <td>$           618,610.00</td>
+          </tr>
+          <tr>
+            <td>Casino Lease Revenue</td>
+            <td>$       1,200,000.00</td>
+          </tr>
+          <tr>
+            <td>Indirect Cost Recovery</td>
+            <td>$           750,000.00</td>
+          </tr>
+          <tr>
+            <td>LATCF</td>
+            <td>$           400,000.00</td>
+          </tr>
+          <tr>
+            <td>Transfer In - Opioid Settlement (Kiowa 7 Gen)</td>
+            <td>$           472,253.00</td>
+          </tr>
+          <tr>
+            <td>Transfer In - Busey</td>
+            <td>$           750,000.00</td>
+          </tr>
+          <tr>
+            <td>Transfer In - IT Infrastructure Costs</td>
+            <td>$           170,000.00</td>
+          </tr>
+          <tr>
+            <td>Transfer In - Trust Fund (Higher Ed Supplement)</td>
+            <td>$           105,000.00</td>
+          </tr>
+          <tr>
+            <td>Transfer In - Trust Fund (Burial)</td>
+            <td>$           108,044.00</td>
+          </tr>
+          <tr>
+            <td>Intratribal Transfer Start Up Costs (LE)</td>
+            <td>$           195,514.00</td>
+          </tr>
+          <tr>
+            <td>Interest Income</td>
+            <td>$           400,000.00</td>
+          </tr>
+          <tr>
+            <td>105L Lease Revenue</td>
+            <td>$                             -</td>
+          </tr>
+          <tr>
+            <td>Restricted Revenue:</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>KCOA Board Operating Budget</td>
+            <td>$           450,000.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Gaming Commission Regulatory Fee</td>
+            <td>$       1,200,000.00</td>
+          </tr>
+          <tr>
+            <td>U.S. Treasury - SSBCI Fund (KTLF Dev)</td>
+            <td>$           791,000.00</td>
+          </tr>
+          <tr>
+            <td>20% - Tribal Government Operations</td>
+            <td>$       1,768,568.00</td>
+          </tr>
+          <tr>
+            <td>Total Self Governance Program Revenue</td>
+            <td>$     14,177,953.00</td>
+          </tr>
+          <tr>
+            <td>Total Other Government Program Revenue</td>
+            <td>$     20,184,095.00</td>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>Total Operating Revenue</th>
+            <th>$     58,095,477.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>General Budget</th>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Executive Office</td>
+            <td>$       2,813,429.00</td>
+          </tr>
+          <tr>
+            <td>Economic Development (Kiowa Inc.)</td>
+            <td>$       1,000,000.00</td>
+          </tr>
+          <tr>
+            <td>Law Enforcement</td>
+            <td>$           376,756.00</td>
+          </tr>
+          <tr>
+            <td>Election Commission</td>
+            <td>$           319,790.00</td>
+          </tr>
+          <tr>
+            <td>Enrollment</td>
+            <td>$           207,740.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Historic Preservation</td>
+            <td>$           113,034.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Museum</td>
+            <td>$           134,086.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Language</td>
+            <td>$           300,930.00</td>
+          </tr>
+          <tr>
+            <td>Natural Resources</td>
+            <td>$           225,068.00</td>
+          </tr>
+          <tr>
+            <td>Social Services</td>
+            <td>$       2,022,253.00</td>
+          </tr>
+          <tr>
+            <td>Re-Entry Program</td>
+            <td>$           163,799.00</td>
+          </tr>
+          <tr>
+            <td>Veterans Assistance Program</td>
+            <td>$           128,463.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Tribe Youth Development Program</td>
+            <td>$           149,062.00</td>
+          </tr>
+          <tr>
+            <td>Tax Commission</td>
+            <td>$           414,503.00</td>
+          </tr>
+          <tr>
+            <td>Other:</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Tribal Member Services</td>
+            <td>$       1,515,000.00</td>
+          </tr>
+          <tr>
+            <td>Elder Payment</td>
+            <td>$       1,122,000.00</td>
+          </tr>
+          <tr>
+            <td>Administration on Aging Supplement (AOA)</td>
+            <td>$             70,000.00</td>
+          </tr>
+          <tr>
+            <td>Higher Education Supplement</td>
+            <td>$           391,000.00</td>
+          </tr>
+          <tr>
+            <th>Total Executive Branch:</th>
+            <th>$     11,466,913.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Legislative Branch</td>
+            <td>$       1,766,611.00</td>
+          </tr>
+          <tr>
+            <td>Judicial Branch</td>
+            <td>$           671,585.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Indian Council</td>
+            <td>$           117,965.00</td>
+          </tr>
+          <tr>
+            <th>Total:</th>
+            <th>$       2,556,161.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>Indirect Cost-Administration</th>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Administration Office/Tribal Operations</td>
+            <td>$           288,435.00</td>
+          </tr>
+          <tr>
+            <td>Finance Office</td>
+            <td>$       1,586,804.00</td>
+          </tr>
+          <tr>
+            <td>Human Resource Office</td>
+            <td>$           577,581.00</td>
+          </tr>
+          <tr>
+            <td>Procurement/Property Office</td>
+            <td>$           332,220.00</td>
+          </tr>
+          <tr>
+            <td>Contracts and Grants Office</td>
+            <td>$           397,841.00</td>
+          </tr>
+          <tr>
+            <td>Information Technology</td>
+            <td>$           976,083.00</td>
+          </tr>
+          <tr>
+            <td>Media &amp; Outreach</td>
+            <td>$           279,974.00</td>
+          </tr>
+          <tr>
+            <td>Security Office</td>
+            <td>$           431,423.00</td>
+          </tr>
+          <tr>
+            <td>Maintenance Office</td>
+            <td>$           798,426.00</td>
+          </tr>
+          <tr>
+            <th>Total IDC/Administration:</th>
+            <th>$       5,668,787.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>Total FY-2026-2027 Tribal Budget:</th>
+            <th>$     19,691,861.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>KCOA Board Operating Budget</th>
+            <th>$           282,000.00</th>
+          </tr>
+          <tr>
+            <th>Kiowa Gaming Commission Budget</th>
+            <th>$       1,200,000.00</th>
+          </tr>
+          <tr>
+            <th>U.S. Treasury - SSBCI Fund</th>
+            <th>$           791,000.00</th>
+          </tr>
+          <tr>
+            <th>20% - Tribal Government Operations</th>
+            <th>$       1,768,568.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>INDIAN SELF GOVERNANCE PROGRAMS:</th>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>2% Transportation Improvement Planning</td>
+            <td>$           285,178.00</td>
+          </tr>
+          <tr>
+            <td>Agriculture Management</td>
+            <td>$           420,000.00</td>
+          </tr>
+          <tr>
+            <td>EPA/Land Management</td>
+            <td>$           115,000.00</td>
+          </tr>
+          <tr>
+            <td>G2G</td>
+            <td>$       3,285,697.00</td>
+          </tr>
+          <tr>
+            <td>Higher Education</td>
+            <td>$       2,056,048.00</td>
+          </tr>
+          <tr>
+            <td>Indian Child Welfare (ICW)</td>
+            <td>$       2,090,308.00</td>
+          </tr>
+          <tr>
+            <td>Job Placement &amp; Training</td>
+            <td>$           741,832.00</td>
+          </tr>
+          <tr>
+            <td>Law Enforcement</td>
+            <td>$           633,012.00</td>
+          </tr>
+          <tr>
+            <td>Social Services/KEYS Program</td>
+            <td>$           480,999.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Community Resilince</td>
+            <td>$           150,000.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Court</td>
+            <td>$       1,100,000.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Groundwater Resource</td>
+            <td>$           200,000.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Transportation/Road Maintenance</td>
+            <td>$       2,500,000.00</td>
+          </tr>
+          <tr>
+            <td>Water Management</td>
+            <td>$             85,000.00</td>
+          </tr>
+          <tr>
+            <td>Wildland Fire Management</td>
+            <td>$             34,879.00</td>
+          </tr>
+          <tr>
+            <th>Total Self Governance Programs:</th>
+            <th>$     14,177,953.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>OTHER GOVERNMENT PROGRAMS:</th>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>AOA Title VI (A)</td>
+            <td>$           189,210.00</td>
+          </tr>
+          <tr>
+            <td>AOA Care Giver-Title VI</td>
+            <td>$             71,030.00</td>
+          </tr>
+          <tr>
+            <td>Administration on Aging KNSIP</td>
+            <td>$             10,780.00</td>
+          </tr>
+          <tr>
+            <td>Child Care Program</td>
+            <td>$       1,628,990.00</td>
+          </tr>
+          <tr>
+            <td>Community Health Representative-I.H.S.</td>
+            <td>$             86,070.00</td>
+          </tr>
+          <tr>
+            <td>Coordinated Tribal Assistance Solicitation</td>
+            <td>$           900,000.00</td>
+          </tr>
+          <tr>
+            <td>Family Preservation</td>
+            <td>$           116,899.00</td>
+          </tr>
+          <tr>
+            <td>Food Distribution</td>
+            <td>$           396,946.00</td>
+          </tr>
+          <tr>
+            <td>General Assistance Program-EPA</td>
+            <td>$           100,000.00</td>
+          </tr>
+          <tr>
+            <td>Head Start-Administration for Children &amp; Families</td>
+            <td>$       1,381,066.00</td>
+          </tr>
+          <tr>
+            <td>Housing Authority - KTHA</td>
+            <td>$       8,086,231.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Alcohol &amp; Drug Abuse Program-I.H.S.</td>
+            <td>$           280,561.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Teen Prevention Network</td>
+            <td>$           546,353.00</td>
+          </tr>
+          <tr>
+            <td>Kiowa Tribal Transit</td>
+            <td>$           232,856.00</td>
+          </tr>
+          <tr>
+            <td>LIHEAP</td>
+            <td>$             61,047.00</td>
+          </tr>
+          <tr>
+            <td>Local and Tribal Consistency Funds-Emer Asst.</td>
+            <td>$           400,000.00</td>
+          </tr>
+          <tr>
+            <td>Special Diabetes</td>
+            <td>$             90,000.00</td>
+          </tr>
+          <tr>
+            <td>Special Tribal Criminal Jurisdiction Program</td>
+            <td>$       1,495,000.00</td>
+          </tr>
+          <tr>
+            <td>Supplemental Youth Services</td>
+            <td>$           159,509.00</td>
+          </tr>
+          <tr>
+            <td>Title IV-B</td>
+            <td>$             56,916.00</td>
+          </tr>
+          <tr>
+            <td>Title IV-B (1)</td>
+            <td>$             85,032.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Employment Rights Office</td>
+            <td>$             96,900.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Justice System Strategic Planning</td>
+            <td>$           150,000.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Resources Grant Equipment/Training</td>
+            <td>$             51,388.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Resources Grant Hiring Program</td>
+            <td>$           519,197.00</td>
+          </tr>
+          <tr>
+            <td>Tribal Victim Services</td>
+            <td>$       2,700,000.00</td>
+          </tr>
+          <tr>
+            <td>Water Pollution Control Program</td>
+            <td>$             65,000.00</td>
+          </tr>
+          <tr>
+            <td>Workforce Innovation and Opportunity Act</td>
+            <td>$           227,114.00</td>
+          </tr>
+          <tr>
+            <th>Total Other Government Programs:</th>
+            <th>$     20,184,095.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <th>Grand Total Of Kiowa Tribe Annual Budget</th>
+            <th>$     58,095,477.00</th>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>KCA-ILUC</td>
+            <td>$           100,000.00</td>
+          </tr>
+          <tr>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Final Approval by the Voters</heading>
+    <text>Within thirty-days of approval of this budget by the Legislature and Chairman pursuant to the Legislative Process in <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8 </cite>of <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite>, The Election Commission shall call and conduct an election for the voters to decide whether to approve the Kiowa Tribe Annual Budget Appropriation for Fiscal Year 2026-2027.</text>
+  </section>
+</document>

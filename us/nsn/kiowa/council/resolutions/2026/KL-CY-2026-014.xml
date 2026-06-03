@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Kiowa Tribe Res. No. KL-CY-2026-014">
+  <num>KL-CY-2026-014</num>
+  <heading>2026 Amendment to the Kiowa Code</heading>
+  <meta>
+    <effective>2026-05-19</effective>
+    <history>
+      <adopted>2026-05-09</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/KL-CY-2026-014.pdf">Kiowa Tribe Res. No. KL-CY-2026-014</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Tribe is a sovereign nation and has been so since time immemorial; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Tribe exercises full enjoyment of the inherent powers of government, including self-determination and autonomy over internal affairs encompassing Tribe citizens, lands, and resources; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on April 17, 2017, qualified voters of the Tribe ratified the Kiowa Constitution as "the supreme law of the land"; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Kiowa Legislature is vested with the authority to pass laws and resolutions pursuant to <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 6(a)</cite> of same Constitution; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> on July 8, 2017, the Kiowa Criminal Code, Resolution No. KL-CY-2017-009, was enacted into Kiowa Law and later amended; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the preexisting Kiowa Criminal Code creates the position of Tribal Prosecutor but fails to provide details regarding the process for removing someone from the office of Tribal Prosecutor or under what circumstances an individual may be removed; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> since the Tribal Prosecutor may be called to conduct investigations and prosecutions of individuals of influence in the Kiowa Tribe, the Kiowa Legislature finds it necessary to provide protections for the Tribal Prosecutor from removal due to political motivations; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> the Legislature finds the need to codify additional clarifications in statute for optimization of Tribe Judicial Branch structure and operations.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE BE IT RESOLVED,</conjunction>
+      <text> the Kiowa Tribe Legislature, having been delegated certain authorities under the Kiowa Constitution, the governing body of the Kiowa Tribe, does hereby adopt the attached "2026 Amendment to the Kiowa Code".</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution KL-CY-2026-014 was duly voted upon by the Legislature on May 09, 2026, at a Legislative Regular Session CIX-(109), with a vote of (5) in favor and (0) opposed, (0) abstain, and (2) absent, pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Michael Q. Primus II</strong>
+    </text>
+    <text>
+      <strong>Speaker of the Legislature</strong>
+    </text>
+    <text>
+      <strong>LEGISLATURE - RESOLUTION NO. KL-CY-2026-014:</strong>
+    </text>
+    <text><strong>SPONSOR: </strong>Cole Kickingbird-DeLaune, District 4</text>
+    <text>
+      <strong>CO-SPONSOR(S):</strong>
+    </text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed" colspan="2">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed" colspan="2"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Q. Primus II</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td colspan="2">X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed" colspan="2"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole Kickingbird-DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed" colspan="2"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td colspan="2">X</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed" colspan="2"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td>X</td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed" colspan="2"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <b>DELIVERY OF THE RESOLUTION AND LAW TO THE CHAIRMAN</b>
+    </text>
+    <text>Resolution No. <strong>KL-CY-2026-014</strong> was presented to the Chairman of the Kiowa Tribe on the <strong>___ </strong> day of <strong>May 15</strong>, <strong>2026</strong>, pursuant to the <cite doc="Constitution of the Kiowa Tribe">Article VI, Section 8(a)(iv) of the Constitution of the Kiowa Tribe</cite> and will become effective after signature by the Chairman or veto override by the Legislature, and as otherwise required by the Constitution.</text>
+    <text>
+      <strong>Michael Q. Primus II</strong>
+    </text>
+    <text>
+      <strong>Speaker of the Legislature</strong>
+    </text>
+    <text>
+      <strong>CHAIRMAN'S ACTION:</strong>
+    </text>
+    <text>[    ] 	APPROVED</text>
+    <text>[    ]	VETO - RETURNED TO LEGISLATURE WITH EXPLANATION:</text>
+    <text>On this <strong>____</strong> day of <strong>_________</strong>, 2026.</text>
+    <text>
+      <strong>David B. Sullivan</strong>
+    </text>
+    <text>
+      <strong>Chairman of the Kiowa Tribe</strong>
+    </text>
+    <text>Presented by the Chairman to the Legislature on the_____ day of <strong>_______</strong>, 2026.</text>
+    <text>
+      <b>LEGISLATURE'S ACTION:</b>
+    </text>
+    <text>
+      <strong>Override of Chairman's veto:</strong>
+    </text>
+    <text>[    ] 	YES</text>
+    <text>[    ]	NO</text>
+    <text>
+      <b>C E R T I F I C A T I O N</b>
+    </text>
+    <text>The foregoing resolution Legislative Override Order KLO-CY-2026-00X was duly voted upon by the Legislature on _____, 2026, at a Legislative Order Session ( ) with a vote of ______ in favor and ______opposed, and _____ abstaining, and _____absent.  Pursuant to the authority vested in the Legislature by <cite doc="Constitution of the Kiowa Tribe">the Constitution of the Kiowa Tribe</cite>.</text>
+    <text>
+      <strong>Michael Q. Primus II</strong>
+    </text>
+    <text>
+      <strong>Speaker of the Legislature</strong>
+    </text>
+    <text>Override Order KLO-CY-2026-00X</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>LEGISLATORS</th>
+            <th proof="needed">
+              <p>YES</p>
+              <p>Hàu</p>
+            </th>
+            <th proof="needed">
+              <p>NO</p>
+              <p>Hàu:né</p>
+            </th>
+            <th proof="needed">
+              <p>ABSTAIN</p>
+              <p>Háun á</p>
+            </th>
+            <th proof="needed">
+              <p>ABSENT</p>
+              <p>Héñgyádàu</p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td proof="needed">
+              <p>Kyle Ataddlety</p>
+              <p>District 1</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Michael Q. Primus II</p>
+              <p>District 2</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Timothy Satepauhoodle</p>
+              <p>District 3</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Cole Kickingbird-DeLaune</p>
+              <p>District 4</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Tiya Rosario</p>
+              <p>District 5</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Ben Wolf</p>
+              <p>District 6</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>Warren Queton</p>
+              <p>District 7</p>
+            </td>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+            <td proof="needed"/>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </procedural-data>
+  <section>
+    <num>1</num>
+    <heading>Short Title.	</heading>
+    <text>This enactment shall be known as, the "2026 AMENDMENT TO THE KIOWA CODE."</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Amendatory.</heading>
+    <text>Section 1.1.2 of the Kiowa Code shall be amended to read as follows:</text>
+    <include>
+      <section>
+        <num>1.1.2</num>
+        <heading>JUDICIAL COMMISSION.</heading>
+        <para>
+          <num>(a)</num>
+          <text>There shall be a Judicial Commission comprised of five (5) enrolled Members of the Tribe nominated by the Chairman, subject to confirmation by the Legislature. No person convicted of a felony may serve as a Judicial Commissioner. Members of the Judicial Commission shall serve four-year staggered terms, which are established as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>Commissioner</th>
+                  <th>Name</th>
+                  <th>Date term ends</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Ange Hamilton</td>
+                  <td>9/1/2026</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Marilyn Bread</td>
+                  <td>9/1/2026</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Modina Waters</td>
+                  <td>9/1/2026</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>Vacant</td>
+                  <td>9/1/2028</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Vacant</td>
+                  <td>9/1/2028</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Judicial Commission shall adopt a Code of Ethics for the Judges and Justices, which shall comply with and be no more stringent than the 2017 Model Code of Judicial Conduct.  Any provision of a Code of Ethics approved by the Judicial Commission that conflicts with or exceeds the requirements of the 2017 Model Code of Judicial Conduct shall be null and void.  Any Code of Ethics approved by the Judicial Commission shall not include a prohibition on a Judge or Justice from practicing law or engaging in employment outside of their engagement as a Judge or Justice of the Courts.  The Judicial Commission shall adopt a Code of Ethics for attorneys and lay advocates based on the American Bar Association Model Rules of Professional Conduct. The Judicial Commission shall hear any complaints regarding Justices, Judges, attorneys, and lay advocates. The Judicial Commission shall have the power to make recommendations to the Chief Justice to discipline a Justice, Senior Associate Judge, Judge, or Pro-Tem Judge. The Judicial Commission shall have the power to make recommendations to the Chief Justice or Chief Judge to discipline or remove a Court clerk or other court staff. The Judicial Commission shall have the power to make recommendations to the Legislature to remove a Judge or Justice. The Judicial Commission shall provide each person subject to discipline or removal with due process.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Judicial Commission shall have the power to regulate the conduct of lawyers and lay advocates licensed to practice in the Courts. A denial or revocation of a license to practice in the Courts issued by the Chief Judge may be appealed to the Judicial Commission, provided that any decision by the Judicial Commission regarding such license may be appealed to the Chief Justice who shall make a final decision in writing.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All decisions of the Judicial Commission shall be recorded and shall require an affirmative vote of a majority of the Judicial Commission (three Commissioners) as a body to be considered approved by the Judicial Commission.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Judicial Commission shall not impose any additional requirements to serve as a Judge or Justice of the Courts other than the minimum qualifications established in <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> under <cite doc="Constitution of the Kiowa Tribe">Article VIII, Section 4</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Chairman of the Tribe may initiate the removal of a Judicial Commissioner for cause subject to an affirmative vote for removal by no less than four (4) legislators.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Amendatory.</heading>
+    <text>Chapter 2 of the Kiowa Code shall be amended to add the following provision:</text>
+    <include>
+      <section>
+        <num>1.2.9</num>
+        <heading>Authorization to Administer Appropriated Funds.</heading>
+        <text>The Chief Justice of the Supreme Court shall have the authority to administer the funds appropriated for the Judicial Branch, including the funds for the Judicial Commission, in accordance with the Fiscal Procedures Act; Provided, that the Chief Justice may delegate the such authority to the Chief Judge of the Trial Court.  The Chief Justice, or the Chief Judge, may transfer up to fifty percent of funds appropriated to the Judicial Branch of government between budget line items included in an approved Annual Budget or Budget Modification for the Judicial branch.</text>
+      </section>
+      <text class="center">***</text>
+      <section>
+        <num>1.6.2</num>
+        <heading>AUTHORITY OF PROSECUTOR APPOINTED BY TRIBE.</heading>
+        <text>In any and all criminal proceedings in any and all Courts, the Chairman Kiowa Tribe shall, subject to confirmation by the Legislature, appoint a person to act as prosecutor for a term of 6 years who shall have power and authority to sign, file, and present any and all complaints, subpoenas, affidavits, motions, processes, and papers of any kind and to appear before all Courts, Commissions, or Tribunals in criminal proceedings.  The term of the Prosecutor now serving the Tribe is confirmed by this law, and commenced on June 5, 2025.  The Prosecutor may only be removed by the Chairman for cause subject to an affirmative vote for removal by no less than four (4) legislators.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>New Law.</heading>
+    <text>A new Section 1.1.3 is added to the Kiowa Code to read as follows:</text>
+    <include>
+      <section>
+        <num>1.1.3.</num>
+        <heading>Annual Meeting.</heading>
+        <text>An annual meeting of the Judicial Commission, all the Judges of the Trial Court and Justices of the Supreme Court, the Chairman, and the Legislature shall be called and conducted by the Chairman for the Judicial Commission to report on its activities for the past year, to outline any planned activities for the coming year, and to present any proposed codes or rules.  Any Code of Ethics approved by the Judicial Commission or regulations promulgated by the Judicial Commission to regulate the conduct of lawyers and advocates shall be presented to Chief Justice for publication.</text>
+      </section>
+    </include>
+    <text><strong><u>Effective Date</u></strong><strong>.</strong><cite path="">This enactment</cite> shall be deemed effective as of the date that it is approved by the Legislature and (a) signed into law by the Chairman or (b) the expiration of the period of ten (10) calendar days allotted by <cite doc="Constitution of the Kiowa Tribe">the Constitution</cite> to the Chairman for consideration following presentment of an enactment or (c) a veto override is duly approved and signed by the Speaker of the Legislature or Speaker pro tempore.</text>
+  </section>
+</document>

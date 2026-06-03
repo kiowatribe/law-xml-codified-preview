@@ -275,115 +275,121 @@
       </table>
     </text>
   </procedural-data>
-  <section>
-    <num>1.1</num>
-    <heading>Short Title</heading>
-    <text><cite path="">This enactment</cite> shall be known as the "FIRST AMENDMENT TO THE NEPOTISM PREVENTION ACT OF 2018."</text>
-  </section>
-  <section>
-    <num>1.2</num>
-    <heading>Purpose</heading>
-    <text>These amendments are enacted to bolster the existing provisions and aims of the NEPOTISM PREVENTION ACT of 2018 with clarifying language as well as to address the absence of anti-fraternization measures within Tribe code.</text>
-  </section>
-  <section>
-    <num>1.3</num>
-    <heading>Findings</heading>
-    <text><cite path="1.3">Section 1.3 </cite>shall be amended as follows:</text>
-    <para>
-      <num>(a)</num>
-      <text>The Legislature has enacted a law to create a system that provides for the fair and unbiased evaluation of candidates with respect to employment opportunities in the Tribe.</text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>The Legislature has determined that it is in the best interests of the Tribe to further define terms incorporated into existing statute.</text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <text>Historically, the Legislature has received complaints about Directors and other Hiring Authorities with the Tribe staffing, onboarding and/or supervising Close Relatives, thereby creating the appearance of impropriety <em>as well as raising concerns regarding</em> the integrity and impartiality of personnel protocols.</text>
-    </para>
-    <para>
-      <num>(d)</num>
-      <text>The Legislature <em>recognizes the imperative for </em>a system that provides for the fair and unbiased evaluation of candidates for employment opportunities in the Tribe.</text>
-    </para>
-  </section>
-  <section>
-    <num>1.4</num>
-    <heading>Definitions</heading>
-    <text><cite path="1.4">Section 1.4 </cite>shall be amended as follows:</text>
-    <para>
-      <num>(a)</num>
-      <text>"Close Relative" shall mean any of the following:</text>
-      <para>
-        <num>1.</num>
-        <text>A family relative in the first degree, including mothers/fathers, brothers/sisters, sons/daughters, husbands/wives, aunts/uncles, nephews/nieces, or first cousins.</text>
-      </para>
-      <para>
-        <num>2.</num>
-        <text>Mothers-, fathers-, daughters-, sons-, brothers-, and sisters-in-law.</text>
-      </para>
-      <para>
-        <num>3.</num>
-        <text>Stepchildren and stepparents affiliated via legal or common law marriage, or by virtue of formal domestic partnership.</text>
-      </para>
-      <para>
-        <num>4.</num>
-        <text>Family relatives of direct lineal ascendency or descendancy in the second degree.</text>
-      </para>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>"Hiring Authority" shall mean any person or persons, <em>including all elected officials</em>, <em>with the formally recognized</em> authority to make a hiring decision <em>for a role under their respective immediate and direct supervision.</em></text>
-    </para>
-  </section>
-  <section>
-    <num>1.5</num>
-    <heading>Hiring</heading>
-    <text><cite path="1.5">Section 1.5 </cite>shall be amended as follows:</text>
-    <para>
-      <num>(a)</num>
-      <text>. 	Upon review of the candidates applying for a job with the Tribe, the Hiring Authority shall not make any decision to hire a Close Relative.</text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>. 	For all new openings and applicable hires after the reaffirmation of <cite path="">this Act</cite>, the Hiring Authority shall not consider any Close Relative <em>as a</em> candidate for employment <em>under their direct and immediate supervision</em>.</text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <text>. 	<em>Hiring Authorities vested with supervisory purview over multiple personnel within a single Tribe Department shall recuse themselves from hiring decisions for Department roles not under their immediate supervision if a Close Relative is a candidate for any of same roles.</em></text>
-    </para>
-  </section>
-  <section>
-    <num>1.6</num>
-    <heading>Supervision and Management of an Existing Employee who is a Close Relative</heading>
-    <text><cite path="1.6">Section 1.6 </cite>shall be amended as follows:</text>
-    <para>
-      <num>(a)</num>
-      <text>No Executive Branch official or employee of the Tribe shall directly manage or supervise a Close Relative.  <em>Nor shall officials or employees of the Legislative or Judicial Branches directly manage or supervise a Close Relative.</em></text>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>Upon the <em>reaffirmation</em> of <cite path="">this Act</cite>, any employee who is serving as a manger or supervisor of a Close Relative shall notify the Chairman, Tribe Executive Director, and Human Resources in writing; same parties shall take steps to reorganize the line of authority between the manager or supervisor and the employee to eliminate any direct management or supervision of a Close Relative, notwithstanding any law or policy to the contrary.</text>
-    </para>
-  </section>
-  <section>
-    <num>1.7</num>
-    <heading>Other Prohibitions</heading>
-    <text><cite path="1.7">Section 1.7 </cite>shall be added by amendment as follows:</text>
-    <para>
-      <num>(c)</num>
-      <text>No Hiring Authority shall make a decision to hire a candidate for employment under their direct and immediate supervision with whom they are engaged in sexual conduct and/or a romantic relationship.</text>
-    </para>
-    <para>
-      <num>(d)</num>
-      <text>Hiring Authorities vested with supervisory purview over multiple personnel within a single Tribe Department shall recuse themselves from hiring decisions for Department roles not under their immediate supervision if any person or persons with whom they are engaged in sexual and/or romantic conduct are candidates for any such roles.</text>
-    </para>
-    <para>
-      <num>(e)</num>
-      <text>Neither elected/appointed officials nor employees of the Executive, Legislative, or Judicial Branches shall directly manage or supervise a person or persons with whom they are engaged in sexual and/or romantic conduct.</text>
-    </para>
-    <para>
-      <num>(f)</num>
-      <text>Engagement in any sexual contact with a subordinate under their respective direct management or supervision by any official or employee of the Executive, Legislative, and/or Judicial Branches shall be prohibited by <cite path="">this statute</cite>.</text>
-    </para>
-  </section>
+  <attachments>
+    <attachment id="law">
+      <section>
+        <num>1.1</num>
+        <heading>Short Title</heading>
+        <text><cite path="attachments|law">This enactment</cite> shall be known as the "FIRST AMENDMENT TO THE NEPOTISM PREVENTION ACT OF 2018."</text>
+      </section>
+      <section>
+        <num>1.2</num>
+        <heading>Purpose</heading>
+        <text>These amendments are enacted to bolster the existing provisions and aims of the NEPOTISM PREVENTION ACT of 2018 with clarifying language as well as to address the absence of anti-fraternization measures within Tribe code.</text>
+      </section>
+      <section>
+        <num>1.3</num>
+        <heading>Findings</heading>
+        <text><cite path="§1.3">Section 1.3 </cite>shall be amended as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Legislature has enacted a law to create a system that provides for the fair and unbiased evaluation of candidates with respect to employment opportunities in the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Legislature has determined that it is in the best interests of the Tribe to further define terms incorporated into existing statute.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Historically, the Legislature has received complaints about Directors and other Hiring Authorities with the Tribe staffing, onboarding and/or supervising Close Relatives, thereby creating the appearance of impropriety <em>as well as raising concerns regarding</em> the integrity and impartiality of personnel protocols.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Legislature <em>recognizes the imperative for </em>a system that provides for the fair and unbiased evaluation of candidates for employment opportunities in the Tribe.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.4</num>
+        <heading>Definitions</heading>
+        <text><cite path="§1.4">Section 1.4 </cite>shall be amended as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Close Relative" shall mean any of the following:</text>
+          <para>
+            <num>1.</num>
+            <text>A family relative in the first degree, including mothers/fathers, brothers/sisters, sons/daughters, husbands/wives, aunts/uncles, nephews/nieces, or first cousins.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Mothers-, fathers-, daughters-, sons-, brothers-, and sisters-in-law.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Stepchildren and stepparents affiliated via legal or common law marriage, or by virtue of formal domestic partnership.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Family relatives of direct lineal ascendency or descendancy in the second degree.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Hiring Authority" shall mean any person or persons, <em>including all elected officials</em>, <em>with the formally recognized</em> authority to make a hiring decision <em>for a role under their respective immediate and direct supervision.</em></text>
+        </para>
+      </section>
+      <section>
+        <num>1.5</num>
+        <heading>Hiring</heading>
+        <text><cite path="§1.5">Section 1.5 </cite>shall be amended as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Upon review of the candidates applying for a job with the Tribe, the Hiring Authority shall not make any decision to hire a Close Relative.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For all new openings and applicable hires after the reaffirmation of <cite path="attachments|law">this Act</cite>, the Hiring Authority shall not consider any Close Relative <em>as a</em> candidate for employment <em>under their direct and immediate supervision</em>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>
+            <em>Hiring Authorities vested with supervisory purview over multiple personnel within a single Tribe Department shall recuse themselves from hiring decisions for Department roles not under their immediate supervision if a Close Relative is a candidate for any of same roles.</em>
+          </text>
+        </para>
+      </section>
+      <section>
+        <num>1.6</num>
+        <heading>Supervision and Management of an Existing Employee who is a Close Relative</heading>
+        <text><cite path="§1.6">Section 1.6 </cite>shall be amended as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>No Executive Branch official or employee of the Tribe shall directly manage or supervise a Close Relative.  <em>Nor shall officials or employees of the Legislative or Judicial Branches directly manage or supervise a Close Relative.</em></text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon the <em>reaffirmation</em> of <cite path="attachments|law">this Act</cite>, any employee who is serving as a manger or supervisor of a Close Relative shall notify the Chairman, Tribe Executive Director, and Human Resources in writing; same parties shall take steps to reorganize the line of authority between the manager or supervisor and the employee to eliminate any direct management or supervision of a Close Relative, notwithstanding any law or policy to the contrary.</text>
+        </para>
+      </section>
+      <section>
+        <num>1.7</num>
+        <heading>Other Prohibitions</heading>
+        <text><cite path="§1.7">Section 1.7 </cite>shall be added by amendment as follows:</text>
+        <para>
+          <num>(c)</num>
+          <text>No Hiring Authority shall make a decision to hire a candidate for employment under their direct and immediate supervision with whom they are engaged in sexual conduct and/or a romantic relationship.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Hiring Authorities vested with supervisory purview over multiple personnel within a single Tribe Department shall recuse themselves from hiring decisions for Department roles not under their immediate supervision if any person or persons with whom they are engaged in sexual and/or romantic conduct are candidates for any such roles.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Neither elected/appointed officials nor employees of the Executive, Legislative, or Judicial Branches shall directly manage or supervise a person or persons with whom they are engaged in sexual and/or romantic conduct.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Engagement in any sexual contact with a subordinate under their respective direct management or supervision by any official or employee of the Executive, Legislative, and/or Judicial Branches shall be prohibited by <cite path="attachments|law">this statute</cite>.</text>
+        </para>
+      </section>
+    </attachment>
+  </attachments>
 </document>
